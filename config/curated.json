@@ -1,0 +1,96 @@
+{
+  "$comment": "Hand-verified records. Every entry must cite a public source. The crawler adds auto-detected deals and events on top of these and labels them as such.",
+  "deals": [
+    {
+      "company": "Simile", "org": "simile", "round": "Series B", "amountUsd": 200000000, "amountText": "$200M", "valuationText": "$2B valuation",
+      "lead": ["Greenoaks"], "participants": ["Index Ventures", "Hanabi", "Bain Capital Ventures", "A*", "Factory", "Definition", "CVS Health Ventures"],
+      "date": "2026-07-30", "datePrecision": "day",
+      "source": { "name": "Dealroom", "url": "https://dealroom.co/news/142224-simile-raises-200m-series-b-at-2b-valuation-to-survey-ai-twins-of-consum/" },
+      "extraSources": [{ "name": "PYMNTS", "url": "https://www.pymnts.com/news/artificial-intelligence/2026/simile-raises-200-million-dollars-ai-digital-twin-service/" }]
+    },
+    {
+      "company": "Simile", "org": "simile", "round": "Series A", "amountUsd": 100000000, "amountText": "$100M",
+      "lead": ["Index Ventures"], "participants": [],
+      "date": "2026-02-12", "datePrecision": "day",
+      "source": { "name": "SiliconANGLE", "url": "https://siliconangle.com/2026/02/12/ai-digital-twin-startup-simile-raises-100m-funding/" }
+    },
+    {
+      "company": "Electric Twin", "org": "electric-twin", "round": "Seed", "amountUsd": 14000000, "amountText": "$14M (£10M)",
+      "lead": [], "participants": ["Atomico"],
+      "date": "2026-02-12", "datePrecision": "day",
+      "source": { "name": "Tech.eu", "url": "https://tech.eu/2026/02/12/electric-twin-expands-ai-audience-platform-with-14m-round/" },
+      "extraSources": [{ "name": "Atomico", "url": "https://atomico.com/insights/our-investment-in-electric-twin-unlocking-the-power-of-synthetic-audiences" }]
+    },
+    {
+      "company": "Listen Labs", "org": "listen-labs", "round": "Series B", "amountUsd": 69000000, "amountText": "$69M", "valuationText": "$500M valuation",
+      "lead": ["Ribbit Capital"], "participants": ["Evantic", "Sequoia Capital", "Conviction", "Pear VC"],
+      "date": "2026-01-15", "datePrecision": "month",
+      "source": { "name": "Techleap", "url": "https://finder.techleap.nl/news/feed/listen-labs-raises-69m-to-scale-ai-powered-customer-research-globally" },
+      "note": "Adjacent: AI-moderated interviews, with simulated customers on the roadmap."
+    },
+    {
+      "company": "Aaru", "org": "aaru", "round": "Series A", "amountUsd": null, "amountText": "Undisclosed (reported >$50M)", "valuationText": "$1B headline valuation",
+      "lead": ["Redpoint Ventures"], "participants": [],
+      "date": "2025-12-05", "datePrecision": "day",
+      "source": { "name": "TechCrunch", "url": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation" }
+    },
+    {
+      "company": "Artificial Societies", "org": "artificial-societies", "round": "Seed", "amountUsd": 5350000, "amountText": "$5.35M (€4.5M, pre-seed + seed)",
+      "lead": ["Point72 Ventures"], "participants": ["Y Combinator", "Kindred Capital"],
+      "date": "2025-07-30", "datePrecision": "day",
+      "source": { "name": "SiliconANGLE", "url": "https://siliconangle.com/2025/07/30/ai-startup-artificial-societies-simulates-behavior-target-audiences-speed-market-research/" },
+      "extraSources": [{ "name": "EU-Startups", "url": "https://www.eu-startups.com/2025/08/british-ai-startup-artificial-societies-raises-e4-5-million-to-simulate-human-behaviour-at-scale/" }]
+    },
+    {
+      "company": "MiroFish", "org": "mirofish", "round": "Incubation", "amountUsd": 4100000, "amountText": "¥30M (~$4.1M)",
+      "lead": ["Shanda Group"], "participants": [],
+      "date": "2026-03-15", "datePrecision": "month",
+      "source": { "name": "36Kr", "url": "https://eu.36kr.com/en/p/3720728841763465" }
+    }
+  ],
+  "events": [
+    {
+      "name": "Workshop on Agent Behavior @ COLM 2026", "kind": "workshop",
+      "start": "2026-10-09", "end": "2026-10-09", "location": "San Francisco, USA", "format": "in-person",
+      "url": "https://www.aiagentbehavior.com",
+      "description": "First workshop on behavioral evaluation, behavior generation and behavior foundation models for AI agents.",
+      "source": { "name": "ACL portal", "url": "https://www.aclweb.org/portal/content/agent-behavior-workshop-colm-2026" }
+    },
+    {
+      "name": "COLM 2026 — Conference on Language Modeling", "kind": "conference",
+      "start": "2026-10-06", "end": "2026-10-09", "location": "San Francisco, USA", "format": "in-person",
+      "url": "https://colmweb.org",
+      "description": "Hosts the first Workshop on Agent Behavior.",
+      "source": { "name": "ACL portal", "url": "https://www.aclweb.org/portal/content/agent-behavior-workshop-colm-2026" }
+    },
+    {
+      "name": "REALM — Workshop for Research on Agent Language Models @ EMNLP 2026", "kind": "workshop",
+      "start": "2026-10-29", "end": "2026-10-29", "location": "Budapest, Hungary", "format": "hybrid",
+      "url": "https://groups.google.com/g/ml-news/c/ADj0PWME_Z4",
+      "description": "Human–agent and agent–agent interaction, including how LLM agents behave with people and each other.",
+      "source": { "name": "ML-news CfP", "url": "https://groups.google.com/g/ml-news/c/ADj0PWME_Z4" }
+    },
+    {
+      "name": "EMNLP 2026", "kind": "conference",
+      "start": "2026-10-24", "end": "2026-10-29", "location": "Budapest, Hungary", "format": "hybrid",
+      "url": "https://2026.emnlp.org",
+      "description": "Hosts the REALM workshop on agent language models.",
+      "source": { "name": "ACL portal", "url": "https://www.aclweb.org/portal/content/joint-call-tutorial-proposals-emnlpaacl-ijcnlp-2026" }
+    },
+    {
+      "name": "SocialAgent — Workshop on LLMs for Social Reasoning and Simulation @ NeurIPS 2026", "kind": "workshop",
+      "start": "2026-12-06", "end": "2026-12-13", "datePrecision": "month", "location": "NeurIPS 2026 (Sydney · Atlanta · Paris)", "format": "in-person",
+      "url": "https://neurips.cc/virtual/2026/workshop/137570",
+      "description": "Modeling, evaluating and aligning LLMs that reason about and simulate human social behavior — including the validity of social simulation.",
+      "source": { "name": "NeurIPS", "url": "https://neurips.cc/virtual/2026/workshop/137570" }
+    },
+    {
+      "name": "AAMAS 2027", "kind": "conference",
+      "start": "2027-05-03", "end": "2027-05-07", "location": "Hanoi, Vietnam", "format": "in-person",
+      "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "description": "Premier agents & multi-agent systems conference. Workshop proposals due Oct 29, 2026.",
+      "deadlines": [{ "label": "Papers", "date": "2026-10-08" }, { "label": "Workshop proposals", "date": "2026-10-29" }, { "label": "Blue Sky papers", "date": "2026-11-12" }],
+      "source": { "name": "AAMAS 2027", "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/" }
+    }
+  ]
+}

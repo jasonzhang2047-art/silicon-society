@@ -1,0 +1,185 @@
+[
+ {
+  "name": "COLM 2026 — Conference on Language Modeling",
+  "kind": "conference",
+  "start": "2026-10-06",
+  "end": "2026-10-09",
+  "location": "San Francisco, USA",
+  "format": "in-person",
+  "url": "https://colmweb.org",
+  "description": "Hosts the first Workshop on Agent Behavior.",
+  "source": {
+   "name": "ACL portal",
+   "url": "https://www.aclweb.org/portal/content/agent-behavior-workshop-colm-2026"
+  },
+  "verified": true,
+  "upcoming": false
+ },
+ {
+  "name": "Workshop on Agent Behavior @ COLM 2026",
+  "kind": "workshop",
+  "start": "2026-10-09",
+  "end": "2026-10-09",
+  "location": "San Francisco, USA",
+  "format": "in-person",
+  "url": "https://www.aiagentbehavior.com",
+  "description": "First workshop on behavioral evaluation, behavior generation and behavior foundation models for AI agents.",
+  "source": {
+   "name": "ACL portal",
+   "url": "https://www.aclweb.org/portal/content/agent-behavior-workshop-colm-2026"
+  },
+  "verified": true,
+  "upcoming": false
+ },
+ {
+  "name": "EMNLP 2026",
+  "kind": "conference",
+  "start": "2026-10-24",
+  "end": "2026-10-29",
+  "location": "Budapest, Hungary",
+  "format": "hybrid",
+  "url": "https://2026.emnlp.org",
+  "description": "Hosts the REALM workshop on agent language models.",
+  "source": {
+   "name": "ACL portal",
+   "url": "https://www.aclweb.org/portal/content/joint-call-tutorial-proposals-emnlpaacl-ijcnlp-2026"
+  },
+  "verified": true,
+  "upcoming": true
+ },
+ {
+  "name": "REALM — Workshop for Research on Agent Language Models @ EMNLP 2026",
+  "kind": "workshop",
+  "start": "2026-10-29",
+  "end": "2026-10-29",
+  "location": "Budapest, Hungary",
+  "format": "hybrid",
+  "url": "https://groups.google.com/g/ml-news/c/ADj0PWME_Z4",
+  "description": "Human–agent and agent–agent interaction, including how LLM agents behave with people and each other.",
+  "source": {
+   "name": "ML-news CfP",
+   "url": "https://groups.google.com/g/ml-news/c/ADj0PWME_Z4"
+  },
+  "verified": true,
+  "upcoming": true
+ },
+ {
+  "name": "Computational Social Science Society of the Americas Annual Conference 2026",
+  "kind": "event",
+  "start": "2026-10-29",
+  "end": "2026-11-01",
+  "location": "Santa Fe, New Mexico",
+  "url": "https://computationalsocialscience.org/conferences/css-2026-santa-fe/",
+  "description": "The CSSSA defines computational social science broadly as the theory-driven application of computational methods to analyze, model, and simulate social systems. This includes analyzing large-scale social data, exploring mechanisms underlying social dynamics through simulation, and connecting insights to social science theory. We especially encourage submissions that address applied computational…",
+  "source": {
+   "name": "CoMSES Net",
+   "url": "https://comses.net/events/798"
+  },
+  "verified": false,
+  "tags": [
+   "abm-community"
+  ],
+  "upcoming": true
+ },
+ {
+  "name": "17th EAI International Conference on Simulation Tools and Techniques",
+  "kind": "event",
+  "start": "2026-11-19",
+  "end": "2026-11-20",
+  "location": "London, UK",
+  "url": "https://simutools.eai-conferences.org/2026/",
+  "description": "*Taken from event website* EAI SIMUTools 2026 is the 17th edition of the annual International Conference on Simulation Tools and Techniques. The conference focuses on a broad range of research challenges in the field of simulation, modeling and analysis, addressing current and future trends in simulation techniques, methods, models, practices and software and tools. The conference is dedicated to…",
+  "source": {
+   "name": "CoMSES Net",
+   "url": "https://comses.net/events/797"
+  },
+  "verified": false,
+  "tags": [
+   "abm-community"
+  ],
+  "upcoming": true
+ },
+ {
+  "name": "GAMA Days 2026",
+  "kind": "event",
+  "start": "2026-11-23",
+  "end": "2026-11-25",
+  "location": "ONLINE",
+  "url": "https://gama-platform.org/gama-days-2026/",
+  "description": "GAMA Days is the international meeting dedicated to users and developers of the GAMA modelling and simulation platform. The conference will be held 100% online. After three successful editions in 2021, 2022 and 2024, GAMA Days 2026 offers a new opportunity for researchers and practitioners in agent-based modelling to meet, present their work, share difficulties, suggest improvements, and more…",
+  "source": {
+   "name": "CoMSES Net",
+   "url": "https://comses.net/events/800"
+  },
+  "verified": false,
+  "tags": [
+   "abm-community"
+  ],
+  "upcoming": true
+ },
+ {
+  "name": "SocialAgent — Workshop on LLMs for Social Reasoning and Simulation @ NeurIPS 2026",
+  "kind": "workshop",
+  "start": "2026-12-06",
+  "end": "2026-12-13",
+  "datePrecision": "month",
+  "location": "NeurIPS 2026 (Sydney · Atlanta · Paris)",
+  "format": "in-person",
+  "url": "https://neurips.cc/virtual/2026/workshop/137570",
+  "description": "Modeling, evaluating and aligning LLMs that reason about and simulate human social behavior — including the validity of social simulation.",
+  "source": {
+   "name": "NeurIPS",
+   "url": "https://neurips.cc/virtual/2026/workshop/137570"
+  },
+  "verified": true,
+  "upcoming": true
+ },
+ {
+  "name": "ABCSS 2026 — The 11th International Workshop on Application of Big Data for Computational Social Science",
+  "kind": "call for papers",
+  "start": "2026-12-14",
+  "end": "2026-12-17",
+  "location": "Phoenix, Arizona, USA",
+  "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201637",
+  "description": "Call for papers · Phoenix, Arizona, USA",
+  "source": {
+   "name": "WikiCFP",
+   "url": "https://wikicfp.com/cfp/servlet/event.showcfp?eventid=201637"
+  },
+  "verified": false,
+  "tags": [
+   "cfp"
+  ],
+  "upcoming": true
+ },
+ {
+  "name": "AAMAS 2027",
+  "kind": "conference",
+  "start": "2027-05-03",
+  "end": "2027-05-07",
+  "location": "Hanoi, Vietnam",
+  "format": "in-person",
+  "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+  "description": "Premier agents & multi-agent systems conference. Workshop proposals due Oct 29, 2026.",
+  "deadlines": [
+   {
+    "label": "Papers",
+    "date": "2026-10-08"
+   },
+   {
+    "label": "Workshop proposals",
+    "date": "2026-10-29"
+   },
+   {
+    "label": "Blue Sky papers",
+    "date": "2026-11-12"
+   }
+  ],
+  "source": {
+   "name": "AAMAS 2027",
+   "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/"
+  },
+  "verified": true,
+  "upcoming": true
+ }
+]

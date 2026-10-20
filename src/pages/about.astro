@@ -1,0 +1,226 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHead from "../components/PageHead.astro";
+import { meta, site, watchlist } from "../lib/data";
+import { href } from "../lib/format";
+
+const sources = meta.sources ?? [];
+const gate = meta.relevanceGate === "llm" ? `an LLM editor (${meta.llm?.model}) backed by keyword rules` : "keyword and entity rules";
+const steps = [
+  { n: "01", t: "Crawl", d: `Every ${site.crawlIntervalHours} hours a scheduled job queries ${sources.length} sources: arXiv, Hugging Face Papers, Google News, GDELT, Hacker News, Reddit, GitHub, Bluesky, official company blogs and community event calendars.` },
+  { n: "02", t: "Deduplicate", d: "URLs are normalised (tracking parameters stripped, arXiv versions merged) and syndicated headlines collapsed, so one story appears once." },
+  { n: "03", t: "Filter", d: `Each candidate is scored for topical relevance by ${gate}. Mentioning a tracked person isn't enough on its own — the text has to be about the field. Rejections are logged so they aren't re-judged every run.` },
+  { n: "04", t: "Verify", d: "Funding rounds and featured events are checked by hand against a cited source and marked Verified. Anything extracted automatically is labelled Auto-detected until someone confirms it." },
+  { n: "05", t: "Publish", d: "The site is rebuilt from the new data and redeployed. Every item keeps a link to its original public source, the date the source gives, and the date we first saw it." },
+];
+---
+<Base title="Method" active="about" description="How Silicon Society collects, filters and verifies what it publishes — sources, schedule, relevance rules and corrections.">
+  <div class="wrap">
+    <PageHead
+      eyebrow="Method"
+      title="How this works"
+      lede="This is a tracker, not a news outlet: it doesn't write stories, it finds and organises public ones. Here's exactly what it reads, how it decides what's relevant, and what it can't see."
+    />
+
+    <div class="cols">
+      <section>
+        <h2 class="h">Scope</h2>
+        <p class="ink-2">{site.scope}</p>
+        <p class="ink-2">Out of scope: physical and engineering simulation, robotics sim-to-real, industrial digital twins, and general AI news that doesn't concern simulating people.</p>
+
+        <h2 class="h">Pipeline</h2>
+        <ol class="steps">
+          {steps.map((s) => (
+            <li>
+              <span class="sn mono">{s.n}</span>
+              <div><strong>{s.t}</strong><p class="ink-2">{s.d}</p></div>
+            </li>
+          ))}
+        </ol>
+
+        <h2 class="h">Authenticity rules</h2>
+        <ul class="rules ink-2">
+          <li>Nothing on this site is generated as content. Every item is a real public page, linked.</li>
+          <li>Where a one-line summary was written by a language model, it is labelled <span class="badge">AI summary</span> and is restricted to facts in the source text.</li>
+          <li>Dates are the publisher's own. If a page shows no date, we show when we first saw it and say so.</li>
+          <li>Deals and events carry <span class="badge verified">Verified</span> or <span class="badge auto">Auto-detected</span> so you know which is which.</li>
+          <li>Social accounts are only linked once we've confirmed they belong to the person.</li>
+        </ul>
+
+        <h2 class="h">What we can't see</h2>
+        <ul class="rules ink-2">
+          <li><strong>LinkedIn</strong> has no public API for posts, and scraping it violates its terms, so LinkedIn posts appear only when the press covers them.</li>
+          <li><strong>X (Twitter)</strong> requires paid API access; the integration is built and switches on when a key is configured.</li>
+          <li>Paywalled journals and private Slack/Discord communities are not crawled.</li>
+        </ul>
+
+        <h2 class="h" id="corrections">Corrections &amp; suggestions</h2>
+        <p class="ink-2">
+          Spotted a wrong date, a missing deal, an off-topic item, or a person or company who belongs on the watchlist?
+          {site.repoUrl
+            ? <> <a href={`${site.repoUrl}/issues/new`}>Open an issue</a> with a link to the source, and we'll fix it on the next run.</>
+            : site.contactUrl ? <> <a href={site.contactUrl}>Get in touch</a> with a link to the source.</> : <> Send a link to the source and we'll fix it on the next run.</>}
+          The watchlist currently has {watchlist.people.length} people and {watchlist.orgs.length} organizations.
+        </p>
+      </section>
+
+      <aside id="status">
+        <div class="panel pad">
+          <div class="eyebrow">Last crawl</div>
+          <div class="big">{meta.lastRunAt ? <time data-rel datetime={meta.lastRunAt}>{meta.lastRunAt.slice(0, 16).replace("T", " ")} UTC</time> : "—"}</div>
+          <div class="sm ink-2">
+            {meta.lastRunAt?.slice(0, 16).replace("T", " ")} UTC · took {Math.round((meta.durationMs ?? 0) / 1000)}s · {meta.mode}
+          </div>
+          <dl class="facts">
+            <div><dt>Candidates read</dt><dd class="num">{meta.counts?.candidates ?? "—"}</dd></div>
+            <div><dt>Added this run</dt><dd class="num">{meta.counts?.added ?? "—"}</dd></div>
+            <div><dt>Filtered out</dt><dd class="num">{meta.counts?.rejectedThisRun ?? "—"}</dd></div>
+            <div><dt>Items tracked</dt><dd class="num">{meta.counts?.total ?? "—"}</dd></div>
+            <div><dt>Relevance gate</dt><dd>{meta.relevanceGate === "llm" ? "LLM + rules" : "Rules"}</dd></div>
+          </dl>
+        </div>
+
+        <div class="panel pad">
+          <div class="eyebrow">Source health</div>
+          <table class="health">
+            <tbody>
+              {sources.map((s) => (
+                <tr>
+                  <td><span class:list={["st", s.skipped ? "skip" : s.ok ? "ok" : "err"]} aria-hidden="true"></span>{s.name}</td>
+                  <td class="num mono">{s.skipped ? "off" : s.ok ? s.fetched : "error"}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          <p class="sm muted">Numbers are candidates fetched on the last run, before filtering. "off" sources need credentials; "error" usually means a rate limit and is retried next run.</p>
+        </div>
+        <a class="btn" href={href("/feed.xml")}>Subscribe via RSS</a>
+      </aside>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .cols {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 340px;
+    gap: 64px;
+    align-items: start;
+  }
+  .cols > section {
+    max-width: 720px;
+  }
+  .h {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 30px;
+    margin: 40px 0 12px;
+  }
+  .h:first-child {
+    margin-top: 0;
+  }
+  .steps {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .steps li {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 12px;
+    padding: 14px 0;
+    border-top: 1px solid var(--hairline);
+  }
+  .steps p {
+    margin: 4px 0 0;
+  }
+  .sn {
+    color: var(--muted);
+    padding-top: 2px;
+  }
+  .rules {
+    padding-left: 18px;
+    margin: 0;
+  }
+  .rules li {
+    margin: 8px 0;
+  }
+  aside {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: sticky;
+    top: 84px;
+    scroll-margin-top: 96px;
+  }
+  .pad {
+    padding: 18px;
+  }
+  .big {
+    font-weight: 600;
+    font-size: 26px;
+    letter-spacing: -0.02em;
+    margin-top: 6px;
+  }
+  .sm {
+    font-size: 12.5px;
+    margin-top: 4px;
+  }
+  .facts {
+    margin: 14px 0 0;
+    display: grid;
+    gap: 0;
+  }
+  .facts div {
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 0;
+    border-top: 1px solid var(--hairline);
+    font-size: 13.5px;
+  }
+  .facts dt {
+    color: var(--ink-2);
+  }
+  .facts dd {
+    margin: 0;
+    font-weight: 600;
+  }
+  .health {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 13px;
+  }
+  .health td {
+    padding: 6px 0;
+    border-top: 1px solid var(--hairline);
+  }
+  .health td.num {
+    text-align: right;
+  }
+  .st {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    margin-right: 8px;
+    vertical-align: 1px;
+  }
+  .st.ok {
+    background: var(--good-dot);
+  }
+  .st.err {
+    background: var(--warn);
+  }
+  .st.skip {
+    box-shadow: inset 0 0 0 1.5px var(--muted);
+  }
+  @media (max-width: 960px) {
+    .cols {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    aside {
+      position: static;
+    }
+  }
+</style>

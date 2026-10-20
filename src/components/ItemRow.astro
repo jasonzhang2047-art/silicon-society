@@ -1,0 +1,322 @@
+---
+import type { Item } from "../lib/data";
+import { categoryLabel, orgsById, peopleById } from "../lib/data";
+import { compactNum, compactUsd, hostOf, href, initials, shortDate } from "../lib/format";
+
+interface Props {
+  item: Item;
+  compact?: boolean;
+  hideCategory?: boolean;
+  facets?: string[];
+  /** Other reports of the same story. */
+  related?: Item[];
+}
+const { item, compact = false, hideCategory = false, facets = [item.category], related = [] } = Astro.props;
+const people = item.people.map((id) => peopleById.get(id)).filter(Boolean);
+const orgs = item.orgs.map((id) => orgsById.get(id)).filter((o) => o && o.kind !== "investor");
+const authors = item.authors ?? [];
+const trackedAuthors = new Set(people.map((p) => p!.name.toLowerCase()));
+const shownAuthors = authors.slice(0, 6);
+const m = item.metrics ?? {};
+const isPost = item.source.kind === "bluesky" || item.source.kind === "x";
+const searchText = [item.title, ...related.map((r) => r.title), item.snippet, item.aiSummary, item.source.name, item.author?.name, ...authors.slice(0, 10), ...people.map((p) => p!.name), ...orgs.map((o) => o!.name)]
+  .filter(Boolean)
+  .join(" ")
+  .toLowerCase();
+const official = item.tags.includes("official");
+const hf = item.tags.includes("hf-trending");
+---
+<article class:list={["item", { compact, post: isPost }]} data-cat={item.category} data-facets={facets.join(" ")} data-search={searchText} data-date={item.publishedAt}>
+  <div class="meta">
+    {!hideCategory && <span class="cat" data-cat={item.category}>{categoryLabel(item.category)}</span>}
+    <span class="src">
+      {item.source.url ? <a href={item.source.url} rel="noopener" target="_blank">{item.source.name}</a> : item.source.name}
+    </span>
+    <span class="sep" aria-hidden="true">·</span>
+    <time data-rel datetime={item.publishedAt}>{shortDate(item.publishedAt, true)}</time>
+    {official && <span class="badge">Official</span>}
+    {hf && <span class="badge" title="Featured on Hugging Face Daily Papers">HF trending{m.upvotes ? ` ▲ ${m.upvotes}` : ""}</span>}
+    {item.tags.includes("release") && <span class="badge">Release</span>}
+    {item.tags.includes("new-repo") && <span class="badge">New repo</span>}
+    {item.tags.includes("cfp") && <span class="badge">Call for papers</span>}
+    {item.tags.includes("date-approx") && <span class="badge" title="Publisher shows no date; this is when we first saw it">First seen</span>}
+  </div>
+
+  {isPost && item.author ? (
+    <div class="post-head">
+      {item.author.avatar
+        ? <img class="avatar" src={item.author.avatar} alt="" width="28" height="28" loading="lazy" referrerpolicy="no-referrer" />
+        : <span class="avatar ph">{initials(item.author.name)}</span>}
+      <span><a href={item.author.url} rel="noopener" target="_blank" class="who">{item.author.name}</a> <span class="muted mono">{item.author.handle}</span></span>
+    </div>
+  ) : null}
+
+  <h3 class:list={["title", { quote: isPost }]}>
+    <a href={item.url} rel="noopener" target="_blank">{item.title}</a>
+  </h3>
+
+  {!compact && (item.aiSummary ? (
+    <p class="body"><span class="ai" title="One-line summary written by a language model from the source text">AI summary</span>{item.aiSummary}</p>
+  ) : item.snippet ? (
+    <p class="body">{item.snippet}</p>
+  ) : null)}
+
+  {item.deal && (
+    <div class="deal">
+      <span class="deal-co">{item.deal.company}</span>
+      {item.deal.round && <span>{item.deal.round}</span>}
+      {item.deal.amountText && <span class="num">{item.deal.amountText}</span>}
+      {item.deal.lead.length > 0 && <span class="muted">{item.deal.round === "Acquisition" ? "by" : "led by"} {item.deal.lead.join(", ")}</span>}
+      <span class="badge auto" title="Extracted automatically from this headline — not yet verified by hand">Auto-detected</span>
+    </div>
+  )}
+
+  {!compact && (shownAuthors.length > 0 || people.length > 0 || orgs.length > 0 || item.link || Object.keys(m).length > 0) && (
+    <div class="foot">
+      {shownAuthors.length > 0 && (
+        <span class="authors">
+          {shownAuthors.map((a, i) => (
+            <span class:list={{ tracked: trackedAuthors.has(a.toLowerCase()) }}>{a}{i < shownAuthors.length - 1 ? ", " : ""}</span>
+          ))}
+          {authors.length > shownAuthors.length && <span class="muted"> +{authors.length - shownAuthors.length}</span>}
+        </span>
+      )}
+      {(people.length > 0 || orgs.length > 0) && (
+        <span class="entities">
+          {people.filter((p) => !authors.some((a) => a.toLowerCase() === p!.name.toLowerCase())).map((p) => <a class="ent" href={href(`/landscape#${p!.id}`)}>{p!.name}</a>)}
+          {orgs.map((o) => <a class="ent org" href={href(`/landscape#${o!.id}`)}>{o!.name}</a>)}
+        </span>
+      )}
+      {item.link && <a class="ext mono" href={item.link} rel="noopener" target="_blank">↗ {hostOf(item.link)}</a>}
+      <span class="metrics mono">
+        {m.points != null && <span>{compactNum(m.points)} pts</span>}
+        {m.comments != null && m.comments > 0 && <span>{compactNum(m.comments)} comments</span>}
+        {m.stars != null && <span>★ {compactNum(m.stars)}</span>}
+        {isPost && m.likes != null && <span>♥ {compactNum(m.likes)}</span>}
+        {isPost && m.reposts != null && m.reposts > 0 && <span>↻ {compactNum(m.reposts)}</span>}
+      </span>
+    </div>
+  )}
+
+  {related.length > 0 && (
+    <details class="more">
+      <summary class="mono">+{related.length} more {related.length === 1 ? "report" : "reports"} · {[...new Set(related.map((r) => r.source.name))].slice(0, 3).join(", ")}{related.length > 3 ? "…" : ""}</summary>
+      <ul>
+        {related.map((r) => (
+          <li>
+            <a href={r.url} rel="noopener" target="_blank">{r.title}</a>
+            <span class="mono muted">{r.source.name} · <time data-rel datetime={r.publishedAt}>{shortDate(r.publishedAt)}</time></span>
+          </li>
+        ))}
+      </ul>
+    </details>
+  )}
+</article>
+
+<style>
+  .item {
+    padding: 20px 0 22px;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .item.compact {
+    padding: 14px 0;
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 10px;
+    font-family: var(--mono);
+    font-size: 11.5px;
+    color: var(--muted);
+  }
+  .meta .src a {
+    text-decoration: none;
+    color: var(--ink-2);
+  }
+  .meta .src a:hover {
+    text-decoration: underline;
+  }
+  .sep {
+    margin: 0 -4px;
+  }
+  .title {
+    margin: 8px 0 0;
+    font-family: var(--sans);
+    font-size: 17px;
+    line-height: 1.38;
+    font-weight: 600;
+    letter-spacing: -0.006em;
+  }
+  .compact .title {
+    font-size: 15px;
+    margin-top: 6px;
+  }
+  .title a {
+    text-decoration: none;
+  }
+  .title a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--axis);
+  }
+  .title.quote {
+    font-weight: 450;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .post-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  .who {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: var(--surface-2);
+    flex-shrink: 0;
+  }
+  .avatar.ph {
+    display: grid;
+    place-items: center;
+    font: 600 11px var(--sans);
+    color: var(--ink-2);
+  }
+  .body {
+    margin: 8px 0 0;
+    color: var(--ink-2);
+    font-size: 14.5px;
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .ai {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border: 1px solid var(--hairline);
+    border-radius: 3px;
+    padding: 1px 4px;
+    margin-right: 8px;
+    vertical-align: 1px;
+  }
+  .deal {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 12px;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background: var(--surface);
+    border: 1px solid var(--hairline);
+    border-left: 3px solid var(--cat-funding);
+    border-radius: var(--radius-sm);
+    font-size: 13.5px;
+  }
+  .deal-co {
+    font-weight: 600;
+  }
+  .foot {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 6px 14px;
+    margin-top: 10px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .authors .tracked {
+    color: var(--ink);
+    font-weight: 600;
+  }
+  .entities {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .ent {
+    font-size: 12px;
+    text-decoration: none;
+    color: var(--ink-2);
+    padding: 1px 8px;
+    border-radius: 999px;
+    background: var(--surface-2);
+  }
+  .ent:hover {
+    color: var(--ink);
+  }
+  .ent.org::before {
+    content: "◆ ";
+    font-size: 9px;
+    color: var(--muted);
+  }
+  .ext {
+    color: var(--ink-2);
+    text-decoration: none;
+  }
+  .metrics {
+    display: inline-flex;
+    gap: 10px;
+  }
+  .more {
+    margin-top: 12px;
+  }
+  .more summary {
+    cursor: pointer;
+    font-size: 12px;
+    color: var(--ink-2);
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    background: var(--surface);
+  }
+  .more summary::-webkit-details-marker {
+    display: none;
+  }
+  .more summary::before {
+    content: "+";
+    font-weight: 600;
+    display: none;
+  }
+  .more[open] summary {
+    background: var(--surface-2);
+  }
+  .more ul {
+    list-style: none;
+    margin: 10px 0 0;
+    padding: 0 0 0 14px;
+    border-left: 2px solid var(--hairline);
+  }
+  .more li {
+    padding: 6px 0;
+    font-size: 14px;
+    line-height: 1.4;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .more li a {
+    text-decoration: none;
+  }
+  .more li a:hover {
+    text-decoration: underline;
+  }
+  .more li .mono {
+    font-size: 11px;
+  }
+</style>

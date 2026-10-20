@@ -1,0 +1,8 @@
+{
+  "name": "Silicon Society",
+  "tagline": "Tracking the people, papers, capital and events behind AI that simulates human behavior.",
+  "scope": "Generative agents, LLM-driven social simulation, synthetic respondents and human digital twins, swarm prediction engines, and the infrastructure, research and money around them.",
+  "crawlIntervalHours": 12,
+  "repoUrl": "https://github.com/jasonzhang2047-art/silicon-society",
+  "contactUrl": ""
+}

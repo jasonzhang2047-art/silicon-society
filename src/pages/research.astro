@@ -1,0 +1,56 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHead from "../components/PageHead.astro";
+import Kpi from "../components/Kpi.astro";
+import Wire from "../components/Wire.astro";
+import { items, peopleById, withinDays, type Item } from "../lib/data";
+
+const papers = items.filter((i) => i.category === "research");
+const tracked = (i: Item) => i.people.some((id) => {
+  const p = peopleById.get(id);
+  return p && (i.authors ?? []).some((a) => a.toLowerCase() === p.name.toLowerCase());
+});
+const facetOf = (i: Item) => [
+  ...(i.tags.includes("hf-trending") ? ["hf"] : []),
+  ...(tracked(i) ? ["watch"] : []),
+  ...(withinDays(i.publishedAt, 7) ? ["week"] : []),
+];
+const d7 = papers.filter((p) => withinDays(p.publishedAt, 7)).length;
+const d30 = papers.filter((p) => withinDays(p.publishedAt, 30)).length;
+const hf = papers.filter((p) => p.tags.includes("hf-trending")).length;
+---
+<Base title="Research" active="research" description="New papers on simulating people and societies with AI — generative agents, silicon sampling, synthetic respondents, social simulation.">
+  <div class="wrap">
+    <PageHead
+      eyebrow="Research"
+      title="Papers"
+      lede="New preprints on simulating people with AI — generative agents, silicon sampling, synthetic survey populations, LLM-driven social simulation and how well any of it holds up. Pulled from arXiv and Hugging Face Daily Papers, filtered for relevance. Authors on our watchlist are in bold."
+    >
+      <div class="kpis">
+        <Kpi label="Last 7 days" value={d7} />
+        <Kpi label="Last 30 days" value={d30} />
+        <Kpi label="Tracked total" value={papers.length} />
+        <Kpi label="HF trending" value={hf} sub="featured on Daily Papers" />
+      </div>
+    </PageHead>
+    <div class="narrow">
+      <Wire
+        items={papers}
+        hideCategory
+        facets={[
+          { id: "week", label: "This week" },
+          { id: "hf", label: "HF trending" },
+          { id: "watch", label: "Watchlist authors" },
+        ]}
+        facetOf={facetOf}
+        placeholder="Search titles, abstracts, authors…"
+      />
+    </div>
+  </div>
+</Base>
+
+<style>
+  .narrow {
+    max-width: 860px;
+  }
+</style>

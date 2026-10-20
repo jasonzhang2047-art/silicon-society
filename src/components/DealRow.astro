@@ -1,0 +1,96 @@
+---
+import type { Deal } from "../lib/data";
+import { compactUsd, monthYear, shortDate } from "../lib/format";
+
+interface Props { deal: Deal; compact?: boolean }
+const { deal, compact = false } = Astro.props;
+const when = deal.datePrecision === "month" ? monthYear(deal.date) : shortDate(deal.date, true);
+const isAcq = deal.round === "Acquisition";
+---
+<div class:list={["deal-row", { compact }]}>
+  <div class="amount num">{deal.amountUsd != null ? compactUsd(deal.amountUsd) : <span class="muted">Undisclosed</span>}</div>
+  <div class="main">
+    <div class="co">
+      <span class="name">{deal.company}</span>
+      <span class="round">{deal.round ?? "Funding"}</span>
+    </div>
+    {deal.lead.length > 0 && (
+      <div class="who">{isAcq ? "Acquired by" : "Led by"} {deal.lead.join(", ")}{!compact && deal.participants.length > 0 && <span class="muted"> · with {deal.participants.join(", ")}</span>}</div>
+    )}
+    {!compact && deal.valuationText && <div class="who muted">{deal.valuationText}</div>}
+    <div class="src mono">
+      <span>{when}</span>
+      <span aria-hidden="true">·</span>
+      <a href={deal.source.url} rel="noopener" target="_blank">{deal.source.name}</a>
+      {deal.verified
+        ? <span class="badge verified" title="Checked by hand against the cited source">Verified</span>
+        : <span class="badge auto" title="Extracted automatically from a headline — treat as unconfirmed">Auto-detected</span>}
+      {!compact && deal.coverage.length > 0 && <span class="muted">+{deal.coverage.length} reports</span>}
+    </div>
+  </div>
+</div>
+
+<style>
+  .deal-row {
+    display: grid;
+    grid-template-columns: 76px 1fr;
+    gap: 14px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .deal-row.compact {
+    grid-template-columns: 64px 1fr;
+    padding: 13px 0;
+  }
+  .amount {
+    font-family: var(--serif);
+    font-size: 26px;
+    line-height: 1;
+    padding-top: 2px;
+  }
+  .compact .amount {
+    font-size: 22px;
+  }
+  .amount .muted {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .co {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 10px;
+  }
+  .name {
+    font-weight: 600;
+    font-size: 15.5px;
+  }
+  .round {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    color: var(--ink-2);
+  }
+  .who {
+    font-size: 13.5px;
+    color: var(--ink-2);
+    margin-top: 3px;
+  }
+  .src {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px 8px;
+    margin-top: 6px;
+    font-size: 11.5px;
+    color: var(--muted);
+  }
+  .src a {
+    color: var(--ink-2);
+    text-decoration: none;
+  }
+  .src a:hover {
+    text-decoration: underline;
+  }
+</style>

@@ -1,0 +1,118 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHead from "../components/PageHead.astro";
+import Wire from "../components/Wire.astro";
+import { items, meta, repos, type Item } from "../lib/data";
+import { compactNum, shortDate } from "../lib/format";
+
+const sorted = [...repos].sort((a, b) => b.stars - a.stars);
+const delta = (r: (typeof repos)[number], days: number) => {
+  const cutoff = new Date(new Date(meta.lastRunAt ?? Date.now()).getTime() - days * 86_400_000).toISOString().slice(0, 10);
+  const base = [...r.history].reverse().find((h) => h.date <= cutoff);
+  return base ? r.stars - base.stars : null;
+};
+const spark = (r: (typeof repos)[number]) => {
+  const h = r.history.slice(-30);
+  if (h.length < 3) return null;
+  const min = Math.min(...h.map((p) => p.stars));
+  const max = Math.max(...h.map((p) => p.stars));
+  const pts = h.map((p, i) => `${(i / (h.length - 1)) * 80},${18 - ((p.stars - min) / Math.max(1, max - min)) * 16}`);
+  return pts.join(" ");
+};
+const code = items.filter((i) => i.category === "code");
+const facetOf = (i: Item) => [i.tags.includes("release") ? "release" : "new"];
+const totalStars = repos.reduce((s, r) => s + r.stars, 0);
+---
+<Base title="Code" active="code" description="Open-source frameworks for simulating people and societies with LLM agents — stars, releases and new projects.">
+  <div class="wrap">
+    <PageHead
+      eyebrow="Open source"
+      title="Code"
+      lede={`The open-source stack for simulating people: ${repos.length} tracked repositories with ${compactNum(totalStars)} combined stars, their releases, and new projects gaining traction on GitHub.`}
+    />
+    <div class="table-wrap">
+      <table class="data">
+        <thead>
+          <tr>
+            <th>Repository</th>
+            <th class="num">Stars</th>
+            <th class="num">7-day</th>
+            <th class="trend-h">Trend</th>
+            <th class="num">Forks</th>
+            <th>Latest release</th>
+            <th>Last push</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sorted.map((r) => {
+            const d7 = delta(r, 7);
+            const s = spark(r);
+            return (
+              <tr>
+                <td>
+                  <a class="rn" href={r.url} rel="noopener" target="_blank">{r.repo}</a>
+                  <div class="rl muted">{r.label}{r.language ? ` · ${r.language}` : ""}</div>
+                </td>
+                <td class="num strong">{r.stars.toLocaleString("en-US")}</td>
+                <td class="num">{d7 == null ? <span class="muted" title="Star history starts when tracking began">—</span> : <span class:list={{ up: d7 > 0 }}>{d7 > 0 ? "+" : ""}{d7.toLocaleString("en-US")}</span>}</td>
+                <td class="trend">
+                  {s ? (
+                    <svg width="80" height="20" viewBox="0 0 80 20" role="img" aria-label="Star trend, last 30 snapshots"><polyline points={s} fill="none" stroke="var(--chart)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" /></svg>
+                  ) : <span class="muted mono small" title="Needs a few days of snapshots">collecting</span>}
+                </td>
+                <td class="num">{r.forks.toLocaleString("en-US")}</td>
+                <td>{r.latestRelease ? <a href={r.latestRelease.url} rel="noopener" target="_blank" class="mono small">{r.latestRelease.tag}</a> : <span class="muted">—</span>}{r.latestRelease && <div class="muted small">{shortDate(r.latestRelease.publishedAt, true)}</div>}</td>
+                <td class="small"><time data-rel datetime={r.pushedAt}>{shortDate(r.pushedAt, true)}</time></td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+
+    <section class="feed">
+      <div class="section-head"><h2>Releases &amp; new projects</h2></div>
+      <div class="narrow">
+        <Wire items={code} hideCategory facets={[{ id: "release", label: "Releases" }, { id: "new", label: "New repos" }]} facetOf={facetOf} pageSize={20} />
+      </div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .rn {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .rn:hover {
+    text-decoration: underline;
+  }
+  .rl {
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .strong {
+    font-weight: 600;
+  }
+  .up {
+    color: var(--good);
+  }
+  .small {
+    font-size: 12px;
+  }
+  .trend svg {
+    display: block;
+  }
+  .feed {
+    margin-top: 72px;
+  }
+  .narrow {
+    max-width: 860px;
+  }
+  @media (max-width: 640px) {
+    .trend,
+    .trend-h {
+      display: none;
+    }
+  }
+</style>

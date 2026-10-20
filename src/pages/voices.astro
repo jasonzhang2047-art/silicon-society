@@ -1,0 +1,107 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHead from "../components/PageHead.astro";
+import Wire from "../components/Wire.astro";
+import { items, meta, watchlist, type Item } from "../lib/data";
+import { href } from "../lib/format";
+
+const voices = items.filter((i) => i.category === "voices");
+const facetOf = (i: Item) => [i.source.kind === "blog" ? "blog" : i.source.kind];
+const bskyAccounts = watchlist.people.filter((p) => p.links.bluesky).length + watchlist.orgs.filter((o) => o.links?.bluesky).length;
+const xAccounts = watchlist.people.filter((p) => p.links.x).length;
+const blogs = watchlist.orgs.filter((o) => o.blog).length;
+const xSource = meta.sources?.find((s) => s.name.startsWith("X"));
+const xOn = xSource && !xSource.skipped && xSource.ok;
+const bskySearch = meta.sources?.find((s) => s.name === "Bluesky · search");
+const bskySearchOn = bskySearch && !bskySearch.skipped;
+const platforms = [
+  { name: "Company & lab blogs", status: "on", detail: `${blogs} official blogs, checked every crawl` },
+  { name: "Bluesky", status: "on", detail: `${bskyAccounts} tracked accounts${bskySearchOn ? " + keyword search" : ""}` },
+  { name: "X (Twitter)", status: xOn ? "on" : "off", detail: xOn ? `${xAccounts} tracked accounts + keyword search` : "Requires paid X API access — ready to switch on" },
+  { name: "LinkedIn", status: "no", detail: "No public API for posts; scraping breaks LinkedIn's terms. Covered indirectly via press." },
+];
+---
+<Base title="Voices" active="voices" description="What researchers, founders and companies in AI human-behavior simulation are saying in public.">
+  <div class="wrap">
+    <PageHead
+      eyebrow="Voices"
+      title="What the field is saying"
+      lede="Official posts from companies and labs, and public posts from researchers and founders on our watchlist. A post only appears here when it's about the field — job ads, conference selfies and politics are filtered out."
+    >
+      <ul class="platforms">
+        {platforms.map((p) => (
+          <li>
+            <span class:list={["state", p.status]} aria-hidden="true"></span>
+            <span class="pn">{p.name}</span>
+            <span class="pd muted">{p.detail}</span>
+          </li>
+        ))}
+      </ul>
+    </PageHead>
+    <div class="narrow">
+      <Wire
+        items={voices}
+        hideCategory
+        facets={[
+          { id: "blog", label: "Official blogs" },
+          { id: "bluesky", label: "Bluesky" },
+          { id: "x", label: "X" },
+        ]}
+        facetOf={facetOf}
+      />
+      <p class="mono muted note">Missing someone who should be on the watchlist? <a href={href("/about#corrections")}>Suggest an account</a>.</p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .narrow {
+    max-width: 860px;
+  }
+  .platforms {
+    list-style: none;
+    padding: 0;
+    margin: 28px 0 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 10px;
+  }
+  .platforms li {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 2px 10px;
+    padding: 12px 14px;
+    background: var(--surface);
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius);
+  }
+  .state {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-top: 6px;
+    grid-row: span 2;
+  }
+  .state.on {
+    background: var(--good-dot);
+  }
+  .state.off {
+    background: transparent;
+    box-shadow: inset 0 0 0 1.5px var(--muted);
+  }
+  .state.no {
+    background: var(--axis);
+  }
+  .pn {
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .pd {
+    font-size: 12.5px;
+    line-height: 1.4;
+  }
+  .note {
+    font-size: 12px;
+    margin-top: 20px;
+  }
+</style>

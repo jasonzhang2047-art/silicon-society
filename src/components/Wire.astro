@@ -1,0 +1,144 @@
+---
+import ItemRow from "./ItemRow.astro";
+import { CATEGORIES, clusterItems, type Item } from "../lib/data";
+
+interface Facet { id: string; label: string; color?: string }
+interface Props {
+  items: Item[];
+  pageSize?: number;
+  filters?: boolean;
+  hideCategory?: boolean;
+  id?: string;
+  /** Custom filter chips; when set they replace the category chips. */
+  facets?: Facet[];
+  facetOf?: (item: Item) => string[];
+  placeholder?: string;
+  /** Collapse syndicated coverage of the same story under one lead item. */
+  cluster?: boolean;
+}
+const {
+  items, pageSize = 25, filters = true, hideCategory = false, id = "wire", facets, facetOf,
+  placeholder = "Search titles, people, companies…", cluster = true,
+} = Astro.props;
+const clusters = cluster ? clusterItems(items) : items.map((lead) => ({ lead, related: [] as Item[] }));
+const chipDefs: Facet[] = facets ?? CATEGORIES.map((c) => ({ id: c.id, label: c.label, color: `var(--cat-${c.id})` }));
+const facetsFor = (i: Item) => (facets && facetOf ? facetOf(i) : [i.category]);
+const counts = Object.fromEntries(chipDefs.map((c) => [c.id, clusters.filter((k) => facetsFor(k.lead).includes(c.id)).length]));
+---
+<div class="wire" id={id} data-page-size={pageSize}>
+  {filters && (
+    <div class="controls">
+      <div class="chips" role="group" aria-label="Filter by type">
+        <button class="chip" type="button" data-filter="all" aria-pressed="true">All <span class="count">{clusters.length}</span></button>
+        {chipDefs.filter((c) => counts[c.id] > 0).map((c) => (
+          <button class="chip" type="button" data-filter={c.id} aria-pressed="false" style={c.color ? `--c: ${c.color}` : undefined}>
+            {c.color && <span class="dot" aria-hidden="true"></span>}{c.label} <span class="count">{counts[c.id]}</span>
+          </button>
+        ))}
+      </div>
+      <label class="search-wrap">
+        <span class="visually-hidden">Search</span>
+        <input class="search" type="search" placeholder={placeholder} autocomplete="off" />
+      </label>
+    </div>
+  )}
+  <div class="list">
+    {clusters.map((k) => <ItemRow item={k.lead} related={k.related} hideCategory={hideCategory} facets={facetsFor(k.lead)} />)}
+  </div>
+  <p class="empty muted" hidden>Nothing matches that filter yet.</p>
+  <div class="pager">
+    <button class="btn more-btn" type="button" hidden>Show more</button>
+    <span class="shown mono muted"></span>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLElement>(".wire").forEach((wire) => {
+    const size = Number(wire.dataset.pageSize || 25);
+    const rows = [...wire.querySelectorAll<HTMLElement>(".item")];
+    const chips = [...wire.querySelectorAll<HTMLButtonElement>("[data-filter]")];
+    const search = wire.querySelector<HTMLInputElement>(".search");
+    const more = wire.querySelector<HTMLButtonElement>(".more-btn")!;
+    const shown = wire.querySelector<HTMLElement>(".shown")!;
+    const empty = wire.querySelector<HTMLElement>(".empty")!;
+    let filter = "all";
+    let limit = size;
+
+    // Restore a filter from the URL hash (#research) so sections are linkable.
+    const fromHash = location.hash.slice(1);
+    if (chips.some((c) => c.dataset.filter === fromHash)) filter = fromHash;
+
+    function render() {
+      const q = (search?.value ?? "").trim().toLowerCase();
+      const terms = q.split(/\s+/).filter(Boolean);
+      const matching = rows.filter(
+        (r) => (filter === "all" || (r.dataset.facets ?? "").split(" ").includes(filter)) && terms.every((t) => (r.dataset.search ?? "").includes(t)),
+      );
+      rows.forEach((r) => (r.hidden = true));
+      matching.slice(0, limit).forEach((r) => (r.hidden = false));
+      more.hidden = matching.length <= limit;
+      empty.hidden = matching.length > 0;
+      shown.textContent = matching.length ? `Showing ${Math.min(limit, matching.length)} of ${matching.length}` : "";
+      chips.forEach((c) => c.setAttribute("aria-pressed", String(c.dataset.filter === filter)));
+    }
+    chips.forEach((c) =>
+      c.addEventListener("click", () => {
+        filter = c.dataset.filter!;
+        limit = size;
+        history.replaceState(null, "", filter === "all" ? location.pathname : `#${filter}`);
+        render();
+      }),
+    );
+    search?.addEventListener("input", () => {
+      limit = size;
+      render();
+    });
+    more.addEventListener("click", () => {
+      limit += size;
+      render();
+    });
+    render();
+  });
+</script>
+
+<style>
+  .controls {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px 0 6px;
+    position: sticky;
+    top: 60px;
+    z-index: 5;
+    background: var(--page);
+  }
+  @media (max-width: 1180px) {
+    .controls {
+      position: static;
+    }
+  }
+  .chips {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    margin: 0 calc(-1 * var(--gutter));
+    padding: 0 var(--gutter);
+  }
+  .chips::-webkit-scrollbar {
+    display: none;
+  }
+  .search-wrap {
+    display: block;
+    max-width: 420px;
+  }
+  .pager {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding-top: 24px;
+  }
+  .empty {
+    padding: 32px 0;
+  }
+</style>

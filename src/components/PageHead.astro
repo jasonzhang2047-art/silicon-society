@@ -1,0 +1,22 @@
+---
+interface Props { eyebrow: string; title: string; lede?: string }
+const { eyebrow, title, lede } = Astro.props;
+---
+<header class="page-head wrap-inner">
+  <div class="eyebrow">{eyebrow}</div>
+  <h1 class="display">{title}</h1>
+  {lede && <p class="lede">{lede}</p>}
+  <slot />
+</header>
+
+<style>
+  .page-head :global(.kpis) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 40px;
+    margin-top: 28px;
+  }
+  .page-head h1 {
+    margin-top: 14px;
+  }
+</style>

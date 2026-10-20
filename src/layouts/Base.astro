@@ -1,0 +1,385 @@
+---
+import "@fontsource/instrument-serif/400.css";
+import "@fontsource/instrument-serif/400-italic.css";
+import "@fontsource-variable/inter";
+import "@fontsource-variable/jetbrains-mono";
+import "../styles/global.css";
+import Logo from "../components/Logo.astro";
+import { meta, site } from "../lib/data";
+import { href } from "../lib/format";
+
+interface Props {
+  title?: string;
+  description?: string;
+  active?: string;
+}
+const { title, description = site.tagline, active = "" } = Astro.props;
+const fullTitle = title ? `${title} — ${site.name}` : `${site.name} — ${site.tagline}`;
+const nav = [
+  { id: "wire", label: "Wire", path: "/" },
+  { id: "research", label: "Research", path: "/research" },
+  { id: "capital", label: "Capital", path: "/capital" },
+  { id: "voices", label: "Voices", path: "/voices" },
+  { id: "events", label: "Events", path: "/events" },
+  { id: "code", label: "Code", path: "/code" },
+  { id: "landscape", label: "Landscape", path: "/landscape" },
+  { id: "about", label: "Method", path: "/about" },
+];
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href={href("/favicon.svg")} type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={`${site.name} — all signals`} href={href("/feed.xml")} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0d0d0c" media="(prefers-color-scheme: dark)" />
+    <script is:inline>
+      try {
+        const t = localStorage.getItem("ss-theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <a class="skip visually-hidden" href="#main">Skip to content</a>
+    <header class="top">
+      <div class="wrap top-inner">
+        <a class="brand" href={href("/")} aria-label={`${site.name} home`}>
+          <Logo />
+          <span class="brand-name">{site.name}</span>
+        </a>
+        <nav class="nav" aria-label="Sections">
+          {nav.map((n) => (
+            <a href={href(n.path)} aria-current={active === n.id ? "page" : undefined}>{n.label}</a>
+          ))}
+        </nav>
+        <div class="top-right">
+          <a class="status" href={href("/about#status")} data-last={meta.lastRunAt} data-next={meta.nextRunAt} data-interval={site.crawlIntervalHours}>
+            <span class="pulse" aria-hidden="true"></span>
+            <span class="status-label">Updated&nbsp;</span><span class="status-text">{meta.lastRunAt?.slice(0, 10) ?? "—"}</span><span class="status-next"></span>
+          </a>
+          <button class="theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+            <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.2" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M8 1.8a6.2 6.2 0 0 1 0 12.4z" fill="currentColor"/></svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="foot">
+      <div class="wrap foot-inner">
+        <div class="foot-brand">
+          <a class="brand" href={href("/")}><Logo size={20} /><span class="brand-name">{site.name}</span></a>
+          <p class="ink-2">{site.tagline}</p>
+          <p class="muted small">
+            Every item links to the public source it came from. Crawled every {site.crawlIntervalHours} hours;
+            last run <time data-rel datetime={meta.lastRunAt}>{meta.lastRunAt?.slice(0, 16).replace("T", " ")} UTC</time>.
+            Independent — not affiliated with any company, lab or investor listed.
+          </p>
+        </div>
+        <div class="foot-links">
+          <div>
+            <div class="eyebrow">Sections</div>
+            {nav.slice(0, 7).map((n) => <a href={href(n.path)}>{n.label}</a>)}
+          </div>
+          <div>
+            <div class="eyebrow">Transparency</div>
+            <a href={href("/about")}>Methodology</a>
+            <a href={href("/about#status")}>Source health</a>
+            <a href={href("/about#corrections")}>Corrections</a>
+            <a href={href("/feed.xml")}>RSS feed</a>
+            {site.repoUrl && <a href={site.repoUrl}>Source code</a>}
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="tip" role="tooltip" aria-hidden="true"></div>
+
+    <script>
+      // Relative timestamps stay correct between rebuilds.
+      const rtf = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
+      function rel(iso: string) {
+        const diff = (new Date(iso).getTime() - Date.now()) / 1000;
+        const abs = Math.abs(diff);
+        if (abs < 60) return "just now";
+        if (abs < 3600) return rtf.format(Math.round(diff / 60), "minute");
+        if (abs < 86400) return rtf.format(Math.round(diff / 3600), "hour");
+        if (abs < 86400 * 7) return rtf.format(Math.round(diff / 86400), "day");
+        return null;
+      }
+      function refreshTimes() {
+        document.querySelectorAll<HTMLTimeElement>("time[data-rel]").forEach((t) => {
+          const r = rel(t.dateTime);
+          if (r) {
+            t.textContent = r;
+            t.title = new Date(t.dateTime).toUTCString();
+          }
+        });
+        const s = document.querySelector<HTMLAnchorElement>(".status");
+        if (s?.dataset.last) {
+          const last = new Date(s.dataset.last).getTime();
+          const hours = Number(s.dataset.interval || 12);
+          const stale = Date.now() - last > hours * 2.5 * 3600_000;
+          const nextMs = s.dataset.next ? new Date(s.dataset.next).getTime() - Date.now() : 0;
+          const nextTxt = nextMs > 0 ? ` · next in ${Math.max(1, Math.round(nextMs / 3600_000))}h` : " · next run due";
+          s.querySelector(".status-text")!.textContent = rel(s.dataset.last) ?? new Date(s.dataset.last).toDateString();
+          s.querySelector(".status-next")!.textContent = stale ? " · stale" : nextTxt;
+          s.classList.toggle("stale", stale);
+        }
+      }
+      refreshTimes();
+      setInterval(refreshTimes, 60_000);
+
+      document.querySelector(".theme")?.addEventListener("click", () => {
+        const root = document.documentElement;
+        const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+        root.dataset.theme = dark ? "light" : "dark";
+        try {
+          localStorage.setItem("ss-theme", root.dataset.theme);
+        } catch {}
+      });
+
+      // Shared chart tooltip: any element with data-tip (HTML string) shows it on hover/focus.
+      const tip = document.querySelector<HTMLDivElement>(".tip")!;
+      function show(el: Element, x: number, y: number) {
+        tip.innerHTML = (el as HTMLElement).dataset.tip ?? "";
+        tip.classList.add("on");
+        const r = tip.getBoundingClientRect();
+        tip.style.left = `${Math.min(window.innerWidth - r.width - 8, Math.max(8, x - r.width / 2))}px`;
+        tip.style.top = `${Math.max(8, y - r.height - 14)}px`;
+      }
+      document.addEventListener("pointermove", (e) => {
+        const el = (e.target as Element).closest?.("[data-tip]");
+        if (el) show(el, e.clientX, e.clientY);
+        else tip.classList.remove("on");
+      });
+      document.addEventListener("focusin", (e) => {
+        const el = (e.target as Element).closest?.("[data-tip]");
+        if (el) {
+          const r = el.getBoundingClientRect();
+          show(el, r.left + r.width / 2, r.top);
+        }
+      });
+      document.addEventListener("focusout", () => tip.classList.remove("on"));
+    </script>
+  </body>
+</html>
+
+<style>
+  .skip:focus {
+    position: fixed !important;
+    top: 8px;
+    left: 8px;
+    width: auto;
+    height: auto;
+    clip: auto;
+    z-index: 100;
+    background: var(--ink);
+    color: var(--page);
+    padding: 8px 12px;
+    border-radius: 6px;
+  }
+  .top {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    background: color-mix(in srgb, var(--page) 86%, transparent);
+    backdrop-filter: saturate(1.4) blur(12px);
+    -webkit-backdrop-filter: saturate(1.4) blur(12px);
+    border-bottom: 1px solid var(--hairline);
+  }
+  .top-inner {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    height: 60px;
+  }
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: var(--ink);
+    flex-shrink: 0;
+  }
+  .brand-name {
+    font-family: var(--serif);
+    font-size: 23px;
+    letter-spacing: -0.01em;
+    line-height: 1;
+  }
+  .nav {
+    display: flex;
+    gap: 2px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    flex: 1;
+    min-width: 0;
+  }
+  .nav::-webkit-scrollbar {
+    display: none;
+  }
+  .nav a {
+    text-decoration: none;
+    color: var(--ink-2);
+    font-size: 14px;
+    padding: 7px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .nav a:hover {
+    color: var(--ink);
+    background: var(--wash);
+  }
+  .nav a[aria-current="page"] {
+    color: var(--ink);
+    background: var(--surface-2);
+  }
+  .top-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+  }
+  .status {
+    display: inline-flex;
+    align-items: center;
+    gap: 0;
+    font-family: var(--mono);
+    font-size: 11.5px;
+    color: var(--ink-2);
+    text-decoration: none;
+    padding: 6px 10px;
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    background: var(--surface);
+    white-space: nowrap;
+  }
+  .pulse {
+    margin-right: 8px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--good-dot);
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--good-dot) 60%, transparent);
+    animation: pulse 2.4s ease-out infinite;
+  }
+  .status.stale .pulse {
+    background: var(--warn);
+    animation: none;
+  }
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--good-dot) 55%, transparent); }
+    70% { box-shadow: 0 0 0 7px transparent; }
+    100% { box-shadow: 0 0 0 0 transparent; }
+  }
+  .theme {
+    appearance: none;
+    border: 1px solid var(--hairline);
+    background: var(--surface);
+    color: var(--ink-2);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+  }
+  .theme:hover {
+    color: var(--ink);
+  }
+  @media (max-width: 1180px) {
+    .top-inner {
+      flex-wrap: wrap;
+      height: auto;
+      padding-top: 10px;
+      gap: 6px 12px;
+    }
+    .brand {
+      flex: 1;
+    }
+    .nav {
+      order: 3;
+      flex-basis: 100%;
+      margin: 0 calc(-1 * var(--gutter));
+      padding: 2px var(--gutter) 8px;
+    }
+  }
+  .brand-name {
+    white-space: nowrap;
+  }
+  @media (max-width: 640px) {
+    .status-next,
+    .status-label {
+      display: none;
+    }
+  }
+  @media (max-width: 400px) {
+    .brand-name {
+      font-size: 21px;
+    }
+    .status {
+      padding: 6px 8px;
+      font-size: 11px;
+    }
+  }
+
+  .foot {
+    margin-top: 96px;
+    border-top: 1px solid var(--ink);
+    padding: 40px 0 56px;
+  }
+  .foot-inner {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 40px;
+  }
+  .foot-brand p {
+    max-width: 520px;
+    margin: 12px 0 0;
+  }
+  .small {
+    font-size: 13px;
+  }
+  .foot-links {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 24px;
+  }
+  .foot-links div {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .foot-links .eyebrow {
+    margin-bottom: 4px;
+  }
+  .foot-links a {
+    text-decoration: none;
+    color: var(--ink-2);
+    font-size: 14px;
+  }
+  .foot-links a:hover {
+    color: var(--ink);
+  }
+  @media (max-width: 760px) {
+    .foot-inner {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+</style>

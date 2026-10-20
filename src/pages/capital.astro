@@ -1,0 +1,130 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHead from "../components/PageHead.astro";
+import Kpi from "../components/Kpi.astro";
+import DealsChart from "../components/DealsChart.astro";
+import DealRow from "../components/DealRow.astro";
+import Wire from "../components/Wire.astro";
+import { deals, items, withinDays } from "../lib/data";
+import { compactUsd, href } from "../lib/format";
+
+const rounds = deals.filter((d) => d.round !== "Acquisition");
+const acquisitions = deals.filter((d) => d.round === "Acquisition");
+const disclosed12 = rounds.filter((d) => d.amountUsd && withinDays(d.date, 365));
+const total12 = disclosed12.reduce((s, d) => s + (d.amountUsd ?? 0), 0);
+const largest = [...rounds].sort((a, b) => (b.amountUsd ?? 0) - (a.amountUsd ?? 0))[0];
+
+// Investor activity across verified + auto deals (leads count double).
+const inv = new Map<string, { leads: number; total: number; companies: Set<string> }>();
+for (const d of rounds) {
+  for (const [name, lead] of [...d.lead.map((n) => [n, true] as const), ...d.participants.map((n) => [n, false] as const)]) {
+    const e = inv.get(name) ?? { leads: 0, total: 0, companies: new Set<string>() };
+    e.total++;
+    if (lead) e.leads++;
+    e.companies.add(d.company);
+    inv.set(name, e);
+  }
+}
+const investors = [...inv.entries()].sort((a, b) => b[1].leads * 2 + b[1].total - (a[1].leads * 2 + a[1].total)).slice(0, 12);
+const coverage = items.filter((i) => i.category === "funding");
+---
+<Base title="Capital" active="capital" description="Funding rounds, acquisitions and investors in AI simulation of human behavior — verified deals and auto-detected reports, each with sources.">
+  <div class="wrap">
+    <PageHead
+      eyebrow="Capital"
+      title="Deals & investors"
+      lede="Who is funding AI that simulates people. Verified deals were checked by hand against the cited source; auto-detected deals were extracted from headlines and are flagged until confirmed."
+    >
+      <div class="kpis">
+        <Kpi label="Raised · 12 months" value={compactUsd(total12)} sub={`${disclosed12.length} disclosed rounds`} />
+        <Kpi label="Largest round" value={largest ? compactUsd(largest.amountUsd) : "—"} sub={largest ? `${largest.company} · ${largest.round}` : ""} />
+        <Kpi label="Acquisitions" value={acquisitions.length} sub={acquisitions[0] ? `latest: ${acquisitions[0].company}` : ""} />
+        <Kpi label="Deals tracked" value={deals.length} sub={`${deals.filter((d) => d.verified).length} verified`} />
+      </div>
+    </PageHead>
+
+    <div class="grid">
+      <section>
+        <div class="section-head"><h2>All deals</h2><span class="mono muted">newest first</span></div>
+        {deals.map((d) => <DealRow deal={d} />)}
+        <p class="mono muted note">Know of a deal we've missed, or spot an error? <a href={href("/about#corrections")}>Send a correction</a>.</p>
+      </section>
+      <aside>
+        <div class="panel pad"><DealsChart deals={deals} /></div>
+        <section class="investors">
+          <div class="section-head"><h2>Investors</h2></div>
+          <ul>
+            {investors.map(([name, e]) => (
+              <li>
+                <span class="nm">{name}</span>
+                <span class="muted">{[...e.companies].join(", ")}</span>
+                <span class="mono muted">{e.leads ? `${e.leads} lead` : "participant"}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </aside>
+    </div>
+
+    <section class="coverage">
+      <div class="section-head"><h2>Deal coverage</h2><span class="mono muted">{coverage.length} reports</span></div>
+      <div class="narrow"><Wire items={coverage} filters={false} hideCategory pageSize={15} /></div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr);
+    gap: 56px;
+    align-items: start;
+  }
+  .pad {
+    padding: 20px;
+  }
+  .note {
+    font-size: 12px;
+    margin-top: 16px;
+  }
+  .investors {
+    margin-top: 40px;
+  }
+  .investors ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .investors li {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0 12px;
+    padding: 11px 0;
+    border-bottom: 1px solid var(--hairline);
+    font-size: 14px;
+  }
+  .investors .nm {
+    font-weight: 600;
+  }
+  .investors .muted:not(.mono) {
+    grid-column: 1;
+    font-size: 12.5px;
+  }
+  .investors .mono {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: center;
+    font-size: 11.5px;
+  }
+  .coverage {
+    margin-top: 72px;
+  }
+  .narrow {
+    max-width: 860px;
+  }
+  @media (max-width: 960px) {
+    .grid {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+</style>

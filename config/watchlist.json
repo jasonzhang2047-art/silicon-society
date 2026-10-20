@@ -1,0 +1,658 @@
+{
+  "$comment": "Who and what we track. Only add social handles you have verified - a wrong handle is worse than none. 'match' is an optional case-insensitive regex used to tag items that mention the entity (defaults to the name / aliases).",
+  "people": [
+    {
+      "id": "joon-sung-park",
+      "name": "Joon Sung Park",
+      "affiliation": "Simile (CEO) · Stanford",
+      "group": "founder",
+      "focus": "Generative agents; simulations of 1,000 real people",
+      "links": {
+        "bluesky": "joon-s-pk.bsky.social",
+        "x": "joon_s_pk"
+      },
+      "orgs": [
+        "simile",
+        "stanford-hci"
+      ]
+    },
+    {
+      "id": "michael-bernstein",
+      "name": "Michael Bernstein",
+      "affiliation": "Stanford · Simile",
+      "group": "academia",
+      "focus": "HCI; generative agents; social computing",
+      "links": {
+        "homepage": "https://hci.stanford.edu/msb/",
+        "bluesky": "mbernst.bsky.social",
+        "x": "msbernst"
+      },
+      "orgs": [
+        "simile",
+        "stanford-hci"
+      ],
+      "match": "michael (?:s\\. )?bernstein"
+    },
+    {
+      "id": "percy-liang",
+      "name": "Percy Liang",
+      "affiliation": "Stanford · Simile",
+      "group": "academia",
+      "focus": "Foundation models; evaluation; agent simulation",
+      "links": {
+        "homepage": "https://cs.stanford.edu/~pliang/",
+        "x": "percyliang"
+      },
+      "orgs": [
+        "simile",
+        "stanford-hci"
+      ]
+    },
+    {
+      "id": "diyi-yang",
+      "name": "Diyi Yang",
+      "affiliation": "Stanford",
+      "group": "academia",
+      "focus": "Social NLP; LLM social simulation",
+      "links": {
+        "homepage": "https://cs.stanford.edu/~diyiy/",
+        "bluesky": "diyiyang.bsky.social",
+        "x": "Diyi_Yang"
+      }
+    },
+    {
+      "id": "robb-willer",
+      "name": "Robb Willer",
+      "affiliation": "Stanford (Sociology)",
+      "group": "academia",
+      "focus": "Predicting social-science experiments with LLMs",
+      "links": {
+        "bluesky": "robbwiller.bsky.social"
+      }
+    },
+    {
+      "id": "caleb-ziems",
+      "name": "Caleb Ziems",
+      "affiliation": "Stanford NLP",
+      "group": "academia",
+      "focus": "LLMs for computational social science",
+      "links": {
+        "homepage": "https://calebziems.com",
+        "bluesky": "calebziems.com"
+      }
+    },
+    {
+      "id": "maarten-sap",
+      "name": "Maarten Sap",
+      "affiliation": "Carnegie Mellon (LTI)",
+      "group": "academia",
+      "focus": "Sotopia; social intelligence in LLM agents",
+      "links": {
+        "homepage": "https://maartensap.com",
+        "bluesky": "maartensap.bsky.social",
+        "x": "MaartenSap"
+      },
+      "orgs": [
+        "cmu-lti"
+      ]
+    },
+    {
+      "id": "xuhui-zhou",
+      "name": "Xuhui Zhou",
+      "affiliation": "Carnegie Mellon (LTI)",
+      "group": "academia",
+      "focus": "Sotopia; social simulation of LLM agents",
+      "links": {
+        "bluesky": "nlpxuhui.bsky.social"
+      },
+      "orgs": [
+        "cmu-lti"
+      ]
+    },
+    {
+      "id": "graham-neubig",
+      "name": "Graham Neubig",
+      "affiliation": "Carnegie Mellon (LTI)",
+      "group": "academia",
+      "focus": "Agents; Sotopia co-author",
+      "links": {
+        "homepage": "https://www.phontron.com",
+        "bluesky": "gneubig.bsky.social",
+        "x": "gneubig"
+      },
+      "orgs": [
+        "cmu-lti"
+      ]
+    },
+    {
+      "id": "joel-leibo",
+      "name": "Joel Z. Leibo",
+      "affiliation": "Google DeepMind",
+      "group": "industry",
+      "focus": "Concordia; generative agent-based modeling",
+      "links": {
+        "homepage": "https://www.jzleibo.com",
+        "bluesky": "jzleibo.bsky.social",
+        "x": "jzleibo"
+      },
+      "orgs": [
+        "google-deepmind"
+      ],
+      "match": "joel (?:z\\. )?leibo"
+    },
+    {
+      "id": "john-horton",
+      "name": "John J. Horton",
+      "affiliation": "MIT Sloan · Expected Parrot",
+      "group": "academia",
+      "focus": "Homo silicus; AI-simulated economic agents",
+      "links": {
+        "bluesky": "johnjhorton.bsky.social",
+        "x": "johnjhorton"
+      },
+      "orgs": [
+        "expected-parrot"
+      ],
+      "match": "john (?:j\\. )?horton"
+    },
+    {
+      "id": "benjamin-manning",
+      "name": "Benjamin Manning",
+      "affiliation": "MIT (Economics)",
+      "group": "academia",
+      "focus": "Automated social science with LLM agents",
+      "links": {
+        "bluesky": "benjaminsmanning.bsky.social"
+      }
+    },
+    {
+      "id": "lisa-argyle",
+      "name": "Lisa P. Argyle",
+      "affiliation": "Purdue (Political Science)",
+      "group": "academia",
+      "focus": "'Out of One, Many' — silicon sampling",
+      "links": {
+        "bluesky": "lpargyle.bsky.social"
+      },
+      "match": "lisa (?:p\\. )?argyle"
+    },
+    {
+      "id": "ethan-busby",
+      "name": "Ethan Busby",
+      "affiliation": "Political scientist",
+      "group": "academia",
+      "focus": "Silicon samples; AI and political psychology",
+      "links": {
+        "bluesky": "ethanbusby.bsky.social"
+      }
+    },
+    {
+      "id": "petter-tornberg",
+      "name": "Petter Törnberg",
+      "affiliation": "University of Amsterdam",
+      "group": "academia",
+      "focus": "LLM social-media simulations",
+      "links": {
+        "homepage": "https://www.pettertornberg.com",
+        "bluesky": "pettertornberg.com"
+      },
+      "match": "petter t(?:ö|o)rnberg"
+    },
+    {
+      "id": "chris-bail",
+      "name": "Chris Bail",
+      "affiliation": "Duke (Society-Centered AI)",
+      "group": "academia",
+      "focus": "Generative AI for social science; polarization",
+      "links": {
+        "homepage": "https://www.chrisbail.net",
+        "bluesky": "chrisbail.bsky.social"
+      },
+      "match": "chris(?:topher)? (?:a\\. )?bail\\b"
+    },
+    {
+      "id": "igor-grossmann",
+      "name": "Igor Grossmann",
+      "affiliation": "University of Waterloo",
+      "group": "academia",
+      "focus": "AI and the transformation of social science",
+      "links": {
+        "bluesky": "igi.bsky.social"
+      }
+    },
+    {
+      "id": "luke-hewitt",
+      "name": "Luke Hewitt",
+      "affiliation": "Researcher · AI and persuasion",
+      "group": "academia",
+      "focus": "Predicting experiment results with LLMs",
+      "links": {
+        "homepage": "https://lukehewitt.info",
+        "bluesky": "lukebeehewitt.bsky.social"
+      }
+    },
+    {
+      "id": "guohao-li",
+      "name": "Guohao Li",
+      "affiliation": "CAMEL-AI (Founder)",
+      "group": "founder",
+      "focus": "OASIS — million-agent social simulation",
+      "links": {
+        "bluesky": "guohaoli.bsky.social"
+      },
+      "orgs": [
+        "camel-ai"
+      ]
+    },
+    {
+      "id": "yong-li",
+      "name": "Yong Li",
+      "affiliation": "Tsinghua University (FIB Lab)",
+      "group": "academia",
+      "focus": "AgentSociety — large-scale LLM society simulation",
+      "links": {},
+      "orgs": [
+        "tsinghua-fib"
+      ],
+      "match": "yong li\\b.{0,60}tsinghua|tsinghua.{0,60}yong li\\b"
+    },
+    {
+      "id": "guo-hangjiang",
+      "name": "Guo Hangjiang",
+      "affiliation": "MiroFish (creator)",
+      "group": "founder",
+      "focus": "MiroFish swarm prediction engine; BettaFish",
+      "links": {
+        "github": "666ghj"
+      },
+      "orgs": [
+        "mirofish"
+      ]
+    },
+    {
+      "id": "cameron-fink",
+      "name": "Cameron Fink",
+      "affiliation": "Aaru (Co-founder)",
+      "group": "founder",
+      "focus": "Population-scale simulation for prediction",
+      "links": {},
+      "orgs": [
+        "aaru"
+      ]
+    },
+    {
+      "id": "ned-koh",
+      "name": "Ned Koh",
+      "affiliation": "Aaru (Co-founder)",
+      "group": "founder",
+      "focus": "Population-scale simulation for prediction",
+      "links": {},
+      "orgs": [
+        "aaru"
+      ]
+    },
+    {
+      "id": "ben-warner",
+      "name": "Ben Warner",
+      "affiliation": "Electric Twin (Co-founder)",
+      "group": "founder",
+      "focus": "Synthetic audiences",
+      "links": {},
+      "orgs": [
+        "electric-twin"
+      ]
+    }
+  ],
+  "orgs": [
+    {
+      "id": "simile",
+      "name": "Simile",
+      "kind": "company",
+      "url": "https://www.simile.ai",
+      "description": "Agentic twins of real people, grounded in interviews, for research and decision-making. Founded by the Stanford generative-agents team.",
+      "match": "simile ai|simile's|\\bsimile\\b.{0,80}(?:simulat|twin|joon|synthetic|stanford|greenoaks|index ventures|startup|raises)",
+      "blog": {
+        "type": "pagewatch",
+        "url": "https://www.simile.ai/blog",
+        "linkPattern": "^/blog/[a-z0-9-]+$"
+      }
+    },
+    {
+      "id": "aaru",
+      "name": "Aaru",
+      "kind": "company",
+      "url": "https://aaru.com",
+      "description": "Prediction engine that deploys thousands of AI agents to simulate how populations behave.",
+      "match": "\\baaru\\b"
+    },
+    {
+      "id": "electric-twin",
+      "name": "Electric Twin",
+      "kind": "company",
+      "url": "https://www.electrictwin.com",
+      "description": "Synthetic-audience models that simulate how real people think and respond.",
+      "match": "electric twin"
+    },
+    {
+      "id": "artificial-societies",
+      "name": "Artificial Societies",
+      "kind": "company",
+      "url": "https://societies.io",
+      "description": "Simulations of target audiences as societies of AI personas, for faster market research.",
+      "match": "artificial societies"
+    },
+    {
+      "id": "listen-labs",
+      "name": "Listen Labs",
+      "kind": "company",
+      "url": "https://listenlabs.ai",
+      "description": "AI-moderated customer interviews at scale; building toward simulated customers.",
+      "match": "listen labs",
+      "blog": {
+        "type": "pagewatch",
+        "url": "https://www.listenlabs.ai/blog",
+        "linkPattern": "^\\./blog/[a-z0-9-]+$"
+      }
+    },
+    {
+      "id": "expected-parrot",
+      "name": "Expected Parrot",
+      "kind": "company",
+      "url": "https://www.expectedparrot.com",
+      "description": "Open-source EDSL toolkit for AI-powered surveys, experiments and simulated respondents.",
+      "match": "expected parrot|\\bedsl\\b",
+      "links": {
+        "bluesky": "expectedparrot.bsky.social",
+        "github": "expectedparrot"
+      },
+      "blog": {
+        "type": "rss",
+        "url": "https://blog.expectedparrot.com/feed"
+      }
+    },
+    {
+      "id": "evidenza",
+      "name": "Evidenza",
+      "kind": "company",
+      "url": "https://www.evidenza.ai",
+      "description": "Synthetic B2B buyer panels for marketing strategy.",
+      "match": "evidenza"
+    },
+    {
+      "id": "mirofish",
+      "name": "MiroFish",
+      "kind": "company",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "Open-source swarm-intelligence engine that turns a source document into a simulated society and forecasts its reaction. Incubated by Shanda Group.",
+      "match": "mirofish|bettafish",
+      "links": {
+        "github": "666ghj"
+      }
+    },
+    {
+      "id": "camel-ai",
+      "name": "CAMEL-AI",
+      "kind": "lab",
+      "url": "https://www.camel-ai.org",
+      "description": "Open-source multi-agent research community behind OASIS, a million-agent social-media simulator.",
+      "match": "camel-ai|camel ai|\\boasis\\b.{0,60}(?:social|agents?|simulat)",
+      "links": {
+        "bluesky": "camelaiorg.bsky.social",
+        "github": "camel-ai"
+      },
+      "blog": {
+        "type": "pagewatch",
+        "url": "https://www.camel-ai.org/blogs",
+        "linkPattern": "^/blogs/[a-z0-9-]+$",
+        "filter": true
+      }
+    },
+    {
+      "id": "stanford-hci",
+      "name": "Stanford HCI / NLP",
+      "kind": "lab",
+      "url": "https://hci.stanford.edu",
+      "description": "Origin of Generative Agents (Smallville) and the 1,000-person agent simulation study.",
+      "match": "stanford.{0,80}(?:generative agents|simulat)|(?:generative agents|smallville).{0,80}stanford"
+    },
+    {
+      "id": "google-deepmind",
+      "name": "Google DeepMind",
+      "kind": "lab",
+      "url": "https://deepmind.google",
+      "description": "Concordia, a library for generative agent-based social simulation.",
+      "match": "concordia.{0,60}(?:agent|simulat|deepmind)|deepmind.{0,80}(?:simulat|concordia|social)",
+      "blog": {
+        "type": "rss",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "filter": true
+      }
+    },
+    {
+      "id": "microsoft-research",
+      "name": "Microsoft Research",
+      "kind": "lab",
+      "url": "https://www.microsoft.com/en-us/research/",
+      "description": "TinyTroupe, an LLM-powered multi-agent persona simulation library.",
+      "match": "tinytroupe"
+    },
+    {
+      "id": "tsinghua-fib",
+      "name": "Tsinghua FIB Lab",
+      "kind": "lab",
+      "url": "https://github.com/tsinghua-fib-lab",
+      "description": "AgentSociety — large-scale LLM-driven society simulation.",
+      "match": "agentsociety|tsinghua.{0,60}(?:society simulation|social simulation)"
+    },
+    {
+      "id": "cmu-lti",
+      "name": "CMU Language Technologies Institute",
+      "kind": "lab",
+      "url": "https://www.lti.cs.cmu.edu",
+      "description": "Sotopia — open-ended environment for social intelligence of language agents.",
+      "match": "sotopia"
+    },
+    {
+      "id": "ruc-gsai",
+      "name": "Renmin University GSAI",
+      "kind": "lab",
+      "url": "https://github.com/RUC-GSAI",
+      "description": "YuLan-OneSim social simulator; LLM user-behavior simulation.",
+      "match": "yulan-onesim|onesim"
+    },
+    {
+      "id": "shanda-group",
+      "name": "Shanda Group",
+      "kind": "investor",
+      "url": "https://www.shanda.com",
+      "description": "Incubator and backer of MiroFish.",
+      "match": "shanda|chen tianqiao"
+    },
+    {
+      "id": "index-ventures",
+      "name": "Index Ventures",
+      "kind": "investor",
+      "url": "https://www.indexventures.com",
+      "description": "Led Simile's Series A.",
+      "match": "index ventures"
+    },
+    {
+      "id": "greenoaks",
+      "name": "Greenoaks",
+      "kind": "investor",
+      "url": "https://greenoaks.com",
+      "description": "Led Simile's Series B.",
+      "match": "greenoaks"
+    },
+    {
+      "id": "bain-capital-ventures",
+      "name": "Bain Capital Ventures",
+      "kind": "investor",
+      "url": "https://baincapitalventures.com",
+      "description": "Investor in Simile.",
+      "match": "bain capital ventures"
+    },
+    {
+      "id": "cvs-health-ventures",
+      "name": "CVS Health Ventures",
+      "kind": "investor",
+      "url": "https://www.cvshealth.com",
+      "description": "Strategic investor in Simile.",
+      "match": "cvs health ventures"
+    },
+    {
+      "id": "redpoint",
+      "name": "Redpoint Ventures",
+      "kind": "investor",
+      "url": "https://www.redpoint.com",
+      "description": "Led Aaru's Series A.",
+      "match": "redpoint"
+    },
+    {
+      "id": "ribbit-capital",
+      "name": "Ribbit Capital",
+      "kind": "investor",
+      "url": "https://ribbitcap.com",
+      "description": "Led Listen Labs' Series B.",
+      "match": "ribbit capital"
+    },
+    {
+      "id": "sequoia",
+      "name": "Sequoia Capital",
+      "kind": "investor",
+      "url": "https://www.sequoiacap.com",
+      "description": "Investor in Listen Labs.",
+      "match": "sequoia"
+    },
+    {
+      "id": "point72-ventures",
+      "name": "Point72 Ventures",
+      "kind": "investor",
+      "url": "https://p72.vc",
+      "description": "Led Artificial Societies' seed round.",
+      "match": "point72"
+    },
+    {
+      "id": "atomico",
+      "name": "Atomico",
+      "kind": "investor",
+      "url": "https://atomico.com",
+      "description": "Investor in Electric Twin.",
+      "match": "atomico"
+    },
+    {
+      "id": "y-combinator",
+      "name": "Y Combinator",
+      "kind": "investor",
+      "url": "https://www.ycombinator.com",
+      "description": "Backed Artificial Societies and Expected Parrot.",
+      "match": "y combinator|\\byc\\b"
+    }
+  ],
+  "repos": [
+    {
+      "repo": "666ghj/MiroFish",
+      "org": "mirofish",
+      "label": "Swarm prediction engine"
+    },
+    {
+      "repo": "666ghj/BettaFish",
+      "org": "mirofish",
+      "label": "Multi-agent public-opinion analysis"
+    },
+    {
+      "repo": "joonspk-research/generative_agents",
+      "org": "stanford-hci",
+      "label": "Generative Agents (Smallville)"
+    },
+    {
+      "repo": "StanfordHCI/genagents",
+      "org": "stanford-hci",
+      "label": "1,000-person agent bank"
+    },
+    {
+      "repo": "camel-ai/oasis",
+      "org": "camel-ai",
+      "label": "Million-agent social simulator"
+    },
+    {
+      "repo": "google-deepmind/concordia",
+      "org": "google-deepmind",
+      "label": "Generative social simulation library"
+    },
+    {
+      "repo": "tsinghua-fib-lab/AgentSociety",
+      "org": "tsinghua-fib",
+      "label": "LLM-native society simulation"
+    },
+    {
+      "repo": "microsoft/TinyTroupe",
+      "org": "microsoft-research",
+      "label": "Persona simulation"
+    },
+    {
+      "repo": "a16z-infra/ai-town",
+      "label": "Deployable generative-agent town"
+    },
+    {
+      "repo": "expectedparrot/edsl",
+      "org": "expected-parrot",
+      "label": "AI surveys & simulated respondents"
+    },
+    {
+      "repo": "sotopia-lab/sotopia",
+      "org": "cmu-lti",
+      "label": "Social intelligence environment"
+    },
+    {
+      "repo": "RUC-GSAI/YuLan-OneSim",
+      "org": "ruc-gsai",
+      "label": "General social simulator"
+    },
+    {
+      "repo": "altera-al/project-sid",
+      "label": "Civilization-scale agent simulation (Minecraft)"
+    },
+    {
+      "repo": "YSocialTwin/YSocial",
+      "label": "Social-media digital twin"
+    },
+    {
+      "repo": "OpenBMB/AgentVerse",
+      "label": "Multi-agent simulation framework"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "hf-daily"
+    },
+    {
+      "name": "CoMSES Net events",
+      "type": "comses"
+    },
+    {
+      "name": "WikiCFP · Multi-agent systems",
+      "type": "wikicfp",
+      "url": "http://www.wikicfp.com/cfp/rss?cat=multi-agent%20systems"
+    },
+    {
+      "name": "WikiCFP · Computational social science",
+      "type": "wikicfp",
+      "url": "http://www.wikicfp.com/cfp/rss?cat=computational%20social%20science",
+      "trusted": true
+    },
+    {
+      "name": "WikiCFP · Agent-based modeling",
+      "type": "wikicfp",
+      "url": "http://www.wikicfp.com/cfp/rss?cat=agent-based%20modeling",
+      "trusted": true
+    },
+    {
+      "name": "WikiCFP · Social simulation",
+      "type": "wikicfp",
+      "url": "http://www.wikicfp.com/cfp/rss?cat=social%20simulation",
+      "trusted": true
+    }
+  ]
+}

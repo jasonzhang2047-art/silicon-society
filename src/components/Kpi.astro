@@ -1,0 +1,33 @@
+---
+interface Props { label: string; value: string | number; sub?: string }
+const { label, value, sub } = Astro.props;
+---
+<div class="kpi">
+  <div class="label">{label}</div>
+  <div class="value">{value}</div>
+  {sub && <div class="sub">{sub}</div>}
+</div>
+
+<style>
+  .kpi {
+    min-width: 120px;
+  }
+  .label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .value {
+    font-weight: 600;
+    font-size: 32px;
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+    margin-top: 6px;
+  }
+  .sub {
+    font-size: 13px;
+    color: var(--ink-2);
+  }
+</style>

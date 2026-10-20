@@ -1,0 +1,119 @@
+---
+import type { EventEntry } from "../lib/data";
+import { dateRange, shortDate } from "../lib/format";
+
+interface Props { event: EventEntry; compact?: boolean; today: string }
+const { event: e, compact = false, today } = Astro.props;
+const start = new Date(`${e.start}T00:00:00Z`);
+const month = start.toLocaleString("en", { month: "short", timeZone: "UTC" });
+const day = e.datePrecision === "month" ? "—" : String(start.getUTCDate());
+const openDeadlines = (e.deadlines ?? []).filter((d) => d.date >= today);
+const live = e.start <= today && (e.end ?? e.start) >= today;
+---
+<div class:list={["event-row", { compact, past: !e.upcoming }]}>
+  <div class="cal" aria-hidden="true">
+    <span class="m">{month}</span>
+    <span class="d">{day}</span>
+  </div>
+  <div class="main">
+    <a class="name" href={e.url} rel="noopener" target="_blank">{e.name}</a>
+    <div class="info">
+      <span>{dateRange(e.start, e.end, e.datePrecision)}</span>
+      {e.location && <><span aria-hidden="true">·</span><span>{e.location}</span></>}
+      {live && <span class="badge solid">Happening now</span>}
+    </div>
+    {!compact && e.description && <p class="desc">{e.description}</p>}
+    {!compact && openDeadlines.length > 0 && (
+      <div class="deadlines">
+        {openDeadlines.map((d) => <span class="badge">{d.label} due {shortDate(d.date)}</span>)}
+      </div>
+    )}
+    {!compact && (
+      <div class="src mono">
+        <span>via <a href={e.source.url} rel="noopener" target="_blank">{e.source.name}</a></span>
+        {e.verified
+          ? <span class="badge verified" title="Dates checked by hand against the official page">Verified</span>
+          : <span class="badge" title="Listed automatically from a community calendar">Community calendar</span>}
+        {e.tags?.includes("cfp") && <span class="badge">Call for papers</span>}
+      </div>
+    )}
+  </div>
+</div>
+
+<style>
+  .event-row {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: 16px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .event-row.past {
+    opacity: 0.6;
+  }
+  .cal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 56px;
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+  }
+  .cal .m {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .cal .d {
+    font-family: var(--serif);
+    font-size: 26px;
+    line-height: 1;
+  }
+  .name {
+    font-weight: 600;
+    font-size: 15.5px;
+    line-height: 1.35;
+    text-decoration: none;
+  }
+  .name:hover {
+    text-decoration: underline;
+  }
+  .info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px 8px;
+    margin-top: 4px;
+    font-size: 13.5px;
+    color: var(--ink-2);
+  }
+  .desc {
+    margin: 8px 0 0;
+    font-size: 14px;
+    color: var(--ink-2);
+    max-width: 680px;
+  }
+  .deadlines {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .src {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 8px;
+    margin-top: 8px;
+    font-size: 11.5px;
+    color: var(--muted);
+  }
+  .src a {
+    color: var(--ink-2);
+  }
+</style>

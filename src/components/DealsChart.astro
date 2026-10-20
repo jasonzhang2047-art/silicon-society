@@ -1,0 +1,100 @@
+---
+import type { Deal } from "../lib/data";
+import { compactUsd, monthYear } from "../lib/format";
+
+/** Disclosed round sizes — one series (bars share one hue), value at each bar tip. */
+interface Props { deals: Deal[] }
+const rows = Astro.props.deals
+  .filter((d) => d.amountUsd && d.round !== "Acquisition")
+  .sort((a, b) => (b.amountUsd ?? 0) - (a.amountUsd ?? 0));
+const max = Math.max(1, ...rows.map((d) => d.amountUsd ?? 0));
+---
+{rows.length > 0 && (
+  <figure class="deals-chart">
+    <figcaption class="eyebrow">Disclosed rounds by size</figcaption>
+    <div class="visually-hidden"><table>
+      <thead><tr><th>Company</th><th>Round</th><th>Amount (USD)</th><th>Date</th></tr></thead>
+      <tbody>{rows.map((d) => <tr><td>{d.company}</td><td>{d.round}</td><td>{d.amountUsd}</td><td>{d.date}</td></tr>)}</tbody>
+    </table></div>
+    <div class="bars" aria-hidden="true">
+      {rows.map((d) => (
+        <div
+          class="row"
+          tabindex="0"
+          data-tip={`<strong>${d.company} · ${d.round ?? "Funding"}</strong><div class="row"><span>Amount</span><span>${d.amountText ?? compactUsd(d.amountUsd)}</span></div><div class="row"><span>When</span><span>${monthYear(d.date)}</span></div>${d.lead.length ? `<div class="row"><span>Lead</span><span>${d.lead.join(", ")}</span></div>` : ""}${d.verified ? "" : "<div>Auto-detected</div>"}`}
+        >
+          <div class="lbl"><span class="co">{d.company}</span> <span class="rd">{d.round ?? ""}</span></div>
+          <div class="track">
+            <div class="bar" style={`width: ${Math.max(0.6, ((d.amountUsd ?? 0) / max) * 82)}%`}></div>
+            <span class="v num">{compactUsd(d.amountUsd)}</span>
+          </div>
+        </div>
+      ))}
+    </div>
+  </figure>
+)}
+
+<style>
+  .deals-chart {
+    margin: 0;
+  }
+  figcaption {
+    margin-bottom: 12px;
+  }
+  .bars {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 190px 1fr;
+    align-items: center;
+    gap: 14px;
+    padding: 5px 6px;
+    border-radius: 6px;
+    outline: none;
+  }
+  .row:hover,
+  .row:focus-visible {
+    background: var(--wash);
+  }
+  .lbl {
+    font-size: 13.5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .co {
+    font-weight: 600;
+  }
+  .rd {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .track {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+  }
+  .bar {
+    height: 18px;
+    background: var(--cat-funding);
+    border-radius: 0 4px 4px 0;
+    flex-shrink: 0;
+  }
+  .v {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--ink);
+    white-space: nowrap;
+  }
+  @media (max-width: 560px) {
+    .row {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 4px;
+    }
+  }
+</style>

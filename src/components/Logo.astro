@@ -1,0 +1,13 @@
+---
+/** Nine members of a society; the hollow one in the middle is simulated. */
+interface Props { size?: number }
+const { size = 22 } = Astro.props;
+const pts = [4, 11, 18];
+---
+<svg width={size} height={size} viewBox="0 0 22 22" aria-hidden="true" class="logo-mark">
+  {pts.flatMap((y) => pts.map((x) =>
+    x === 11 && y === 11
+      ? <circle cx={x} cy={y} r="2.6" fill="none" stroke="currentColor" stroke-width="1.4" />
+      : <circle cx={x} cy={y} r="2.4" fill="currentColor" />
+  ))}
+</svg>

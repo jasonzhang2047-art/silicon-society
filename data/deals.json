@@ -1,0 +1,304 @@
+[
+ {
+  "company": "Listen Labs",
+  "org": "listen-labs",
+  "round": "Acquisition",
+  "amountUsd": 2000000000,
+  "amountText": "$2B",
+  "lead": [
+   "Salesforce"
+  ],
+  "participants": [],
+  "date": "2026-09-29",
+  "datePrecision": "day",
+  "source": {
+   "name": "StreetInsider",
+   "url": "https://streetinsider.com/Corporate+News/Salesforce+agrees+to+acquire+AI+research+platform+Listen+Labs/27122914.html"
+  },
+  "headline": "Salesforce agrees to acquire AI research platform Listen Labs",
+  "verified": false,
+  "coverage": [
+   {
+    "title": "Salesforce to Acquire Client Research Platform Listen Labs",
+    "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-acquire-client-research-platform-210517947.html",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "Salesforce agrees to acquire Listen Labs",
+    "url": "https://tipranks.com/news/the-fly/salesforce-agrees-to-acquire-listen-labs-thefly-news",
+    "source": "TipRanks"
+   },
+   {
+    "title": "Salesforce agrees to buy Listen Labs",
+    "url": "https://tradingview.com/news/seekingalpha:cc9dac568094b:0-salesforce-agrees-to-buy-listen-labs",
+    "source": "TradingView"
+   },
+   {
+    "title": "Salesforce buys AI customer research startup Listen Labs",
+    "url": "https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs",
+    "source": "MarTech"
+   },
+   {
+    "title": "Salesforce Signs Definitive Agreement to Acquire Listen Labs",
+    "url": "https://directorsclub.news/2026/09/30/salesforce-signs-definitive-agreement-to-acquire-listen-labs",
+    "source": "Directors Club News -"
+   },
+   {
+    "title": "Salesforce to acquire Listen Labs for $2B",
+    "url": "https://saasrise.com/deals/salesforce-to-acquire-listen-labs-for-2-billion-32548fd6-a1a2-4075-93ce-824772ad93c1",
+    "source": "SaasRise"
+   },
+   {
+    "title": "Salesforce buys Sweden-founded Listen Labs in $2B AI deal",
+    "url": "https://app.dealroom.co/news/note/salesforce-buys-sweden-founded-listen-labs-in-2b-ai-deal",
+    "source": "Dealroom"
+   },
+   {
+    "title": "Salesforce to acquire AI customer research startup Listen Labs in reported $2B deal",
+    "url": "https://siliconangle.com/2026/10/01/salesforce-to-acquire-ai-customer-research-startup-listen-labs-in-reported-2b-deal",
+    "source": "SiliconANGLE"
+   },
+   {
+    "title": "Salesforce acquires Listen Labs for AI-powered context in customer feedback",
+    "url": "https://techzine.eu/news/applications/144707/salesforce-acquires-listen-labs-for-ai-powered-context-in-customer-feedback",
+    "source": "Techzine Global"
+   },
+   {
+    "title": "Salesforce to acquire AI research platform Listen Labs",
+    "url": "https://marketingreport.one/ai-for-marketing/salesforce-to-acquire-ai-research-platform-listen-labs.html",
+    "source": "https://marketingreport.one/"
+   }
+  ]
+ },
+ {
+  "company": "Intellicia",
+  "round": "Pre-Series A",
+  "amountUsd": 2500000,
+  "amountText": "$2.5M",
+  "lead": [],
+  "participants": [],
+  "date": "2026-09-02",
+  "datePrecision": "day",
+  "source": {
+   "name": "Dealroom",
+   "url": "https://app.dealroom.co/news/note/intellicia-raises-2-5m-pre-series-a-for-ai-synthetic-consumers"
+  },
+  "headline": "Intellicia raises $2.5M pre-Series A for AI 'synthetic consumers",
+  "verified": false,
+  "coverage": []
+ },
+ {
+  "company": "Simile",
+  "org": "simile",
+  "round": "Series B",
+  "amountUsd": 200000000,
+  "amountText": "$200M",
+  "valuationText": "$2B valuation",
+  "lead": [
+   "Greenoaks"
+  ],
+  "participants": [
+   "Index Ventures",
+   "Hanabi",
+   "Bain Capital Ventures",
+   "A*",
+   "Factory",
+   "Definition",
+   "CVS Health Ventures"
+  ],
+  "date": "2026-07-30",
+  "datePrecision": "day",
+  "source": {
+   "name": "Dealroom",
+   "url": "https://dealroom.co/news/142224-simile-raises-200m-series-b-at-2b-valuation-to-survey-ai-twins-of-consum/"
+  },
+  "extraSources": [
+   {
+    "name": "PYMNTS",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/simile-raises-200-million-dollars-ai-digital-twin-service/"
+   }
+  ],
+  "verified": true,
+  "coverage": [
+   {
+    "title": "Simile raises $200 million at a $2 billion valuation to replace focus groups with AI-simulated humans",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTnE2QkdxblRreTRLMFozb183NFBON1c4VHRHT2NTbXYxWERwQUdjY0VmMW5jMUVCMWlrdnFFTHN5SGtscEZDYVpscXhBN29FeV9WR3pEamZaVjlBQXN4emlTMDNJVUlxOXprcW5UbEJwMjZCRVlrdm9sSFoxMVFfbm04bEhhSUZCWWdkUzFjYnA0aUFmS0JrRC1DSS1CdEw4bktfbHhfbzRVem43Y01WYmpHWU8xN3RtcDEwT0RhT1VKOXgtS2c",
+    "source": "Startup Fortune"
+   },
+   {
+    "title": "Simile Raises $200 Million for AI Digital Twin Service",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUFXNTlZTF9IbnluVmQ5U2FuOXNWZHlSdmcxQ1lNNFIzeW1Db2dKVjBTT2F4MjJ1bW1tZ1UwMGhHODVhaUYwZnB0Rmt1emJ6bEJ0eXhlNUlSZUNfVDV1djlzcWxiRnplZVFLUnBQc3V1T0EwUzJtU2lOZ3JxckNDUXluOEhRVWMtYUVHY0s2M0FiU29PSXJiWDY3UUd1NHh3Y1I3akt1SjJOSGtWUGJPN2pVWm1LQQ",
+    "source": "PYMNTS.com"
+   },
+   {
+    "title": "Simile raises $100M Series A to build AI digital twins of human society",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xemxBMGlGTlZOYVdxbld2RnJ2R1B6d2ZuakZwZ21kVldmRFJzam44WDJsMWNsU09yUlZaR29EaGRldmRtaU5IUkZVdTRTQXdvTDZCcDI5SWdod1FfUDBFT0JqZ1NFZ3Rvc3RKc1J3bGU",
+    "source": "Crypto Briefing"
+   },
+   {
+    "title": "Simile raises $200M Series B at $2B valuation to survey AI 'twins' of consumers",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa200eUkwR0ZsZW5FcFBraTdGQVZBbG1ueHV1YTFwbWFxUUFTSVBHT3ZXMDFYaWo0X2RvVzBrcTlrVG1paHJRXzBqSXJ1QXc5YXJOVVBIc2hGMkt0WVlaXzFKY1JkWVNNV2hOempvUnVFMHhJUmZTdy1NQjlyN2x4VWJwZEk5Y3F4SnZGU2dMcHlpNXBhUjZET1ZCb1RwYmdrTkVyMnZZOFg2NUZNbVE",
+    "source": "Dealroom"
+   },
+   {
+    "title": "Simile Raises $200 Million for Building Agentic Twin Simulations of Real Consumers",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWnFxM2VGT1lXZVM2Q0RoMk5mdmdrSnlmdWlnLXE4MVBaWDlwR0xTTzhsZjFDUGEwTExPMng1TmlXZS03amZkdGRLeHJKNEFSOV9XOXZ5aHloQkhvRVJEMExpSTVXNjN2LTNmRDAzUlZFVXFZcVZpOENBdXpNQUxHRmZ6T2FKV292cU82etIBjAFBVV95cUxOWnFxM2VGT1lXZVM2Q0RoMk5mdmdrSnlmdWlnLXE4MVBaWDlwR0xTTzhsZjFDUGEwTExPMng1TmlXZS03amZkdGRLeHJKNEFSOV9XOXZ5aHloQkhvRVJEMExpSTVXNjN2LTNmRDAzUlZFVXFZcVZpOENBdXpNQUxHRmZ6T2FKV292cU82eg",
+    "source": "Ventureburn"
+   }
+  ]
+ },
+ {
+  "company": "Talp",
+  "round": "Pre-seed",
+  "amountUsd": null,
+  "amountText": null,
+  "lead": [],
+  "participants": [],
+  "date": "2026-07-02",
+  "datePrecision": "day",
+  "source": {
+   "name": "Tech Funding News",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY18xVEZrdVF1MjZUT2FyNUVXQ3VzWHFEYjhTRV81dm5ZaDlrei1KX1ljNFNxSFZWNDM0cUM5Qjl4WEZUZXdrR1lGUEJjVVExOFB1QzFpQVVwNXIzS1BsU0JJZHRIcHhfRVBVMW1QRjJzQzVfWTl6UFA5d0pPTUx6XzhRRTVwaDZoU1hoZURkS2ZYcTJ3X0RRbldpWWpndGZtUFBvUFJ2QkhaOUVCYWdKNTBkWWpqQ2RFXzByTFN4S3lSd0tVUlRpTGV4R05QX0xQZXF3WA"
+  },
+  "headline": "Meet Talp: AI startup with Turkish roots raised pre-seed at $20M valuation to simulate customers with AI personas",
+  "verified": false,
+  "coverage": []
+ },
+ {
+  "company": "MiroFish",
+  "org": "mirofish",
+  "round": "Incubation",
+  "amountUsd": 4100000,
+  "amountText": "¥30M (~$4.1M)",
+  "lead": [
+   "Shanda Group"
+  ],
+  "participants": [],
+  "date": "2026-03-15",
+  "datePrecision": "month",
+  "source": {
+   "name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/3720728841763465"
+  },
+  "verified": true,
+  "coverage": []
+ },
+ {
+  "company": "Simile",
+  "org": "simile",
+  "round": "Series A",
+  "amountUsd": 100000000,
+  "amountText": "$100M",
+  "lead": [
+   "Index Ventures"
+  ],
+  "participants": [],
+  "date": "2026-02-12",
+  "datePrecision": "day",
+  "source": {
+   "name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/02/12/ai-digital-twin-startup-simile-raises-100m-funding/"
+  },
+  "verified": true,
+  "coverage": []
+ },
+ {
+  "company": "Electric Twin",
+  "org": "electric-twin",
+  "round": "Seed",
+  "amountUsd": 14000000,
+  "amountText": "$14M (£10M)",
+  "lead": [],
+  "participants": [
+   "Atomico"
+  ],
+  "date": "2026-02-12",
+  "datePrecision": "day",
+  "source": {
+   "name": "Tech.eu",
+   "url": "https://tech.eu/2026/02/12/electric-twin-expands-ai-audience-platform-with-14m-round/"
+  },
+  "extraSources": [
+   {
+    "name": "Atomico",
+    "url": "https://atomico.com/insights/our-investment-in-electric-twin-unlocking-the-power-of-synthetic-audiences"
+   }
+  ],
+  "verified": true,
+  "coverage": []
+ },
+ {
+  "company": "Listen Labs",
+  "org": "listen-labs",
+  "round": "Series B",
+  "amountUsd": 69000000,
+  "amountText": "$69M",
+  "valuationText": "$500M valuation",
+  "lead": [
+   "Ribbit Capital"
+  ],
+  "participants": [
+   "Evantic",
+   "Sequoia Capital",
+   "Conviction",
+   "Pear VC"
+  ],
+  "date": "2026-01-15",
+  "datePrecision": "month",
+  "source": {
+   "name": "Techleap",
+   "url": "https://finder.techleap.nl/news/feed/listen-labs-raises-69m-to-scale-ai-powered-customer-research-globally"
+  },
+  "note": "Adjacent: AI-moderated interviews, with simulated customers on the roadmap.",
+  "verified": true,
+  "coverage": []
+ },
+ {
+  "company": "Aaru",
+  "org": "aaru",
+  "round": "Series A",
+  "amountUsd": null,
+  "amountText": "Undisclosed (reported >$50M)",
+  "valuationText": "$1B headline valuation",
+  "lead": [
+   "Redpoint Ventures"
+  ],
+  "participants": [],
+  "date": "2025-12-05",
+  "datePrecision": "day",
+  "source": {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation"
+  },
+  "verified": true,
+  "coverage": []
+ },
+ {
+  "company": "Artificial Societies",
+  "org": "artificial-societies",
+  "round": "Seed",
+  "amountUsd": 5350000,
+  "amountText": "$5.35M (€4.5M, pre-seed + seed)",
+  "lead": [
+   "Point72 Ventures"
+  ],
+  "participants": [
+   "Y Combinator",
+   "Kindred Capital"
+  ],
+  "date": "2025-07-30",
+  "datePrecision": "day",
+  "source": {
+   "name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2025/07/30/ai-startup-artificial-societies-simulates-behavior-target-audiences-speed-market-research/"
+  },
+  "extraSources": [
+   {
+    "name": "EU-Startups",
+    "url": "https://www.eu-startups.com/2025/08/british-ai-startup-artificial-societies-raises-e4-5-million-to-simulate-human-behaviour-at-scale/"
+   }
+  ],
+  "verified": true,
+  "coverage": []
+ }
+]

@@ -1,0 +1,337 @@
+---
+import Base from "../layouts/Base.astro";
+import Wire from "../components/Wire.astro";
+import WeeklyChart from "../components/WeeklyChart.astro";
+import DealRow from "../components/DealRow.astro";
+import EventRow from "../components/EventRow.astro";
+import { activeSources, clusterItems, deals, events, items, meta, peopleById, repos, site, withinDays, watchlist } from "../lib/data";
+import { compactNum, compactUsd, href, shortDate } from "../lib/format";
+
+const today = (meta.lastRunAt ?? new Date().toISOString()).slice(0, 10);
+// Calendar listings live on the events page; the wire is for things that were published.
+const recent = items
+  .filter((i) => withinDays(i.publishedAt, 150) && i.source.kind !== "wikicfp" && i.source.kind !== "comses")
+  .slice(0, 400);
+
+const week = items.filter((i) => withinDays(i.publishedAt, 7) && i.category !== "events");
+const papers30 = items.filter((i) => i.category === "research" && withinDays(i.publishedAt, 30));
+const rounds12 = deals.filter((d) => d.round !== "Acquisition" && d.amountUsd && withinDays(d.date, 365));
+const capital = rounds12.reduce((s, d) => s + (d.amountUsd ?? 0), 0);
+const upcoming = events.filter((e) => e.upcoming);
+const nextEvent = upcoming[0];
+
+const topRepos = [...repos].sort((a, b) => b.stars - a.stars).slice(0, 6);
+const starDelta = (r: (typeof repos)[number]) => {
+  const h = r.history;
+  if (h.length < 2) return null;
+  const weekAgo = h.find((p) => withinDays(`${p.date}T00:00:00Z`, 8)) ?? h[0];
+  return r.stars - weekAgo.stars;
+};
+
+// Who the field is talking about (mentions in the last 90 days).
+const mentionCounts = new Map<string, number>();
+for (const it of items.filter((i) => withinDays(i.publishedAt, 90))) {
+  for (const p of it.people) mentionCounts.set(p, (mentionCounts.get(p) ?? 0) + 1);
+}
+const activePeople = [...mentionCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 6)
+  .map(([id, n]) => ({ p: peopleById.get(id)!, n }))
+  .filter((x) => x.p);
+---
+<Base active="wire">
+  <section class="hero wrap">
+    <div class="hero-copy">
+      <div class="eyebrow">Field tracker · AI simulations of people &amp; societies</div>
+      <h1 class="display">Tracking the AI that <em>simulates</em> people.</h1>
+      <p class="lede">
+        Generative agents, synthetic respondents, human digital twins and social simulation — the papers,
+        funding, launches, posts and events, gathered from {activeSources || "a dozen"} public sources every {site.crawlIntervalHours} hours. Every item links back to where it came from.
+      </p>
+      <div class="cta">
+        <a class="btn" href="#wire">Read the wire ↓</a>
+        <a class="link mono" href={href("/feed.xml")}>RSS</a>
+        <a class="link mono" href={href("/about")}>How it works</a>
+      </div>
+    </div>
+    <div class="hero-chart panel">
+      <WeeklyChart />
+    </div>
+  </section>
+
+  <section class="wrap stats" aria-label="At a glance">
+    <div class="stat">
+      <div class="label">New this week</div>
+      <div class="value">{week.length}</div>
+      <div class="sub">signals across papers, news, posts &amp; code</div>
+    </div>
+    <div class="stat">
+      <div class="label">Papers · 30 days</div>
+      <div class="value">{papers30.length}</div>
+      <div class="sub">on arXiv and Hugging Face</div>
+    </div>
+    <div class="stat">
+      <div class="label">Capital raised · 12 months</div>
+      <div class="value">{compactUsd(capital)}</div>
+      <div class="sub">disclosed across {rounds12.length} rounds</div>
+    </div>
+    <div class="stat">
+      <div class="label">Upcoming events</div>
+      <div class="value">{upcoming.length}</div>
+      <div class="sub">{nextEvent ? <>next: {nextEvent.name.split(" — ")[0].split(" @ ")[0]}, {shortDate(nextEvent.start)}</> : "none scheduled"}</div>
+    </div>
+  </section>
+
+  <section class="wrap main-grid">
+    <div class="col-main">
+      <div class="section-head">
+        <h2>The wire</h2>
+        <span class="mono muted">newest first · {clusterItems(recent).length} stories from {recent.length} signals</span>
+      </div>
+      <Wire items={recent} />
+    </div>
+
+    <aside class="col-side">
+      <section class="side-block">
+        <div class="section-head"><h2>Capital</h2><a class="more" href={href("/capital")}>All deals →</a></div>
+        {deals.slice(0, 5).map((d) => <DealRow deal={d} compact />)}
+      </section>
+
+      <section class="side-block">
+        <div class="section-head"><h2>Coming up</h2><a class="more" href={href("/events")}>Calendar →</a></div>
+        {upcoming.slice(0, 5).map((e) => <EventRow event={e} compact today={today} />)}
+      </section>
+
+      <section class="side-block">
+        <div class="section-head"><h2>Open source</h2><a class="more" href={href("/code")}>All repos →</a></div>
+        <ol class="repos">
+          {topRepos.map((r) => {
+            const d = starDelta(r);
+            return (
+              <li>
+                <a href={r.url} rel="noopener" target="_blank" class="repo-name">{r.repo}</a>
+                <span class="repo-label muted">{r.label}</span>
+                <span class="repo-stars num mono">★ {compactNum(r.stars)}{d != null && d !== 0 && <span class="delta"> {d > 0 ? "+" : ""}{compactNum(d)}</span>}</span>
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+
+      {activePeople.length > 0 && (
+        <section class="side-block">
+          <div class="section-head"><h2>In the conversation</h2><a class="more" href={href("/landscape")}>Watchlist →</a></div>
+          <ul class="people">
+            {activePeople.map(({ p, n }) => (
+              <li>
+                <a href={href(`/landscape#${p.id}`)}>{p.name}</a>
+                <span class="muted">{p.affiliation}</span>
+                <span class="mono muted num">{n}</span>
+              </li>
+            ))}
+          </ul>
+          <p class="mono muted note">Mentions in tracked items, last 90 days · {watchlist.people.length} people on the watchlist</p>
+        </section>
+      )}
+    </aside>
+  </section>
+</Base>
+
+<style>
+  .hero {
+    display: grid;
+    grid-template-columns: 1.15fr 1fr;
+    gap: 48px;
+    align-items: end;
+    padding-top: 64px;
+    padding-bottom: 40px;
+  }
+  .hero h1 {
+    font-size: clamp(48px, 7.2vw, 92px);
+    margin-top: 18px;
+  }
+  .hero h1 em {
+    font-style: italic;
+  }
+  .lede {
+    font-size: 18px;
+    line-height: 1.55;
+    color: var(--ink-2);
+    max-width: 600px;
+    margin: 22px 0 0;
+  }
+  .cta {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 28px;
+  }
+  .cta .link {
+    color: var(--ink-2);
+    text-decoration: none;
+  }
+  .cta .link:hover {
+    color: var(--ink);
+    text-decoration: underline;
+  }
+  .hero-chart {
+    padding: 18px 18px 12px;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border-top: 1px solid var(--ink);
+    border-bottom: 1px solid var(--hairline);
+    margin-bottom: 56px;
+  }
+  .stat {
+    padding: 20px 20px 22px 0;
+  }
+  .stat + .stat {
+    padding-left: 20px;
+    border-left: 1px solid var(--hairline);
+  }
+  .stat .label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .stat .value {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 40px;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    margin-top: 8px;
+  }
+  .stat .sub {
+    font-size: 13px;
+    color: var(--ink-2);
+    margin-top: 4px;
+  }
+
+  .main-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    gap: 56px;
+    align-items: start;
+  }
+  .col-side {
+    display: flex;
+    flex-direction: column;
+    gap: 44px;
+  }
+  .side-block .section-head h2 {
+    font-size: 24px;
+  }
+  .repos,
+  .people {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .repos li {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 2px 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .repo-name {
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    overflow-wrap: anywhere;
+  }
+  .repo-name:hover {
+    text-decoration: underline;
+  }
+  .repo-label {
+    grid-column: 1;
+    font-size: 13px;
+  }
+  .repo-stars {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: center;
+    font-size: 12.5px;
+  }
+  .delta {
+    color: var(--good);
+  }
+  .people li {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--hairline);
+    font-size: 14px;
+  }
+  .people a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .people .muted:not(.mono) {
+    grid-column: 1;
+    font-size: 12.5px;
+  }
+  .people .mono {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: center;
+  }
+  .note {
+    font-size: 11px;
+    margin-top: 10px;
+  }
+
+  @media (max-width: 1180px) {
+    .main-grid {
+      grid-template-columns: minmax(0, 1fr) 300px;
+      gap: 40px;
+    }
+  }
+  @media (max-width: 900px) {
+    .main-grid {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .col-side {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 40px;
+    }
+  }
+  @media (max-width: 900px) {
+    .col-side {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 40px;
+    }
+    .hero {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 32px;
+      padding-top: 40px;
+    }
+    .stats {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    }
+    .stat:nth-child(3) {
+      padding-left: 0;
+      border-left: 0;
+    }
+    .stat:nth-child(n + 3) {
+      border-top: 1px solid var(--hairline);
+    }
+  }
+  @media (max-width: 680px) {
+    .col-side {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .stat .value {
+      font-size: 32px;
+    }
+  }
+</style>

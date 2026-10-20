@@ -1,0 +1,140 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHead from "../components/PageHead.astro";
+import EventRow from "../components/EventRow.astro";
+import { events, meta } from "../lib/data";
+import { href, monthYear, shortDate } from "../lib/format";
+
+const today = (meta.lastRunAt ?? new Date().toISOString()).slice(0, 10);
+const upcoming = events.filter((e) => e.upcoming);
+const past = events.filter((e) => !e.upcoming).reverse();
+
+// Group upcoming events by month for a calendar-like read.
+const byMonth = new Map<string, typeof upcoming>();
+for (const e of upcoming) {
+  const k = monthYear(e.start);
+  byMonth.set(k, [...(byMonth.get(k) ?? []), e]);
+}
+const deadlines = upcoming
+  .flatMap((e) => (e.deadlines ?? []).filter((d) => d.date >= today).map((d) => ({ ...d, event: e })))
+  .sort((a, b) => a.date.localeCompare(b.date))
+  .slice(0, 8);
+---
+<Base title="Events" active="events" description="Conferences, workshops and calls for papers on LLM agents, social simulation and computational social science.">
+  <div class="wrap">
+    <PageHead
+      eyebrow="Events"
+      title="Calendar"
+      lede="Workshops, conferences and calls for papers where AI simulation of people gets presented and argued about. Featured events are verified by hand against the official page; community-calendar entries come from CoMSES Net and WikiCFP."
+    />
+    <div class="grid">
+      <section>
+        {[...byMonth.entries()].map(([month, list]) => (
+          <div class="month">
+            <h2 class="mh">{month}</h2>
+            {list.map((e) => <EventRow event={e} today={today} />)}
+          </div>
+        ))}
+        {upcoming.length === 0 && <p class="muted">No upcoming events tracked yet.</p>}
+      </section>
+      <aside>
+        <div class="panel pad">
+          <div class="eyebrow">Open deadlines</div>
+          {deadlines.length ? (
+            <ul class="dl">
+              {deadlines.map((d) => (
+                <li>
+                  <span class="dd mono">{shortDate(d.date)}</span>
+                  <span><a href={d.event.url} rel="noopener" target="_blank">{d.event.name.split(" — ")[0]}</a> <span class="muted">· {d.label}</span></span>
+                </li>
+              ))}
+            </ul>
+          ) : <p class="muted small">No open deadlines right now.</p>}
+        </div>
+        <div class="panel pad">
+          <div class="eyebrow">Add an event</div>
+          <p class="small ink-2">Running a workshop, meetup or webinar on AI simulation of people? <a href={href("/about#corrections")}>Send it in</a> with a link to the official page.</p>
+        </div>
+      </aside>
+    </div>
+
+    {past.length > 0 && (
+      <details class="past">
+        <summary class="mono">Recent past events ({past.length})</summary>
+        {past.map((e) => <EventRow event={e} compact today={today} />)}
+      </details>
+    )}
+  </div>
+</Base>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 56px;
+    align-items: start;
+  }
+  .month + .month {
+    margin-top: 36px;
+  }
+  .mh {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 28px;
+    margin: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--ink);
+  }
+  aside {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: sticky;
+    top: 84px;
+  }
+  .pad {
+    padding: 18px;
+  }
+  .dl {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+  }
+  .dl li {
+    display: grid;
+    grid-template-columns: 56px 1fr;
+    gap: 8px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--hairline);
+    font-size: 13.5px;
+  }
+  .dl li:last-child {
+    border-bottom: 0;
+  }
+  .dd {
+    color: var(--ink);
+    font-size: 12px;
+    padding-top: 1px;
+  }
+  .small {
+    font-size: 13.5px;
+    margin: 8px 0 0;
+  }
+  .past {
+    margin-top: 56px;
+  }
+  .past summary {
+    cursor: pointer;
+    color: var(--ink-2);
+    padding: 12px 0;
+    border-top: 1px solid var(--hairline);
+  }
+  @media (max-width: 900px) {
+    .grid {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    aside {
+      position: static;
+    }
+  }
+</style>

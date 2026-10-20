@@ -1,0 +1,196 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHead from "../components/PageHead.astro";
+import { deals, items, watchlist, withinDays, type Person, type Org } from "../lib/data";
+import { compactUsd, initials, shortDate } from "../lib/format";
+
+const groups: { id: Person["group"]; title: string }[] = [
+  { id: "founder", title: "Founders & builders" },
+  { id: "academia", title: "Researchers" },
+  { id: "industry", title: "Industry labs" },
+];
+const orgGroups: { id: Org["kind"]; title: string }[] = [
+  { id: "company", title: "Companies" },
+  { id: "lab", title: "Labs & open-source projects" },
+  { id: "investor", title: "Investors" },
+];
+const activity = (kind: "people" | "orgs", id: string) => {
+  const list = items.filter((i) => i[kind].includes(id));
+  return { n90: list.filter((i) => withinDays(i.publishedAt, 90)).length, latest: list[0] };
+};
+const raised = (o: Org) =>
+  deals.filter((d) => d.org === o.id && d.round !== "Acquisition" && d.amountUsd).reduce((s, d) => s + (d.amountUsd ?? 0), 0);
+const sameName = (a: string, b: string) => a.toLowerCase() === b.toLowerCase() || a.toLowerCase().startsWith(`${b.toLowerCase()} `) || b.toLowerCase().startsWith(`${a.toLowerCase()} `);
+const backed = (o: Org) =>
+  [...new Set(deals.filter((d) => [...d.lead, ...d.participants].some((n) => sameName(n, o.name))).map((d) => d.company))];
+---
+<Base title="Landscape" active="landscape" description="The people, companies, labs and investors shaping AI simulation of human behavior.">
+  <div class="wrap">
+    <PageHead
+      eyebrow="Landscape"
+      title="Who's who"
+      lede={`The watchlist behind the tracker: ${watchlist.people.length} people and ${watchlist.orgs.length} organizations. Mentions count tracked items in the last 90 days. Social links are only listed when we've verified the account.`}
+    />
+
+    {groups.map((g) => {
+      const people = watchlist.people.filter((p) => p.group === g.id);
+      return people.length > 0 && (
+        <section class="grp">
+          <div class="section-head"><h2>{g.title}</h2><span class="mono muted">{people.length}</span></div>
+          <div class="cards">
+            {people.map((p) => {
+              const a = activity("people", p.id);
+              return (
+                <article class="card" id={p.id}>
+                  <div class="head">
+                    <span class="mono-av" aria-hidden="true">{initials(p.name)}</span>
+                    <div>
+                      <h3>{p.name}</h3>
+                      <div class="aff">{p.affiliation}</div>
+                    </div>
+                  </div>
+                  <p class="focus">{p.focus}</p>
+                  <div class="links mono">
+                    {p.links.homepage && <a href={p.links.homepage} rel="noopener" target="_blank">Web</a>}
+                    {p.links.bluesky && <a href={`https://bsky.app/profile/${p.links.bluesky}`} rel="noopener" target="_blank">Bluesky</a>}
+                    {p.links.x && <a href={`https://x.com/${p.links.x}`} rel="noopener" target="_blank">X</a>}
+                    {p.links.github && <a href={`https://github.com/${p.links.github}`} rel="noopener" target="_blank">GitHub</a>}
+                  </div>
+                  <div class="act">
+                    <span class="mono">{a.n90} mentions · 90d</span>
+                    {a.latest && <a class="latest" href={a.latest.url} rel="noopener" target="_blank">Latest: {a.latest.title.slice(0, 90)}{a.latest.title.length > 90 ? "…" : ""} <span class="muted">({shortDate(a.latest.publishedAt)})</span></a>}
+                  </div>
+                </article>
+              );
+            })}
+          </div>
+        </section>
+      );
+    })}
+
+    {orgGroups.map((g) => {
+      const orgs = watchlist.orgs.filter((o) => o.kind === g.id);
+      return (
+        <section class="grp">
+          <div class="section-head"><h2>{g.title}</h2><span class="mono muted">{orgs.length}</span></div>
+          <div class="cards">
+            {orgs.map((o) => {
+              const a = activity("orgs", o.id);
+              const r = g.id === "company" ? raised(o) : 0;
+              const b = g.id === "investor" ? backed(o) : [];
+              return (
+                <article class="card" id={o.id}>
+                  <div class="head">
+                    <span class="mono-av org" aria-hidden="true">{initials(o.name) || o.name[0]}</span>
+                    <div>
+                      <h3><a href={o.url} rel="noopener" target="_blank">{o.name}</a></h3>
+                      {r > 0 && <div class="aff">{compactUsd(r)} disclosed funding</div>}
+                      {b.length > 0 && <div class="aff">Backed: {b.join(", ")}</div>}
+                    </div>
+                  </div>
+                  <p class="focus">{o.description}</p>
+                  <div class="act">
+                    <span class="mono">{a.n90} mentions · 90d</span>
+                    {a.latest && <a class="latest" href={a.latest.url} rel="noopener" target="_blank">Latest: {a.latest.title.slice(0, 90)}{a.latest.title.length > 90 ? "…" : ""} <span class="muted">({shortDate(a.latest.publishedAt)})</span></a>}
+                  </div>
+                </article>
+              );
+            })}
+          </div>
+        </section>
+      );
+    })}
+  </div>
+</Base>
+
+<style>
+  .grp + .grp {
+    margin-top: 56px;
+  }
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 14px;
+    margin-top: 16px;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius);
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    scroll-margin-top: 96px;
+  }
+  .card:target {
+    border-color: var(--ink);
+    box-shadow: 0 0 0 3px var(--wash);
+  }
+  .head {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
+  .mono-av {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background: var(--surface-2);
+    font: 600 13px var(--sans);
+    color: var(--ink-2);
+    flex-shrink: 0;
+  }
+  .mono-av.org {
+    border-radius: 8px;
+  }
+  h3 {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.3;
+  }
+  h3 a {
+    text-decoration: none;
+  }
+  h3 a:hover {
+    text-decoration: underline;
+  }
+  .aff {
+    font-size: 13px;
+    color: var(--ink-2);
+  }
+  .focus {
+    margin: 0;
+    font-size: 13.5px;
+    color: var(--ink-2);
+    line-height: 1.5;
+  }
+  .links {
+    display: flex;
+    gap: 12px;
+    font-size: 12px;
+  }
+  .links a {
+    color: var(--ink-2);
+  }
+  .act {
+    margin-top: auto;
+    padding-top: 10px;
+    border-top: 1px solid var(--hairline);
+    font-size: 12.5px;
+    color: var(--muted);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .latest {
+    color: var(--ink-2);
+    text-decoration: none;
+    line-height: 1.4;
+  }
+  .latest:hover {
+    text-decoration: underline;
+  }
+</style>
