@@ -1,5 +1,5 @@
 const UA =
-  process.env.CRAWLER_USER_AGENT ??
+  process.env.CRAWLER_USER_AGENT ||
   "SiliconSocietyBot/0.1 (+https://github.com/jasonzhang2047-art/silicon-society; public research dashboard)";
 
 /** Minimum gap between requests to the same host, in ms. Respects each API's published limits. */

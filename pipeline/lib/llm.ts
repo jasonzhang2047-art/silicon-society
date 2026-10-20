@@ -8,9 +8,9 @@ import type { Category, DealInfo, EventInfo } from "../types.ts";
  * the supplied text, and extracts deal/event fields that are explicitly stated.
  */
 
-const MODEL = process.env.CLAUDE_MODEL ?? "claude-opus-5-5";
+const MODEL = process.env.CLAUDE_MODEL || "claude-opus-5-5"; // CI passes unset vars as ""
 const BATCH_SIZE = 20;
-export const LLM_MAX_ITEMS = Number(process.env.LLM_MAX_ITEMS ?? 400);
+export const LLM_MAX_ITEMS = Number(process.env.LLM_MAX_ITEMS || 400);
 
 export const llmEnabled = () =>
   Boolean(process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN) && process.env.DISABLE_LLM !== "1";

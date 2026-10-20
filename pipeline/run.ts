@@ -193,7 +193,7 @@ async function main() {
   const state = readData<PipelineState>("state.json", { pagewatch: {}, rejected: {}, repos: {} });
   const firstRun = !meta.lastRunAt || process.env.BACKFILL === "1";
   const since = firstRun
-    ? daysAgo(Number(process.env.BACKFILL_DAYS ?? 120), now)
+    ? daysAgo(Number(process.env.BACKFILL_DAYS || 120), now)
     : new Date(Math.min(new Date(meta.lastRunAt!).getTime(), now.getTime()) - 4 * 86_400_000);
 
   log(`${site.name} crawl · ${nowIso} · ${firstRun ? "backfill" : "incremental"} since ${since.toISOString().slice(0, 10)}`);
@@ -297,7 +297,7 @@ async function main() {
   }
 
   // Swap Google News redirect links for the publisher's own URL (kept items only, bounded per run).
-  const gnQueue = [...keep, ...existing].filter((i) => isGoogleNews(i.url)).slice(0, Number(process.env.GN_RESOLVE_MAX ?? 40));
+  const gnQueue = [...keep, ...existing].filter((i) => isGoogleNews(i.url)).slice(0, Number(process.env.GN_RESOLVE_MAX || 40));
   let resolved = 0;
   for (const it of gnQueue) {
     try {
