@@ -11047,6 +11047,521 @@
    "at": "2026-10-20T06:07:27.524Z",
    "by": "rules",
    "title": "Could AI Run 80% of a Factory? Siemens, NVIDIA are Betting on It"
+  },
+  "55f3280dcf4f": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts"
+  },
+  "49bd9382bc4a": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References"
+  },
+  "a18a1517b898": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum"
+  },
+  "30bfb5cf563e": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems"
+  },
+  "48df2440f940": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools"
+  },
+  "e54fc6e000d9": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations"
+  },
+  "27463d79fa2e": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "FDE-Gym: The Last Mile of AI Delivery"
+  },
+  "a437aa1a4c03": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "Orbia: Do Generated Videos Form a Consistent 3D World?"
+  },
+  "75a65ab980d8": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "Cowork-Gym: Synthesizing Interactive Work Environments at Scale"
+  },
+  "29f0c1cc8496": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models"
+  },
+  "38a499921dbd": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "Reply Earns “NVIDIA Physical AI Specialization” for Production-Ready Robotics and Digital Twins"
+  },
+  "6866b499163d": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "It’s official! 🎉 Very happy to announce that I’ll be joining the University of Lucerne as Professor of Political Scienc"
+  },
+  "b5a356a847f2": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "Waarom ‘polarisatie’ de verkeerde term is Entering my new era as TikTok influencer through a video by rewindhuman: www.i"
+  },
+  "ce36a57171f1": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "I’ve studied wisdom for 20 years. I still lose arguments, maximize over impossible choices, & get hijacked by my own emo"
+  },
+  "23bf8e926d74": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "What can AI build for your business? 💬 AI Chatbots | 🤖 AI Agents | ✨ Generative AI | 🔎 RAG | 📊 ML | ⚙️ Automation Tu"
+  },
+  "687cddfd6c96": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": ""
+  },
+  "d69a8a2e6959": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "The prevailing paradigm of artificial intelligence safety relies heavily on statistical guardrails and iterative heurist"
+  },
+  "9c4b5bdf2fb1": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Your AI Agent Returned JSON. Can You Trust It?\" by Nihal N #amazon-bedrock #ai-agents #generative-ai #devops #ai"
+  },
+  "2037153093b6": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Can AI Agents Manage AWS Infrastructure Without a Human?\" by PABBINEEDI SATYA PRAVALLIKA #agentic-ai #aws-api #generati"
+  },
+  "c12dcc0a0edc": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Stage 2: Build with GenAI Generative AI for Beginners, Microsoft (21 lessons, 121k+ GitHub stars) github.com/microsoft/g"
+  },
+  "79fda2d0a170": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "You don't need a paid bootcamp to learn AI agent engineering. Everything in this thread is free. If I were starting toda"
+  },
+  "f6b1046cf4b3": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "📰 **AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI** AMD GAIA 0.25 is out this week as the l"
+  },
+  "d25a80e70196": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI - https://www.phoronix.com/news/AMD-GAIA-0.25-"
+  },
+  "067a7f7dbce8": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "[Phoronix] AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI #Linux #OpenSource"
+  },
+  "1afd8528377f": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "GPT-6 Form Injection and AI Answer Optimization: Hacking LLM Visibility Trackers for Synthetic SERP Intelligence + Video"
+  },
+  "2154ed572d88": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Oxford Generative AI Summit raises alarms over corporate AI safety – Leaders at OxGen26 dug into why AI agents are provi"
+  },
+  "3bf1c7ea6fbd": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Give me an artilce for AWS Builder Center on topic of Cloud role in ai era. Also give me a picture as well\" by Matee Ur"
+  },
+  "1109e54b8b60": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "The Second Model. Sber rebuilt Russia's AI threat model around its own agents. Treadstone 71 read every line of both ver"
+  },
+  "653508a6089c": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Streamlining Workflows: Advanced Event-Driven Orchestration for Amazon Bedrock Agents and AWS Lambda\" by Ian #agentic-a"
+  },
+  "1867ad273f4e": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Antje Barth of Amazon AGI shares open companion code for Generative AI on AWS, covering prompt engineering, RAG, and age"
+  },
+  "30fd054e9ef4": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"From Student Idea to AI Agent: Building Smarter Applications with AWS\" by Kameswari Angani #ai-agents #amazon-bedrock #"
+  },
+  "88c035075f08": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"The AI Industry in 2026: From Generative AI to Intelligent Agents\" by Himanshu kumar #agentic-ai #amazon-bedrock #amazo"
+  },
+  "5e7a94150f58": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Some folks are actively working to de-skill teachers and our career. Scripted curriculum companies and generative AI are"
+  },
+  "ee20a543c15e": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "my question for any candidate who wants my vote; if elected will you uphold the constitution and basic human rights by b"
+  },
+  "f835ba64b9f6": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Understanding AWS AI Practitioner: Your First Step into Generative AI\" by ABHAY GUPTA #agents #ai #chatgpt #chatbots #c"
+  },
+  "2fbec1538862": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Building My First Generative AI Application with Amazon Bedrock\" by Bilaal khan S #ai #agents"
+  },
+  "fbc6b5938ac7": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Optimizing Serverless AI: Implementing Semantic Caching and Response Deduplication for Bedrock Agents\" by Ian #generati"
+  },
+  "c3206ab1519f": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "KI-Agenten können andere KI-Modelle gezielt zu falschen Schlussfolgerungen verleiten, indem sie ausschließlich echte, ab"
+  },
+  "2f97752c1947": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "arxiv.org/abs/2402.07510"
+  },
+  "77ea17285a2c": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Amazon CloudWatch introduces CloudWatch Omni, a unified observability solution for AI workloads. 🤖🔍 #CloudWatch #AI #O"
+  },
+  "8a54a8fa393e": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Creating My First AI Agents in Kiro\" by Mikaela Vianca Molina #kiro #ai #generative-ai #beginner-projects #students"
+  },
+  "1e3abe0add3d": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "𝗙𝗶𝗴𝗺𝗮 𝗮𝗻𝗻𝗼𝘂𝗻𝗰𝗲𝘀 𝗻𝗲𝘄 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝘁𝗼 𝗱𝗲𝗳𝗶𝗻𝗲 𝗵𝗼𝘄 𝗮𝗴𝗲𝗻𝘁𝘀 𝘄... https://printingpressa"
+  },
+  "2fa39a74e388": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Data World: Scaling Data Environments from Scratch Zhanli Li et al. #arXiv #cs.AI"
+  },
+  "d3550b77ce92": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "When you use #Starlink, write on #X / Twitter or use Bigtech #LLM / generative #AI agents, you are feeding #fascism. #de"
+  },
+  "36114dbf4fda": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Governing AI Agents in Production with Amazon Bedrock AgentCore\" by Alejandro Morgante #agentic-ai #amazon-bedrock-agen"
+  },
+  "cd96d6d645eb": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"When My AI Agent Confidently Got It Wrong\" by jayanthi KS #amazon-bedrock #amazon-bedrock-agents #generative-ai"
+  },
+  "2f5d231b4945": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Your AI Agent Is Working—But Is It Getting Worse?\" by Nihal N #generative-ai #devops #agentic-ai #ai-agents #amazon-bed"
+  },
+  "719033c3b8b9": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "The landscape of generative AI is rapidly shifting from conversational chatbots toward specialized, autonomous agents de"
+  },
+  "643dfb387704": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "There is an open source version of this called OpenUI www.openui.com"
+  },
+  "e5562d049fed": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "fredcavazza.substack.com/p/un-diction..."
+  },
+  "0404303b3f9d": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"MCP Explained: How AI Agents Connect to the Real World\" by Faraz Siddiqui #ai #amazon-bedrock #generative-ai #ai-ml #ai"
+  },
+  "cea2e6cd6068": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Ivan Nikitin, CEO and Co-Founder of Fortytwo - Interview Series ->Unite.AI | More on \"Swarm inference and AI collaborati"
+  },
+  "c305c580c90a": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "#SyntheticUsers are not a substitute for real #Humans - No motivations or #workarounds - Tend toward #GenericAnswers - C"
+  },
+  "a00e0878a770": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "AI research participants: right answer, wrong texture https://thedesigntools.site/en/synthetic-users-vs-human-respondent"
+  },
+  "51663131d46f": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "If you expand it, you see that it has 8 single-item scales, see also the test record. psycnet.apa.org/doiLanding?d... Th"
+  },
+  "61097104e492": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/article..."
+  },
+  "f00cf9ba1f94": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "📰 US church on frontline of battle against drug known as 'tranq' Synthetic opioids like fentanyl are more powerful and "
+  },
+  "83551c27a292": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "BBC News - A wave of homemade, synthetic drugs sweeps US and deepens crisis - BBC News www.bbc.co.uk/news/article..."
+  },
+  "7624d487992d": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Users aren't asking for another speculative AI wrapper. They want tools to clean up the mess: context handoff briefs, sy"
+  },
+  "2cf269f8b1f1": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "90,000 synthetic tracks a day: Why Deezer is handing users the ultimate AI ‘kill switch’ #mediaor"
+  },
+  "90ec6201c674": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/videos/..."
+  },
+  "514a54845382": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis. www.bbc.com/news/article..."
+  },
+  "afa5d14c1a9b": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis (video) #SyntheticNarcotics #SyntheticDrugs #USDrugCris"
+  },
+  "1f9b854775d9": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis #DrugEpidemic #SyntheticDrugs #HomemadeDrugs #USNews #A"
+  },
+  "da37c3ef3820": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis \"This drug will damn near make you do anything, unfortu"
+  },
+  "6dcf4385761d": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "This is what a failed war on drugs looks like. Drugs have never been the problem. The demand for drugs has always been t"
+  },
+  "ba2ccf273379": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Will the US extra-judicially kill these drug pushers or is it not politically prudent for Trump? ' Synthetic opioids are"
+  },
+  "15c864bd0ad2": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "La guerra de Trump contra las drogas un fracaso. www.bbc.com/news/article..."
+  },
+  "0c9f1e7b67ee": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "BBC News - A wave of homemade, synthetic drugs sweeps US and deepens crisis www.bbc.co.uk/news/article... Clearly Trump'"
+  },
+  "419cee2f1172": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "#Discover #Drugs #DrugOverdoses #DrugAddiction #DrugProblem #America #USA #UnitedStates #World #WorldNews #AI #NewGenera"
+  },
+  "5e32b4bb5ec6": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "An interesting view of synthetic drugs (fentanyl and others) proliferation into other drugs. From the article, \"In the l"
+  },
+  "bea21140ec48": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/article... What can be done about this?"
+  },
+  "45f0070ec0fb": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Nobody takes pain killers unless they're in pain. Physical, mental or spiritual; it doesn't matter. Pain is pain. If rel"
+  },
+  "e02292ebbae3": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis"
+  },
+  "9d4e674b9e8a": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Obvs Biden is back as POTzUS right? www.bbc.co.uk/news/article..."
+  },
+  "b626308e47cd": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "www.yahoo.com/news/us/arti..."
+  },
+  "2cb363f8a065": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/article... People CHOOSE this. Slow suicide. Little effort in life, easier to be a junkie on the street"
+  },
+  "a03decb56680": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/article... A great read on the next wave of the opiod crisis. Illegally murdering fisherman has had zer"
+  },
+  "9f43de669b08": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o."
+  },
+  "468ba71473cd": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "bbc.com/news/article..."
+  },
+  "5d957b85da33": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis www.yahoo.com/news/us/arti..."
+  },
+  "aa1320632017": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis (Paywalled?) Quentin Sommerville www.bbc.com/news/artic"
+  },
+  "cdef624da90e": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis - BBC News www.bbc.co.uk/news/article..."
+  },
+  "93a56ed3042f": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis www.bbc.co.uk/news/article..."
+  },
+  "9e43ed2a9645": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "e.daily.comms.yahoo.net/click?ZfJHfa... Too bad we don’t have an agency for this"
+  },
+  "f02bbf65b9fe": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "apple.news/AMQzjBXPHQ2-..."
+  },
+  "68532eea3af2": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
+  },
+  "9aa7d67e5896": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis. Sounds scary, extremely dangerous, and getting out of "
+  },
+  "90f109ed1aa9": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Terrible images from America. A wave of homemade, synthetic drugs sweeps US and deepens crisis"
+  },
+  "75d9697b8400": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "\"Humans will have lost the ability to come up with new ideas because they will have been spoiled by AI. Like if Lance an"
+  },
+  "ca619c874510": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Nuovo Cell, appare un pop-up \"vuoi che l'ai ti aiuti nell'ufo delle app?\" O qualcosa di simile approfondisco c'è un esem"
+  },
+  "4e1dc39ea47d": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Ahhhh La critica agli autotrasportatori per i limiti di velocità,mi mancava Questa è l' ennesima critica ai trasportator"
+  },
+  "fe7e169c8749": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "The real challenge of our time isn’t AI. It’s whether we can understand and protect the things that make us human."
+  },
+  "b6cebb469574": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Dalla mela alle giuggiole: 3 appuntamenti dedicati ai frutti dell’autunno https://www.montagna.tv/283825/dalla-mela-alle"
+  },
+  "4d8755fa07c4": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Secondo me... é un reato AVERE un gollione simile a sparare gollionate su gollionate senza soluzione di continuità... Io"
+  },
+  "70a32e7bd486": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "rules",
+   "title": "Leaving the Oasis https://clevelandart.org/art/1977.126"
+  },
+  "421418fa0000": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "DisCoTec 2027: 22nd International Federated Conference on Distributed Computing Techniques"
+  },
+  "bb15b0bd870e": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "WMAC 2027: Third Workshop on Multi-Agent Collaboration: Measuring Collective Intelligence in Agentic Systems (AAAI-27)"
+  },
+  "9e10676a71dd": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "AIM-ED 2027: Agentic and Inclusive AI for Education: Multi-Agent Systems, Neurodiversity, Intelligent Environments, and "
+  },
+  "2a1a6810e4d2": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "DEON 2027: 18th International Conference on Deontic Logic and Normative Systems, 29 June–1 July 2027, Hangzhou, China (F"
+  },
+  "97ada8d334b6": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "ICAART 2027: 19th International Conference on Agents and Artificial Intelligence"
+  },
+  "65158e22c8d4": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "PRIMA 2026: The 27th International Conference on Principles and Practice of Multi-Agent Systems"
+  },
+  "24e8adf9fcfe": {
+   "at": "2026-10-20T06:21:08.992Z",
+   "by": "llm",
+   "title": "MASSIVE 2026: MASSIVE 2026 Workshop Multi-Agent Systems: Simulations, Intelligence & VErification @ PAAMS 2026"
   }
  },
  "repos": {
@@ -11056,7 +11571,7 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 80700,
+   "stars": 80703,
    "forks": 12245,
    "openIssues": 156,
    "pushedAt": "2026-10-16T03:32:19Z",
@@ -11074,7 +11589,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 80700
+     "stars": 80703
     }
    ]
   },

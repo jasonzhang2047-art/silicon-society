@@ -1,5 +1,178 @@
 [
  {
+  "id": "288cce1d8720",
+  "url": "https://bsky.app/profile/kwcollins.bsky.social/post/3myasu4qqec2f",
+  "title": "Synthetic Sample estimates a D+18 generic ballot congressional environment. Add another one to the \"synthetic samples don't work\" pile (though I guess we need to wait a *bit* longer for the proof point this one) www.cambridge.org/core/journal...",
+  "snippet": "Polling Without People: Can Silicon Samples of CASM-Inspired LLM Personae Mimic Human Respondents in Pre-Election Polling? | PS: Political Science & Politics | Cambridge Core. Polling Without People: Can Silicon Samples of CASM-Inspired LLM Personae Mimic Human Respondents in Pre-Election Polling?",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Kevin Collins",
+   "handle": "@kwcollins.bsky.social",
+   "url": "https://bsky.app/profile/kwcollins.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l7dn34bre6lgyu3q4vkomw32/bafkreibq4fmypaqwgufz3ldp4zl2kfd77etwwplfgi3lhttj5zvahg6sda"
+  },
+  "link": "https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/polling-without-people-can-silicon-samples-of-casminspired-llm-personae-mimic-human-respondents-in-preelection-polling/6FCB4E198E9DB211D3847665FA700B5A",
+  "publishedAt": "2026-10-19T19:05:56.766Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "Silicon sampling for election polling"
+  },
+  "metrics": {
+   "likes": 3,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares a PS: Political Science & Politics paper on silicon samples of LLM personae in pre-election polling, noting a synthetic sample estimating a D+18 generic ballot."
+ },
+ {
+  "id": "2f9ece274187",
+  "url": "https://bsky.app/profile/pipelinemag.ai/post/3my7p4umolc2q",
+  "title": "A synthetic panel can match the overall answer and still get the segments wrong. Two studies: one flattens group differences, the other inflates them two to four times. The headline check catches neither. https://pipelinemag.ai/posts/synthetic-users-pass-the-headline-check-and…",
+  "snippet": "Synthetic Users Match the Headline and Get the Segments Wrong. Two October 2026 studies find synthetic research panels reproduce the overall answer but distort differences between groups, in opposite directions. The headline check can",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Pipeline Magazine",
+   "handle": "@pipelinemag.ai",
+   "url": "https://bsky.app/profile/pipelinemag.ai",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjfgmxv67sil5nzb4iyd4wif/bafkreihs5sxopkqa5bjthabi3mwwyvdov7bwmc5vmpsm2iffvc73j7dgdm"
+  },
+  "link": "https://pipelinemag.ai/posts/synthetic-users-pass-the-headline-check-and-miss-the-segments/",
+  "publishedAt": "2026-10-19T08:26:35.303Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic panel segment-level validity"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post says two October 2026 studies find synthetic panels match overall answers but distort group differences, one flattening and one inflating them."
+ },
+ {
+  "id": "e1205b6fc281",
+  "url": "https://bsky.app/profile/gitrated.bsky.social/post/3my7ni2aikc2z",
+  "title": "A new AI review! 666ghj/MiroFish ⭐3.4/5.0 MiroFish is an ambitious, full-stack “swarm intelligence” prediction engine that combines multi-agent simulation, long-term memory, and graph-based retrieval to create an interactive “parallel digital world” for foreca... https://gitra…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "GitRated",
+   "handle": "@gitrated.bsky.social",
+   "url": "https://bsky.app/profile/gitrated.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7zbnuy54r7hogcradiouwtmu/bafkreie4va6f4lm3m3cy5gv7fd6rdjffdxww4b6khnm655rkdwu64b7bka"
+  },
+  "publishedAt": "2026-10-19T07:57:02.964Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [
+   "mirofish"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Swarm prediction engine repository review"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "AI review rates MiroFish 3.4/5, describing it as a swarm intelligence prediction engine combining multi-agent simulation, memory and graph retrieval."
+ },
+ {
+  "id": "73f281023b0d",
+  "url": "https://bsky.app/profile/csma-bot.bsky.social/post/3my7jcvddpr2t",
+  "title": "Yves Bru, Kamaldeep Singh Oberoi, Benoit Gaudou: Towards Adaptive and Real-Survey-Aligned Simulated Urban Mobility Behaviour of Generative Agents https://arxiv.org/abs/2610.22407 https://arxiv.org/pdf/2610.22407 https://arxiv.org/html/2610.22407",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arXiv cs.MA Multiagent Systems",
+   "handle": "@csma-bot.bsky.social",
+   "url": "https://bsky.app/profile/csma-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xcpapx2w434lmha3ztd6sidx/bafkreidc4wusgyc3rzopebn7csfa6kna3ioddz62zglogpclj4cjthdnqu"
+  },
+  "publishedAt": "2026-10-19T06:42:35.108Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative agents simulating human mobility"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares arXiv paper by Bru, Oberoi and Gaudou on survey-aligned simulated urban mobility behaviour of generative agents."
+ },
+ {
+  "id": "0604a65cdd6f",
+  "url": "https://bsky.app/profile/svenread.com/post/3my6f2hrea22e",
+  "title": "The first Close Read is out. NN/g asked 120 AI \"synthetic users\" the same question as 604 real people. Same conclusion, far less variety, which is rather concerning if the surprises are why you do research. Plus: job hunting, agent against agent.",
+  "snippet": "When AI plays your users. Nielsen Norman Group compared 120 AI respondents with 604 real people. Plus: job hunting with agents, an open-source design canvas, and a voice journal with a character.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Sven Read",
+   "handle": "@svenread.com",
+   "url": "https://bsky.app/profile/svenread.com",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mh2fhao7xdqgdk4c2kjkujtf/bafkreieu25krgl5nb5giprresvslyeomtyidslxzjnqkqiv6upbncbdbzi"
+  },
+  "link": "https://closeread.leaflet.pub/3my6f2dq5hk2e?utm_source=bluesky&utm_medium=social&utm_campaign=publish&utm_content=did%3Aplc%3Amh2fhao7xdqgdk4c2kjkujtf%2F3my6f2hrea22e",
+  "publishedAt": "2026-10-18T19:53:37.787Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents validation coverage"
+  },
+  "metrics": {
+   "likes": 3,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Newsletter post highlights NN/g comparison of 120 AI synthetic users with 604 real people: same conclusion, far less variety."
+ },
+ {
   "id": "6f53192ac9fa",
   "url": "https://github.com/YSocialTwin/YSocial/releases/tag/avatars-v1",
   "title": "YSocialTwin/YSocial avatars-v1 — Avatars v1",
@@ -24,6 +197,76 @@
   "metrics": {
    "stars": 34
   }
+ },
+ {
+  "id": "3eb1820d3297",
+  "url": "https://bsky.app/profile/jorgerebate.bsky.social/post/3my5kju5pej2t",
+  "title": "Punto de partida, no evidencia. La cola larga (ahí vive la accesibilidad) solo te la cuentan las personas =) www.nngroup.com/articles/sy...",
+  "snippet": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation. Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Jorge Rebate Serrano",
+   "handle": "@jorgerebate.bsky.social",
+   "url": "https://bsky.app/profile/jorgerebate.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xzlqtlwbuj33k4xu4rnlu3c/bafkreihbmhj5mndjnmd3lyhvsvbpqa7lzmb2nwcrsiahi4hol42b6ght2e"
+  },
+  "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/",
+  "publishedAt": "2026-10-18T11:59:03.047Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic users vs human respondents"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares NN/g article finding synthetic users reached the same conclusion as 604 humans with less variation, arguing they are a starting point, not evidence."
+ },
+ {
+  "id": "12f02f148543",
+  "url": "https://bsky.app/profile/pipelinemag.ai/post/3my32fikk4g2q",
+  "title": "Synthetic users reached the same conclusion as 604 human respondents, with far less range: 84% used UX terminology against 70%, and they collapsed onto a dozen labels where humans spread across more than 50. https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/",
+  "snippet": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation. Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Pipeline Magazine",
+   "handle": "@pipelinemag.ai",
+   "url": "https://bsky.app/profile/pipelinemag.ai",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjfgmxv67sil5nzb4iyd4wif/bafkreihs5sxopkqa5bjthabi3mwwyvdov7bwmc5vmpsm2iffvc73j7dgdm"
+  },
+  "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/",
+  "publishedAt": "2026-10-17T12:04:57.110Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic users validation study"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post summarizes NN/g study: synthetic users matched 604 humans' conclusion but used more UX terminology and collapsed onto a dozen labels versus 50+."
  },
  {
   "id": "39e81c82ca2b",
@@ -85,6 +328,50 @@
    "reason": "simulate human behavior, personas"
   },
   "metrics": {}
+ },
+ {
+  "id": "c7a642b20eec",
+  "url": "https://arxiv.org/abs/2610.23194",
+  "title": "OfficeTown: Generative Organizations for Evolving Agent Intelligence",
+  "snippet": "AI agents increasingly use files and software tools to produce professional deliverables. Such work draws on materials, decisions, and feedback accumulated across assignments. We introduce OfficeTown, a generative simulation framework for professional organizations in which tasks and their context arise from continuing organizational work. From a natural-language description of an organization's purpose and activities, OfficeTown initializes an organization whose members coordinate work, delegate bounded assignments to assistant agents, and review their deliverables. Artifacts, decisions, and unresolved matters persist and shape subsequent work, while responsibilities and permissions…",
+  "category": "research",
+  "source": {
+   "kind": "huggingface",
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/papers/2610.23194"
+  },
+  "authors": [
+   "Hongchen Wei",
+   "Daohong Ying",
+   "Zhi Hong",
+   "Aidan Wu",
+   "Bei Liu",
+   "Ruichun Ma",
+   "Yifan Yang",
+   "Qi Dai",
+   "Kai Qiu",
+   "Rui Xu",
+   "Dongdong Chen",
+   "Zhenzhong Chen",
+   "Chong Luo"
+  ],
+  "publishedAt": "2026-10-16T00:00:00.000Z",
+  "firstSeenAt": "2026-10-20T06:21:08.992Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "hf-trending"
+  ],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative simulation of organizations"
+  },
+  "metrics": {
+   "upvotes": 17,
+   "comments": 2
+  },
+  "aiSummary": "OfficeTown is a generative simulation framework that initializes professional organizations whose members coordinate work and delegate assignments to assistant agents."
  },
  {
   "id": "2cfaa81bc66c",
