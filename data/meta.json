@@ -1,17 +1,17 @@
 {
- "lastRunAt": "2026-10-20T05:56:24.188Z",
- "nextRunAt": "2026-10-20T17:56:24.188Z",
- "durationMs": 42546,
+ "lastRunAt": "2026-10-20T06:01:27.199Z",
+ "nextRunAt": "2026-10-20T18:01:27.199Z",
+ "durationMs": 153238,
  "mode": "incremental",
- "since": "2026-10-16T05:53:05.379Z",
+ "since": "2026-10-16T05:56:24.188Z",
  "relevanceGate": "rules",
  "llm": null,
  "counts": {
   "total": 232,
   "added": 0,
   "updated": 7,
-  "candidates": 252,
-  "rejectedThisRun": 32,
+  "candidates": 256,
+  "rejectedThisRun": 22,
   "addedByCategory": {},
   "totalByCategory": {
    "code": 7,
@@ -28,43 +28,56 @@
    "name": "arXiv",
    "ok": true,
    "fetched": 5,
-   "ms": 21830
+   "ms": 21794
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 188,
+   "fetched": 190,
    "ms": 1754
   },
   {
    "name": "Google News",
    "ok": true,
-   "fetched": 21,
-   "ms": 40243
+   "fetched": 22,
+   "ms": 40301
+  },
+  {
+   "name": "GDELT",
+   "ok": false,
+   "fetched": 0,
+   "ms": 23579,
+   "error": "fetch failed"
   },
   {
    "name": "Hacker News",
    "ok": true,
    "fetched": 4,
-   "ms": 3587
+   "ms": 22879
+  },
+  {
+   "name": "Reddit",
+   "ok": true,
+   "fetched": 1,
+   "ms": 91113
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
    "fetched": 1,
-   "ms": 9656
+   "ms": 9655
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 3995
+   "ms": 4335
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
    "fetched": 3,
-   "ms": 4905
+   "ms": 5050
   },
   {
    "name": "Bluesky · search",
@@ -84,33 +97,19 @@
    "name": "Official blogs",
    "ok": true,
    "fetched": 0,
-   "ms": 1427
+   "ms": 2923
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 3,
-   "ms": 1236
+   "ms": 1471
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 9,
-   "ms": 1055
-  },
-  {
-   "name": "GDELT",
-   "ok": true,
-   "fetched": 0,
-   "ms": 0,
-   "skipped": "skipped for this run"
-  },
-  {
-   "name": "Reddit",
-   "ok": true,
-   "fetched": 0,
-   "ms": 0,
-   "skipped": "skipped for this run"
+   "ms": 1566
   }
  ]
 }

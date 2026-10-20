@@ -11022,6 +11022,16 @@
    "at": "2026-10-20T05:56:24.188Z",
    "by": "rules",
    "title": "Show HN: Vibetown – public sandboxes to vibecode with strangers"
+  },
+  "80a9d9c09c32": {
+   "at": "2026-10-20T06:01:27.199Z",
+   "by": "rules",
+   "title": "Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models"
+  },
+  "825a0515eefd": {
+   "at": "2026-10-20T06:01:27.199Z",
+   "by": "rules",
+   "title": "LIBERO-Industry: Benchmarking Robotic Manipulation under Industrial Process Constraints"
   }
  },
  "repos": {
