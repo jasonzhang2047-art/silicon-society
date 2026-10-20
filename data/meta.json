@@ -1,17 +1,17 @@
 {
- "lastRunAt": "2026-10-20T06:01:27.199Z",
- "nextRunAt": "2026-10-20T18:01:27.199Z",
- "durationMs": 153238,
+ "lastRunAt": "2026-10-20T06:07:27.524Z",
+ "nextRunAt": "2026-10-20T18:07:27.524Z",
+ "durationMs": 84639,
  "mode": "incremental",
- "since": "2026-10-16T05:56:24.188Z",
+ "since": "2026-10-16T06:01:27.199Z",
  "relevanceGate": "rules",
  "llm": null,
  "counts": {
   "total": 232,
   "added": 0,
   "updated": 7,
-  "candidates": 256,
-  "rejectedThisRun": 22,
+  "candidates": 257,
+  "rejectedThisRun": 23,
   "addedByCategory": {},
   "totalByCategory": {
    "code": 7,
@@ -28,56 +28,56 @@
    "name": "arXiv",
    "ok": true,
    "fetched": 5,
-   "ms": 21794
+   "ms": 21743
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 190,
-   "ms": 1754
+   "fetched": 191,
+   "ms": 1737
   },
   {
    "name": "Google News",
    "ok": true,
    "fetched": 22,
-   "ms": 40301
+   "ms": 40198
   },
   {
    "name": "GDELT",
    "ok": false,
    "fetched": 0,
-   "ms": 23579,
-   "error": "fetch failed"
+   "ms": 24953,
+   "error": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=(%22generative%20agents%22%20OR%20%22synthetic%20respondents%22%20OR%20%22synthetic%20users%22%20OR%20%22silicon%20sampling%22)%20sourcel"
   },
   {
    "name": "Hacker News",
    "ok": true,
    "fetched": 4,
-   "ms": 22879
+   "ms": 3629
   },
   {
    "name": "Reddit",
    "ok": true,
    "fetched": 1,
-   "ms": 91113
+   "ms": 84602
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
    "fetched": 1,
-   "ms": 9655
+   "ms": 8664
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 4335
+   "ms": 3883
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
    "fetched": 3,
-   "ms": 5050
+   "ms": 5188
   },
   {
    "name": "Bluesky · search",
@@ -97,19 +97,19 @@
    "name": "Official blogs",
    "ok": true,
    "fetched": 0,
-   "ms": 2923
+   "ms": 2615
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 3,
-   "ms": 1471
+   "ms": 1216
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 9,
-   "ms": 1566
+   "ms": 1187
   }
  ]
 }
