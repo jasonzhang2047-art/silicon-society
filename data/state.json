@@ -11562,6 +11562,321 @@
    "at": "2026-10-20T06:21:08.992Z",
    "by": "llm",
    "title": "MASSIVE 2026: MASSIVE 2026 Workshop Multi-Agent Systems: Simulations, Intelligence & VErification @ PAAMS 2026"
+  },
+  "74d5169d802b": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "MemT-1.0: Towards Memory-Native Evolution"
+  },
+  "3a96c6bc03ad": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Kronecker Delta Rule for Long Context Linear Attention"
+  },
+  "cd6f0b4a4b98": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models"
+  },
+  "17b72c3746e0": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy"
+  },
+  "6836d5b257be": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "FineSplat: Fine Patches, Local Groups, Detailed Splats"
+  },
+  "5795a703b360": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Harnessing Textual Refusal Directions for Multimodal Safety"
+  },
+  "49573a81893c": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning"
+  },
+  "42101200ba2b": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On"
+  },
+  "012b7e08162a": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling"
+  },
+  "260faee926aa": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "ECHO: Efficient Causal Self-Recursion Beyond Auxiliary Multi-Token Prediction"
+  },
+  "75e579a1c88d": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents"
+  },
+  "06eb403e9abd": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt"
+  },
+  "0e1a49b23617": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "N-Gram Memories at Two Bits: Quantizing Lookup Tables in Large Language Models"
+  },
+  "0ad08b9f51f9": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "ActionRoPE: action as coordinates for spatially consistent control in planar-camera game world models"
+  },
+  "a8d376233b1d": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale"
+  },
+  "f1ecddc0e857": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "HERA: Harness-Environment Co-Evolution for Reliable Agentic Abstention"
+  },
+  "b4333b9e5b86": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Training Reasoning Models to Generate Diverse Scientific Ideas"
+  },
+  "f328bc90190d": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Heterogeneous Agentic Coevolution"
+  },
+  "5fc123e1e545": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Token-Set Choice Confounds POPE: A Systematic Audit of Yes/No Extraction in VLM Hallucination Evaluation"
+  },
+  "630cbf7c46e6": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "llm",
+   "title": "RealityBench: Simulated Environments to Evaluate a Vision Language Model's Ability to Document Human Physical Work"
+  },
+  "851944a7d7ea": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Measuring Mechanistic Uncertainty in Large Language Models via Causal Robustness"
+  },
+  "42268d32c196": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "StopLoss: Teaching Agents to Predict Failure and Stop Early"
+  },
+  "7826dc7e25f0": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat"
+  },
+  "f48f260769af": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills"
+  },
+  "b95a4cdfc2e1": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "IPA Bellwether: ‘Smart brands are finding ways to compete without having the biggest media budget’"
+  },
+  "a9cd44cf0e62": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "llm",
+   "title": "Toyota Material Handling says digital twins can ‘halve autonomous forklift commissioning time’"
+  },
+  "ae605497c0a1": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "After Co-Developing With 30 Clients, quantilope Makes Category Twins Globally Available, Enabling Brands to Bring the Co"
+  },
+  "506153179d19": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Physical AI Comes to Building Automation: Self-contained Agentic AI and Simulation Platform Debuts from Honeywell Techno"
+  },
+  "e832a5967790": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "llm",
+   "title": "Reply Earns “NVIDIA Physical AI Specialization” for Production-Ready Robotics and Digital Twins"
+  },
+  "ec7f2f84bbc4": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "London Playbook PM: No evening press conference this time"
+  },
+  "b62ae316cec6": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Will Salesforce’s Braze deal bring clarity or chaos?"
+  },
+  "7261b9dfa366": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Salesforce acquires Braze for 5.66 billion"
+  },
+  "9e076fa491de": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "What Does Salesforce’s Braze Deal Mean for Marketing Cloud Customers?"
+  },
+  "35d2dac9763c": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "llm",
+   "title": "Rival Technologies : Market research platforms that work with AI agents and MCP"
+  },
+  "fca1bf0fc4f5": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Informatica Boosts Salesforce's Data Edge: Can It Unlock More Growth?"
+  },
+  "a95581db5abd": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Freshworks' Torii Acquisition: Can AI Spend Governance Drive Growth?"
+  },
+  "b3be59ec5466": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Salesforce (CRM) Agrees $5.7 Billion All Stock Acquisition"
+  },
+  "c486aaeb1205": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Ask HN: How to organize teams to ship AI-written code?"
+  },
+  "ea10091b1901": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Show HN: Koody for Business – AI bookkeeping for people who aren't accountants"
+  },
+  "8603bde2a27b": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins"
+  },
+  "b313c1264c11": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph"
+  },
+  "a0bc371ed871": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Show HN: Proxium – Self-hosted HTTP/SOCKS5 proxy with a web admin UI"
+  },
+  "71fc3c2ddcba": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Vibecoding an LLVM TypeScript Compiler"
+  },
+  "5c3ada646adc": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "StartLuxLabs/StartLux-Decision — Open decision models from 0.8B to 27B: a calibrated probability for every option in one"
+  },
+  "5102e60702f9": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "llm",
+   "title": "Many talks r entirely genAI generated today. OK... But hearing a person becoming a bot, an \"emissary\" of the genAI-gener"
+  },
+  "2ca8bc57f045": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "\"Building Stateful AI Agents with Lang Graph and Lang Chain: A Practical Guide\" by S Devika #langchain #langgraph #agent"
+  },
+  "c300bd18b8db": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "\"When Data Goes Silent: Architecting an AI-Powered Missing Signal Intelligence Engine on AWS\" by PRAGATHA R #ai-engineer"
+  },
+  "2f5dc9f4daf5": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "In a hurry? There's a colour edition for recruiters, same story in one page: inescherif.github.io/recruiter/"
+  },
+  "116d4e963a38": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "llm",
+   "title": "Read: https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/?utm_source=bluesky&utm_me"
+  },
+  "7d0181cf2ec5": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "L’économie des “AI Compliance & Governance” B2B : Comment monétiser la conformité et la sécurité des systèmes d’IA Alors"
+  },
+  "8a1c6a4b5048": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "\"A Guide to the AWS AI Security Framework and Bedrock Guardrails\" by Thameera Thathsara #agents #ai-security #ai-for-dev"
+  },
+  "97459f4aa7df": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": ""
+  },
+  "59799bfa919a": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "The Second Model. Sber rebuilt Russia's AI threat model around its own agents. Treadstone 71 read every line of both ver"
+  },
+  "7fee75e226ba": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "Data World: Scaling Data Environments from Scratch Zhanli Li et al. #arXiv #cs.AI"
+  },
+  "c3e808d912e6": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "AI actors and the future of Hollywood: industry experts debate the potential of synthetic performers 🤖 IA: It's not cli"
+  },
+  "fb843bdefbe0": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "llm",
+   "title": "NordPass launches Identity Masking and ID Monitoring NordPass is launching Identity Masking and ID Monitoring features t"
+  },
+  "cd50d82be7fc": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/article..."
+  },
+  "286ecd59e065": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis #DrugEpidemic #SyntheticDrugs #HomemadeDrugs #USNews #A"
+  },
+  "a0f1b9eed022": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "BBC News - A wave of homemade, synthetic drugs sweeps US and deepens crisis www.bbc.co.uk/news/article..."
+  },
+  "61173d306524": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps #US and deepens crisis www.bbc.com/news/article..."
+  },
+  "33a016d49959": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis www.yahoo.com/news/us/arti..."
+  },
+  "12db1b7f4e18": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "bbc.com/news/article..."
+  },
+  "ac5dc97e1d77": {
+   "at": "2026-10-20T17:09:19.136Z",
+   "by": "rules",
+   "title": "sicuramente ci sono posti di lavoro che saranno rimpiazzati nella massa, ma non tanti come si crede, non tutti, e non ad"
   }
  },
  "repos": {
@@ -11571,9 +11886,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 80703,
-   "forks": 12245,
-   "openIssues": 156,
+   "stars": 80802,
+   "forks": 12260,
+   "openIssues": 158,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -11589,7 +11904,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 80703
+     "stars": 80802
     }
    ]
   },
@@ -11599,7 +11914,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42478,
+   "stars": 42477,
    "forks": 7607,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -11617,7 +11932,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 42478
+     "stars": 42477
     }
    ]
   },
@@ -11627,8 +11942,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22250,
-   "forks": 3120,
+   "stars": 22255,
+   "forks": 3118,
    "openIssues": 145,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -11639,7 +11954,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 22250
+     "stars": 22255
     }
    ]
   },
@@ -11671,8 +11986,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5317,
-   "forks": 652,
+   "stars": 5319,
+   "forks": 654,
    "openIssues": 59,
    "pushedAt": "2026-10-19T09:33:53Z",
    "language": "Python",
@@ -11689,7 +12004,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 5317
+     "stars": 5319
     }
    ]
   },
@@ -11699,10 +12014,10 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1807,
-   "forks": 389,
+   "stars": 1809,
+   "forks": 390,
    "openIssues": 55,
-   "pushedAt": "2026-10-19T09:01:41Z",
+   "pushedAt": "2026-10-20T11:05:11Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v2.4.0",
@@ -11717,7 +12032,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 1807
+     "stars": 1809
     }
    ]
   },
@@ -11727,7 +12042,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1354,
+   "stars": 1355,
    "forks": 218,
    "openIssues": 41,
    "pushedAt": "2026-10-14T18:16:35Z",
@@ -11745,7 +12060,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 1354
+     "stars": 1355
     }
    ]
   },
@@ -11782,8 +12097,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10672,
-   "forks": 1228,
+   "stars": 10678,
+   "forks": 1227,
    "openIssues": 75,
    "pushedAt": "2026-08-26T00:34:11Z",
    "language": "TypeScript",
@@ -11794,7 +12109,7 @@
     },
     {
      "date": "2026-10-20",
-     "stars": 10672
+     "stars": 10678
     }
    ]
   },
@@ -11806,8 +12121,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 507,
    "forks": 88,
-   "openIssues": 59,
-   "pushedAt": "2026-10-19T18:18:45Z",
+   "openIssues": 57,
+   "pushedAt": "2026-10-20T17:08:13Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -11905,7 +12220,7 @@
    "stars": 34,
    "forks": 8,
    "openIssues": 2,
-   "pushedAt": "2026-10-19T16:53:34Z",
+   "pushedAt": "2026-10-20T16:29:19Z",
    "language": "JavaScript",
    "latestRelease": {
     "tag": "avatars-v1",

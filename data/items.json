@@ -1,5 +1,168 @@
 [
  {
+  "id": "b011c3339fa9",
+  "url": "https://app.dealroom.co/news/note/vectorial-raises-3m-seed-to-simulate-consumers-with-ai",
+  "title": "Vectorial raises $3M seed to simulate consumers with AI",
+  "category": "funding",
+  "source": {
+   "kind": "news",
+   "name": "Dealroom",
+   "url": "https://app.dealroom.co"
+  },
+  "publishedAt": "2026-10-20T12:55:08.000Z",
+  "firstSeenAt": "2026-10-20T17:09:19.136Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Funding for AI consumer simulation"
+  },
+  "aiSummary": "Vectorial raised a $3M seed round to simulate consumers with AI.",
+  "deal": {
+   "company": "Vectorial",
+   "round": "Seed",
+   "amountText": "$3M",
+   "amountUsd": 3000000,
+   "lead": [],
+   "participants": [],
+   "auto": true
+  }
+ },
+ {
+  "id": "06ca3d2e444a",
+  "url": "https://unite.ai/vectorial-raises-3m-seed-to-test-products-against-simulated-customers",
+  "title": "Vectorial Raises $3M Seed to Test Products Against Simulated Customers",
+  "category": "funding",
+  "source": {
+   "kind": "news",
+   "name": "Unite.AI",
+   "url": "https://www.unite.ai"
+  },
+  "publishedAt": "2026-10-20T12:00:55.000Z",
+  "firstSeenAt": "2026-10-20T17:09:19.136Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Funding for simulated customer startup"
+  },
+  "aiSummary": "Vectorial raised a $3M seed round to let companies test products against simulated customers.",
+  "deal": {
+   "company": "Vectorial",
+   "round": "Seed",
+   "amountText": "$3M",
+   "amountUsd": 3000000,
+   "lead": [],
+   "participants": [],
+   "auto": true
+  }
+ },
+ {
+  "id": "b340828b805c",
+  "url": "https://bsky.app/profile/acceleratescience.bsky.social/post/3myca2xjdss2c",
+  "title": "📢 New blog! Yuanfei Liu and team used an LLM-enhanced agent-based model to simulate how people respond to heatwaves. Results show impacts are distributed inequitably, with trusted community networks key to spreading helpful risk information. Read more: bit.ly/47WXe6X",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Accelerate Programme for Scientific Discovery",
+   "handle": "@acceleratescience.bsky.social",
+   "url": "https://bsky.app/profile/acceleratescience.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zy37iqwyrwr4unui4ijvklvy/bafkreiglg5k7mye6ig6gwgtf5o5aq6wvwbqjy6sxsfxhnttzxaxxdnmjjq"
+  },
+  "publishedAt": "2026-10-20T08:35:04.543Z",
+  "firstSeenAt": "2026-10-20T17:09:19.136Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-driven agent-based model of populations"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Blog describes Yuanfei Liu's team using an LLM-enhanced agent-based model to simulate heatwave responses, finding inequitable impacts and key roles for trusted community networks."
+ },
+ {
+  "id": "38b34f5d6b12",
+  "url": "https://bsky.app/profile/ai-firehose.column.social/post/3myc7azazy625",
+  "title": "CMASE transforms social simulation by embedding researchers in generative agent-based environments for real-time, traceable interventions, enhancing understanding of complex dynamics and facilitating interdisciplinary research in social sciences. https://arxiv.org/abs/2508.17366",
+  "snippet": "Computational Multi-Agents Society Experiments: Social Modeling Framework Based on Generative Agents. ArXiv link for Computational Multi-Agents Society Experiments: Social Modeling Framework Based on Generative Agents",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "AI Firehose",
+   "handle": "@ai-firehose.column.social",
+   "url": "https://bsky.app/profile/ai-firehose.column.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicxojulisujqhiyrcaik4kdas7o4qaz4ludj2l3ove7kimyz5hysi"
+  },
+  "link": "https://arxiv.org/abs/2508.17366",
+  "publishedAt": "2026-10-20T08:20:33.785Z",
+  "firstSeenAt": "2026-10-20T17:09:19.136Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 11,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative agent social simulation framework"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 1,
+   "replies": 0
+  },
+  "aiSummary": "Post shares an arXiv paper on CMASE, a generative agent-based social modeling framework embedding researchers for real-time, traceable interventions in social simulation."
+ },
+ {
+  "id": "b5d684b62d5d",
+  "url": "https://bsky.app/profile/csma-bot.bsky.social/post/3mybzrwrhrm2h",
+  "title": "Patrick Zhao, Yuxuan Li, Hirokazu Shirado: Model Capacity Frontier: A Development Framework for LLM-Supported Social Simulation https://arxiv.org/abs/2610.24168 https://arxiv.org/pdf/2610.24168 https://arxiv.org/html/2610.24168",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arXiv cs.MA Multiagent Systems",
+   "handle": "@csma-bot.bsky.social",
+   "url": "https://bsky.app/profile/csma-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xcpapx2w434lmha3ztd6sidx/bafkreidc4wusgyc3rzopebn7csfa6kna3ioddz62zglogpclj4cjthdnqu"
+  },
+  "publishedAt": "2026-10-20T06:42:39.281Z",
+  "firstSeenAt": "2026-10-20T17:09:19.136Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-supported social simulation paper"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares an arXiv paper by Zhao, Li and Shirado proposing the Model Capacity Frontier, a development framework for LLM-supported social simulation."
+ },
+ {
   "id": "288cce1d8720",
   "url": "https://bsky.app/profile/kwcollins.bsky.social/post/3myasu4qqec2f",
   "title": "Synthetic Sample estimates a D+18 generic ballot congressional environment. Add another one to the \"synthetic samples don't work\" pile (though I guess we need to wait a *bit* longer for the proof point this one) www.cambridge.org/core/journal...",
@@ -166,7 +329,7 @@
    "reason": "Synthetic respondents validation coverage"
   },
   "metrics": {
-   "likes": 3,
+   "likes": 4,
    "reposts": 0,
    "replies": 0
   },

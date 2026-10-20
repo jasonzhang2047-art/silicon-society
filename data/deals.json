@@ -1,5 +1,28 @@
 [
  {
+  "company": "Vectorial",
+  "round": "Seed",
+  "amountUsd": 3000000,
+  "amountText": "$3M",
+  "lead": [],
+  "participants": [],
+  "date": "2026-10-20",
+  "datePrecision": "day",
+  "source": {
+   "name": "Unite.AI",
+   "url": "https://unite.ai/vectorial-raises-3m-seed-to-test-products-against-simulated-customers"
+  },
+  "headline": "Vectorial Raises $3M Seed to Test Products Against Simulated Customers",
+  "verified": false,
+  "coverage": [
+   {
+    "title": "Vectorial raises $3M seed to simulate consumers with AI",
+    "url": "https://app.dealroom.co/news/note/vectorial-raises-3m-seed-to-simulate-consumers-with-ai",
+    "source": "Dealroom"
+   }
+  ]
+ },
+ {
   "company": "Listen Labs",
   "org": "listen-labs",
   "round": "Acquisition",
