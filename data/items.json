@@ -1,5 +1,27 @@
 [
  {
+  "id": "654388e5c5dd",
+  "url": "https://resonate.com/newsroom/built-to-activate-not-just-simulate-resonate-launches-digital-twins-to-turn-synthetic-answers-into-real-audiences",
+  "title": "Built to Activate, Not Just Simulate: Resonate Launches Digital Twins to Turn Synthetic Answers into Real Audiences",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "www.resonate.com",
+   "url": "https://www.resonate.com"
+  },
+  "publishedAt": "2026-10-20T15:28:39.000Z",
+  "firstSeenAt": "2026-10-21T17:14:22.847Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Consumer digital twins and synthetic answers product"
+  },
+  "aiSummary": "Resonate announces the launch of digital twins intended to turn synthetic answers into real audiences."
+ },
+ {
   "id": "b011c3339fa9",
   "url": "https://app.dealroom.co/news/note/vectorial-raises-3m-seed-to-simulate-consumers-with-ai",
   "title": "Vectorial raises $3M seed to simulate consumers with AI",
@@ -28,7 +50,8 @@
    "lead": [],
    "participants": [],
    "auto": true
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "06ca3d2e444a",
@@ -59,7 +82,8 @@
    "lead": [],
    "participants": [],
    "auto": true
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "b340828b805c",
@@ -531,7 +555,7 @@
    "reason": "Generative simulation of organizations"
   },
   "metrics": {
-   "upvotes": 19,
+   "upvotes": 20,
    "comments": 2
   },
   "aiSummary": "OfficeTown is a generative simulation framework that initializes professional organizations whose members coordinate work and delegate assignments to assistant agents."
