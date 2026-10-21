@@ -531,7 +531,7 @@
    "reason": "Generative simulation of organizations"
   },
   "metrics": {
-   "upvotes": 17,
+   "upvotes": 19,
    "comments": 2
   },
   "aiSummary": "OfficeTown is a generative simulation framework that initializes professional organizations whose members coordinate work and delegate assignments to assistant agents."

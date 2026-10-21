@@ -11877,6 +11877,261 @@
    "at": "2026-10-20T17:09:19.136Z",
    "by": "rules",
    "title": "sicuramente ci sono posti di lavoro che saranno rimpiazzati nella massa, ma non tanti come si crede, non tutti, e non ad"
+  },
+  "7b7a3573a40f": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Focused Omni-Modal GUI Agents"
+  },
+  "063c5fe37637": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition"
+  },
+  "b4245b7d03c2": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "SolarRenderer: Few-Step Generative Reference Rendering"
+  },
+  "a2a814765ff9": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Learning the 4D World through Point Trajectory Forecasting"
+  },
+  "7e53eaa5cfc5": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "SWIFT: Self-guided Weak-to-strong dIFfusion models via Target extrapolation"
+  },
+  "8974705b9389": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Correction Training for Diffusion Models"
+  },
+  "0add838901f3": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience"
+  },
+  "a2377bcaf9cd": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "PhysSkin++: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning"
+  },
+  "e7ad696e057b": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "llm",
+   "title": "MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records"
+  },
+  "4de8f4cb2270": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking"
+  },
+  "263b832f7e99": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swappi"
+  },
+  "0f90eae621a2": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "EdgeKernelBench: Unified LLM-Driven Kernel Generation for Edge Backends"
+  },
+  "8438a24305e4": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent"
+  },
+  "2d8c5ed53d0f": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse"
+  },
+  "0b2b0c5d8fcc": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents"
+  },
+  "fed693d2170f": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "EMBER: Predicting TCR--pMHC Binding Without a Docked Complex"
+  },
+  "566564edc50a": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds"
+  },
+  "55b1930c6bc3": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Harness Self-Evolution for Long-Horizon Terminal Agents"
+  },
+  "d5bc2c69cae1": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems"
+  },
+  "3c754860e426": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization"
+  },
+  "cefe4bec5138": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning"
+  },
+  "5b21354fdfc9": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Large Flow Language Models"
+  },
+  "bcbc3503aae4": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time"
+  },
+  "c5ee3a2c91de": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "TRACE: Tracking Multimodal Clinical Trajectories for Inpatient Risk Prediction"
+  },
+  "01b0f1822cff": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents"
+  },
+  "7407f0d18d46": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Breaking Diffusion: Parallel Reasoning with Draft Refinement"
+  },
+  "b0803496ba89": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "WinARDet: Compressed Window Auto-Regression for Long-Horizon Vision-Language Grounding"
+  },
+  "d41fbd1abb21": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Predicting Privileged Information Effectiveness for On-Policy Self-Distillation"
+  },
+  "5bf8c45fd5e8": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution"
+  },
+  "0ad8fa55fb59": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "A Language-Informed Loss for Visual Generation"
+  },
+  "3a0591d5b62f": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning"
+  },
+  "8ad2a415d69e": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Vision as Proprioception: Estimating Humanoid Robot Pose from Video"
+  },
+  "a75371ca2cb2": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Legal Guidance in the Wild: How Users Seek Legal Help in Real-World LLM Conversations"
+  },
+  "7c7fe5d78a6e": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "First Passage Attention"
+  },
+  "f6636dda8c77": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Competence-Based Evaluation of Logical Reasoning in Large Language Models"
+  },
+  "81f736b5655c": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "A practical guide to AI image generation, from diffusion to agents"
+  },
+  "76e2e4ca2eaf": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "thesysdev/open-intelligent-ui — An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps,"
+  },
+  "bf9feba788d5": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "amitshekhariitbhu/ai-system-design — AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents"
+  },
+  "7e6c3eb3e723": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "llm",
+   "title": "Por que “polarização” não é o termo certo. Traduzi este vídeo porque o tema é relevante para as próximas eleições no Bra"
+  },
+  "89dbac008bc3": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "AI seller agents game their own listings to win buyer agents, unprompted — the same GEO behavior we clocked in 16.36% of"
+  },
+  "3b8c6c049e1f": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "llm",
+   "title": "What if your next property marketing video didn’t require a camera, microphone, or hours of editing? 👀 Deepbrain AI hel"
+  },
+  "e6c0ad798ecc": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Last chance to register for Understanding Large Language Models #AcademicLiteracy #AI disciplines #DataScience #Statisti"
+  },
+  "4bd4fdee17e0": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "Self-Improving Video-to-Action Models Hyunwoo Ryu et al. #arXiv #cs.AI #cs.CV"
+  },
+  "560db8c2909b": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "llm",
+   "title": "🏡 Real estate agents: Turn property listings into professional marketing videos WITHOUT a camera! 🎥 Create AI-powered "
+  },
+  "9fe8b97f62b8": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "\"When AI Needs a Brain: Exploring Amazon Bedrock and Generative AI\" by JYOSHNASRI V #ai #amazon-bedrock-agentcore #amazo"
+  },
+  "09a4aba1dd50": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": ""
+  },
+  "101c7ccd5f05": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "In Columbus, outreach workers report a growing number of stimulant users suffering unexpected opioid overdoses. Meanwhil"
+  },
+  "b1a731f1ac33": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/article..."
+  },
+  "8e75f891e64c": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis #DrugEpidemic #SyntheticDrugs #HomemadeDrugs #USNews"
+  },
+  "6881b90cccac": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "rules",
+   "title": "BBC News - A wave of homemade, synthetic drugs sweeps US and deepens crisis www.bbc.co.uk/news/article..."
+  },
+  "f30d6425da58": {
+   "at": "2026-10-21T04:50:21.648Z",
+   "by": "llm",
+   "title": "Diciamo che dare poteri di polizia all'esercito sarebbe stato fascistissimo e leggermente (forse) anticostituzionale. Il"
   }
  },
  "repos": {
@@ -11886,9 +12141,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 80802,
-   "forks": 12260,
-   "openIssues": 158,
+   "stars": 80908,
+   "forks": 12270,
+   "openIssues": 159,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -11905,6 +12160,10 @@
     {
      "date": "2026-10-20",
      "stars": 80802
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 80908
     }
    ]
   },
@@ -11914,8 +12173,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42477,
-   "forks": 7607,
+   "stars": 42485,
+   "forks": 7606,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -11933,6 +12192,10 @@
     {
      "date": "2026-10-20",
      "stars": 42477
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 42485
     }
    ]
   },
@@ -11942,8 +12205,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22255,
-   "forks": 3118,
+   "stars": 22258,
+   "forks": 3120,
    "openIssues": 145,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -11955,6 +12218,10 @@
     {
      "date": "2026-10-20",
      "stars": 22255
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 22258
     }
    ]
   },
@@ -11977,6 +12244,10 @@
     {
      "date": "2026-10-20",
      "stars": 621
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 621
     }
    ]
   },
@@ -11986,8 +12257,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5319,
-   "forks": 654,
+   "stars": 5321,
+   "forks": 653,
    "openIssues": 59,
    "pushedAt": "2026-10-19T09:33:53Z",
    "language": "Python",
@@ -12005,6 +12276,10 @@
     {
      "date": "2026-10-20",
      "stars": 5319
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 5321
     }
    ]
   },
@@ -12015,8 +12290,8 @@
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
    "stars": 1809,
-   "forks": 390,
-   "openIssues": 55,
+   "forks": 391,
+   "openIssues": 56,
    "pushedAt": "2026-10-20T11:05:11Z",
    "language": "Python",
    "latestRelease": {
@@ -12033,6 +12308,10 @@
     {
      "date": "2026-10-20",
      "stars": 1809
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 1809
     }
    ]
   },
@@ -12042,7 +12321,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1355,
+   "stars": 1356,
    "forks": 218,
    "openIssues": 41,
    "pushedAt": "2026-10-14T18:16:35Z",
@@ -12061,6 +12340,10 @@
     {
      "date": "2026-10-20",
      "stars": 1355
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 1356
     }
    ]
   },
@@ -12070,8 +12353,8 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7606,
-   "forks": 690,
+   "stars": 7608,
+   "forks": 689,
    "openIssues": 35,
    "pushedAt": "2026-07-03T14:06:57Z",
    "language": "Jupyter Notebook",
@@ -12089,6 +12372,10 @@
     {
      "date": "2026-10-20",
      "stars": 7606
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 7608
     }
    ]
   },
@@ -12097,7 +12384,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10678,
+   "stars": 10680,
    "forks": 1227,
    "openIssues": 75,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -12110,6 +12397,10 @@
     {
      "date": "2026-10-20",
      "stars": 10678
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 10680
     }
    ]
   },
@@ -12121,7 +12412,7 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 507,
    "forks": 88,
-   "openIssues": 57,
+   "openIssues": 58,
    "pushedAt": "2026-10-20T17:08:13Z",
    "language": "Python",
    "latestRelease": {
@@ -12137,6 +12428,10 @@
     },
     {
      "date": "2026-10-20",
+     "stars": 507
+    },
+    {
+     "date": "2026-10-21",
      "stars": 507
     }
    ]
@@ -12166,6 +12461,10 @@
     {
      "date": "2026-10-20",
      "stars": 338
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 338
     }
    ]
   },
@@ -12188,6 +12487,10 @@
     {
      "date": "2026-10-20",
      "stars": 245
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 245
     }
    ]
   },
@@ -12208,6 +12511,10 @@
     },
     {
      "date": "2026-10-20",
+     "stars": 1388
+    },
+    {
+     "date": "2026-10-21",
      "stars": 1388
     }
    ]
@@ -12236,6 +12543,10 @@
     {
      "date": "2026-10-20",
      "stars": 34
+    },
+    {
+     "date": "2026-10-21",
+     "stars": 34
     }
    ]
   },
@@ -12245,7 +12556,7 @@
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
    "stars": 5158,
-   "forks": 523,
+   "forks": 522,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
    "language": "JavaScript",
@@ -12262,6 +12573,10 @@
     },
     {
      "date": "2026-10-20",
+     "stars": 5158
+    },
+    {
+     "date": "2026-10-21",
      "stars": 5158
     }
    ]

@@ -1,28 +1,25 @@
 {
- "lastRunAt": "2026-10-20T17:09:19.136Z",
- "nextRunAt": "2026-10-21T05:09:19.136Z",
- "durationMs": 102028,
+ "lastRunAt": "2026-10-21T04:50:21.648Z",
+ "nextRunAt": "2026-10-21T16:50:21.648Z",
+ "durationMs": 95882,
  "mode": "incremental",
- "since": "2026-10-16T06:21:08.992Z",
+ "since": "2026-10-16T17:09:19.136Z",
  "relevanceGate": "llm",
  "llm": {
   "requests": 1,
-  "inputTokens": 1791,
-  "outputTokens": 1130,
+  "inputTokens": 1195,
+  "outputTokens": 350,
   "refusals": 0,
   "errors": 0,
   "model": "claude-opus-5-5"
  },
  "counts": {
   "total": 245,
-  "added": 5,
-  "updated": 15,
-  "candidates": 420,
-  "rejectedThisRun": 63,
-  "addedByCategory": {
-   "funding": 2,
-   "voices": 3
-  },
+  "added": 0,
+  "updated": 16,
+  "candidates": 336,
+  "rejectedThisRun": 51,
+  "addedByCategory": {},
   "totalByCategory": {
    "funding": 20,
    "voices": 34,
@@ -36,64 +33,66 @@
  "sources": [
   {
    "name": "arXiv",
-   "ok": true,
-   "fetched": 5,
-   "ms": 22371
+   "ok": false,
+   "fetched": 0,
+   "ms": 188,
+   "error": "HTTP 406 for https://export.arxiv.org/api/query?search_query=abs%3A%22generative%20agents%22%20OR%20abs%3A%22generative%20agent%22%20OR%20ti%3A%22generative%20agents%22&sortBy=submittedDate&sortOrder="
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 217,
-   "ms": 1711
+   "fetched": 168,
+   "ms": 1654
   },
   {
    "name": "Google News",
-   "ok": true,
-   "fetched": 35,
-   "ms": 40207
+   "ok": false,
+   "fetched": 0,
+   "ms": 30789,
+   "error": "HTTP 503 for https://news.google.com/rss/search?q=%22generative%20agents%22%20AI%20when%3A5d&hl=en-US&gl=US&ceid=US:en: <html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/>"
   },
   {
    "name": "GDELT",
    "ok": false,
    "fetched": 0,
-   "ms": 23995,
-   "error": "fetch failed"
+   "ms": 24226,
+   "error": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=(%22generative%20agents%22%20OR%20%22synthetic%20respondents%22%20OR%20%22synthetic%20users%22%20OR%20%22silicon%20sampling%22)%20sourcel"
   },
   {
    "name": "Hacker News",
    "ok": true,
-   "fetched": 11,
-   "ms": 7829
+   "fetched": 12,
+   "ms": 3801
   },
   {
    "name": "Reddit",
    "ok": true,
    "fetched": 1,
-   "ms": 84592
+   "ms": 91053
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
    "fetched": 1,
-   "ms": 11283
+   "ms": 8527
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 8184
+   "ms": 4485
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
-   "fetched": 4,
-   "ms": 5501
+   "fetched": 5,
+   "ms": 5379
   },
   {
    "name": "Bluesky · search",
    "ok": true,
-   "fetched": 119,
-   "ms": 7563
+   "fetched": 120,
+   "ms": 4425
   },
   {
    "name": "X · tracked accounts & keywords",
@@ -106,19 +105,19 @@
    "name": "Official blogs",
    "ok": true,
    "fetched": 0,
-   "ms": 13911
+   "ms": 2626
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 3,
-   "ms": 4680
+   "ms": 1340
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 9,
-   "ms": 4896
+   "ms": 1190
   }
  ]
 }
