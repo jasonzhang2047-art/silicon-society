@@ -1,5 +1,226 @@
 [
  {
+  "id": "eff7562a49a3",
+  "url": "https://bsky.app/profile/dgarcia.eu/post/3myi3bvtkys26",
+  "title": "Excited to visit NYU and Columbia this week for the workshop on AI and the Future of Online Information. Slides of my presentation here: www.dgarcia.eu/nyu-ai",
+  "snippet": "Generative Agent-Based Modelling and Collective Behavior of AI Agents.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "David Garcia",
+   "handle": "@dgarcia.eu",
+   "url": "https://bsky.app/profile/dgarcia.eu",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:axzqjqlb2nx5tuwjildpj6rb/bafkreibclkru6tvteuqhwnw3whr3yfajzp5i5tk2wbg2spqi4f6qgwxgpa"
+  },
+  "link": "https://www.dgarcia.eu/nyu-ai",
+  "publishedAt": "2026-10-22T16:25:27.383Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative agent-based modelling presentation"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Researcher shares slides of a presentation on generative agent-based modelling and collective behavior of AI agents at an NYU/Columbia workshop on AI and online information."
+ },
+ {
+  "id": "482b3cb1d5c8",
+  "url": "https://bsky.app/profile/makhanamornings.bsky.social/post/3myhztz2dws24",
+  "title": "Would you test the test? Synthetic customers, real decisions. makhanamornings.com/stories/synt...",
+  "snippet": "An AI customer is not yet customer evidence. Simulated respondents can help prepare research. Using their answers to make commercial decisions requires a different standard of proof.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "MakhanaMornings",
+   "handle": "@makhanamornings.bsky.social",
+   "url": "https://bsky.app/profile/makhanamornings.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:git7qor7obylkc2rue3c62ff/bafkreihyxw235tdi4avthvz5qlwpx3jz3wcitytsadzehezvgio3jqhf5m"
+  },
+  "link": "https://makhanamornings.com/stories/synthetic-customers-market-research-validation-india/",
+  "publishedAt": "2026-10-22T15:59:47.247Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents validation commentary"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post argues AI synthetic customers can help prepare research but using their answers for commercial decisions requires a different standard of proof."
+ },
+ {
+  "id": "40e8d12a5b7a",
+  "url": "https://finance.biggo.com/podcast/2af5efbdc4386704",
+  "title": "AI Can Now Predict 85%+ of What You’ll Do Next | Simile Co-founder & CEO, Joon Sung Park｜Gradient Dissent",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "finance.biggo.com",
+   "url": "https://finance.biggo.com"
+  },
+  "publishedAt": "2026-10-22T13:58:09.000Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [
+   "joon-sung-park"
+  ],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Human behavior simulation company interview"
+  },
+  "aiSummary": "Gradient Dissent episode features Simile co-founder and CEO Joon Sung Park on AI predicting over 85% of what people will do next."
+ },
+ {
+  "id": "7361e3798847",
+  "url": "https://bsky.app/profile/druce.ai/post/3myhpnjz3hr2h",
+  "title": "UK politicians test policy messages on AI-generated focus groups, with Synthetic Respondents charging $16 per project, a thousandth of traditional costs",
+  "snippet": "UK Politicians Are Testing Their Messages on AI-Generated Voters. UK politicians looking to gauge how British voters will react to their policies have a new cohort on which to test their ideas: AI-generated focus groups.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "SkynetAndChill.com",
+   "handle": "@druce.ai",
+   "url": "https://bsky.app/profile/druce.ai",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qomkdnxrqw3gkbytdxea5z65/bafkreihi55ddvmohg6dztiwlkwdbts5fd76iaenef2sriacvj7ibtezagi"
+  },
+  "link": "https://www.bloomberg.com/news/articles/2026-10-22/uk-politicians-are-testing-their-messages-on-ai-generated-focus-groups",
+  "publishedAt": "2026-10-22T12:57:12.607Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "AI focus groups for political messaging"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "UK politicians are testing policy messages on AI-generated focus groups, with Synthetic Respondents charging $16 per project."
+ },
+ {
+  "id": "43e7e0c9abbb",
+  "url": "https://bsky.app/profile/hendirkb.bsky.social/post/3myhng65kjs2i",
+  "title": "Could Vicarian help us ask better policy questions? One fictional respondent said online-only booking would be “Fairly easy” because, as a teacher, it uses technology. We had given it no information about digital access. vicarian.app/where-synthe...",
+  "snippet": "Could synthetic respondents help us ask better policy questions? — Vicarian. A synthetic respondent assumed a teacher would find online-only booking easy, although we gave it no information about digital access. I use that Vicarian run to ask what we might catch before fieldwo...",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Hendrik Bruns",
+   "handle": "@hendirkb.bsky.social",
+   "url": "https://bsky.app/profile/hendirkb.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kpo26gwuwwjaq3uihqnhq2kg/bafkreid4mr3imc5st65caqd7rmotgwizeshsws4qwqxkcrdpypptwgiu6y"
+  },
+  "link": "https://vicarian.app/where-synthetic-respondents-belong-in-public-policy.html",
+  "publishedAt": "2026-10-22T12:17:17.932Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents for policy research"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1
+  },
+  "aiSummary": "Post on a Vicarian run where a synthetic respondent assumed a teacher would find online-only booking easy despite no digital access information, asking how this aids policy questions."
+ },
+ {
+  "id": "9a2780d0b8e3",
+  "url": "https://research-live.com/article/news/artificial-societies-builds-model-of-human-behaviour/id/5154136",
+  "title": "Artificial Societies builds model of human behaviour",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Research Live",
+   "url": "https://www.research-live.com"
+  },
+  "publishedAt": "2026-10-22T11:10:05.000Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [],
+  "orgs": [
+   "artificial-societies"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Company simulating human behavior"
+  },
+  "aiSummary": "Research Live reports that Artificial Societies has built a model of human behaviour."
+ },
+ {
+  "id": "e119b10eca9f",
+  "url": "https://indianstartupnews.com/funding/ai-startup-vectorial-raises-3-million-in-funding-to-expand-human-behaviour-simulation-platform-12696101",
+  "title": "AI startup Vectorial raises $3 million in funding to expand human behaviour simulation platform",
+  "category": "funding",
+  "source": {
+   "kind": "news",
+   "name": "Indian Startup News",
+   "url": "https://indianstartupnews.com"
+  },
+  "publishedAt": "2026-10-22T09:01:06.000Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Funding for human behavior simulation"
+  },
+  "aiSummary": "AI startup Vectorial raised $3 million to expand its human behaviour simulation platform.",
+  "deal": {
+   "company": "Vectorial",
+   "round": null,
+   "amountText": "$3 million",
+   "amountUsd": 3000000,
+   "lead": [],
+   "participants": [],
+   "auto": true
+  }
+ },
+ {
   "id": "70e0498254d6",
   "url": "https://arxiv.org/abs/2610.28981",
   "title": "The Butterfly Effect in LLM Social Simulations: From Architecture Sensitivity to Robustness Audits",
@@ -53,6 +274,37 @@
   },
   "aiSummary": "Resonate announces the launch of digital twins intended to turn synthetic answers into real audiences.",
   "metrics": {}
+ },
+ {
+  "id": "af6308c9415f",
+  "url": "https://manilatimes.net/2026/10/20/tmt-newswire/globenewswire/human-behavior-simulation-platform-vectorial-raises-3m-to-help-companies-launch-successful-products-the-first-time/2449824",
+  "title": "Human Behavior Simulation Platform Vectorial raises $3M to help companies launch successful products , the first time",
+  "category": "funding",
+  "source": {
+   "kind": "gdelt",
+   "name": "manilatimes.net",
+   "url": "https://manilatimes.net"
+  },
+  "publishedAt": "2026-10-20T13:30:00.000Z",
+  "firstSeenAt": "2026-10-22T17:12:15.018Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Funding for human behavior simulation"
+  },
+  "aiSummary": "Human behavior simulation platform Vectorial raised $3M to help companies launch successful products.",
+  "deal": {
+   "company": "Vectorial",
+   "round": null,
+   "amountText": "$3M",
+   "amountUsd": 3000000,
+   "lead": [],
+   "participants": [],
+   "auto": true
+  }
  },
  {
   "id": "b011c3339fa9",
