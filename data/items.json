@@ -1,5 +1,37 @@
 [
  {
+  "id": "70e0498254d6",
+  "url": "https://arxiv.org/abs/2610.28981",
+  "title": "The Butterfly Effect in LLM Social Simulations: From Architecture Sensitivity to Robustness Audits",
+  "snippet": "A butterfly effect occurs when a local perturbation propagates through a system and produces divergence in its collective outcome. In LLM social simulations, this creates a particular challenge for scientific inference: sensitivity to implementation choices can enter agent interactions and alter the collective outcomes on which scientific claims are based. We study this problem through a repeated Prisoner's Dilemma and a social-media echo chamber, spanning representation- and design-level perturbations across four LLM families. We find that controlled perturbations can substantially alter collective outcomes, with sensitivity varying across both perturbations and models. In the Prisoner's…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Jinyi Ye",
+   "Lei Cao",
+   "Ding Chen",
+   "Emilio Ferrara"
+  ],
+  "publishedAt": "2026-10-20T23:13:27.000Z",
+  "firstSeenAt": "2026-10-22T04:49:34.053Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Robustness of LLM social simulations"
+  },
+  "metrics": {},
+  "aiSummary": "Study finds implementation perturbations across four LLM families substantially alter collective outcomes in LLM social simulations of a repeated Prisoner's Dilemma and social-media echo chamber."
+ },
+ {
   "id": "654388e5c5dd",
   "url": "https://resonate.com/newsroom/built-to-activate-not-just-simulate-resonate-launches-digital-twins-to-turn-synthetic-answers-into-real-audiences",
   "title": "Built to Activate, Not Just Simulate: Resonate Launches Digital Twins to Turn Synthetic Answers into Real Audiences",
@@ -19,7 +51,8 @@
    "by": "llm",
    "reason": "Consumer digital twins and synthetic answers product"
   },
-  "aiSummary": "Resonate announces the launch of digital twins intended to turn synthetic answers into real audiences."
+  "aiSummary": "Resonate announces the launch of digital twins intended to turn synthetic answers into real audiences.",
+  "metrics": {}
  },
  {
   "id": "b011c3339fa9",
@@ -555,7 +588,7 @@
    "reason": "Generative simulation of organizations"
   },
   "metrics": {
-   "upvotes": 20,
+   "upvotes": 21,
    "comments": 2
   },
   "aiSummary": "OfficeTown is a generative simulation framework that initializes professional organizations whose members coordinate work and delegate assignments to assistant agents."
