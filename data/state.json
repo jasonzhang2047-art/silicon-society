@@ -13077,6 +13077,241 @@
    "at": "2026-10-22T17:12:15.018Z",
    "by": "llm",
    "title": "Beyond tree cover: mapping the world’s forest types"
+  },
+  "1dc6e7054c9e": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Deep Search in Real-World Web Environments"
+  },
+  "afa734709bfd": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation"
+  },
+  "d6337a18791a": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models"
+  },
+  "6f9f14af2aaa": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE"
+  },
+  "b059c4eea206": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V"
+  },
+  "90a8df39d557": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Verus-Insight: Towards Explainable Artifact Detection in AI-Generated Videos"
+  },
+  "fc39830e24ac": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Rethinking Sequence Compression with Test-time Regression"
+  },
+  "4903ec6a22ba": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought"
+  },
+  "20311f3738bb": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports"
+  },
+  "7c70fd1b50af": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions"
+  },
+  "05668b6e6218": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation"
+  },
+  "4ccadb47e28f": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding"
+  },
+  "667aea88b890": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Policy-Mask: Budget-Aware Adaptation of Diffusion Features to Discriminative Tasks"
+  },
+  "ae06273a8434": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "MolLean: A Process-Verifiable Language for Chemical Reasoning"
+  },
+  "c2479b402bb5": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "llm",
+   "title": "Reading, Writing, Sharing, and Interacting with the World through Video"
+  },
+  "e0b3f193ab16": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Toward Recursive Self-Improvement in Physical AI"
+  },
+  "809aec55ffbc": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models"
+  },
+  "029107f39cec": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs"
+  },
+  "5d2cc977ef46": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation"
+  },
+  "48e666edd35f": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Self-Distilling Future Video Representations for World Action Models"
+  },
+  "039193dd57c4": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark"
+  },
+  "3d05fe1ac88e": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS"
+  },
+  "3bbd86c4e9f2": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Skeleton-Grounded Latent Action Model for Robot World Models"
+  },
+  "18cb5dbc7575": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles"
+  },
+  "b722d5dba5d4": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion"
+  },
+  "abcbd9ef5886": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents"
+  },
+  "2329d4225680": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Language Models Learn to Improve Language Models"
+  },
+  "6844a44575d0": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity"
+  },
+  "b76f81c9b54e": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Bridged Self-Distillation for On-Policy Learning"
+  },
+  "0c0d4266063b": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "FrontierCS 2: A Benchmark for Computer Science R&D"
+  },
+  "ee36d2b14186": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows"
+  },
+  "41b829b969d3": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "llm",
+   "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy"
+  },
+  "018934db2258": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "llm",
+   "title": "New Approaches to AI Agents, Robotics, and Digital Twins"
+  },
+  "96ac094d1c68": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Cadence Brings Sovereign Cloud Services to Chip and System Design in Europe"
+  },
+  "39d0f1240738": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "llm",
+   "title": "Reply Earns “NVIDIA Physical AI Specialization” for Production-Ready Robotics and Digital Twins"
+  },
+  "b2ccc6bf319d": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "GE Vernova Stocks Slide 10.43% as AI-Power Modeling Deepens"
+  },
+  "a49e93d50c51": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "U.K. politicians are testing their messages on AI-generated focus groups"
+  },
+  "19d2c660f72e": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Von der Leyen’s coalition splits over AI liability rules"
+  },
+  "c649fbab875e": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Rivian acquires Third Dimension AI to boost autonomous driving"
+  },
+  "26607fe1caaa": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "The Sim First New Game In 12 Years Officially Announced"
+  },
+  "0ef61a4f7978": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Show HN: Ployz – a Rust imperative orchestrator and cloud-like UX"
+  },
+  "0342f39befa1": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "cobanov/PS5LM — llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8"
+  },
+  "d9093d8f4ecc": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "hanzohanzhe/Grandet — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonym"
+  },
+  "659034e93cfa": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "\"A $5 AI Sandbox Could Help More Students Build on AWS\" by Shreya Patel #amazon-bedrock #artificial-intelligence #studen"
+  },
+  "2c0ebe2cc602": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "For three years, generative AI meant bad copy or hallucinations. Agents change the risk profile completely. Agents don’t"
+  },
+  "75bd813a4a57": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": ""
+  },
+  "259d149ae39c": {
+   "at": "2026-10-23T04:51:50.626Z",
+   "by": "rules",
+   "title": "Robots, AI Agents, Generative Models: The Path That Led Paras Savnani to Physical AI ->International Business Times | Mo"
   }
  },
  "repos": {
@@ -13086,8 +13321,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 81240,
-   "forks": 12312,
+   "stars": 81343,
+   "forks": 12321,
    "openIssues": 202,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -13113,6 +13348,10 @@
     {
      "date": "2026-10-22",
      "stars": 81240
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 81343
     }
    ]
   },
@@ -13122,8 +13361,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42507,
-   "forks": 7607,
+   "stars": 42509,
+   "forks": 7606,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -13149,6 +13388,10 @@
     {
      "date": "2026-10-22",
      "stars": 42507
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 42509
     }
    ]
   },
@@ -13158,7 +13401,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22269,
+   "stars": 22271,
    "forks": 3123,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -13179,6 +13422,10 @@
     {
      "date": "2026-10-22",
      "stars": 22269
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 22271
     }
    ]
   },
@@ -13209,6 +13456,10 @@
     {
      "date": "2026-10-22",
      "stars": 622
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 622
     }
    ]
   },
@@ -13218,11 +13469,17 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5329,
+   "stars": 5333,
    "forks": 653,
    "openIssues": 59,
    "pushedAt": "2026-10-19T09:33:53Z",
    "language": "Python",
+   "latestRelease": {
+    "tag": "v0.2.5",
+    "name": "v0.2.5",
+    "url": "https://github.com/camel-ai/oasis/releases/tag/v0.2.5",
+    "publishedAt": "2025-12-04T12:07:18Z"
+   },
    "history": [
     {
      "date": "2026-10-02",
@@ -13239,6 +13496,10 @@
     {
      "date": "2026-10-22",
      "stars": 5329
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 5333
     }
    ]
   },
@@ -13248,7 +13509,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1816,
+   "stars": 1817,
    "forks": 393,
    "openIssues": 56,
    "pushedAt": "2026-10-20T11:05:11Z",
@@ -13275,6 +13536,10 @@
     {
      "date": "2026-10-22",
      "stars": 1816
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 1817
     }
    ]
   },
@@ -13284,8 +13549,8 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1360,
-   "forks": 218,
+   "stars": 1361,
+   "forks": 219,
    "openIssues": 33,
    "pushedAt": "2026-10-21T07:21:06Z",
    "language": "Python",
@@ -13311,6 +13576,10 @@
     {
      "date": "2026-10-22",
      "stars": 1360
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 1361
     }
    ]
   },
@@ -13325,6 +13594,12 @@
    "openIssues": 36,
    "pushedAt": "2026-10-22T02:15:19Z",
    "language": "Jupyter Notebook",
+   "latestRelease": {
+    "tag": "v0.7.0",
+    "name": "Release 0.7.0: support for vision modality",
+    "url": "https://github.com/microsoft/TinyTroupe/releases/tag/v0.7.0",
+    "publishedAt": "2026-03-28T11:13:38Z"
+   },
    "history": [
     {
      "date": "2026-10-02",
@@ -13341,6 +13616,10 @@
     {
      "date": "2026-10-22",
      "stars": 7615
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 7615
     }
    ]
   },
@@ -13349,7 +13628,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10684,
+   "stars": 10686,
    "forks": 1230,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -13370,6 +13649,10 @@
     {
      "date": "2026-10-22",
      "stars": 10684
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 10686
     }
    ]
   },
@@ -13382,7 +13665,7 @@
    "stars": 507,
    "forks": 88,
    "openIssues": 59,
-   "pushedAt": "2026-10-21T21:46:10Z",
+   "pushedAt": "2026-10-22T20:19:21Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -13405,6 +13688,10 @@
     },
     {
      "date": "2026-10-22",
+     "stars": 507
+    },
+    {
+     "date": "2026-10-23",
      "stars": 507
     }
    ]
@@ -13442,6 +13729,10 @@
     {
      "date": "2026-10-22",
      "stars": 341
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 341
     }
    ]
   },
@@ -13472,6 +13763,10 @@
     {
      "date": "2026-10-22",
      "stars": 245
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 245
     }
    ]
   },
@@ -13500,6 +13795,10 @@
     },
     {
      "date": "2026-10-22",
+     "stars": 1387
+    },
+    {
+     "date": "2026-10-23",
      "stars": 1387
     }
    ]
@@ -13536,6 +13835,10 @@
     {
      "date": "2026-10-22",
      "stars": 34
+    },
+    {
+     "date": "2026-10-23",
+     "stars": 34
     }
    ]
   },
@@ -13570,6 +13873,10 @@
     },
     {
      "date": "2026-10-22",
+     "stars": 5158
+    },
+    {
+     "date": "2026-10-23",
      "stars": 5158
     }
    ]

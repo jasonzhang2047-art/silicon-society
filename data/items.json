@@ -28,7 +28,7 @@
    "reason": "Generative agent-based modelling presentation"
   },
   "metrics": {
-   "likes": 0,
+   "likes": 4,
    "reposts": 0,
    "replies": 0
   },
@@ -70,6 +70,32 @@
   "aiSummary": "Post argues AI synthetic customers can help prepare research but using their answers for commercial decisions requires a different standard of proof."
  },
  {
+  "id": "a3ab0ca7f709",
+  "url": "https://finance.biggo.com/news/2af5efbdc4386704",
+  "title": "Simile CEO Joon Sung Park says AI clones predict 85% of what a person will answer — and humans only score 86%",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "BigGo Finance",
+   "url": "https://finance.biggo.com"
+  },
+  "publishedAt": "2026-10-22T14:08:00.000Z",
+  "firstSeenAt": "2026-10-23T04:51:50.626Z",
+  "people": [
+   "joon-sung-park"
+  ],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Human digital twins / AI clones accuracy"
+  },
+  "aiSummary": "Simile CEO Joon Sung Park says AI clones predict 85% of what a person will answer, compared with 86% for humans."
+ },
+ {
   "id": "40e8d12a5b7a",
   "url": "https://finance.biggo.com/podcast/2af5efbdc4386704",
   "title": "AI Can Now Predict 85%+ of What You’ll Do Next | Simile Co-founder & CEO, Joon Sung Park｜Gradient Dissent",
@@ -93,7 +119,8 @@
    "by": "llm",
    "reason": "Human behavior simulation company interview"
   },
-  "aiSummary": "Gradient Dissent episode features Simile co-founder and CEO Joon Sung Park on AI predicting over 85% of what people will do next."
+  "aiSummary": "Gradient Dissent episode features Simile co-founder and CEO Joon Sung Park on AI predicting over 85% of what people will do next.",
+  "metrics": {}
  },
  {
   "id": "7361e3798847",
@@ -187,7 +214,8 @@
    "by": "llm",
    "reason": "Company simulating human behavior"
   },
-  "aiSummary": "Research Live reports that Artificial Societies has built a model of human behaviour."
+  "aiSummary": "Research Live reports that Artificial Societies has built a model of human behaviour.",
+  "metrics": {}
  },
  {
   "id": "e119b10eca9f",
@@ -218,7 +246,8 @@
    "lead": [],
    "participants": [],
    "auto": true
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "70e0498254d6",
@@ -304,7 +333,8 @@
    "lead": [],
    "participants": [],
    "auto": true
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "b011c3339fa9",
