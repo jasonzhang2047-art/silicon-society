@@ -1,5 +1,33 @@
 [
  {
+  "id": "1340989fe6e2",
+  "url": "https://github.com/YSocialTwin/YSocial/releases/tag/v4.0.0",
+  "title": "YSocialTwin/YSocial v4.0.0 — Scadrial",
+  "snippet": "<small “There's always <mark another secret</mark .” — Kelsier <br ― Brandon Sanderson, [Mistborn: The Final Empire](https://www.goodreads.com/work/quotes/66322)</small YSocial 4.0.0 turns the web application into an installable product: a desktop installer, a pip wheel, a Docker image and a public plugin registry, with the interface and the LLM prompts available in English and Italian. Released…",
+  "category": "code",
+  "source": {
+   "kind": "github",
+   "name": "GitHub",
+   "url": "https://github.com/YSocialTwin/YSocial"
+  },
+  "publishedAt": "2026-10-23T07:45:28Z",
+  "firstSeenAt": "2026-10-23T17:09:23.729Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "release"
+  ],
+  "score": 1,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Release of LLM social simulation platform"
+  },
+  "metrics": {
+   "stars": 34
+  },
+  "aiSummary": "YSocial 4.0.0 becomes an installable product with a desktop installer, pip wheel, Docker image, public plugin registry, and English and Italian interface and LLM prompts."
+ },
+ {
   "id": "eff7562a49a3",
   "url": "https://bsky.app/profile/dgarcia.eu/post/3myi3bvtkys26",
   "title": "Excited to visit NYU and Columbia this week for the workshop on AI and the Future of Online Information. Slides of my presentation here: www.dgarcia.eu/nyu-ai",
@@ -28,7 +56,7 @@
    "reason": "Generative agent-based modelling presentation"
   },
   "metrics": {
-   "likes": 4,
+   "likes": 5,
    "reposts": 0,
    "replies": 0
   },
@@ -93,7 +121,8 @@
    "by": "llm",
    "reason": "Human digital twins / AI clones accuracy"
   },
-  "aiSummary": "Simile CEO Joon Sung Park says AI clones predict 85% of what a person will answer, compared with 86% for humans."
+  "aiSummary": "Simile CEO Joon Sung Park says AI clones predict 85% of what a person will answer, compared with 86% for humans.",
+  "metrics": {}
  },
  {
   "id": "40e8d12a5b7a",
@@ -248,6 +277,35 @@
    "auto": true
   },
   "metrics": {}
+ },
+ {
+  "id": "154f74cccfd3",
+  "url": "https://arxiv.org/abs/2610.30900",
+  "title": "Silicon Samples Match the Answers but Not the Respondents",
+  "snippet": "Silicon sampling generates survey respondents by having a large language model (LLM) answer a survey as a person with given demographic attributes, and the resulting synthetic populations are increasingly used in place of human ones. Existing evaluations focus on individual-answer accuracy, per-question answer distributions, and correlations across questions. None of these compares the respondents themselves, so a generator whose respondents have combinations of answers found in no human respondent can still score well if it reproduces every answer distribution. We propose the respondent coverage gap (RCG), which represents each respondent as a point defined by their complete answer profile…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Yusuke Kumagae",
+   "Masahiro Kaneko"
+  ],
+  "publishedAt": "2026-10-22T08:22:50.000Z",
+  "firstSeenAt": "2026-10-23T17:09:23.729Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 9,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of silicon sampling synthetic respondents"
+  },
+  "aiSummary": "Paper proposes the respondent coverage gap metric to compare complete answer profiles of LLM-generated silicon sample respondents against human respondents, beyond per-question distribution accuracy."
  },
  {
   "id": "70e0498254d6",
