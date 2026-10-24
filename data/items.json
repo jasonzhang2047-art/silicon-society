@@ -1,5 +1,73 @@
 [
  {
+  "id": "1765bde4ab66",
+  "url": "https://bsky.app/profile/inmotudigital.bsky.social/post/3mymxk2vwxv2g",
+  "title": "This is why we still run studies with real people. NN/g compared 120 synthetic respondents against 604 humans. Both found UX is the dominant term. But the synthetic group showed mode collapse: 50+ distinct answers collapsed to 12. The range of real answers is the whole point.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "in motu digital",
+   "handle": "@inmotudigital.bsky.social",
+   "url": "https://bsky.app/profile/inmotudigital.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkxyggadrxmnj3xc6ejyl5po/bafkreictxaolbjj6w2mgudwdgq4buk4dojlsfmhfyc7sl53fwfdyrcop5a"
+  },
+  "publishedAt": "2026-10-24T15:01:44.626Z",
+  "firstSeenAt": "2026-10-24T15:58:44.528Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of synthetic respondents against humans"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post cites NN/g comparing 120 synthetic respondents with 604 humans; both found UX dominant, but synthetic answers showed mode collapse from 50+ distinct answers to 12."
+ },
+ {
+  "id": "502d91dab98f",
+  "url": "https://bsky.app/profile/philswatton.bsky.social/post/3mymdzervnc2j",
+  "title": "Pleased that our paper on the ability of LLM-driven persona agents to simulate human personality dimensions has now made it to publication in Royal Society Open Science: doi.org/10.1098/rsos...",
+  "snippet": "Applying psychometrics to large language model simulated populations: recreating the HEXACO personality inventory experiment with generative agents. Abstract. Generative agents powered by large language models (LLMs) demonstrate human-like characteristics through sophisticated natural language…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Phil Swatton",
+   "handle": "@philswatton.bsky.social",
+   "url": "https://bsky.app/profile/philswatton.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5p5aztgx6roj2jzap52n5gz/bafkreieu6vbzjqkalbthgzmquekz627rdq7xq5nudi4v6rh5qyydvngawa"
+  },
+  "link": "https://doi.org/10.1098/rsos.251802",
+  "publishedAt": "2026-10-24T09:12:23.691Z",
+  "firstSeenAt": "2026-10-24T15:58:44.528Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 10,
+  "verdict": {
+   "by": "llm",
+   "reason": "Psychometric validation of generative agent populations"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1
+  },
+  "aiSummary": "Author announces publication in Royal Society Open Science of a paper recreating the HEXACO personality inventory experiment with LLM-driven generative persona agents."
+ },
+ {
   "id": "1340989fe6e2",
   "url": "https://github.com/YSocialTwin/YSocial/releases/tag/v4.0.0",
   "title": "YSocialTwin/YSocial v4.0.0 — Scadrial",
@@ -56,7 +124,7 @@
    "reason": "Generative agent-based modelling presentation"
   },
   "metrics": {
-   "likes": 5,
+   "likes": 4,
    "reposts": 0,
    "replies": 0
   },
