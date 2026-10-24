@@ -13537,6 +13537,91 @@
    "at": "2026-10-23T17:09:23.729Z",
    "by": "rules",
    "title": ""
+  },
+  "11ca1ce21569": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "llm",
+   "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems"
+  },
+  "9afbb952e1c0": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems"
+  },
+  "d7de387a8f98": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "Diffusion Language Models Change Speed Across Tasks and Languages"
+  },
+  "3eba8a54549f": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?"
+  },
+  "38f5fa143eb5": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models"
+  },
+  "2cc07d83c6d5": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "llm",
+   "title": "Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization"
+  },
+  "7d3d0ac78bf0": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems"
+  },
+  "a809332edc38": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Enviro"
+  },
+  "a24d751d6cef": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "Studio Atelico: Interview With CEO And Co-Founder Piero Molino About On-Device AI And The Future Of Gaming"
+  },
+  "7fa8ef568286": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "Buyer Attention & Engagement Study Highlights AI-Led Personalization and Attention-First Strategies as Global Attention "
+  },
+  "103fc0f449b4": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "Siemens, Nvidia deploy industrial AI to reduce engineering effort"
+  },
+  "dec3d5c83088": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "Prompt: AI moves beyond the screen"
+  },
+  "fdffe9d6fc4d": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "5 Interesting Learnings from Braze at $910 Million in Revenue: A $5.66B Sale to Salesforce, 26% Growth, and Operating Ex"
+  },
+  "3312d7f2a422": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "Tractian Hits $1.4B as 4 Physical AI Startups Raise $240M"
+  },
+  "0b01c8e81d34": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "sno-ai/sno-station-skills — Sno Station Skills: 31 tested skills that turn Claude Code and Codex into one working team. "
+  },
+  "49a4bfe1346a": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "llm",
+   "title": "[Shock] AI Agents Hit Bank Accounts! A Terrifying Scenario Shaking the Financial Industry ▼Read More https://tech-matome"
+  },
+  "8bd8e6fd1322": {
+   "at": "2026-10-24T04:38:45.585Z",
+   "by": "rules",
+   "title": "From my observations, the main thing is generative AI and AI \"agents\" being able to massively parallelize the search. Al"
   }
  },
  "repos": {
@@ -13546,8 +13631,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 81472,
-   "forks": 12341,
+   "stars": 81563,
+   "forks": 12348,
    "openIssues": 202,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -13577,6 +13662,10 @@
     {
      "date": "2026-10-23",
      "stars": 81472
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 81563
     }
    ]
   },
@@ -13586,8 +13675,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42514,
-   "forks": 7606,
+   "stars": 42518,
+   "forks": 7607,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -13617,6 +13706,10 @@
     {
      "date": "2026-10-23",
      "stars": 42514
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 42518
     }
    ]
   },
@@ -13650,6 +13743,10 @@
     },
     {
      "date": "2026-10-23",
+     "stars": 22281
+    },
+    {
+     "date": "2026-10-24",
      "stars": 22281
     }
    ]
@@ -13685,6 +13782,10 @@
     {
      "date": "2026-10-23",
      "stars": 622
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 622
     }
    ]
   },
@@ -13694,7 +13795,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5336,
+   "stars": 5338,
    "forks": 653,
    "openIssues": 59,
    "pushedAt": "2026-10-19T09:33:53Z",
@@ -13725,6 +13826,10 @@
     {
      "date": "2026-10-23",
      "stars": 5336
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 5338
     }
    ]
   },
@@ -13734,7 +13839,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1819,
+   "stars": 1820,
    "forks": 393,
    "openIssues": 56,
    "pushedAt": "2026-10-20T11:05:11Z",
@@ -13765,6 +13870,10 @@
     {
      "date": "2026-10-23",
      "stars": 1819
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 1820
     }
    ]
   },
@@ -13774,7 +13883,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1364,
+   "stars": 1365,
    "forks": 219,
    "openIssues": 33,
    "pushedAt": "2026-10-21T07:21:06Z",
@@ -13805,6 +13914,10 @@
     {
      "date": "2026-10-23",
      "stars": 1364
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 1365
     }
    ]
   },
@@ -13814,10 +13927,10 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7615,
+   "stars": 7614,
    "forks": 689,
-   "openIssues": 36,
-   "pushedAt": "2026-10-22T02:15:19Z",
+   "openIssues": 35,
+   "pushedAt": "2026-10-23T17:14:54Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
     "tag": "v0.7.0",
@@ -13845,6 +13958,10 @@
     {
      "date": "2026-10-23",
      "stars": 7615
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 7614
     }
    ]
   },
@@ -13853,7 +13970,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10693,
+   "stars": 10695,
    "forks": 1231,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -13878,6 +13995,10 @@
     {
      "date": "2026-10-23",
      "stars": 10693
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 10695
     }
    ]
   },
@@ -13917,6 +14038,10 @@
     },
     {
      "date": "2026-10-23",
+     "stars": 508
+    },
+    {
+     "date": "2026-10-24",
      "stars": 508
     }
    ]
@@ -13958,6 +14083,10 @@
     {
      "date": "2026-10-23",
      "stars": 341
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 341
     }
    ]
   },
@@ -13992,6 +14121,10 @@
     {
      "date": "2026-10-23",
      "stars": 245
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 245
     }
    ]
   },
@@ -14000,7 +14133,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1387,
+   "stars": 1388,
    "forks": 54,
    "openIssues": 4,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -14025,6 +14158,10 @@
     {
      "date": "2026-10-23",
      "stars": 1387
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 1388
     }
    ]
   },
@@ -14064,6 +14201,10 @@
     {
      "date": "2026-10-23",
      "stars": 34
+    },
+    {
+     "date": "2026-10-24",
+     "stars": 34
     }
    ]
   },
@@ -14073,7 +14214,7 @@
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
    "stars": 5158,
-   "forks": 522,
+   "forks": 521,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
    "language": "JavaScript",
@@ -14102,6 +14243,10 @@
     },
     {
      "date": "2026-10-23",
+     "stars": 5158
+    },
+    {
+     "date": "2026-10-24",
      "stars": 5158
     }
    ]

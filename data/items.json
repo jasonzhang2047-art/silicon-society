@@ -305,7 +305,8 @@
    "by": "llm",
    "reason": "Validation of silicon sampling synthetic respondents"
   },
-  "aiSummary": "Paper proposes the respondent coverage gap metric to compare complete answer profiles of LLM-generated silicon sample respondents against human respondents, beyond per-question distribution accuracy."
+  "aiSummary": "Paper proposes the respondent coverage gap metric to compare complete answer profiles of LLM-generated silicon sample respondents against human respondents, beyond per-question distribution accuracy.",
+  "metrics": {}
  },
  {
   "id": "70e0498254d6",
