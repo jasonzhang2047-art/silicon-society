@@ -1,5 +1,38 @@
 [
  {
+  "id": "205795ec8ed3",
+  "url": "https://comses.net/events/804",
+  "title": "Swarm Alignment Hackathon",
+  "snippet": "A free 3-day research hackathon on failures that emerge when many AI agents interact: collusion, coordinated deception, attacks that spread from agent to agent, and agents that rename themselves to dodge oversight. Teams build detectors for coordinated behaviour in real multi-agent logs, reputation systems that colluding agents can’t game, agent IDs that survive copying, and safe sandboxes for…",
+  "category": "events",
+  "source": {
+   "kind": "comses",
+   "name": "CoMSES Net",
+   "url": "https://www.comses.net/events/"
+  },
+  "link": "https://apartresearch.com/sprints/swarm-alignment-2026",
+  "publishedAt": "2026-10-25T17:06:48.421Z",
+  "firstSeenAt": "2026-10-26T04:49:28.459Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "abm-community",
+   "cfp-open"
+  ],
+  "score": 0,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Multi-agent AI safety, not human simulation"
+  },
+  "event": {
+   "name": "Swarm Alignment Hackathon",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "location": "Hybrid",
+   "url": "https://apartresearch.com/sprints/swarm-alignment-2026"
+  }
+ },
+ {
   "id": "1765bde4ab66",
   "url": "https://bsky.app/profile/inmotudigital.bsky.social/post/3mymxk2vwxv2g",
   "title": "This is why we still run studies with real people. NN/g compared 120 synthetic respondents against 604 humans. Both found UX is the dominant term. But the synthetic group showed mode collapse: 50+ distinct answers collapsed to 12. The range of real answers is the whole point.",
@@ -66,6 +99,64 @@
    "replies": 1
   },
   "aiSummary": "Author announces publication in Royal Society Open Science of a paper recreating the HEXACO personality inventory experiment with LLM-driven generative persona agents."
+ },
+ {
+  "id": "80b8d16e59e1",
+  "url": "https://arxiv.org/abs/2610.32874",
+  "title": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
+  "snippet": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number becomes its state in the next round. If the number describes the agent's position rather than the sentence it was shown, then rewriting the claim as its complement and replacing every probability p with 1 - p should return the complementary answer, so the two reports should sum to one. We test this with three small open models: Qwen3-4B, Llama-3.2-3B and Gemma-3-4B. On 2,304 agent states taken from a running network simulation, Qwen's paired reports sum to 1.18 on average, and on 48 real…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Anouar Imel",
+   "Jin Qi"
+  ],
+  "publishedAt": "2026-10-23T16:44:20.000Z",
+  "firstSeenAt": "2026-10-26T04:49:28.459Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of LLM-agent opinion simulations"
+  },
+  "aiSummary": "Study tests whether LLM agents in opinion simulations give complementary probabilities for complementary claims, finding Qwen's paired reports sum to 1.18 on average."
+ },
+ {
+  "id": "ab3e60648eaa",
+  "url": "https://arxiv.org/abs/2610.32495",
+  "title": "MusicTwins: Training Audio-Language Models to Listen like Their Persona",
+  "snippet": "People differ in how they perceive music, what associations they make with it, what they like about it, and how they respond to it. Computational models intended to simulate people in environments that include music should account for these differences. Although LLMs have been shown to reproduce aspects of human behavior, whether audio-language models (ALMs) can reproduce a specific person's responses to textual and musical stimuli remains underexplored. We introduce MusicTwins, a framework that combines persona summaries, personal memory, and post-training to generate person-specific responses. We construct persona representations from human writings, capturing background, views,…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Milan Liessens Dujardin",
+   "Kevin Miao"
+  ],
+  "publishedAt": "2026-10-23T11:11:45.000Z",
+  "firstSeenAt": "2026-10-26T04:49:28.459Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.SD"
+  ],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Persona-based human digital twins for music"
+  },
+  "aiSummary": "MusicTwins combines persona summaries, personal memory and post-training so audio-language models generate person-specific responses to textual and musical stimuli."
  },
  {
   "id": "1340989fe6e2",
@@ -375,6 +466,46 @@
   },
   "aiSummary": "Paper proposes the respondent coverage gap metric to compare complete answer profiles of LLM-generated silicon sample respondents against human respondents, beyond per-question distribution accuracy.",
   "metrics": {}
+ },
+ {
+  "id": "c5add34a9676",
+  "url": "https://arxiv.org/abs/2610.30932",
+  "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+  "snippet": "Agentic recommendation pursues shopper goals through sequences of context-dependent decisions. Developing and evaluating such policies requires faithful recommendation world models that capture both the interactive shopping environment and users' behavioral responses over long interactions. Existing resources rarely provide long-horizon, fine-grained real-user trajectories or support trajectory-level evaluation and offline validation against production A/B results. We introduce UserArena, a real-world e-commerce interactive benchmark containing 64,729 session trajectories from 11,010 users, spanning 566,102 items and 13 action types. UserArena pairs these trajectories with an interactive…",
+  "category": "research",
+  "source": {
+   "kind": "huggingface",
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/papers/2610.30932"
+  },
+  "authors": [
+   "Jujia Zhao",
+   "Jiakai Tang",
+   "Jing Yu",
+   "Wen Chen",
+   "Jian Wu",
+   "Han Zhu",
+   "Fei Sun",
+   "Suzan Verberne",
+   "Zhaochun Ren"
+  ],
+  "publishedAt": "2026-10-22T00:00:00.000Z",
+  "firstSeenAt": "2026-10-26T04:49:28.459Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "hf-trending"
+  ],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Benchmark for simulating shopper behavior"
+  },
+  "metrics": {
+   "upvotes": 23,
+   "comments": 1
+  },
+  "aiSummary": "UserArena is an e-commerce benchmark of 64,729 session trajectories from 11,010 users for evaluating interactive user simulation for long-horizon shopping agents."
  },
  {
   "id": "70e0498254d6",

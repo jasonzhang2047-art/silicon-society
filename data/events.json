@@ -82,6 +82,25 @@
   "upcoming": true
  },
  {
+  "name": "Swarm Alignment Hackathon",
+  "kind": "event",
+  "start": "2026-11-06",
+  "end": "2026-11-08",
+  "location": "Hybrid",
+  "url": "https://apartresearch.com/sprints/swarm-alignment-2026",
+  "description": "A free 3-day research hackathon on failures that emerge when many AI agents interact: collusion, coordinated deception, attacks that spread from agent to agent, and agents that rename themselves to dodge oversight. Teams build detectors for coordinated behaviour in real multi-agent logs, reputation systems that colluding agents can’t game, agent IDs that survive copying, and safe sandboxes for…",
+  "source": {
+   "name": "CoMSES Net",
+   "url": "https://comses.net/events/804"
+  },
+  "verified": false,
+  "tags": [
+   "abm-community",
+   "cfp-open"
+  ],
+  "upcoming": true
+ },
+ {
   "name": "17th EAI International Conference on Simulation Tools and Techniques",
   "kind": "event",
   "start": "2026-11-19",
