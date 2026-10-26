@@ -1,34 +1,34 @@
 {
- "lastRunAt": "2026-10-26T04:49:28.459Z",
- "nextRunAt": "2026-10-26T16:49:28.459Z",
- "durationMs": 91417,
+ "lastRunAt": "2026-10-26T18:42:06.242Z",
+ "nextRunAt": "2026-10-27T06:42:06.242Z",
+ "durationMs": 96775,
  "mode": "incremental",
- "since": "2026-10-21T16:22:38.311Z",
+ "since": "2026-10-22T04:49:28.459Z",
  "relevanceGate": "llm",
  "llm": {
   "requests": 1,
-  "inputTokens": 1621,
-  "outputTokens": 581,
+  "inputTokens": 804,
+  "outputTokens": 515,
   "refusals": 0,
   "errors": 0,
   "model": "claude-opus-5-5"
  },
  "counts": {
-  "total": 264,
-  "added": 4,
-  "updated": 16,
-  "candidates": 289,
-  "rejectedThisRun": 27,
+  "total": 267,
+  "added": 3,
+  "updated": 20,
+  "candidates": 335,
+  "rejectedThisRun": 60,
   "addedByCategory": {
-   "research": 3,
-   "events": 1
+   "news": 2,
+   "voices": 1
   },
   "totalByCategory": {
+   "news": 52,
+   "voices": 41,
    "events": 5,
-   "voices": 40,
    "research": 135,
    "code": 8,
-   "news": 50,
    "funding": 22,
    "discussion": 4
   }
@@ -37,63 +37,63 @@
   {
    "name": "arXiv",
    "ok": true,
-   "fetched": 5,
-   "ms": 21955
+   "fetched": 4,
+   "ms": 21992
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 119,
-   "ms": 1665
+   "fetched": 147,
+   "ms": 1690
   },
   {
    "name": "Google News",
    "ok": true,
-   "fetched": 53,
-   "ms": 40269
+   "fetched": 60,
+   "ms": 40227
   },
   {
    "name": "GDELT",
    "ok": false,
    "fetched": 0,
-   "ms": 24523,
+   "ms": 25290,
    "error": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=(%22generative%20agents%22%20OR%20%22synthetic%20respondents%22%20OR%20%22synthetic%20users%22%20OR%20%22silicon%20sampling%22)%20sourcel"
   },
   {
    "name": "Hacker News",
    "ok": true,
-   "fetched": 16,
-   "ms": 3539
+   "fetched": 17,
+   "ms": 4394
   },
   {
    "name": "Reddit",
    "ok": true,
    "fetched": 1,
-   "ms": 84529
+   "ms": 84598
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
    "fetched": 1,
-   "ms": 8903
+   "ms": 11208
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 3563
+   "ms": 6145
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
-   "fetched": 3,
-   "ms": 4953
+   "fetched": 5,
+   "ms": 8676
   },
   {
    "name": "Bluesky · search",
    "ok": true,
-   "fetched": 68,
-   "ms": 3832
+   "fetched": 74,
+   "ms": 4789
   },
   {
    "name": "X · tracked accounts & keywords",
@@ -106,19 +106,19 @@
    "name": "Official blogs",
    "ok": true,
    "fetched": 1,
-   "ms": 1626
+   "ms": 3266
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 4,
-   "ms": 1339
+   "ms": 1814
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 7,
-   "ms": 1416
+   "ms": 1918
   }
  ]
 }

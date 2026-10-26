@@ -1,5 +1,84 @@
 [
  {
+  "id": "db19e153beba",
+  "url": "https://performancemarketingworld.com/article/1973439/lots-companies-building-digital-twins-almost-none-marking-them",
+  "title": "Lots of companies are building Digital Twins. Almost none are marking them.",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Performance Marketing World",
+   "url": "https://www.performancemarketingworld.com"
+  },
+  "publishedAt": "2026-10-26T15:38:51.000Z",
+  "firstSeenAt": "2026-10-26T18:42:06.242Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Marketing digital twins, likely consumer twins"
+  },
+  "aiSummary": "Performance Marketing World article says many companies are building digital twins but almost none are marking them."
+ },
+ {
+  "id": "c2c043d7e0bb",
+  "url": "https://nature.com/articles/s41562-026-02539-9",
+  "title": "Large language models for computational social science",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Nature",
+   "url": "https://www.nature.com"
+  },
+  "publishedAt": "2026-10-26T11:17:13.000Z",
+  "firstSeenAt": "2026-10-26T18:42:06.242Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLMs in social science, likely simulation"
+  },
+  "aiSummary": "Nature publishes a piece titled \"Large language models for computational social science.\""
+ },
+ {
+  "id": "1d5bf687f2e6",
+  "url": "https://bsky.app/profile/netscience.bsky.social/post/3myri2lld3s2n",
+  "title": "Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits arxiv.org/abs/2605.18890",
+  "snippet": "Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits. The scientific claims drawn from LLM social simulations should be no stronger than the robustness audits that support them. Generative agents bring new expressive power to agent-based modeling, enabli...",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "NetScience",
+   "handle": "@netscience.bsky.social",
+   "url": "https://bsky.app/profile/netscience.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidfkqutarw3hzfa2rl7ieqgspmegunyels2zyj4qeo4t6ogofgroq"
+  },
+  "link": "https://arxiv.org/abs/2605.18890",
+  "publishedAt": "2026-10-26T10:07:58.035Z",
+  "firstSeenAt": "2026-10-26T18:42:06.242Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 9,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of LLM social simulations"
+  },
+  "metrics": {
+   "likes": 5,
+   "reposts": 3,
+   "replies": 0
+  },
+  "aiSummary": "Post shares an arXiv paper arguing that scientific claims from LLM social simulations should be no stronger than the robustness audits supporting them."
+ },
+ {
   "id": "205795ec8ed3",
   "url": "https://comses.net/events/804",
   "title": "Swarm Alignment Hackathon",
@@ -30,7 +109,8 @@
    "end": "2026-11-08",
    "location": "Hybrid",
    "url": "https://apartresearch.com/sprints/swarm-alignment-2026"
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "1765bde4ab66",
@@ -127,7 +207,8 @@
    "by": "llm",
    "reason": "Validation of LLM-agent opinion simulations"
   },
-  "aiSummary": "Study tests whether LLM agents in opinion simulations give complementary probabilities for complementary claims, finding Qwen's paired reports sum to 1.18 on average."
+  "aiSummary": "Study tests whether LLM agents in opinion simulations give complementary probabilities for complementary claims, finding Qwen's paired reports sum to 1.18 on average.",
+  "metrics": {}
  },
  {
   "id": "ab3e60648eaa",
@@ -156,7 +237,8 @@
    "by": "llm",
    "reason": "Persona-based human digital twins for music"
   },
-  "aiSummary": "MusicTwins combines persona summaries, personal memory and post-training so audio-language models generate person-specific responses to textual and musical stimuli."
+  "aiSummary": "MusicTwins combines persona summaries, personal memory and post-training so audio-language models generate person-specific responses to textual and musical stimuli.",
+  "metrics": {}
  },
  {
   "id": "1340989fe6e2",
@@ -502,7 +584,7 @@
    "reason": "Benchmark for simulating shopper behavior"
   },
   "metrics": {
-   "upvotes": 23,
+   "upvotes": 47,
    "comments": 1
   },
   "aiSummary": "UserArena is an e-commerce benchmark of 64,729 session trajectories from 11,010 users for evaluating interactive user simulation for long-horizon shopping agents."
