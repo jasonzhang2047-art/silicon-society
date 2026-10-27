@@ -1,5 +1,40 @@
 [
  {
+  "id": "b542ce1ee4f4",
+  "url": "https://bsky.app/profile/financemastering.com/post/3mytemlvfll2j",
+  "title": "AI startup Simile says it has raised $300 million at a $2 billion valuation to build simulations of people that businesses can quiz about shopping habits, products and marketing campaigns.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Finance Mastering",
+   "handle": "@financemastering.com",
+   "url": "https://bsky.app/profile/financemastering.com",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kfxcudujhmwjknb377p5y7p3/bafkreieaoqeiuo32cwjh6ns7bn3ju7d3yn4aoc2ebvqixazvxl5a642nxm"
+  },
+  "publishedAt": "2026-10-27T04:11:46.000Z",
+  "firstSeenAt": "2026-10-27T05:07:46.194Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "Funding for human simulation startup"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "AI startup Simile says it raised $300 million at a $2 billion valuation to build simulations of people businesses can quiz about shopping habits, products and marketing."
+ },
+ {
   "id": "db19e153beba",
   "url": "https://performancemarketingworld.com/article/1973439/lots-companies-building-digital-twins-almost-none-marking-them",
   "title": "Lots of companies are building Digital Twins. Almost none are marking them.",
@@ -19,7 +54,34 @@
    "by": "llm",
    "reason": "Marketing digital twins, likely consumer twins"
   },
-  "aiSummary": "Performance Marketing World article says many companies are building digital twins but almost none are marking them."
+  "aiSummary": "Performance Marketing World article says many companies are building digital twins but almost none are marking them.",
+  "metrics": {}
+ },
+ {
+  "id": "1981c9f6eaa5",
+  "url": "https://finance.biggo.com/news/bf1b83bcc68ff528",
+  "title": "Simile's Joon Sung Park Says AI Agents Can Predict Human Behavior With 85% Accuracy — and Companies Are Buying It",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "BigGo Finance",
+   "url": "https://finance.biggo.com"
+  },
+  "publishedAt": "2026-10-26T15:08:00.000Z",
+  "firstSeenAt": "2026-10-27T05:07:46.194Z",
+  "people": [
+   "joon-sung-park"
+  ],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Human behavior simulation company coverage"
+  },
+  "aiSummary": "Simile's Joon Sung Park says AI agents can predict human behavior with 85% accuracy, and companies are buying it."
  },
  {
   "id": "c2c043d7e0bb",
@@ -41,7 +103,8 @@
    "by": "llm",
    "reason": "LLMs in social science, likely simulation"
   },
-  "aiSummary": "Nature publishes a piece titled \"Large language models for computational social science.\""
+  "aiSummary": "Nature publishes a piece titled \"Large language models for computational social science.\"",
+  "metrics": {}
  },
  {
   "id": "1d5bf687f2e6",
@@ -179,6 +242,70 @@
    "replies": 1
   },
   "aiSummary": "Author announces publication in Royal Society Open Science of a paper recreating the HEXACO personality inventory experiment with LLM-driven generative persona agents."
+ },
+ {
+  "id": "71efb7468da4",
+  "url": "https://arxiv.org/abs/2610.33536",
+  "title": "FraudSociety: A Generative Agent-Based Society for the Financial-Fraud Economy",
+  "snippet": "Financial fraud caused over \\$15.9 billion in losses in the United States in 2025, according to the Federal Trade Commission~\\citep{ftc2026databook}. Understanding such large-scale harm requires jointly modeling informational and financial dynamics. Yet existing simulators typically capture only one side of this interaction, leaving a gap in modeling how fraud unfolds in the real world. To bridge this gap, we introduce \\textsc{FraudSociety}, the first LLM-agent-based simulator that jointly models these coupled dynamics. It integrates a dynamic social environment for information exposure and communication, persistent financial ledgers that preserve payment and loss histories, and a…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Keyang Chen",
+   "Mingxuan Jiang",
+   "Zeping Li",
+   "Yiwen Zhao",
+   "Yifan Wang",
+   "Qiuyang Zhang",
+   "Shuaicheng Qi",
+   "Yicun Liu",
+   "Zhixin Li",
+   "Sen Liu",
+   "Yinan Jing",
+   "Guangnan Ye",
+   "Hongfeng Chai"
+  ],
+  "publishedAt": "2026-10-24T08:26:22.000Z",
+  "firstSeenAt": "2026-10-27T05:07:46.194Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM generative agent society simulation"
+  },
+  "metrics": {},
+  "aiSummary": "FraudSociety is an LLM-agent-based simulator jointly modeling informational and financial dynamics of fraud, with a dynamic social environment and persistent financial ledgers."
+ },
+ {
+  "id": "56ac5887063c",
+  "url": "https://finance.biggo.com/podcast/bf1b83bcc68ff528",
+  "title": "The $2B Company Creating AI Simulations of Real People｜Sourcery",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "finance.biggo.com",
+   "url": "https://finance.biggo.com"
+  },
+  "publishedAt": "2026-10-23T18:40:58.000Z",
+  "firstSeenAt": "2026-10-27T05:07:46.194Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "AI simulations of real people"
+  },
+  "metrics": {},
+  "aiSummary": "Sourcery coverage of a $2B company creating AI simulations of real people."
  },
  {
   "id": "80b8d16e59e1",
@@ -584,8 +711,8 @@
    "reason": "Benchmark for simulating shopper behavior"
   },
   "metrics": {
-   "upvotes": 47,
-   "comments": 1
+   "upvotes": 49,
+   "comments": 2
   },
   "aiSummary": "UserArena is an e-commerce benchmark of 64,729 session trajectories from 11,010 users for evaluating interactive user simulation for long-horizon shopping agents."
  },

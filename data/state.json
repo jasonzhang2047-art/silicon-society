@@ -14332,6 +14332,241 @@
    "at": "2026-10-26T18:42:06.242Z",
    "by": "rules",
    "title": "UniMASO improves the average score from 69.79 to 70.40 and reduces token-weighted deployment cost by 85.2% relative to D"
+  },
+  "22ebf81ef4fc": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "LegoSR: A Unified Framework for Self-improving Agent-Guided Scientific Discovery"
+  },
+  "eb0ffed9a9b8": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "6G Reasoning Agent Societies: Composition, Scaling, and Consistency-Time Laws"
+  },
+  "76fb96fdde63": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents"
+  },
+  "30e23ec9dd35": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "StreamVibe: Proactive Video Agents for Evolving User Intent"
+  },
+  "c164413124bc": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants"
+  },
+  "1f235be3bf7b": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution"
+  },
+  "358b405d0ad3": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control"
+  },
+  "36aa14a72b7c": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration"
+  },
+  "d9b29877d2dd": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "World-in-Context: Interactive Video World Modeling with In-Context Conditioning"
+  },
+  "af82c7a48697": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Qwen-Image-PE: Learning Visual Design for Text-to-Image Prompt Enhancement"
+  },
+  "f1fab3395a72": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Δτ-Bench: Pushing Agents Toward a Moving Capability"
+  },
+  "7fccf51bc881": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery"
+  },
+  "6960369390b1": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL"
+  },
+  "b4606a87afad": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Continual Learning Exam: Benchmarking Long-Horizon RSI and Experiential Learning in LLM Agents"
+  },
+  "cd5e09e28704": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges"
+  },
+  "217a3baef08f": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Work Agents: Systems, Capabilities, and Optimization"
+  },
+  "6b68cd1c5b32": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning"
+  },
+  "e7fd9b73e2bc": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Novel or Not? PatEx-Gym: Agentic Prior-Art Search for Novelty Assessment in Patent Examination"
+  },
+  "e19b44d2e52f": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization"
+  },
+  "17c149425b2d": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "AgentProofBench: Benchmarking Reusable Verifiers for Web Agents"
+  },
+  "a040d6c7fd72": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model"
+  },
+  "eea81e9a82db": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning"
+  },
+  "270a0d985440": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players"
+  },
+  "5e111bd1a2bb": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions"
+  },
+  "f0e3d45e07a3": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning"
+  },
+  "b552032d1a2b": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows"
+  },
+  "174d2509dbf9": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Function-Space Temporal Self-Distillation for Policy Optimization"
+  },
+  "c6e0dd4e296a": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "How Much Feedback Is Needed to Break Template Protection? The Geometric Vulnerability of Biometric Authentication"
+  },
+  "e891afb6f13d": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "WORTH Benchmark: Evidence Discovery under Not-Fully-Cooperative Information -- A Two-Episode Pilot"
+  },
+  "973c7fef4785": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "This AI startup raised $300 million to build digital versions of consumers"
+  },
+  "dfb5501093d5": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Middlesex University Dubai targets lower-cost factory simulations"
+  },
+  "07424488f209": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Technology and Futurist Speaker | #1 Keynote Scott Steinberg"
+  },
+  "f44913718f54": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "From Expertise to Intelligence: NISCO Deploys World's First Swarm-Intelligence Steel Model at Scale"
+  },
+  "91719019d284": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "This AI startup is cloning consumers so companies can pick their brains"
+  },
+  "b640a19d7766": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, A"
+  },
+  "d2252172d578": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "2 , 250 Shares of Microsoft Corporation $MSFT Purchased by Ratan Capital Management LP"
+  },
+  "bbac6c17688b": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "China issues first policy document dedicated to technology - driven commerce"
+  },
+  "14245cc9b904": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Show HN: pw-repl - A Playwright-powered REPL for you and your agents to share"
+  },
+  "133840232e5f": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Got HI – User-controlled web filter restoring signal over synthetic noise"
+  },
+  "9cb043c06dd5": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Show HN: Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust"
+  },
+  "e3f6f84ccf3d": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "dagoSte/squadra — Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel t"
+  },
+  "51b908f9f2be": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "\"A Beginner's Guide to Building Your First Generative AI App with Amazon Bedrock\" by Maullana Hidayanto #amazon-bedrock-"
+  },
+  "60be40b08427": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Nevis Lands $70M Series B to Build Out AI Agents for Financial Advisors – Unite.AI Nevis Lands $70M Series B to Build Ou"
+  },
+  "824daa5ecfa2": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Securing Enterprise Association Infrastructure: Mitigating Risks in Autonomous Model Context Protocols and LLM Code Exec"
+  },
+  "58e9d675432f": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent Junlin He et al. #"
+  },
+  "4497f867ec9a": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "A New Hampshire community is considering a ban on kratom, a plant-based drug that has been used for decades but can be d"
+  },
+  "764c7796b8e7": {
+   "at": "2026-10-27T05:07:46.194Z",
+   "by": "rules",
+   "title": "Your digital double could tell retailers what you'll buy before you do. https://bit.ly/3WOd0yF"
   }
  },
  "repos": {
@@ -14341,9 +14576,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82102,
-   "forks": 12418,
-   "openIssues": 202,
+   "stars": 82192,
+   "forks": 12436,
+   "openIssues": 203,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -14384,6 +14619,10 @@
     {
      "date": "2026-10-26",
      "stars": 82102
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 82192
     }
    ]
   },
@@ -14393,8 +14632,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42532,
-   "forks": 7602,
+   "stars": 42540,
+   "forks": 7603,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -14436,6 +14675,10 @@
     {
      "date": "2026-10-26",
      "stars": 42532
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 42540
     }
    ]
   },
@@ -14445,8 +14688,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22291,
-   "forks": 3123,
+   "stars": 22295,
+   "forks": 3125,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -14482,6 +14725,10 @@
     {
      "date": "2026-10-26",
      "stars": 22291
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 22295
     }
    ]
   },
@@ -14528,6 +14775,10 @@
     {
      "date": "2026-10-26",
      "stars": 622
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 622
     }
    ]
   },
@@ -14537,7 +14788,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5352,
+   "stars": 5357,
    "forks": 655,
    "openIssues": 59,
    "pushedAt": "2026-10-19T09:33:53Z",
@@ -14580,6 +14831,10 @@
     {
      "date": "2026-10-26",
      "stars": 5352
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 5357
     }
    ]
   },
@@ -14589,9 +14844,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1828,
+   "stars": 1830,
    "forks": 395,
-   "openIssues": 61,
+   "openIssues": 64,
    "pushedAt": "2026-10-20T11:05:11Z",
    "language": "Python",
    "latestRelease": {
@@ -14632,6 +14887,10 @@
     {
      "date": "2026-10-26",
      "stars": 1828
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 1830
     }
    ]
   },
@@ -14684,6 +14943,10 @@
     {
      "date": "2026-10-26",
      "stars": 1371
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 1371
     }
    ]
   },
@@ -14693,7 +14956,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7616,
+   "stars": 7617,
    "forks": 690,
    "openIssues": 35,
    "pushedAt": "2026-10-23T17:14:54Z",
@@ -14736,6 +14999,10 @@
     {
      "date": "2026-10-26",
      "stars": 7616
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 7617
     }
    ]
   },
@@ -14781,6 +15048,10 @@
     {
      "date": "2026-10-26",
      "stars": 10705
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 10705
     }
    ]
   },
@@ -14792,8 +15063,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 510,
    "forks": 89,
-   "openIssues": 61,
-   "pushedAt": "2026-10-26T18:16:27Z",
+   "openIssues": 62,
+   "pushedAt": "2026-10-27T02:18:13Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -14832,6 +15103,10 @@
     },
     {
      "date": "2026-10-26",
+     "stars": 510
+    },
+    {
+     "date": "2026-10-27",
      "stars": 510
     }
    ]
@@ -14885,6 +15160,10 @@
     {
      "date": "2026-10-26",
      "stars": 341
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 341
     }
    ]
   },
@@ -14931,6 +15210,10 @@
     {
      "date": "2026-10-26",
      "stars": 246
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 246
     }
    ]
   },
@@ -14975,6 +15258,10 @@
     },
     {
      "date": "2026-10-26",
+     "stars": 1388
+    },
+    {
+     "date": "2026-10-27",
      "stars": 1388
     }
    ]
@@ -15027,6 +15314,10 @@
     {
      "date": "2026-10-26",
      "stars": 34
+    },
+    {
+     "date": "2026-10-27",
+     "stars": 34
     }
    ]
   },
@@ -15077,6 +15368,10 @@
     },
     {
      "date": "2026-10-26",
+     "stars": 5159
+    },
+    {
+     "date": "2026-10-27",
      "stars": 5159
     }
    ]
