@@ -1,5 +1,179 @@
 [
  {
+  "id": "fa42b2e05ae9",
+  "url": "https://einpresswire.com/article/952633953/vienna-ai-firm-turns-european-heart-patient-research-into-7-ai-personas",
+  "title": "Vienna AI Firm Turns European Heart Patient Research Into 7 AI Personas",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "EIN Presswire",
+   "url": "https://www.einpresswire.com"
+  },
+  "publishedAt": "2026-10-27T17:32:00.000Z",
+  "firstSeenAt": "2026-10-27T18:02:20.202Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic patient personas from research"
+  },
+  "aiSummary": "A Vienna AI firm turned European heart patient research into seven AI personas."
+ },
+ {
+  "id": "1e4bb5ba0aa2",
+  "url": "https://bsky.app/profile/arxiv-cs-si.bsky.social/post/3myukri54wg2v",
+  "title": "LLM-Augmented Agent-Based Simulation of Cyber Social Agents https://arxiv.org/abs/2610.32988",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arxiv cs.SI",
+   "handle": "@arxiv-cs-si.bsky.social",
+   "url": "https://bsky.app/profile/arxiv-cs-si.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:atqzwnyldfdj47r6c2sc3z5a/bafkreicjws6ajccpq7t42lnym4ndg3ihmlbbq762rnu6whsr7yb5di34du"
+  },
+  "publishedAt": "2026-10-27T15:34:32.787Z",
+  "firstSeenAt": "2026-10-27T18:02:20.202Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-driven agent-based social simulation"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares arXiv paper on LLM-augmented agent-based simulation of cyber social agents."
+ },
+ {
+  "id": "acff8aa54c22",
+  "url": "https://via.tt.se/pressmeddelande/4617728/listen-labs-launches-listen-twins-ai-models-that-predict-how-real-customers-behave?publisherId\\u003d259167\\u0026lang\\u003den",
+  "title": "Listen Labs Launches Listen Twins, AI Models That Predict How Real Customers Behave",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Via TT",
+   "url": "https://via.tt.se"
+  },
+  "publishedAt": "2026-10-27T12:00:00.000Z",
+  "firstSeenAt": "2026-10-27T18:02:20.202Z",
+  "people": [],
+  "orgs": [
+   "listen-labs"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Consumer digital twin product launch"
+  },
+  "aiSummary": "Listen Labs launches Listen Twins, AI models that predict how real customers behave."
+ },
+ {
+  "id": "72d2d2967bca",
+  "url": "https://app.dealroom.co/news/note/inside-simile-the-2b-startup-simulating-human-behaviour",
+  "title": "Inside Simile, the $2B Startup Simulating Human Behaviour",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Dealroom",
+   "url": "https://app.dealroom.co"
+  },
+  "publishedAt": "2026-10-27T07:43:50.000Z",
+  "firstSeenAt": "2026-10-27T18:02:20.202Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "Profile of human simulation startup"
+  },
+  "metrics": {},
+  "aiSummary": "Article profiles Simile, described as a $2B startup simulating human behaviour."
+ },
+ {
+  "id": "e59c725d3b64",
+  "url": "https://bsky.app/profile/csma-bot.bsky.social/post/3mytn2bi4sn2j",
+  "title": "Lynnette Hui Xian Ng, Kathleen M. Carley: LLM-Augmented Agent-Based Simulation of Cyber Social Agents https://arxiv.org/abs/2610.32988 https://arxiv.org/pdf/2610.32988 https://arxiv.org/html/2610.32988",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arXiv cs.MA Multiagent Systems",
+   "handle": "@csma-bot.bsky.social",
+   "url": "https://bsky.app/profile/csma-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xcpapx2w434lmha3ztd6sidx/bafkreidc4wusgyc3rzopebn7csfa6kna3ioddz62zglogpclj4cjthdnqu"
+  },
+  "publishedAt": "2026-10-27T06:42:35.594Z",
+  "firstSeenAt": "2026-10-27T18:02:20.202Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-driven agent-based social simulation"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares Lynnette Hui Xian Ng and Kathleen M. Carley's arXiv paper on LLM-augmented agent-based simulation of cyber social agents."
+ },
+ {
+  "id": "f9646346044b",
+  "url": "https://bsky.app/profile/growthhacksbriefly.bsky.social/post/3mythqxd2lo23",
+  "title": "Simile builds AI simulations of people that businesses can query to predict shopping and marketing decisions.",
+  "snippet": "Save What Matters. Curate Feeds | Make Collections | Customize Email Briefs",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Growth Hacks Briefly",
+   "handle": "@growthhacksbriefly.bsky.social",
+   "url": "https://bsky.app/profile/growthhacksbriefly.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5swvfd7eexxkvh4iqgppfxu2/bafkreifsy6dlotz6nllijuy2lv2fuhhws3owcuyiulhziormqgkcjhdzhy"
+  },
+  "link": "https://briefly.co/anchor/E-Commerce/story/this-ai-startup-is-cloning-consumers-so-companies-can-pick-their-brains?hl=1&f=bluesky_jwipo&utm_source=Bluesky&utm_medium=auto&utm_content=unhighlighted&utm_campaign=E-Commerce",
+  "publishedAt": "2026-10-27T05:07:54.214Z",
+  "firstSeenAt": "2026-10-27T18:02:20.202Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 11,
+  "verdict": {
+   "by": "llm",
+   "reason": "Human behavior simulation company"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Simile builds AI simulations of people that businesses can query to predict shopping and marketing decisions."
+ },
+ {
   "id": "b542ce1ee4f4",
   "url": "https://bsky.app/profile/financemastering.com/post/3mytemlvfll2j",
   "title": "AI startup Simile says it has raised $300 million at a $2 billion valuation to build simulations of people that businesses can quiz about shopping habits, products and marketing campaigns.",
@@ -81,7 +255,8 @@
    "by": "llm",
    "reason": "Human behavior simulation company coverage"
   },
-  "aiSummary": "Simile's Joon Sung Park says AI agents can predict human behavior with 85% accuracy, and companies are buying it."
+  "aiSummary": "Simile's Joon Sung Park says AI agents can predict human behavior with 85% accuracy, and companies are buying it.",
+  "metrics": {}
  },
  {
   "id": "c2c043d7e0bb",
@@ -135,7 +310,7 @@
    "reason": "Validation of LLM social simulations"
   },
   "metrics": {
-   "likes": 5,
+   "likes": 6,
    "reposts": 3,
    "replies": 0
   },
@@ -711,7 +886,7 @@
    "reason": "Benchmark for simulating shopper behavior"
   },
   "metrics": {
-   "upvotes": 49,
+   "upvotes": 60,
    "comments": 2
   },
   "aiSummary": "UserArena is an e-commerce benchmark of 64,729 session trajectories from 11,010 users for evaluating interactive user simulation for long-horizon shopping agents."

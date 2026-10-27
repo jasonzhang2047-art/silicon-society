@@ -14567,6 +14567,291 @@
    "at": "2026-10-27T05:07:46.194Z",
    "by": "rules",
    "title": "Your digital double could tell retailers what you'll buy before you do. https://bit.ly/3WOd0yF"
+  },
+  "b41754369f76": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion"
+  },
+  "00e8d3a205a1": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos"
+  },
+  "6bda50e39e49": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction"
+  },
+  "3754384866f9": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation"
+  },
+  "b1a5f4fbcc0d": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning"
+  },
+  "a29043ee563a": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion"
+  },
+  "27a6015cba98": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "EmbodiedLab: Benchmarking Embodied Agents That Act to Know"
+  },
+  "f916c67e1a14": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Rethinking Video Storage for AI Training: Breaking Cross-Frame Dependencies for Efficient Random Access"
+  },
+  "744c68a5f74c": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation"
+  },
+  "581ca72dcb7b": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Thinking-in-Bets at Test Time Reduces Sycophantic Revisions in LLM Agents"
+  },
+  "ff36fd597881": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters"
+  },
+  "536d8d854a61": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Beyond Benchmarks: Can Small Open-Weight Models Get Real Coding Work Done?"
+  },
+  "9218f96323e1": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Nested Sparsity for Scalable Pretraining and Continual Learning"
+  },
+  "d657e72bc783": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Mycelium: A Meta-Study of Hallucination Detection Across Provenance, Typology, and Granularities"
+  },
+  "5281aaa6f272": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "RoboJev: An Open Vision-Language Judge for Robot Success Detection"
+  },
+  "d85e54e3a209": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Constrained Decoding: Harmful or Beneficial? Revisiting Its Impact on LLM Performance"
+  },
+  "7abd84b11410": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents"
+  },
+  "46401c338f4b": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "RoboHarness: A Simple Harness Outperforms VLA and World Action Models"
+  },
+  "50aa0d84d847": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Skill^{infty}: Recursive Self-Improvement for Agent Skill Optimization"
+  },
+  "bd68edd4429c": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments"
+  },
+  "67c2ee1cffd0": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents"
+  },
+  "7c2f57606a9d": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "llm",
+   "title": "Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila"
+  },
+  "a4c1e0a06cb1": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery"
+  },
+  "1a1169358121": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Rasp"
+  },
+  "c7bdf7cf4746": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Assessing the CAD Capabilities of General-Purpose AI Models: A Case Study of GPT-6 Astra"
+  },
+  "7033bfa8853c": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Semantic Concept Steering Breaks the Explanation Drift Loop in Continual Learning"
+  },
+  "ac8763b684f9": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?"
+  },
+  "7a1609606428": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations"
+  },
+  "280e5b1b990b": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "ThinkBit: Search Codewords, Recalibrate Scales, Select by Reasoning"
+  },
+  "04da729651ca": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection"
+  },
+  "f3a808312e36": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Clinisys Unveils Open, Governed AI Platform to Help Laboratories Move from Insight to Action"
+  },
+  "e44e86285ee8": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Companies Could Soon Use AI Digital Clones of You To Predict What You'll Buy and Which Ads Will Work"
+  },
+  "b459a7c395b7": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "BearingPoint recognized as a Challenger in the Gartner® Magic Quadrant™ for Finance Transformation Consulting"
+  },
+  "bc78a49a65d9": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "llm",
+   "title": "Digital Twins: The Proving Ground for Industrial AI"
+  },
+  "e4c7332a875c": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Fashion's AI era: face swaps and digital clones"
+  },
+  "df2e39dd13ed": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Schneider Electric, Nscale and Start Campus Bring the NVIDIA Omniverse DSX Blueprint into a Live AI Factory Environment"
+  },
+  "2ce388f06fe9": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Digital Human Twins Market to Reach USD 3.74 Billion by 2033"
+  },
+  "263f4859ccf5": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "From Expertise to Intelligence: NISCO Deploys World’s First Swarm-Intelligence Steel Model at Scale"
+  },
+  "b162641a0f7e": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Braze gives Salesforce more speed — and more overlap"
+  },
+  "729ffcf82245": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "JERA Signs a Binding Heads of Agreement with AM Green for Long-Term Supply of Green Ammonia for Maritime Decarbonization"
+  },
+  "2c0ab1e3c252": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Machenta Raises $40M Seed to Teach Robots New Tasks From One Demonstration"
+  },
+  "447cd2796061": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Classification of Finite Simple Groups Formalized in Lean"
+  },
+  "19990e76526f": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Kechup – a simple CLI task tracker for AI agents"
+  },
+  "87f05b35052c": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "AienTech/dossier — A self-hosted job search app that writes tailored resumes and cover letters from your profile."
+  },
+  "a32cfbc08f9a": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "llm",
+   "title": "SUPER PROUD OF @akhilayerukola.bsky.social and team for receiving the #emnlp2026 Best Resource Paper award 🏅"
+  },
+  "85a643add088": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "llm",
+   "title": "Poster number 330! Happening now!"
+  },
+  "ef6d854b0412": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "llm",
+   "title": "Read: https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/?utm_sour"
+  },
+  "18d7bb108247": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "[Shocking] Media Industry Madness: How AI Became the Reader and Generative Engine Optimization Sparks a Massive Shift ▼R"
+  },
+  "51d0d528e0db": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "\"Beyond Chatbots: The Rise of Autonomous AI Teams on AWS\" by Ankit Kumar #amazon-bedrock #ai-agents #generative-ai #aws-"
+  },
+  "6c18aa69ff36": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Axios and others are reshaping media for AI agents—think chatbots that get you personalized news bites. Dive into how LL"
+  },
+  "592a1aa8273b": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Hens Breet's 'DIGITALSEXLIFE' is a fascinating exercise in numeric agency. By treating digits as biological agents that "
+  },
+  "337f8b608873": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "The stealth firewall for the agentic age: How Akamai is rewiring enterprise security for autonomous AI Generative artifi"
+  },
+  "7d69b35b0419": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "From Prompts to Agents: How AI is Reshaping the Marketing Team ->Unite.AI | More on \"AI agents transforming marketing wo"
+  },
+  "a96b35fbc563": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "llm",
+   "title": "OPINION | Governing Data and AI: What does it mean for Boards? By Gil B. Genio Read: zurl.co/mflqR"
+  },
+  "d2e1d28ed71b": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent Junlin He et al. #"
+  },
+  "2c7e29ecf70b": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "rules",
+   "title": "Marvell Photonic Fabric Memory Module (concept, pre-silicon): up to 8 DDR5 DIMMs + 72GB HBM3e cache, 7.2Tbps optical I/O"
+  },
+  "5ef94984dce4": {
+   "at": "2026-10-27T18:02:20.202Z",
+   "by": "llm",
+   "title": "Genie 4: A new generation of world simulation"
   }
  },
  "repos": {
@@ -14576,8 +14861,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82192,
-   "forks": 12436,
+   "stars": 82314,
+   "forks": 12455,
    "openIssues": 203,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -14622,7 +14907,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 82192
+     "stars": 82314
     }
    ]
   },
@@ -14632,8 +14917,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42540,
-   "forks": 7603,
+   "stars": 42542,
+   "forks": 7605,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -14678,7 +14963,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 42540
+     "stars": 42542
     }
    ]
   },
@@ -14688,7 +14973,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22295,
+   "stars": 22296,
    "forks": 3125,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -14728,7 +15013,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 22295
+     "stars": 22296
     }
    ]
   },
@@ -14788,10 +15073,10 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5357,
+   "stars": 5358,
    "forks": 655,
    "openIssues": 59,
-   "pushedAt": "2026-10-19T09:33:53Z",
+   "pushedAt": "2026-10-27T10:08:27Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v0.2.5",
@@ -14834,7 +15119,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 5357
+     "stars": 5358
     }
    ]
   },
@@ -14844,9 +15129,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1830,
-   "forks": 395,
-   "openIssues": 64,
+   "stars": 1831,
+   "forks": 394,
+   "openIssues": 67,
    "pushedAt": "2026-10-20T11:05:11Z",
    "language": "Python",
    "latestRelease": {
@@ -14890,7 +15175,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 1830
+     "stars": 1831
     }
    ]
   },
@@ -14902,8 +15187,8 @@
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
    "stars": 1371,
    "forks": 219,
-   "openIssues": 33,
-   "pushedAt": "2026-10-21T07:21:06Z",
+   "openIssues": 38,
+   "pushedAt": "2026-10-27T16:55:14Z",
    "language": "Python",
    "latestRelease": {
     "tag": "agentsociety2-v2.9.3",
@@ -14956,8 +15241,8 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7617,
-   "forks": 690,
+   "stars": 7618,
+   "forks": 689,
    "openIssues": 35,
    "pushedAt": "2026-10-23T17:14:54Z",
    "language": "Jupyter Notebook",
@@ -15002,7 +15287,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 7617
+     "stars": 7618
     }
    ]
   },
@@ -15011,7 +15296,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10705,
+   "stars": 10712,
    "forks": 1236,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -15051,7 +15336,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 10705
+     "stars": 10712
     }
    ]
   },
@@ -15063,8 +15348,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 510,
    "forks": 89,
-   "openIssues": 62,
-   "pushedAt": "2026-10-27T02:18:13Z",
+   "openIssues": 61,
+   "pushedAt": "2026-10-27T15:38:33Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -15326,8 +15611,8 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5159,
-   "forks": 521,
+   "stars": 5160,
+   "forks": 520,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
    "language": "JavaScript",
@@ -15372,7 +15657,7 @@
     },
     {
      "date": "2026-10-27",
-     "stars": 5159
+     "stars": 5160
     }
    ]
   }
