@@ -1,5 +1,23 @@
 [
  {
+  "company": "Simile",
+  "org": "simile",
+  "round": null,
+  "amountUsd": 300000000,
+  "amountText": "$300M",
+  "lead": [],
+  "participants": [],
+  "date": "2026-10-27",
+  "datePrecision": "day",
+  "source": {
+   "name": "Brief IA",
+   "url": "https://briefia.fr/en/article/simile-raises-300m-to-survey-simulated-consumers"
+  },
+  "headline": "Simile Raises $300M to Survey Simulated Consumers",
+  "verified": false,
+  "coverage": []
+ },
+ {
   "company": "Vectorial",
   "round": "Seed",
   "amountUsd": 3000000,

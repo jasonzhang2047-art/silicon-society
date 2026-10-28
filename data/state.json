@@ -7,7 +7,8 @@
    "https://simile.ai/blog/series-b",
    "https://simile.ai/blog/simulation-next-frontier",
    "https://simile.ai/blog/simile-cvs-health",
-   "https://simile.ai/blog/the-simulation-company"
+   "https://simile.ai/blog/the-simulation-company",
+   "https://simile.ai/blog/evals"
   ],
   "listen-labs": [
    "https://listenlabs.ai/blog/listen-labs-is-joining-salesforce",
@@ -14852,6 +14853,326 @@
    "at": "2026-10-27T18:02:20.202Z",
    "by": "llm",
    "title": "Genie 4: A new generation of world simulation"
+  },
+  "42fcbab12cc9": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "God Does Not Play Dice: Enforcing Batch Invariance in Agentic Kernel Generation"
+  },
+  "fdd84663a0c2": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "llm",
+   "title": "The Inbox as a Coordination Primitive for LLM Agent Societies"
+  },
+  "9f93cce7550a": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence"
+  },
+  "12c711c65b1c": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Hy-Nomas: Towards Free-form Interactive World Generation"
+  },
+  "009ec69fe7e5": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Rollback: Experience Backtracking in World Models for Policy Improvement"
+  },
+  "5d886422e331": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning"
+  },
+  "aa2bd8684f61": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?"
+  },
+  "1967fb24a9c7": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "llm",
+   "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory"
+  },
+  "a12c2f853e03": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization"
+  },
+  "c7e98ce0c5ed": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting"
+  },
+  "9d99a8c45a97": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?"
+  },
+  "d41f4650d8d3": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback"
+  },
+  "98f059a8cb66": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Memory Tax: Dissecting the Net Value of Agent Memory"
+  },
+  "65d5ac4e02a7": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Cross-modal Steering Vectors Exist Across Both Image and Text Generation"
+  },
+  "454135896492": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Omni-InteractScope: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams"
+  },
+  "5f6f70e04e9d": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces"
+  },
+  "68b5b082706d": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents"
+  },
+  "4e6d8be21c3c": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation"
+  },
+  "5876e7a1f716": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents"
+  },
+  "25b688d70d2d": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Vision-Language-Action or World-Action? Just Action Models"
+  },
+  "4118f6dadc21": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data"
+  },
+  "bd1ea37c6155": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "llm",
+   "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?"
+  },
+  "eb7c22fdc0c2": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model"
+  },
+  "0c57deba0035": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Timestral"
+  },
+  "82d9e7626811": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "OvisOCR3 Technical Report"
+  },
+  "099ab21e5d44": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "SearchHorizonBench: A Benchmark for Search Value in AI Agents"
+  },
+  "e1d58c6556e7": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Harness-Model Collaboration for Long-Horizon Continual Learning"
+  },
+  "fd548452ee02": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Nemotron-Labs-Diffusion-Uni: Elastic Self-Refining Unified Diffusion LLM with Cross-Paradigm On-Policy Distillation"
+  },
+  "4558c700a89c": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction"
+  },
+  "cdae277efb65": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds"
+  },
+  "e7aa5df8e805": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching"
+  },
+  "dff4fe72158e": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Learning and Reasoning with Geometry: How Generation Helps Spatial Understanding"
+  },
+  "fa670ffb9283": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Representation Redistribution in Sparse Autoencoders"
+  },
+  "bdd360c70049": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "How Far Can Coding Agents Go in Visual Generation?"
+  },
+  "5888cd829876": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "ReGE: Stronger Agents through Experience Synthesis"
+  },
+  "f7116054f495": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "ParetoRSI-Gym: Can AI Agents Improve Language Models Across Multiple Domains?"
+  },
+  "9d5b48cd4cc3": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Rethinking Verification in Agent Harnesses"
+  },
+  "160c614ba71b": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model"
+  },
+  "2b1c10bdd39d": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "EnvLunch: The Environment as a Free Lunch for Learning to Interact"
+  },
+  "83b655cf27f3": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Did the Model Use That? Counterfactual Training Boosts Self-Attribution in Language Models"
+  },
+  "a67cef0faca7": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "OpenESM: Energy-Steered Models Are Scalable Foundation Learners"
+  },
+  "41c375581de6": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "SO-101 Bench: Accessible Spatial Manipulation"
+  },
+  "025467c48ebb": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models"
+  },
+  "322d509a1558": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Detailed Balance in Large-Language-Model-Driven Agents"
+  },
+  "0f33aca869c1": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Clinisys Unveils Open, Governed AI Platform to Help Laboratories Move from Insight to Action"
+  },
+  "14dd46f010de": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Fashion's AI era: face swaps and digital clones"
+  },
+  "723e503a5ac1": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Synopsys joins Singapore AI data centre testbed to develop cooling tech"
+  },
+  "7060d3f617a6": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Airbus Digital Twins: Predictive Manufacturing & Physical AI"
+  },
+  "bc1b56353c0b": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "How to empower businesses with trusted conversational AI"
+  },
+  "3fc0e8fcd6b3": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "AI Keynote Speaker and Futurist | Hire IT #1 Scott Steinberg"
+  },
+  "1de3ec152942": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Can AI help marketers understand consumers, or reinforce their assumptions?"
+  },
+  "d18bf45cf4cd": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "LTM launches industrial AI lab in Chennai"
+  },
+  "7ea284061d48": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "LTTS wins five-year engineering contract with Nokia for India R&D"
+  },
+  "207a17362c62": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "From Expertise to Intelligence: NISCO Deploys World’s First Swarm-Intelligence Steel Model at Scale"
+  },
+  "4e37ba8f61bd": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Guidewire will pay up to $2.1 billion in cash to buy Hyperexponential"
+  },
+  "cf2fd05bca09": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Computer Vision Design Platform QBlack AI Raises Seed Funding from Partners Lounge and Korea Investment Accelerator"
+  },
+  "6de6399cc52c": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Machenta Raises $40 Million to Train Robots in Virtual Worlds"
+  },
+  "eb21c48d50d2": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "Show HN: The New Way to Make AI UGC Ads in 2026"
+  },
+  "ed88338cea2e": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "The only people using generative AI agents are in the tech sector, most of them programmers. The rest of the world doesn"
+  },
+  "e445d3c5e272": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "🆕 Amazon SageMaker MLflow Apps now support MLflow 3.16, enhancing debugging, faster experiment tracking, and a redesign"
+  },
+  "ea1a8580e251": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": ""
+  },
+  "882a332acb2e": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "SageMaker MLflow Apps now support MLflow 3.16 Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesi"
+  },
+  "9bd7320bcfe1": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent Junlin He et al. #"
+  },
+  "0606eb6ab8a0": {
+   "at": "2026-10-28T05:44:24.526Z",
+   "by": "rules",
+   "title": "i did see a somewhat valid argument of \"now companies can train on your messages\" which, first users can opt out and b, "
   }
  },
  "repos": {
@@ -14861,8 +15182,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82314,
-   "forks": 12455,
+   "stars": 82405,
+   "forks": 12465,
    "openIssues": 203,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -14908,6 +15229,10 @@
     {
      "date": "2026-10-27",
      "stars": 82314
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 82405
     }
    ]
   },
@@ -14917,8 +15242,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42542,
-   "forks": 7605,
+   "stars": 42540,
+   "forks": 7604,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -14964,6 +15289,10 @@
     {
      "date": "2026-10-27",
      "stars": 42542
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 42540
     }
    ]
   },
@@ -14973,8 +15302,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22296,
-   "forks": 3125,
+   "stars": 22300,
+   "forks": 3126,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -15014,6 +15343,10 @@
     {
      "date": "2026-10-27",
      "stars": 22296
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 22300
     }
    ]
   },
@@ -15023,7 +15356,7 @@
    "org": "stanford-hci",
    "description": "",
    "url": "https://github.com/StanfordHCI/genagents",
-   "stars": 622,
+   "stars": 623,
    "forks": 164,
    "openIssues": 12,
    "pushedAt": "2024-11-18T14:36:12Z",
@@ -15064,6 +15397,10 @@
     {
      "date": "2026-10-27",
      "stars": 622
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 623
     }
    ]
   },
@@ -15073,7 +15410,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5358,
+   "stars": 5362,
    "forks": 655,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
@@ -15120,6 +15457,10 @@
     {
      "date": "2026-10-27",
      "stars": 5358
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 5362
     }
    ]
   },
@@ -15129,9 +15470,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1831,
-   "forks": 394,
-   "openIssues": 67,
+   "stars": 1833,
+   "forks": 395,
+   "openIssues": 69,
    "pushedAt": "2026-10-20T11:05:11Z",
    "language": "Python",
    "latestRelease": {
@@ -15176,6 +15517,10 @@
     {
      "date": "2026-10-27",
      "stars": 1831
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 1833
     }
    ]
   },
@@ -15185,7 +15530,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1371,
+   "stars": 1372,
    "forks": 219,
    "openIssues": 38,
    "pushedAt": "2026-10-27T16:55:14Z",
@@ -15232,6 +15577,10 @@
     {
      "date": "2026-10-27",
      "stars": 1371
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 1372
     }
    ]
   },
@@ -15241,7 +15590,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7618,
+   "stars": 7619,
    "forks": 689,
    "openIssues": 35,
    "pushedAt": "2026-10-23T17:14:54Z",
@@ -15288,6 +15637,10 @@
     {
      "date": "2026-10-27",
      "stars": 7618
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 7619
     }
    ]
   },
@@ -15296,7 +15649,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10712,
+   "stars": 10715,
    "forks": 1236,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -15337,6 +15690,10 @@
     {
      "date": "2026-10-27",
      "stars": 10712
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 10715
     }
    ]
   },
@@ -15348,8 +15705,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 510,
    "forks": 89,
-   "openIssues": 61,
-   "pushedAt": "2026-10-27T15:38:33Z",
+   "openIssues": 62,
+   "pushedAt": "2026-10-28T01:54:10Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -15392,6 +15749,10 @@
     },
     {
      "date": "2026-10-27",
+     "stars": 510
+    },
+    {
+     "date": "2026-10-28",
      "stars": 510
     }
    ]
@@ -15449,6 +15810,10 @@
     {
      "date": "2026-10-27",
      "stars": 341
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 341
     }
    ]
   },
@@ -15499,6 +15864,10 @@
     {
      "date": "2026-10-27",
      "stars": 246
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 246
     }
    ]
   },
@@ -15547,6 +15916,10 @@
     },
     {
      "date": "2026-10-27",
+     "stars": 1388
+    },
+    {
+     "date": "2026-10-28",
      "stars": 1388
     }
    ]
@@ -15603,6 +15976,10 @@
     {
      "date": "2026-10-27",
      "stars": 34
+    },
+    {
+     "date": "2026-10-28",
+     "stars": 34
     }
    ]
   },
@@ -15657,6 +16034,10 @@
     },
     {
      "date": "2026-10-27",
+     "stars": 5160
+    },
+    {
+     "date": "2026-10-28",
      "stars": 5160
     }
    ]

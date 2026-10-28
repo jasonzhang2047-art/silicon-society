@@ -1,5 +1,64 @@
 [
  {
+  "id": "fbf490a40ded",
+  "url": "https://techtarget.com/news/Qualtrics-expands-synthetic-research-marketing-testing-tech/848504",
+  "title": "Qualtrics expands synthetic research marketing, testing tech",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "TechTarget",
+   "url": "https://www.techtarget.com"
+  },
+  "publishedAt": "2026-10-27T23:42:37.000Z",
+  "firstSeenAt": "2026-10-28T05:44:24.526Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic research/respondents product news"
+  },
+  "aiSummary": "Qualtrics expands its synthetic research technology for marketing and testing."
+ },
+ {
+  "id": "a0b8fe400a93",
+  "url": "https://bsky.app/profile/blue-canvas.bsky.social/post/3myuzozpkzc2p",
+  "title": "Before the Singularity, I think the concern is that digital twins will become widespread in human society.",
+  "snippet": "AgentSociety: Large-Scale Simulation ofLLM-Driven Generative Agents AdvancesUnderstanding of Human Behaviors and Society. Understanding human behavior and society is a central focus in social sciences, with the rise of generative social science marking a significant paradigmatic shift. By…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Yusuke Inoue",
+   "handle": "@blue-canvas.bsky.social",
+   "url": "https://bsky.app/profile/blue-canvas.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cicwjmrsww6x4vyf6gfmqyfp/bafkreihfvt5uimn3nbgp2szdllfxhz2xlgtpbpqlcy2furzk2rt4jnrkvu"
+  },
+  "link": "https://ar5iv.labs.arxiv.org/html/2502.08691#5",
+  "publishedAt": "2026-10-27T20:01:36.768Z",
+  "firstSeenAt": "2026-10-28T05:44:24.526Z",
+  "people": [],
+  "orgs": [
+   "tsinghua-fib"
+  ],
+  "tags": [],
+  "score": 12,
+  "verdict": {
+   "by": "llm",
+   "reason": "Shares generative agent society simulation paper"
+  },
+  "metrics": {
+   "likes": 20,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Bluesky post voices concern about widespread digital twins in society and shares the AgentSociety paper on large-scale simulation of LLM-driven generative agents."
+ },
+ {
   "id": "fa42b2e05ae9",
   "url": "https://einpresswire.com/article/952633953/vienna-ai-firm-turns-european-heart-patient-research-into-7-ai-personas",
   "title": "Vienna AI Firm Turns European Heart Patient Research Into 7 AI Personas",
@@ -19,7 +78,39 @@
    "by": "llm",
    "reason": "Synthetic patient personas from research"
   },
-  "aiSummary": "A Vienna AI firm turned European heart patient research into seven AI personas."
+  "aiSummary": "A Vienna AI firm turned European heart patient research into seven AI personas.",
+  "metrics": {}
+ },
+ {
+  "id": "2120e51d725b",
+  "url": "https://simile.ai/blog/evals",
+  "title": "Building trustworthy simulations of human behavior",
+  "snippet": "An introduction to how Simile evaluates behavioral simulation: held-out tests, ground truth, distributional accuracy, and generalization.",
+  "category": "voices",
+  "source": {
+   "kind": "blog",
+   "name": "Simile blog",
+   "url": "https://www.simile.ai/blog"
+  },
+  "author": {
+   "name": "Simile",
+   "url": "https://www.simile.ai"
+  },
+  "publishedAt": "2026-10-27T17:00:00.000Z",
+  "firstSeenAt": "2026-10-28T05:44:24.526Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [
+   "official"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Validation of human behavior simulation"
+  },
+  "aiSummary": "Simile blog post introduces how the company evaluates behavioral simulation using held-out tests, ground truth, distributional accuracy, and generalization."
  },
  {
   "id": "1e4bb5ba0aa2",
@@ -76,7 +167,8 @@
    "by": "llm",
    "reason": "Consumer digital twin product launch"
   },
-  "aiSummary": "Listen Labs launches Listen Twins, AI models that predict how real customers behave."
+  "aiSummary": "Listen Labs launches Listen Twins, AI models that predict how real customers behave.",
+  "metrics": {}
  },
  {
   "id": "72d2d2967bca",
@@ -172,6 +264,39 @@
    "replies": 0
   },
   "aiSummary": "Simile builds AI simulations of people that businesses can query to predict shopping and marketing decisions."
+ },
+ {
+  "id": "c45e99b826b7",
+  "url": "https://briefia.fr/en/article/simile-raises-300m-to-survey-simulated-consumers",
+  "title": "Simile Raises $300M to Survey Simulated Consumers",
+  "category": "funding",
+  "source": {
+   "kind": "news",
+   "name": "Brief IA",
+   "url": "https://www.briefia.fr"
+  },
+  "publishedAt": "2026-10-27T05:05:10.000Z",
+  "firstSeenAt": "2026-10-28T05:44:24.526Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 11,
+  "verdict": {
+   "by": "llm",
+   "reason": "Funding for simulated consumer company"
+  },
+  "aiSummary": "Simile has raised $300M to survey simulated consumers.",
+  "deal": {
+   "company": "Simile",
+   "round": null,
+   "amountText": "$300M",
+   "amountUsd": 300000000,
+   "lead": [],
+   "participants": [],
+   "auto": true
+  }
  },
  {
   "id": "b542ce1ee4f4",
@@ -886,7 +1011,7 @@
    "reason": "Benchmark for simulating shopper behavior"
   },
   "metrics": {
-   "upvotes": 60,
+   "upvotes": 62,
    "comments": 2
   },
   "aiSummary": "UserArena is an e-commerce benchmark of 64,729 session trajectories from 11,010 users for evaluating interactive user simulation for long-horizon shopping agents."
