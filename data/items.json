@@ -1,5 +1,121 @@
 [
  {
+  "id": "3de41ea1173b",
+  "url": "https://bsky.app/profile/ahnert.eurosky.social/post/3mywti76d222h",
+  "title": "Generative AI is increasingly used to produce synthetic survey responses, most visibly through persona-prompted large language models (\"silicon sampling\"). Commercial offerings are growing, yet quality standards are far from established.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Georg Ahnert",
+   "handle": "@ahnert.eurosky.social",
+   "url": "https://bsky.app/profile/ahnert.eurosky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vlye5thb57ftgmh3ofe64rvq/bafkreia3koonauakmreeyyx2lxfcngyzlopkrritnc2l4znbtzvuipc7ci"
+  },
+  "publishedAt": "2026-10-28T13:15:25.249Z",
+  "firstSeenAt": "2026-10-28T18:21:43.432Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Silicon sampling and synthetic survey responses"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1
+  },
+  "aiSummary": "Post says persona-prompted LLMs are increasingly used for synthetic survey responses (silicon sampling), with commercial offerings growing but quality standards not established."
+ },
+ {
+  "id": "6021e14c6592",
+  "url": "https://microsoft.design/articles/synthetic-users",
+  "title": "Real Enough? Synthetic Users, Synthetic Data, and the Limits of Simulation",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "microsoft.design",
+   "url": "https://microsoft.design"
+  },
+  "publishedAt": "2026-10-28T13:00:00.000Z",
+  "firstSeenAt": "2026-10-28T18:21:43.432Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic users for research"
+  },
+  "aiSummary": "Microsoft Design article discusses synthetic users, synthetic data, and the limits of simulation."
+ },
+ {
+  "id": "eefd4c0f3580",
+  "url": "https://martechcube.com/listen-labs-announced-the-launch-of-listen-twins",
+  "title": "Listen Labs Announced the Launch of Listen Twins",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "MarTech Cube",
+   "url": "https://www.martechcube.com"
+  },
+  "publishedAt": "2026-10-28T12:36:29.000Z",
+  "firstSeenAt": "2026-10-28T18:21:43.432Z",
+  "people": [],
+  "orgs": [
+   "listen-labs"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Likely customer digital twins product"
+  },
+  "aiSummary": "Listen Labs announced the launch of Listen Twins."
+ },
+ {
+  "id": "25f7bb52e5d3",
+  "url": "https://bsky.app/profile/gprdino.bsky.social/post/3mywpp4mdwv2k",
+  "title": "Simile raised $300M to model consumers instead of asking them. Pew found synthetic respondents drift ~12 pts from humans on average. But Pew didn’t test Simile, so the pitch rests on evidence no one’s shown. Hedge: “augmentation, not replacement.” #AI #SyntheticData",
+  "snippet": "Companies Could Soon Use AI Digital Clones of You To Predict What You'll Buy and Which Ads Will Work. Simile is commercialising digital replicas for research after raising $300 million, but Pew found AI-generated respondents often differed substantially from human survey participants.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "G_Dino",
+   "handle": "@gprdino.bsky.social",
+   "url": "https://bsky.app/profile/gprdino.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mrpzzm2ztb7fylbudzluken4/bafkreigni3boywry3azaty4rr6bp6tktztsws53t673u5nroapjfdarhjm"
+  },
+  "link": "https://www.techtimes.co.uk/simile-ai-synthetic-respondents-pew-research-gap-1809467",
+  "publishedAt": "2026-10-28T12:08:00.877Z",
+  "firstSeenAt": "2026-10-28T18:21:43.432Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents and consumer digital twins"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post notes Simile raised $300M to commercialise digital replicas of consumers, while Pew found synthetic respondents drift about 12 points from humans on average."
+ },
+ {
   "id": "fbf490a40ded",
   "url": "https://techtarget.com/news/Qualtrics-expands-synthetic-research-marketing-testing-tech/848504",
   "title": "Qualtrics expands synthetic research marketing, testing tech",
@@ -296,7 +412,8 @@
    "lead": [],
    "participants": [],
    "auto": true
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "b542ce1ee4f4",

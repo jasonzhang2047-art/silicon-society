@@ -15173,6 +15173,211 @@
    "at": "2026-10-28T05:44:24.526Z",
    "by": "rules",
    "title": "i did see a somewhat valid argument of \"now companies can train on your messages\" which, first users can opt out and b, "
+  },
+  "0e4701da5001": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents"
+  },
+  "c8b05bda65b1": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations"
+  },
+  "35e9541a95ca": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation"
+  },
+  "a1d00affd20b": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?"
+  },
+  "7893b7084ac3": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception"
+  },
+  "7418e2ccf21f": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "h1: A Taste of the Bitter Lesson in Automated Theorem Proving"
+  },
+  "0a3213f89986": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations"
+  },
+  "af7551915940": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions"
+  },
+  "8ae83932c8a0": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "The Lexical Imprint of Pre-training Data"
+  },
+  "c93f6396cbf0": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions"
+  },
+  "6b8342a6b145": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach"
+  },
+  "f1f04971c127": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning"
+  },
+  "2debc9167071": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "llm",
+   "title": "T-DIG: Text-Conditioned Diversity for Image Generation"
+  },
+  "5dafc753d4da": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation"
+  },
+  "26c865069daf": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It"
+  },
+  "4cd3781a0fec": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Beyond the Estimate: Wiener-Informed Decoding for Easier Training of Pixel-Space Flow Models"
+  },
+  "cb7d85447c22": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Faster, Not Lighter: Living With AI Brain Fry"
+  },
+  "4d623ed786eb": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Bridging the Experience Gap with AI Simulation"
+  },
+  "01aec7c610f0": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Siemens and Nvidia advance AI-powered PCB inspection from digital twin to factory"
+  },
+  "bdc98adafde0": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "llm",
+   "title": "What Outcomes Digital Twins Can be Used to Predict"
+  },
+  "3976a65ee0d6": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Your Factory Has a Twin Now: How Digital Twins Are Rewriting Operations in 2026"
+  },
+  "b4259149450d": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "LTM launches industrial AI lab in Chennai"
+  },
+  "df7c96e30966": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "llm",
+   "title": "Digital Twin in Semiconductor Market to Reach US$22.9 Billion by 2033, Growing at 36.2% CAGR"
+  },
+  "3d6d4e9977a6": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "The AI Fed Votes to Hold Interest Rates Steady"
+  },
+  "de85062ed683": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "From Expertise to Intelligence: NISCO Deploys World's First Swarm-Intelligence Steel Model at Scale"
+  },
+  "bf23c3906213": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Huawei-powered AI drives Nanjing Steel to boost quality and cut costs"
+  },
+  "883c83ab98c0": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "llm",
+   "title": "Plato Raises $16 Million Series A to Build Simulated Workplaces for AI Agents"
+  },
+  "4a8f039c93dd": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "VC funding deals: General Compute, Hyphenate, Machenta"
+  },
+  "b57508d497e8": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Show HN: Interview your analysts instead of auto-generating a semantic layer"
+  },
+  "b850200b2880": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "llm",
+   "title": "Yep! Claude, Grok, ChatGPT-- they're all LLM-based generative \"AI\" systems that are different from algorithmic AI that w"
+  },
+  "535514d8c4d3": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Ai agents can’t do relationships: papers.ssrn.com/sol3/papers...."
+  },
+  "a0d268567a31": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Building Autonomous AI Agents and Securing Human-in-the-Loop Co-Existence: Hardening AI Workflows for Enterprise Operati"
+  },
+  "7bbe2f0b0630": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "DNSFilter LUMINATE unifies DNS security, AI controls and remote work protection DNSFilter has launched LUMINATE by DNSFi"
+  },
+  "8efc4e9aee5f": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "AI without illusions (1/20): The generative AI landscape in 2026. What actually matters now by Thomas Byern’s Field Note"
+  },
+  "8f7e1c7e09f6": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "SageMaker MLflow Apps now support MLflow 3.16 Amazon SageMaker AI MLflow Apps now support MLflow 3.16, featuring a redes"
+  },
+  "6f50600fa554": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "New on CRAN: lepidoptera (0.1.2). View at https://CRAN.R-project.org/package=lepidoptera"
+  },
+  "42479a3e14cb": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "New CRAN package lepidoptera with initial version 0.1.2 #rstats https://cran.r-project.org/package=lepidoptera"
+  },
+  "7a0bc16ac461": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": ""
+  },
+  "1a09e9a63013": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "llm",
+   "title": "\"Midnight at the oasis Send your camel to bed Shadows painting our faces Traces of romance in our heads Heaven's holding"
+  },
+  "c46b0d41b274": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "rules",
+   "title": "Dog sorry for wet leg Electrician sorry for sparks Camel sorry for oasis Area monk sorry for nirvana German YIMBY sorry "
+  },
+  "34b0bf3f94c3": {
+   "at": "2026-10-28T18:21:43.432Z",
+   "by": "llm",
+   "title": "Gemini 4 Carbon: Our next frontier model"
   }
  },
  "repos": {
@@ -15182,8 +15387,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82405,
-   "forks": 12465,
+   "stars": 82505,
+   "forks": 12477,
    "openIssues": 203,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -15232,7 +15437,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 82405
+     "stars": 82505
     }
    ]
   },
@@ -15242,8 +15447,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42540,
-   "forks": 7604,
+   "stars": 42547,
+   "forks": 7606,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -15292,7 +15497,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 42540
+     "stars": 42547
     }
    ]
   },
@@ -15302,7 +15507,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22300,
+   "stars": 22304,
    "forks": 3126,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -15346,7 +15551,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 22300
+     "stars": 22304
     }
    ]
   },
@@ -15411,7 +15616,7 @@
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
    "stars": 5362,
-   "forks": 655,
+   "forks": 654,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
    "language": "Python",
@@ -15470,10 +15675,10 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1833,
-   "forks": 395,
-   "openIssues": 69,
-   "pushedAt": "2026-10-20T11:05:11Z",
+   "stars": 1836,
+   "forks": 396,
+   "openIssues": 71,
+   "pushedAt": "2026-10-28T17:19:51Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v2.4.0",
@@ -15520,7 +15725,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 1833
+     "stars": 1836
     }
    ]
   },
@@ -15530,7 +15735,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1372,
+   "stars": 1374,
    "forks": 219,
    "openIssues": 38,
    "pushedAt": "2026-10-27T16:55:14Z",
@@ -15580,7 +15785,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 1372
+     "stars": 1374
     }
    ]
   },
@@ -15590,8 +15795,8 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7619,
-   "forks": 689,
+   "stars": 7623,
+   "forks": 690,
    "openIssues": 35,
    "pushedAt": "2026-10-23T17:14:54Z",
    "language": "Jupyter Notebook",
@@ -15640,7 +15845,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 7619
+     "stars": 7623
     }
    ]
   },
@@ -15649,7 +15854,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10715,
+   "stars": 10718,
    "forks": 1236,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -15693,7 +15898,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 10715
+     "stars": 10718
     }
    ]
   },
@@ -15706,7 +15911,7 @@
    "stars": 510,
    "forks": 89,
    "openIssues": 62,
-   "pushedAt": "2026-10-28T01:54:10Z",
+   "pushedAt": "2026-10-28T16:48:09Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -15929,7 +16134,7 @@
    "label": "Social-media digital twin",
    "description": "An open-source, AI-driven Social Media Digital Twin powered by LLMs for Computational Social Science simulations, network analysis, and human-agent interaction.",
    "url": "https://github.com/YSocialTwin/YSocial",
-   "stars": 34,
+   "stars": 35,
    "forks": 8,
    "openIssues": 2,
    "pushedAt": "2026-10-23T07:45:28Z",
@@ -15979,7 +16184,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 34
+     "stars": 35
     }
    ]
   },
@@ -15988,8 +16193,8 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5160,
-   "forks": 520,
+   "stars": 5161,
+   "forks": 521,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
    "language": "JavaScript",
@@ -16038,7 +16243,7 @@
     },
     {
      "date": "2026-10-28",
-     "stars": 5160
+     "stars": 5161
     }
    ]
   }
