@@ -1,5 +1,132 @@
 [
  {
+  "id": "a897ac44e86e",
+  "url": "https://bsky.app/profile/ocramz.bsky.social/post/3myzjjskocs2r",
+  "title": "fake polls are called silicon sampling! til",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Marco Z",
+   "handle": "@ocramz.bsky.social",
+   "url": "https://bsky.app/profile/ocramz.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ygzrpn6mqpibaf6rowkd3uh6/bafkreie3o3r4nvfadkrnplevi5gl3seuank3hdgi3qaimrzxvg4gajj4fa"
+  },
+  "publishedAt": "2026-10-29T14:55:40.316Z",
+  "firstSeenAt": "2026-10-29T18:29:35.405Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Mentions silicon sampling directly"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "A Bluesky user notes that fake polls are called silicon sampling."
+ },
+ {
+  "id": "622fd1cffe77",
+  "url": "https://bsky.app/profile/beenwrekt.bsky.social/post/3myzizefo522w",
+  "title": "I have tried (and failed) to make sense of the buzzy, weird world of silicon sampling, but here are some thoughts and a working bibliography.",
+  "snippet": "Frontiers in Making up People. Trying (and failing) to make sense of the buzzy weird world of silicon sampling.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Ben Recht",
+   "handle": "@beenwrekt.bsky.social",
+   "url": "https://bsky.app/profile/beenwrekt.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oogxmzmgauh5ug2tfe5vc7wm/bafkreigi5u3fn2porezvfmnxunm7zynzebk43tsrzvzeplciswiazdyqqe"
+  },
+  "link": "https://www.argmin.net/p/frontiers-in-making-up-people",
+  "publishedAt": "2026-10-29T14:46:28.604Z",
+  "firstSeenAt": "2026-10-29T18:29:35.405Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Commentary and bibliography on silicon sampling"
+  },
+  "metrics": {
+   "likes": 13,
+   "reposts": 3,
+   "replies": 3
+  },
+  "aiSummary": "Author shares thoughts and a working bibliography on silicon sampling in a post titled 'Frontiers in Making up People.'"
+ },
+ {
+  "id": "5c6096132679",
+  "url": "https://bsky.app/profile/theory.report/post/3myzqymfqxzz2",
+  "title": "",
+  "snippet": "Frontiers in Making up People. _Hi there, argmin readers! Today’s post is a live blog of Class 16 of my graduate seminar “Forecasting: A Critical Retrospective.” In this class we’re going to dig into the bizarre world of silicon sampling. I remain befuddled! The syllabus and list of past posts are…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Theory of Computing Report",
+   "handle": "@theory.report",
+   "url": "https://bsky.app/profile/theory.report",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3fychdutjjusoqeq24ljch6q/bafkreicjmhbthysrcz33wmkls3ysjp6tu2hme32ncrddh6jwsf5s54dhge"
+  },
+  "link": "https://www.argmin.net/p/frontiers-in-making-up-people",
+  "publishedAt": "2026-10-29T14:41:21.000Z",
+  "firstSeenAt": "2026-10-29T18:29:35.405Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critical discussion of silicon sampling"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "An argmin blog post live-blogs Class 16 of a graduate seminar on forecasting, examining silicon sampling."
+ },
+ {
+  "id": "af8dff33e02a",
+  "url": "https://research-live.com/article/news/listen-labs-launches-digital-twins/id/5154326",
+  "title": "Listen Labs launches digital twins",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Research Live",
+   "url": "https://www.research-live.com"
+  },
+  "publishedAt": "2026-10-29T11:47:03.000Z",
+  "firstSeenAt": "2026-10-29T18:29:35.405Z",
+  "people": [],
+  "orgs": [
+   "listen-labs"
+  ],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Customer digital twins product launch"
+  },
+  "aiSummary": "Listen Labs has launched digital twins."
+ },
+ {
   "id": "de1cd2cb3a63",
   "url": "https://news.ycombinator.com/item?id=50280514",
   "title": "Synthetic survey respondents from real census data, with a calibration score",
@@ -29,6 +156,30 @@
    "comments": 0
   },
   "aiSummary": "Hacker News thread about generating synthetic survey respondents from real census data, with a calibration score."
+ },
+ {
+  "id": "e88202a076bd",
+  "url": "https://bernamabiz.com/news.php?id\\u003d2626740",
+  "title": "Listen Labs Launches AI ‘Twins’ To Predict Customer Behaviour",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "BernamaBiz",
+   "url": "https://bernamabiz.com"
+  },
+  "publishedAt": "2026-10-28T16:59:19.000Z",
+  "firstSeenAt": "2026-10-29T18:29:35.405Z",
+  "people": [],
+  "orgs": [
+   "listen-labs"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Consumer digital twins for behavior prediction"
+  },
+  "aiSummary": "Listen Labs launches AI 'twins' to predict customer behaviour."
  },
  {
   "id": "3de41ea1173b",

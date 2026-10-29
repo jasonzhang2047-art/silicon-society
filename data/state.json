@@ -15503,6 +15503,191 @@
    "at": "2026-10-29T05:50:16.644Z",
    "by": "llm",
    "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations Qiming Shi et al. #arXiv #cs.AI #cs.CL"
+  },
+  "2b93b3bc2a7d": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents"
+  },
+  "454928f07d28": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents"
+  },
+  "96b6bb7107ad": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Amortizing Sequential Experimental Design in Reasoning LLMs"
+  },
+  "86565fa648d7": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data"
+  },
+  "0a689330a1e6": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "CausGround: Causal Interaction Grounding for Adaptive Embodied Planning"
+  },
+  "666d4232355f": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks"
+  },
+  "d8e6a4ae5a71": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience"
+  },
+  "4fb7ce34f8b7": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning"
+  },
+  "23fb4b18e78a": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Brands Can Now Survey Your AI Twin. It Matches You 69% of the Time"
+  },
+  "2ba7cad47420": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "AI might have all the answers, but not the most important one: ‘I don’t know’"
+  },
+  "6f696564e61f": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Federated Wireless Physical AI Raises Element8’s Fixed Wireless Installation Success Rate Above 90 Percent"
+  },
+  "29ec4567a44c": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "llm",
+   "title": "Procore expands NVIDIA collaboration on construction digital twins"
+  },
+  "65e2de6be499": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "The Robotics Engineer Skill Set Is Changing. Here’s What Senior Engineers Need Now"
+  },
+  "51578986ab9e": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Cadence Design Systems stock joins DOE-backed Genesis Mission consortium"
+  },
+  "2107590cb274": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "llm",
+   "title": "NVIDIA shows frontier AI agents building Omniverse simulations"
+  },
+  "bbcd0f46c1a4": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "llm",
+   "title": "DataMesh and Aptly Technology Collaborate to Power Digital Twin-Enabled AI Data Center Lifecycle Solutions"
+  },
+  "03200b44d8f9": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants"
+  },
+  "2d8e0089f815": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Colare raises $2.5M to test hardware engineers"
+  },
+  "13d53356bff2": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "ShareWillow Raises $8.5M Seed to Build AI Agents for Trades Technicians"
+  },
+  "0da222e67868": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Five Principles for Generating Readable AI Text in Bulk"
+  },
+  "03ce2c25b1bd": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Show HN: Fast agentic video editing in the browser (Tella)"
+  },
+  "937e28464e95": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Show HN: Google translate replacement for language learners"
+  },
+  "638c4d7104de": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "llm",
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+  },
+  "aa58fb4e9bc5": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "anonnerdfrenzy/survival-llm — A free AI assistant and survival library that runs on your own computer, with no internet "
+  },
+  "1ca13464e413": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "RushData: AI-Ready Data for Models and Agents with 1-Day CHO Expression ->The Scientist | More on \"AI antibody discovery"
+  },
+  "528b95110746": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Hell, I just checked the Google Graveyard just now, and they already killed off 2 AI bullshit services within the past 6"
+  },
+  "d7b18db54741": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "\"From Zero to Autonomous: Building Self-Healing Serverless Architectures with AWS Lambda and Amazon Bedrock\" by Vedansh "
+  },
+  "a438e4602000": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "At a more fundamental level, I think the most interesting part is that increasing reasoning doesn't mean doing what lowe"
+  },
+  "cd25e1bbf7b4": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "📦 CopilotKit / CopilotKit ⭐ 38,359 (+52) 🗒 TypeScript The Frontend Stack for Agents & Generative UI. React, Angular, M"
+  },
+  "2256c47887db": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "llm",
+   "title": "Thank you, @extremearturo.bsky.social for sharing this article. #Migente #Noticias #AmericanHistory #MexicanHistory #Lat"
+  },
+  "100cb3fc77b3": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "\"Beyond Chatbots: The Rise of AI That Remembers, Acts, and Knows Its Limits\" by Preethi Silvia .V #generative-ai #ai-age"
+  },
+  "6cf545dfb933": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Regenerative technology hollows. The problem is in the generative web which beyond end devices we have agents shaping it"
+  },
+  "90e8d7f068e7": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Uravation Expands Free Generative AI Passport Question Bank to 300 Questions Uravation splits the 300 free questions at "
+  },
+  "9092b47bcd60": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "As Election Day approaches, recent news stories have asked the question on everyone's mind: Can we trust the polls? Here"
+  },
+  "c1088b4a22f0": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "@dans-knaw-nwo.bsky.social DANS Workshop on Synthetic Data in Social Sciences, 23 November \"Synthetic datasets protects "
+  },
+  "b4433878b5c8": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "rules",
+   "title": "Gilbert promuove la scelta di Sinner: \"Norman ha lo stesso carattere di Cahill\""
+  },
+  "322b4c5e9cca": {
+   "at": "2026-10-29T18:29:35.405Z",
+   "by": "llm",
+   "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations Qiming Shi et al. #arXiv #cs.AI #cs.CL"
   }
  },
  "repos": {
@@ -15512,9 +15697,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82565,
-   "forks": 12488,
-   "openIssues": 204,
+   "stars": 82679,
+   "forks": 12505,
+   "openIssues": 205,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -15566,7 +15751,7 @@
     },
     {
      "date": "2026-10-29",
-     "stars": 82565
+     "stars": 82679
     }
    ]
   },
@@ -15577,7 +15762,7 @@
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
    "stars": 42545,
-   "forks": 7606,
+   "forks": 7607,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -15640,8 +15825,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22305,
-   "forks": 3126,
+   "stars": 22309,
+   "forks": 3127,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -15688,7 +15873,7 @@
     },
     {
      "date": "2026-10-29",
-     "stars": 22305
+     "stars": 22309
     }
    ]
   },
@@ -15757,7 +15942,7 @@
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
    "stars": 5362,
-   "forks": 654,
+   "forks": 655,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
    "language": "Python",
@@ -15820,10 +16005,10 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1838,
+   "stars": 1839,
    "forks": 397,
    "openIssues": 73,
-   "pushedAt": "2026-10-28T17:19:51Z",
+   "pushedAt": "2026-10-29T18:10:10Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v2.4.0",
@@ -15874,7 +16059,7 @@
     },
     {
      "date": "2026-10-29",
-     "stars": 1838
+     "stars": 1839
     }
    ]
   },
@@ -15885,9 +16070,9 @@
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
    "stars": 1374,
-   "forks": 219,
-   "openIssues": 38,
-   "pushedAt": "2026-10-27T16:55:14Z",
+   "forks": 220,
+   "openIssues": 39,
+   "pushedAt": "2026-10-29T15:09:05Z",
    "language": "Python",
    "latestRelease": {
     "tag": "agentsociety2-v2.9.3",
@@ -15948,7 +16133,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7626,
+   "stars": 7627,
    "forks": 690,
    "openIssues": 35,
    "pushedAt": "2026-10-23T17:14:54Z",
@@ -16002,7 +16187,7 @@
     },
     {
      "date": "2026-10-29",
-     "stars": 7626
+     "stars": 7627
     }
    ]
   },
@@ -16011,8 +16196,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10721,
-   "forks": 1237,
+   "stars": 10726,
+   "forks": 1236,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
    "language": "TypeScript",
@@ -16059,7 +16244,7 @@
     },
     {
      "date": "2026-10-29",
-     "stars": 10721
+     "stars": 10726
     }
    ]
   },
@@ -16071,8 +16256,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 510,
    "forks": 89,
-   "openIssues": 60,
-   "pushedAt": "2026-10-29T01:54:32Z",
+   "openIssues": 59,
+   "pushedAt": "2026-10-29T13:24:35Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -16314,7 +16499,7 @@
    "stars": 35,
    "forks": 8,
    "openIssues": 2,
-   "pushedAt": "2026-10-23T07:45:28Z",
+   "pushedAt": "2026-10-29T14:19:33Z",
    "language": "JavaScript",
    "latestRelease": {
     "tag": "v4.0.0",

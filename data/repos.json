@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 82565,
-  "forks": 12488,
-  "openIssues": 204,
+  "stars": 82679,
+  "forks": 12505,
+  "openIssues": 205,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -59,7 +59,7 @@
    },
    {
     "date": "2026-10-29",
-    "stars": 82565
+    "stars": 82679
    }
   ]
  },
@@ -70,7 +70,7 @@
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
   "stars": 42545,
-  "forks": 7606,
+  "forks": 7607,
   "openIssues": 7,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -133,8 +133,8 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22305,
-  "forks": 3126,
+  "stars": 22309,
+  "forks": 3127,
   "openIssues": 146,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
@@ -181,7 +181,7 @@
    },
    {
     "date": "2026-10-29",
-    "stars": 22305
+    "stars": 22309
    }
   ]
  },
@@ -250,7 +250,7 @@
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
   "stars": 5362,
-  "forks": 654,
+  "forks": 655,
   "openIssues": 59,
   "pushedAt": "2026-10-27T10:08:27Z",
   "language": "Python",
@@ -313,10 +313,10 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1838,
+  "stars": 1839,
   "forks": 397,
   "openIssues": 73,
-  "pushedAt": "2026-10-28T17:19:51Z",
+  "pushedAt": "2026-10-29T18:10:10Z",
   "language": "Python",
   "latestRelease": {
    "tag": "v2.4.0",
@@ -367,7 +367,7 @@
    },
    {
     "date": "2026-10-29",
-    "stars": 1838
+    "stars": 1839
    }
   ]
  },
@@ -378,9 +378,9 @@
   "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
   "stars": 1374,
-  "forks": 219,
-  "openIssues": 38,
-  "pushedAt": "2026-10-27T16:55:14Z",
+  "forks": 220,
+  "openIssues": 39,
+  "pushedAt": "2026-10-29T15:09:05Z",
   "language": "Python",
   "latestRelease": {
    "tag": "agentsociety2-v2.9.3",
@@ -441,7 +441,7 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7626,
+  "stars": 7627,
   "forks": 690,
   "openIssues": 35,
   "pushedAt": "2026-10-23T17:14:54Z",
@@ -495,7 +495,7 @@
    },
    {
     "date": "2026-10-29",
-    "stars": 7626
+    "stars": 7627
    }
   ]
  },
@@ -504,8 +504,8 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10721,
-  "forks": 1237,
+  "stars": 10726,
+  "forks": 1236,
   "openIssues": 76,
   "pushedAt": "2026-08-26T00:34:11Z",
   "language": "TypeScript",
@@ -552,7 +552,7 @@
    },
    {
     "date": "2026-10-29",
-    "stars": 10721
+    "stars": 10726
    }
   ]
  },
@@ -564,8 +564,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 510,
   "forks": 89,
-  "openIssues": 60,
-  "pushedAt": "2026-10-29T01:54:32Z",
+  "openIssues": 59,
+  "pushedAt": "2026-10-29T13:24:35Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -807,7 +807,7 @@
   "stars": 35,
   "forks": 8,
   "openIssues": 2,
-  "pushedAt": "2026-10-23T07:45:28Z",
+  "pushedAt": "2026-10-29T14:19:33Z",
   "language": "JavaScript",
   "latestRelease": {
    "tag": "v4.0.0",
