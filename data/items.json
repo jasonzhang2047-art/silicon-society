@@ -1,5 +1,36 @@
 [
  {
+  "id": "de1cd2cb3a63",
+  "url": "https://news.ycombinator.com/item?id=50280514",
+  "title": "Synthetic survey respondents from real census data, with a calibration score",
+  "category": "discussion",
+  "source": {
+   "kind": "hackernews",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com"
+  },
+  "author": {
+   "name": "fredxhansson",
+   "url": "https://news.ycombinator.com/user?id=fredxhansson"
+  },
+  "link": "https://synthetic-audience.noniner.io",
+  "publishedAt": "2026-10-28T20:35:22Z",
+  "firstSeenAt": "2026-10-29T05:50:16.644Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents built from census data"
+  },
+  "metrics": {
+   "points": 2,
+   "comments": 0
+  },
+  "aiSummary": "Hacker News thread about generating synthetic survey respondents from real census data, with a calibration score."
+ },
+ {
   "id": "3de41ea1173b",
   "url": "https://bsky.app/profile/ahnert.eurosky.social/post/3mywti76d222h",
   "title": "Generative AI is increasingly used to produce synthetic survey responses, most visibly through persona-prompted large language models (\"silicon sampling\"). Commercial offerings are growing, yet quality standards are far from established.",
@@ -52,7 +83,8 @@
    "by": "llm",
    "reason": "Synthetic users for research"
   },
-  "aiSummary": "Microsoft Design article discusses synthetic users, synthetic data, and the limits of simulation."
+  "aiSummary": "Microsoft Design article discusses synthetic users, synthetic data, and the limits of simulation.",
+  "metrics": {}
  },
  {
   "id": "eefd4c0f3580",
@@ -76,7 +108,8 @@
    "by": "llm",
    "reason": "Likely customer digital twins product"
   },
-  "aiSummary": "Listen Labs announced the launch of Listen Twins."
+  "aiSummary": "Listen Labs announced the launch of Listen Twins.",
+  "metrics": {}
  },
  {
   "id": "25f7bb52e5d3",
@@ -1128,7 +1161,7 @@
    "reason": "Benchmark for simulating shopper behavior"
   },
   "metrics": {
-   "upvotes": 62,
+   "upvotes": 63,
    "comments": 2
   },
   "aiSummary": "UserArena is an e-commerce benchmark of 64,729 session trajectories from 11,010 users for evaluating interactive user simulation for long-horizon shopping agents."

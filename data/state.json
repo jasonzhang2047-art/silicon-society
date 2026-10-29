@@ -15378,6 +15378,131 @@
    "at": "2026-10-28T18:21:43.432Z",
    "by": "llm",
    "title": "Gemini 4 Carbon: Our next frontier model"
+  },
+  "4c6fd156bbda": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models"
+  },
+  "55cdcbb5e1d0": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes"
+  },
+  "5fe8d4e0e98f": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images"
+  },
+  "e703e432320a": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving"
+  },
+  "7ab723f00988": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+  },
+  "8c84d0a12b63": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Sub-monolayer tracking of molecular states at buried interfaces"
+  },
+  "1ccdbbd15803": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models"
+  },
+  "489fd93559ba": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection"
+  },
+  "3ee0256694eb": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "AlphaBet: Reinforcement Learning for LLM Event Forecasting Agents"
+  },
+  "93d92bc0744b": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science"
+  },
+  "d41016584c35": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Clinisys helps laboratories move from insight to action with open, governed AI solution"
+  },
+  "dbb1c5050591": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Politician Can Now Rent AI Voter. But Who Cast The Vote?"
+  },
+  "e1b4da7ca3b9": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Bridging the Experience Gap with AI Simulation"
+  },
+  "09106d3379fd": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "llm",
+   "title": "Study finds celebrity digital twins may boost trust in customer service"
+  },
+  "9ce3ca585bbb": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Schneider Electric, Nscale and Start Campus Bring the NVIDIA Omniverse DSX Blueprint into a Live AI Factory Environment"
+  },
+  "573d4ae06fe2": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Watch Apple slowly become just another computer company"
+  },
+  "b45e368010a7": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Show HN: Fast, Zero Allocation, AOT Safe, Compile-Time Safe .NET Template Engine"
+  },
+  "574a5f568b6f": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "opensec-git/Pi-Bolt — ⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× l"
+  },
+  "4feb2b589447": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Tencent founder Pony Ma described the company as a leaky boat after lagging behind in the generative AI wave. Amidst tra"
+  },
+  "1da92c201014": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "Breaking: Tencent Surges Past 32 Million Users in Generative AI Enterprise Comeback ▼Read More https://biz-matome.com/ar"
+  },
+  "c43eac763f98": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "They also refer to this as Generative Engine Optimization or GEO. Like search engine optimization but for AI agents. All"
+  },
+  "a13ef02785a9": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": "You spent 6 weeks rebuilding context in session 43 that session 1 already knew. That's not inefficiency. That's the wron"
+  },
+  "149a159c8c5b": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "llm",
+   "title": "Fake encounters with ICE & AI slop imitating Chicano/Latino history are going viral daily on social media with no modera"
+  },
+  "3ee77cef864f": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "rules",
+   "title": ""
+  },
+  "3e0028126980": {
+   "at": "2026-10-29T05:50:16.644Z",
+   "by": "llm",
+   "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations Qiming Shi et al. #arXiv #cs.AI #cs.CL"
   }
  },
  "repos": {
@@ -15387,9 +15512,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82505,
-   "forks": 12477,
-   "openIssues": 203,
+   "stars": 82565,
+   "forks": 12488,
+   "openIssues": 204,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -15438,6 +15563,10 @@
     {
      "date": "2026-10-28",
      "stars": 82505
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 82565
     }
    ]
   },
@@ -15447,7 +15576,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42547,
+   "stars": 42545,
    "forks": 7606,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -15498,6 +15627,10 @@
     {
      "date": "2026-10-28",
      "stars": 42547
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 42545
     }
    ]
   },
@@ -15507,7 +15640,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22304,
+   "stars": 22305,
    "forks": 3126,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -15552,6 +15685,10 @@
     {
      "date": "2026-10-28",
      "stars": 22304
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 22305
     }
    ]
   },
@@ -15605,6 +15742,10 @@
     },
     {
      "date": "2026-10-28",
+     "stars": 623
+    },
+    {
+     "date": "2026-10-29",
      "stars": 623
     }
    ]
@@ -15666,6 +15807,10 @@
     {
      "date": "2026-10-28",
      "stars": 5362
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 5362
     }
    ]
   },
@@ -15675,9 +15820,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1836,
-   "forks": 396,
-   "openIssues": 71,
+   "stars": 1838,
+   "forks": 397,
+   "openIssues": 73,
    "pushedAt": "2026-10-28T17:19:51Z",
    "language": "Python",
    "latestRelease": {
@@ -15726,6 +15871,10 @@
     {
      "date": "2026-10-28",
      "stars": 1836
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 1838
     }
    ]
   },
@@ -15786,6 +15935,10 @@
     {
      "date": "2026-10-28",
      "stars": 1374
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 1374
     }
    ]
   },
@@ -15795,7 +15948,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7623,
+   "stars": 7626,
    "forks": 690,
    "openIssues": 35,
    "pushedAt": "2026-10-23T17:14:54Z",
@@ -15846,6 +15999,10 @@
     {
      "date": "2026-10-28",
      "stars": 7623
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 7626
     }
    ]
   },
@@ -15854,8 +16011,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10718,
-   "forks": 1236,
+   "stars": 10721,
+   "forks": 1237,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
    "language": "TypeScript",
@@ -15899,6 +16056,10 @@
     {
      "date": "2026-10-28",
      "stars": 10718
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 10721
     }
    ]
   },
@@ -15910,8 +16071,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 510,
    "forks": 89,
-   "openIssues": 62,
-   "pushedAt": "2026-10-28T16:48:09Z",
+   "openIssues": 60,
+   "pushedAt": "2026-10-29T01:54:32Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -15958,6 +16119,10 @@
     },
     {
      "date": "2026-10-28",
+     "stars": 510
+    },
+    {
+     "date": "2026-10-29",
      "stars": 510
     }
    ]
@@ -16019,6 +16184,10 @@
     {
      "date": "2026-10-28",
      "stars": 341
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 341
     }
    ]
   },
@@ -16073,6 +16242,10 @@
     {
      "date": "2026-10-28",
      "stars": 246
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 246
     }
    ]
   },
@@ -16125,6 +16298,10 @@
     },
     {
      "date": "2026-10-28",
+     "stars": 1388
+    },
+    {
+     "date": "2026-10-29",
      "stars": 1388
     }
    ]
@@ -16185,6 +16362,10 @@
     {
      "date": "2026-10-28",
      "stars": 35
+    },
+    {
+     "date": "2026-10-29",
+     "stars": 35
     }
    ]
   },
@@ -16243,6 +16424,10 @@
     },
     {
      "date": "2026-10-28",
+     "stars": 5161
+    },
+    {
+     "date": "2026-10-29",
      "stars": 5161
     }
    ]
