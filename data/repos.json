@@ -5,8 +5,8 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 82679,
-  "forks": 12505,
+  "stars": 82755,
+  "forks": 12512,
   "openIssues": 205,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
@@ -60,6 +60,10 @@
    {
     "date": "2026-10-29",
     "stars": 82679
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 82755
    }
   ]
  },
@@ -69,8 +73,8 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42545,
-  "forks": 7607,
+  "stars": 42550,
+  "forks": 7609,
   "openIssues": 7,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -124,6 +128,10 @@
    {
     "date": "2026-10-29",
     "stars": 42545
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 42550
    }
   ]
  },
@@ -133,8 +141,8 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22309,
-  "forks": 3127,
+  "stars": 22312,
+  "forks": 3128,
   "openIssues": 146,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
@@ -182,6 +190,10 @@
    {
     "date": "2026-10-29",
     "stars": 22309
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 22312
    }
   ]
  },
@@ -191,7 +203,7 @@
   "org": "stanford-hci",
   "description": "",
   "url": "https://github.com/StanfordHCI/genagents",
-  "stars": 623,
+  "stars": 624,
   "forks": 164,
   "openIssues": 12,
   "pushedAt": "2024-11-18T14:36:12Z",
@@ -240,6 +252,10 @@
    {
     "date": "2026-10-29",
     "stars": 623
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 624
    }
   ]
  },
@@ -249,7 +265,7 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5362,
+  "stars": 5364,
   "forks": 655,
   "openIssues": 59,
   "pushedAt": "2026-10-27T10:08:27Z",
@@ -304,6 +320,10 @@
    {
     "date": "2026-10-29",
     "stars": 5362
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 5364
    }
   ]
  },
@@ -313,7 +333,7 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1839,
+  "stars": 1840,
   "forks": 397,
   "openIssues": 73,
   "pushedAt": "2026-10-29T18:10:10Z",
@@ -368,6 +388,10 @@
    {
     "date": "2026-10-29",
     "stars": 1839
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 1840
    }
   ]
  },
@@ -377,7 +401,7 @@
   "org": "tsinghua-fib",
   "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-  "stars": 1374,
+  "stars": 1375,
   "forks": 220,
   "openIssues": 39,
   "pushedAt": "2026-10-29T15:09:05Z",
@@ -432,6 +456,10 @@
    {
     "date": "2026-10-29",
     "stars": 1374
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 1375
    }
   ]
  },
@@ -496,6 +524,10 @@
    {
     "date": "2026-10-29",
     "stars": 7627
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 7627
    }
   ]
  },
@@ -505,7 +537,7 @@
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
   "stars": 10726,
-  "forks": 1236,
+  "forks": 1237,
   "openIssues": 76,
   "pushedAt": "2026-08-26T00:34:11Z",
   "language": "TypeScript",
@@ -552,6 +584,10 @@
    },
    {
     "date": "2026-10-29",
+    "stars": 10726
+   },
+   {
+    "date": "2026-10-30",
     "stars": 10726
    }
   ]
@@ -617,6 +653,10 @@
    {
     "date": "2026-10-29",
     "stars": 510
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 510
    }
   ]
  },
@@ -681,6 +721,10 @@
    {
     "date": "2026-10-29",
     "stars": 341
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 341
    }
   ]
  },
@@ -739,6 +783,10 @@
    {
     "date": "2026-10-29",
     "stars": 246
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 246
    }
   ]
  },
@@ -795,6 +843,10 @@
    },
    {
     "date": "2026-10-29",
+    "stars": 1388
+   },
+   {
+    "date": "2026-10-30",
     "stars": 1388
    }
   ]
@@ -859,6 +911,10 @@
    {
     "date": "2026-10-29",
     "stars": 35
+   },
+   {
+    "date": "2026-10-30",
+    "stars": 35
    }
   ]
  },
@@ -921,6 +977,10 @@
    },
    {
     "date": "2026-10-29",
+    "stars": 5161
+   },
+   {
+    "date": "2026-10-30",
     "stars": 5161
    }
   ]

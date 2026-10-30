@@ -1,5 +1,39 @@
 [
  {
+  "id": "af81a1c7e729",
+  "url": "https://arxiv.org/abs/2610.40259",
+  "title": "The Price of a Chance in Artificial Societies",
+  "snippet": "Rapid advances in large language models (LLMs) have enabled autonomous agents to interact, coordinate, and pursue individual goals in artificial societies. However, our understanding of how reward structures shape their competitive behavior and collective outcomes remains incomplete. We simulate 200 LLM agents competing over 50 rounds to maximize individual wealth. We define overcompetition and lying flat as population investment above and below a Bayesian adaptive baseline, respectively. At the lowest tested reward, populations lie flat; at the two highest, they overcompete, most strongly at intermediate winner coverage. The investment committed to pursuing an uncertain reward constitutes…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Shuqi Zhao",
+   "Boyu Wang",
+   "Shuangyue Niu",
+   "Chenhao Zhang",
+   "Zhanzhan Zhao"
+  ],
+  "publishedAt": "2026-10-29T15:24:00.000Z",
+  "firstSeenAt": "2026-10-30T05:51:09.526Z",
+  "people": [],
+  "orgs": [
+   "artificial-societies"
+  ],
+  "tags": [
+   "cs.CY"
+  ],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM agent artificial society simulation"
+  },
+  "aiSummary": "Paper simulates 200 LLM agents competing over 50 rounds for wealth, finding populations lie flat at low rewards and overcompete at high rewards."
+ },
+ {
   "id": "a897ac44e86e",
   "url": "https://bsky.app/profile/ocramz.bsky.social/post/3myzjjskocs2r",
   "title": "fake polls are called silicon sampling! til",
@@ -61,9 +95,9 @@
    "reason": "Commentary and bibliography on silicon sampling"
   },
   "metrics": {
-   "likes": 13,
-   "reposts": 3,
-   "replies": 3
+   "likes": 22,
+   "reposts": 4,
+   "replies": 4
   },
   "aiSummary": "Author shares thoughts and a working bibliography on silicon sampling in a post titled 'Frontiers in Making up People.'"
  },
@@ -124,7 +158,8 @@
    "by": "llm",
    "reason": "Customer digital twins product launch"
   },
-  "aiSummary": "Listen Labs has launched digital twins."
+  "aiSummary": "Listen Labs has launched digital twins.",
+  "metrics": {}
  },
  {
   "id": "de1cd2cb3a63",
@@ -179,7 +214,8 @@
    "by": "llm",
    "reason": "Consumer digital twins for behavior prediction"
   },
-  "aiSummary": "Listen Labs launches AI 'twins' to predict customer behaviour."
+  "aiSummary": "Listen Labs launches AI 'twins' to predict customer behaviour.",
+  "metrics": {}
  },
  {
   "id": "3de41ea1173b",
@@ -1942,6 +1978,63 @@
    "comments": 2
   },
   "aiSummary": "OfficeTown is a generative simulation framework that initializes professional organizations whose members coordinate work and delegate assignments to assistant agents."
+ },
+ {
+  "id": "52498669ddb0",
+  "url": "https://arxiv.org/abs/2610.22990",
+  "title": "PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas",
+  "snippet": "Computer-use agents (CUAs) are commonly evaluated against fixed task specifications, but users may omit requirements, add constraints, or require approval before consequential actions. Completing the benchmark instruction does not guarantee serving the person who asked. We introduce PersonaCUABench, which holds 74 tasks across 11 domains fixed and varies only who asks. A persona agent, playing one of 44 personas in four groups, rewrites each instruction in that user's own words and answers the CUA's questions, while the CUA sees only the dialogue, never the profile or the original instruction. Across nine backbones (3,330 runs), mean task completion falls by 36% relative to the original…",
+  "category": "research",
+  "source": {
+   "kind": "huggingface",
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/papers/2610.22990"
+  },
+  "authors": [
+   "Haoming Li",
+   "Defu Cao",
+   "Xu Hu",
+   "Yingtao Luo",
+   "Yiyang Wang",
+   "Xianghe Xu",
+   "Jiashu He",
+   "Wanting Jiang",
+   "Yifan Zhang",
+   "Yunhan Zhao",
+   "Siyang Wu",
+   "Chen Yang",
+   "Haixin Wang",
+   "Zheyuan Deng",
+   "Taoran Li",
+   "Jingwen Zhang",
+   "Zhejian Peng",
+   "Shushu Liang",
+   "Yue Zhao",
+   "Bingzhe Li",
+   "Feng Chen",
+   "Yifan Wang",
+   "Jintao Huang",
+   "Yijun Wang",
+   "Yuexing Hao",
+   "Xiaomin Li"
+  ],
+  "publishedAt": "2026-10-16T00:00:00.000Z",
+  "firstSeenAt": "2026-10-30T05:51:09.526Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "hf-trending"
+  ],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM persona agents simulating diverse users"
+  },
+  "metrics": {
+   "upvotes": 14,
+   "comments": 1
+  },
+  "aiSummary": "PersonaCUABench uses a persona agent playing 44 personas to rephrase 74 tasks for computer-use agents; task completion falls 36% on average across nine backbones."
  },
  {
   "id": "2cfaa81bc66c",

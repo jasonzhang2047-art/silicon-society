@@ -15688,6 +15688,221 @@
    "at": "2026-10-29T18:29:35.405Z",
    "by": "llm",
    "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations Qiming Shi et al. #arXiv #cs.AI #cs.CL"
+  },
+  "ad9f40ce2af1": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories"
+  },
+  "a6b82d9ab3e8": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement"
+  },
+  "c189dd01ac4e": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "Trajeform: Embedding Crowd Data"
+  },
+  "77f5c21b85c3": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Your Benchmark Is an Empirical Measure Over Difficulty"
+  },
+  "0c7b207b990f": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team"
+  },
+  "b48361c8f224": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "A Broader Look into MLLM's Retrieval Heads"
+  },
+  "ac7cc8d4451e": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models"
+  },
+  "ab9471d1cc7a": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training"
+  },
+  "421a5599a87f": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video"
+  },
+  "a2860c4b5e01": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation"
+  },
+  "f6f0617d0591": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "WebAnything: From the Wild Web to Scalable Agent Environments"
+  },
+  "f2cf2fed4d29": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "AskStream: When and What to Ask Proactively under Uncertainty in Streaming Video Understanding"
+  },
+  "8d59ed1c2ca7": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "EditAgent: Rethinking Agentic Image Editing"
+  },
+  "a5456fcc0309": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image"
+  },
+  "9d102cbf2f69": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models"
+  },
+  "478d5e20f99e": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "After One-Click Video: The Inflow of Service-Type Content, the Failure of the Recommendation Pool Mechanism, and the BoL"
+  },
+  "c81563811a6d": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training"
+  },
+  "60ccfb74a5e9": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Intrinsic Distribution Matching"
+  },
+  "a8b5d12e88ca": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "PreView: Enhancing GUI Grounding with Preprocessed Views and Cues"
+  },
+  "91b4e23b87c4": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models"
+  },
+  "7f5ad45ce11b": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Know, then Draw: A New Learning Paradigm for Visual Generation"
+  },
+  "076f1c2019e1": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load"
+  },
+  "371ece52c174": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "IDE and KIDP host AI and Future Mobility workshop for South Korean design students"
+  },
+  "2ce44a5fdde3": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+  },
+  "761fa2f0f8bc": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Synopsys Joins Singapore Consortium to Improve Tropical Data Center Cooling"
+  },
+  "8db640260363": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "What are the Benefits of Digitalization for Connectors?"
+  },
+  "02d48b108387": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Schneider Electric (ENXTPA:SU) Stock Forecast & Analyst Predictions"
+  },
+  "c9f5ae734718": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Show HN: MadTracker – Scoring software for track cycling races"
+  },
+  "212640a56451": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "(Simple AI) Introducing Sentiment: How Tango Hears What Customers Feel"
+  },
+  "e8bb9b5c5c77": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "qybaihe/bla — 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles,"
+  },
+  "25ce1f96b3df": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "ccch1mneyyy/dsh-go — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial."
+  },
+  "5808f67a1f7f": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "A2UI lets agents compose UI from a component catalog, and CopilotKit renders it via AG-UI; the Basic Catalog ships 18 pr"
+  },
+  "85c6dd3bc58f": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "Agentic Generative Engineering Environment AGEE A decentralized, spatially addressable computational environment in whic"
+  },
+  "f28abaaa98f6": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Master Frontend bundle by Sandeep Kumar Patel is a new release on Leanpub! All Frontend books on one shelf: frontend int"
+  },
+  "1050f2f87a53": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "What you're describing is closer to an agentic generative engineering environment: a spatially aware CAD platform where "
+  },
+  "a56b688c4d94": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Before adopting the latest AI tool, we need to talk about the foundation it depends on: data. 📆 On November 10, join re"
+  },
+  "1e3f4c56cdb4": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "The piece explains building generative UI applications with A2UI and CopilotKit agents. Source: Google Developers"
+  },
+  "611cf0e7f022": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Generative UI Is Transforming AI Agents From Text-Based Assistants Into Interactive Applications Introduction: The Next "
+  },
+  "c5f936f6e4ab": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "rules",
+   "title": "Build Generative UI Apps with A2UI & CopilotKit Agents #googlecloud #ai https://developers.googleblog.com/build-generati"
+  },
+  "414939c8fe25": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "1/2 Catch UX regressions early: run nightly synthetic journeys driven by a controlled LLM. Playbook for engineers: • See"
+  },
+  "e70ee19b4d07": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "1/3 Canary personas: a low-cost alarm for vibe regressions. 🐤🔍 Why they work: • Small, repeatable: 3–5 synthetic users"
+  },
+  "1d69808a365c": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "USA: L'industria dell'IA rischia una bolla simile a quella del 2008. Grandi aziende finanziano startup che poi riaffitta"
+  },
+  "32741f483503": {
+   "at": "2026-10-30T05:51:09.526Z",
+   "by": "llm",
+   "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations Qiming Shi et al. #arXiv #cs.AI #cs.CL"
   }
  },
  "repos": {
@@ -15697,8 +15912,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82679,
-   "forks": 12505,
+   "stars": 82755,
+   "forks": 12512,
    "openIssues": 205,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -15752,6 +15967,10 @@
     {
      "date": "2026-10-29",
      "stars": 82679
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 82755
     }
    ]
   },
@@ -15761,8 +15980,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42545,
-   "forks": 7607,
+   "stars": 42550,
+   "forks": 7609,
    "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -15816,6 +16035,10 @@
     {
      "date": "2026-10-29",
      "stars": 42545
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 42550
     }
    ]
   },
@@ -15825,8 +16048,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22309,
-   "forks": 3127,
+   "stars": 22312,
+   "forks": 3128,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -15874,6 +16097,10 @@
     {
      "date": "2026-10-29",
      "stars": 22309
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 22312
     }
    ]
   },
@@ -15883,7 +16110,7 @@
    "org": "stanford-hci",
    "description": "",
    "url": "https://github.com/StanfordHCI/genagents",
-   "stars": 623,
+   "stars": 624,
    "forks": 164,
    "openIssues": 12,
    "pushedAt": "2024-11-18T14:36:12Z",
@@ -15932,6 +16159,10 @@
     {
      "date": "2026-10-29",
      "stars": 623
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 624
     }
    ]
   },
@@ -15941,7 +16172,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5362,
+   "stars": 5364,
    "forks": 655,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
@@ -15996,6 +16227,10 @@
     {
      "date": "2026-10-29",
      "stars": 5362
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 5364
     }
    ]
   },
@@ -16005,7 +16240,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1839,
+   "stars": 1840,
    "forks": 397,
    "openIssues": 73,
    "pushedAt": "2026-10-29T18:10:10Z",
@@ -16060,6 +16295,10 @@
     {
      "date": "2026-10-29",
      "stars": 1839
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 1840
     }
    ]
   },
@@ -16069,7 +16308,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1374,
+   "stars": 1375,
    "forks": 220,
    "openIssues": 39,
    "pushedAt": "2026-10-29T15:09:05Z",
@@ -16124,6 +16363,10 @@
     {
      "date": "2026-10-29",
      "stars": 1374
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 1375
     }
    ]
   },
@@ -16188,6 +16431,10 @@
     {
      "date": "2026-10-29",
      "stars": 7627
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 7627
     }
    ]
   },
@@ -16197,7 +16444,7 @@
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
    "stars": 10726,
-   "forks": 1236,
+   "forks": 1237,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
    "language": "TypeScript",
@@ -16244,6 +16491,10 @@
     },
     {
      "date": "2026-10-29",
+     "stars": 10726
+    },
+    {
+     "date": "2026-10-30",
      "stars": 10726
     }
    ]
@@ -16309,6 +16560,10 @@
     {
      "date": "2026-10-29",
      "stars": 510
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 510
     }
    ]
   },
@@ -16373,6 +16628,10 @@
     {
      "date": "2026-10-29",
      "stars": 341
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 341
     }
    ]
   },
@@ -16431,6 +16690,10 @@
     {
      "date": "2026-10-29",
      "stars": 246
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 246
     }
    ]
   },
@@ -16487,6 +16750,10 @@
     },
     {
      "date": "2026-10-29",
+     "stars": 1388
+    },
+    {
+     "date": "2026-10-30",
      "stars": 1388
     }
    ]
@@ -16551,6 +16818,10 @@
     {
      "date": "2026-10-29",
      "stars": 35
+    },
+    {
+     "date": "2026-10-30",
+     "stars": 35
     }
    ]
   },
@@ -16613,6 +16884,10 @@
     },
     {
      "date": "2026-10-29",
+     "stars": 5161
+    },
+    {
+     "date": "2026-10-30",
      "stars": 5161
     }
    ]
