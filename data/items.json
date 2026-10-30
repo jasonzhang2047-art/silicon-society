@@ -1,5 +1,28 @@
 [
  {
+  "id": "4ec0433e317d",
+  "url": "https://clickz.com/clickz-explains-synthetic-customers-are-here-can-ai-personas-replace-the-focus-group/273921",
+  "title": "Synthetic Customers Are Here. Can AI Personas Replace the Focus Group?",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "ClickZ",
+   "url": "https://clickz.com"
+  },
+  "publishedAt": "2026-10-30T12:38:52.000Z",
+  "firstSeenAt": "2026-10-30T18:02:02.687Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic customers and AI personas for research"
+  },
+  "metrics": {},
+  "aiSummary": "ClickZ article asks whether synthetic customers and AI personas can replace the traditional focus group."
+ },
+ {
   "id": "af81a1c7e729",
   "url": "https://arxiv.org/abs/2610.40259",
   "title": "The Price of a Chance in Artificial Societies",
@@ -31,7 +54,8 @@
    "by": "llm",
    "reason": "LLM agent artificial society simulation"
   },
-  "aiSummary": "Paper simulates 200 LLM agents competing over 50 rounds for wealth, finding populations lie flat at low rewards and overcompete at high rewards."
+  "aiSummary": "Paper simulates 200 LLM agents competing over 50 rounds for wealth, finding populations lie flat at low rewards and overcompete at high rewards.",
+  "metrics": {}
  },
  {
   "id": "a897ac44e86e",
@@ -1348,7 +1372,7 @@
    "reason": "Benchmark for simulating shopper behavior"
   },
   "metrics": {
-   "upvotes": 63,
+   "upvotes": 64,
    "comments": 2
   },
   "aiSummary": "UserArena is an e-commerce benchmark of 64,729 session trajectories from 11,010 users for evaluating interactive user simulation for long-horizon shopping agents."
@@ -2031,7 +2055,7 @@
    "reason": "LLM persona agents simulating diverse users"
   },
   "metrics": {
-   "upvotes": 14,
+   "upvotes": 15,
    "comments": 1
   },
   "aiSummary": "PersonaCUABench uses a persona agent playing 44 personas to rephrase 74 tasks for computer-use agents; task completion falls 36% on average across nine backbones."

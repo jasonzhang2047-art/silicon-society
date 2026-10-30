@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 82755,
-  "forks": 12512,
-  "openIssues": 205,
+  "stars": 82854,
+  "forks": 12532,
+  "openIssues": 206,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -63,7 +63,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 82755
+    "stars": 82854
    }
   ]
  },
@@ -73,9 +73,9 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42550,
-  "forks": 7609,
-  "openIssues": 7,
+  "stars": 42546,
+  "forks": 7608,
+  "openIssues": 6,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
   "latestRelease": {
@@ -131,7 +131,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 42550
+    "stars": 42546
    }
   ]
  },
@@ -141,7 +141,7 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22312,
+  "stars": 22313,
   "forks": 3128,
   "openIssues": 146,
   "pushedAt": "2024-08-05T21:38:56Z",
@@ -193,7 +193,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 22312
+    "stars": 22313
    }
   ]
  },
@@ -203,7 +203,7 @@
   "org": "stanford-hci",
   "description": "",
   "url": "https://github.com/StanfordHCI/genagents",
-  "stars": 624,
+  "stars": 625,
   "forks": 164,
   "openIssues": 12,
   "pushedAt": "2024-11-18T14:36:12Z",
@@ -255,7 +255,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 624
+    "stars": 625
    }
   ]
  },
@@ -265,7 +265,7 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5364,
+  "stars": 5366,
   "forks": 655,
   "openIssues": 59,
   "pushedAt": "2026-10-27T10:08:27Z",
@@ -323,7 +323,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 5364
+    "stars": 5366
    }
   ]
  },
@@ -333,10 +333,10 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1840,
+  "stars": 1843,
   "forks": 397,
-  "openIssues": 73,
-  "pushedAt": "2026-10-29T18:10:10Z",
+  "openIssues": 72,
+  "pushedAt": "2026-10-30T13:51:47Z",
   "language": "Python",
   "latestRelease": {
    "tag": "v2.4.0",
@@ -391,7 +391,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 1840
+    "stars": 1843
    }
   ]
  },
@@ -401,10 +401,10 @@
   "org": "tsinghua-fib",
   "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-  "stars": 1375,
+  "stars": 1376,
   "forks": 220,
-  "openIssues": 39,
-  "pushedAt": "2026-10-29T15:09:05Z",
+  "openIssues": 32,
+  "pushedAt": "2026-10-30T16:04:16Z",
   "language": "Python",
   "latestRelease": {
    "tag": "agentsociety2-v2.9.3",
@@ -459,7 +459,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 1375
+    "stars": 1376
    }
   ]
  },
@@ -470,8 +470,8 @@
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
   "stars": 7627,
-  "forks": 690,
-  "openIssues": 35,
+  "forks": 691,
+  "openIssues": 36,
   "pushedAt": "2026-10-23T17:14:54Z",
   "language": "Jupyter Notebook",
   "latestRelease": {
@@ -600,8 +600,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 510,
   "forks": 89,
-  "openIssues": 59,
-  "pushedAt": "2026-10-29T13:24:35Z",
+  "openIssues": 60,
+  "pushedAt": "2026-10-30T11:49:16Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -859,7 +859,7 @@
   "stars": 35,
   "forks": 8,
   "openIssues": 2,
-  "pushedAt": "2026-10-29T14:19:33Z",
+  "pushedAt": "2026-10-30T13:33:56Z",
   "language": "JavaScript",
   "latestRelease": {
    "tag": "v4.0.0",
@@ -923,7 +923,7 @@
   "label": "Multi-agent simulation framework",
   "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
   "url": "https://github.com/OpenBMB/AgentVerse",
-  "stars": 5161,
+  "stars": 5164,
   "forks": 521,
   "openIssues": 41,
   "pushedAt": "2024-09-09T05:47:44Z",
@@ -981,7 +981,7 @@
    },
    {
     "date": "2026-10-30",
-    "stars": 5161
+    "stars": 5164
    }
   ]
  }
