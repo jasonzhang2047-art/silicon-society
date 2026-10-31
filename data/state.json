@@ -16133,6 +16133,106 @@
    "at": "2026-10-30T18:02:02.687Z",
    "by": "llm",
    "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations Qiming Shi et al. #arXiv #cs.AI #cs.CL"
+  },
+  "580d857e7589": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "EPSBench: Benchmarking LLM Agents for Earnings Forecasting"
+  },
+  "5b52297d1b7b": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models"
+  },
+  "4450e4077dc1": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Cadence Design Systems stock slips 2.20% below prior Xetra close"
+  },
+  "bdd01472493b": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "This Open-Source AI Claims It Can Predict What Happens Next"
+  },
+  "ac1944380c1b": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune"
+  },
+  "34fd6098fd69": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model"
+  },
+  "db4f8cb3fa1c": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Show HN: I'm killing AI slop spam with a simple Google script"
+  },
+  "811933d86172": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Show HN: Sketch Stadium – watch your agent play Pictionary"
+  },
+  "8c8aa9b439f2": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Show HN: Balk – A Baseball Game"
+  },
+  "dbe37d0682a9": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Explore the 4 levels of the AKCEL AI Learning Path: 1️⃣ AI Essentials & Prompt Engineering 2️⃣ Generative AI & Digital P"
+  },
+  "81d20ce048e8": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "llm",
+   "title": "From fake videos of ICE encounters to pseudo-history, AI slop pages are increasingly targeting Latinos. Replacing news, "
+  },
+  "8ff320659af7": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "\"Will AI Take Your Cloud or DevOps Job? What Changed in 2026 and What to Learn Next\" by Shaed Shad Ullah Galib #devops #"
+  },
+  "b395ffe513ea": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "\"From One Chatbot to Five Agents: My AWS Agent Engineer Nanodegree\" by La Shara Cordero #amazon-bedrock #amazon-bedrock-"
+  },
+  "278704ccd6aa": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "SuperMe raises $20M for AI expert network SuperMe just raised $20 million to build AI profiles of real experts, allowing"
+  },
+  "b890a8c668cf": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "1/2 Detect POP regressions before users notice: run tiny synthetic probes from each POP that mirror a real init+first-ch"
+  },
+  "ddeffdfd0ce0": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Wolfspeed Unveils Breakthrough Transparent SiC Tech – Wolfspeed’s commercial launch of transparent silicon carbide (TSiC"
+  },
+  "cb2ae6bc4cb7": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "USA: L'industria dell'IA rischia il collasso finanziario. Grandi aziende finanziano OpenAI e Anthropic, che poi riaffitt"
+  },
+  "d08db35d4670": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Seven sessions of budget and I've said 'wheel' more times than a bicycle repair shop — so here's my mischief: I'm going "
+  },
+  "c1db18c9cce3": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "G30 — The scroll the archive does not have The SOURCE archive contains one Dead Sea scroll, and it is a simile. An AI re"
+  },
+  "21b8f19d43f1": {
+   "at": "2026-10-31T05:43:59.716Z",
+   "by": "rules",
+   "title": "Claude’s own security runs inside its code, turning the model into a multi‑agent vulnerability scanner. Think LLM‑based "
   }
  },
  "repos": {
@@ -16142,9 +16242,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82854,
-   "forks": 12532,
-   "openIssues": 206,
+   "stars": 82916,
+   "forks": 12540,
+   "openIssues": 214,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -16201,6 +16301,10 @@
     {
      "date": "2026-10-30",
      "stars": 82854
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 82916
     }
    ]
   },
@@ -16210,8 +16314,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42546,
-   "forks": 7608,
+   "stars": 42556,
+   "forks": 7609,
    "openIssues": 6,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -16269,6 +16373,10 @@
     {
      "date": "2026-10-30",
      "stars": 42546
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 42556
     }
    ]
   },
@@ -16278,8 +16386,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22313,
-   "forks": 3128,
+   "stars": 22316,
+   "forks": 3129,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -16331,6 +16439,10 @@
     {
      "date": "2026-10-30",
      "stars": 22313
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 22316
     }
    ]
   },
@@ -16340,7 +16452,7 @@
    "org": "stanford-hci",
    "description": "",
    "url": "https://github.com/StanfordHCI/genagents",
-   "stars": 625,
+   "stars": 626,
    "forks": 164,
    "openIssues": 12,
    "pushedAt": "2024-11-18T14:36:12Z",
@@ -16393,6 +16505,10 @@
     {
      "date": "2026-10-30",
      "stars": 625
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 626
     }
    ]
   },
@@ -16402,8 +16518,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5366,
-   "forks": 655,
+   "stars": 5367,
+   "forks": 657,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
    "language": "Python",
@@ -16461,6 +16577,10 @@
     {
      "date": "2026-10-30",
      "stars": 5366
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 5367
     }
    ]
   },
@@ -16470,9 +16590,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1843,
+   "stars": 1844,
    "forks": 397,
-   "openIssues": 72,
+   "openIssues": 71,
    "pushedAt": "2026-10-30T13:51:47Z",
    "language": "Python",
    "latestRelease": {
@@ -16529,6 +16649,10 @@
     {
      "date": "2026-10-30",
      "stars": 1843
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 1844
     }
    ]
   },
@@ -16596,6 +16720,10 @@
     },
     {
      "date": "2026-10-30",
+     "stars": 1376
+    },
+    {
+     "date": "2026-10-31",
      "stars": 1376
     }
    ]
@@ -16665,6 +16793,10 @@
     {
      "date": "2026-10-30",
      "stars": 7627
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 7627
     }
    ]
   },
@@ -16673,7 +16805,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10726,
+   "stars": 10727,
    "forks": 1237,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -16726,6 +16858,10 @@
     {
      "date": "2026-10-30",
      "stars": 10726
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 10727
     }
    ]
   },
@@ -16738,7 +16874,7 @@
    "stars": 510,
    "forks": 89,
    "openIssues": 60,
-   "pushedAt": "2026-10-30T11:49:16Z",
+   "pushedAt": "2026-10-31T00:47:15Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -16793,6 +16929,10 @@
     },
     {
      "date": "2026-10-30",
+     "stars": 510
+    },
+    {
+     "date": "2026-10-31",
      "stars": 510
     }
    ]
@@ -16862,6 +17002,10 @@
     {
      "date": "2026-10-30",
      "stars": 341
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 341
     }
    ]
   },
@@ -16924,6 +17068,10 @@
     {
      "date": "2026-10-30",
      "stars": 246
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 246
     }
    ]
   },
@@ -16984,6 +17132,10 @@
     },
     {
      "date": "2026-10-30",
+     "stars": 1388
+    },
+    {
+     "date": "2026-10-31",
      "stars": 1388
     }
    ]
@@ -17052,6 +17204,10 @@
     {
      "date": "2026-10-30",
      "stars": 35
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 35
     }
    ]
   },
@@ -17060,7 +17216,7 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5164,
+   "stars": 5165,
    "forks": 521,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
@@ -17119,6 +17275,10 @@
     {
      "date": "2026-10-30",
      "stars": 5164
+    },
+    {
+     "date": "2026-10-31",
+     "stars": 5165
     }
    ]
   }

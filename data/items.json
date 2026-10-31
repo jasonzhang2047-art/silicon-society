@@ -2056,7 +2056,7 @@
   },
   "metrics": {
    "upvotes": 15,
-   "comments": 1
+   "comments": 2
   },
   "aiSummary": "PersonaCUABench uses a persona agent playing 44 personas to rephrase 74 tasks for computer-use agents; task completion falls 36% on average across nine backbones."
  },
