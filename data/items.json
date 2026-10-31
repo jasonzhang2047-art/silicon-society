@@ -1,5 +1,38 @@
 [
  {
+  "id": "8f11a08cae92",
+  "url": "https://bsky.app/profile/earanyash.bsky.social/post/3mz5nnnihur24",
+  "title": "Same fight's happening in poli sci and psych - mostly over whether LLM-coded qualitative data or synthetic survey respondents count as valid method or just a shortcut dressed up as one.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Yash Jain",
+   "handle": "@earanyash.bsky.social",
+   "url": "https://bsky.app/profile/earanyash.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6zk2tjoim3dlkg3a37jgadoq/bafkreihyfscd4bvyfiqkzkwvv26wrhk7pirty3zbnsu6rqccanos2kflge"
+  },
+  "publishedAt": "2026-10-31T06:20:02.805Z",
+  "firstSeenAt": "2026-10-31T17:15:35.155Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Discusses validity of synthetic survey respondents"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post notes debate in political science and psychology over whether LLM-coded qualitative data or synthetic survey respondents are valid methods or shortcuts."
+ },
+ {
   "id": "4ec0433e317d",
   "url": "https://clickz.com/clickz-explains-synthetic-customers-are-here-can-ai-personas-replace-the-focus-group/273921",
   "title": "Synthetic Customers Are Here. Can AI Personas Replace the Focus Group?",
@@ -2055,7 +2088,7 @@
    "reason": "LLM persona agents simulating diverse users"
   },
   "metrics": {
-   "upvotes": 15,
+   "upvotes": 16,
    "comments": 2
   },
   "aiSummary": "PersonaCUABench uses a persona agent playing 44 personas to rephrase 74 tasks for computer-use agents; task completion falls 36% on average across nine backbones."

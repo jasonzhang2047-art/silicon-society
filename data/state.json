@@ -16233,6 +16233,101 @@
    "at": "2026-10-31T05:43:59.716Z",
    "by": "rules",
    "title": "Claude’s own security runs inside its code, turning the model into a multi‑agent vulnerability scanner. Think LLM‑based "
+  },
+  "0a430cb5f397": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "IDE and KIDP host AI and Future Mobility workshop for South Korean design students"
+  },
+  "00ece3795462": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "llm",
+   "title": "Beyond AI: Why businesses should start paying attention to digital twins"
+  },
+  "4a8c57163d5a": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants"
+  },
+  "e4af9d7914e3": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "SuperMe raises $20M to turn Silicon Valley experts into AI profiles you can chat with"
+  },
+  "aa75ce934c35": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools"
+  },
+  "5186cb33d33e": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "Show HN: Jointter – A daily word puzzle using dots and lines"
+  },
+  "e9b280f48df5": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "\"Building AI Agents with Amazon Bedrock: From Zero to Your First Intelligent Agent 🚀 \" by Ankit Kumar #amazon-bedrock #"
+  },
+  "86476059390a": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "🤖💻🧠 What is AI, really? From neural networks and Transformers to generative AI and agents, here is how the stack actu"
+  },
+  "82d74cb74ab6": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "As generative AI tools proliferate, criminal syndicates leverage autonomous agents to automate spear-phishing, deepfakes"
+  },
+  "721cbdb32987": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "AI agents are turbocharging cybercrime, making complex attacks cheaper and easier for bad actors. | AI Agents in Cybercr"
+  },
+  "8373b3358199": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "They fled fast: Alphabet closed at $283.82 on Oct 29, down 12.6% from $324.89, then $279.84 on Oct 30. Calls have moved "
+  },
+  "98a6bfa16859": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "\"Getting Started with Generative AI and AI Agents on AWS\" by Kanika Sri #ai #generative-ai #deep-learning"
+  },
+  "12fb6b2bb0ba": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "Mastering Enterprise AI Agents & Workflow Automation: The 90-Day Blueprint + Video Introduction: Modern organizations fa"
+  },
+  "a97920dd1da0": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "And that is how the AI Bubble will pop: Unlike how Perception AI managed to thrive as it matured thanks to its more seam"
+  },
+  "609523044916": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "The synthetic dragon, Wire, was eager to try an experimental dildo that grows its users. It seems the experiment was tot"
+  },
+  "bc60ec30eccc": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "Wolfspeed Commercializes Transparent Silicon Carbide Substrates for Quantum Computing and Integrated Photonics Read more"
+  },
+  "12ee294053d8": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "llm",
+   "title": "USA: L'industria dell'IA rischia un collasso finanziario simile a una schema Ponzi. Grandi aziende finanziano startup ch"
+  },
+  "c0cca116bfc2": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "rules",
+   "title": "La corsa delle AI verso AGI e poi ASI continua. Simile alla corsa alla bomba atomica, ma più rischiosa e più rapida perc"
+  },
+  "9cb63fd1223d": {
+   "at": "2026-10-31T17:15:35.155Z",
+   "by": "llm",
+   "title": "USA: L'industria dell'IA rischia un collasso finanziario simile a una bolla Ponzi. Grandi aziende finanziano startup che"
   }
  },
  "repos": {
@@ -16242,9 +16337,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 82916,
-   "forks": 12540,
-   "openIssues": 214,
+   "stars": 83028,
+   "forks": 12554,
+   "openIssues": 216,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -16304,7 +16399,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 82916
+     "stars": 83028
     }
    ]
   },
@@ -16314,8 +16409,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42556,
-   "forks": 7609,
+   "stars": 42558,
+   "forks": 7610,
    "openIssues": 6,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -16376,7 +16471,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 42556
+     "stars": 42558
     }
    ]
   },
@@ -16386,8 +16481,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22316,
-   "forks": 3129,
+   "stars": 22318,
+   "forks": 3128,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -16442,7 +16537,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 22316
+     "stars": 22318
     }
    ]
   },
@@ -16518,8 +16613,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5367,
-   "forks": 657,
+   "stars": 5368,
+   "forks": 658,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
    "language": "Python",
@@ -16580,7 +16675,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 5367
+     "stars": 5368
     }
    ]
   },
@@ -16590,7 +16685,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1844,
+   "stars": 1847,
    "forks": 397,
    "openIssues": 71,
    "pushedAt": "2026-10-30T13:51:47Z",
@@ -16652,7 +16747,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 1844
+     "stars": 1847
     }
    ]
   },
@@ -16662,7 +16757,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1376,
+   "stars": 1377,
    "forks": 220,
    "openIssues": 32,
    "pushedAt": "2026-10-30T16:04:16Z",
@@ -16724,7 +16819,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 1376
+     "stars": 1377
     }
    ]
   },
@@ -16734,7 +16829,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7627,
+   "stars": 7629,
    "forks": 691,
    "openIssues": 36,
    "pushedAt": "2026-10-23T17:14:54Z",
@@ -16796,7 +16891,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 7627
+     "stars": 7629
     }
    ]
   },
@@ -16805,7 +16900,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10727,
+   "stars": 10728,
    "forks": 1237,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -16861,7 +16956,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 10727
+     "stars": 10728
     }
    ]
   },
@@ -16873,8 +16968,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 510,
    "forks": 89,
-   "openIssues": 60,
-   "pushedAt": "2026-10-31T00:47:15Z",
+   "openIssues": 62,
+   "pushedAt": "2026-10-31T16:21:01Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -17148,7 +17243,7 @@
    "stars": 35,
    "forks": 8,
    "openIssues": 2,
-   "pushedAt": "2026-10-30T13:33:56Z",
+   "pushedAt": "2026-10-31T08:43:56Z",
    "language": "JavaScript",
    "latestRelease": {
     "tag": "v4.0.0",
@@ -17216,7 +17311,7 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5165,
+   "stars": 5167,
    "forks": 521,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
@@ -17278,7 +17373,7 @@
     },
     {
      "date": "2026-10-31",
-     "stars": 5165
+     "stars": 5167
     }
    ]
   }
