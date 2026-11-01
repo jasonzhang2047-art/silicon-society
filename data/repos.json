@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 83125,
-  "forks": 12567,
-  "openIssues": 216,
+  "stars": 83221,
+  "forks": 12584,
+  "openIssues": 219,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -71,7 +71,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 83125
+    "stars": 83221
    }
   ]
  },
@@ -81,7 +81,7 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42559,
+  "stars": 42562,
   "forks": 7615,
   "openIssues": 6,
   "pushedAt": "2026-10-16T03:33:52Z",
@@ -147,7 +147,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 42559
+    "stars": 42562
    }
   ]
  },
@@ -157,7 +157,7 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22319,
+  "stars": 22322,
   "forks": 3129,
   "openIssues": 146,
   "pushedAt": "2024-08-05T21:38:56Z",
@@ -217,7 +217,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 22319
+    "stars": 22322
    }
   ]
  },
@@ -227,7 +227,7 @@
   "org": "stanford-hci",
   "description": "",
   "url": "https://github.com/StanfordHCI/genagents",
-  "stars": 626,
+  "stars": 627,
   "forks": 164,
   "openIssues": 12,
   "pushedAt": "2024-11-18T14:36:12Z",
@@ -287,7 +287,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 626
+    "stars": 627
    }
   ]
  },
@@ -297,8 +297,8 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5371,
-  "forks": 658,
+  "stars": 5372,
+  "forks": 660,
   "openIssues": 59,
   "pushedAt": "2026-10-27T10:08:27Z",
   "language": "Python",
@@ -363,7 +363,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 5371
+    "stars": 5372
    }
   ]
  },
@@ -375,8 +375,8 @@
   "url": "https://github.com/google-deepmind/concordia",
   "stars": 1848,
   "forks": 397,
-  "openIssues": 71,
-  "pushedAt": "2026-10-30T13:51:47Z",
+  "openIssues": 72,
+  "pushedAt": "2026-11-01T09:07:14Z",
   "language": "Python",
   "latestRelease": {
    "tag": "v2.4.0",
@@ -449,8 +449,8 @@
   "org": "tsinghua-fib",
   "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-  "stars": 1377,
-  "forks": 220,
+  "stars": 1379,
+  "forks": 221,
   "openIssues": 32,
   "pushedAt": "2026-10-30T16:04:16Z",
   "language": "Python",
@@ -515,7 +515,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 1377
+    "stars": 1379
    }
   ]
  },
@@ -525,8 +525,8 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7629,
-  "forks": 691,
+  "stars": 7630,
+  "forks": 690,
   "openIssues": 36,
   "pushedAt": "2026-10-23T17:14:54Z",
   "language": "Jupyter Notebook",
@@ -591,7 +591,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 7629
+    "stars": 7630
    }
   ]
  },
@@ -600,8 +600,8 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10729,
-  "forks": 1237,
+  "stars": 10732,
+  "forks": 1238,
   "openIssues": 76,
   "pushedAt": "2026-08-26T00:34:11Z",
   "language": "TypeScript",
@@ -660,7 +660,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 10729
+    "stars": 10732
    }
   ]
  },
@@ -672,8 +672,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 511,
   "forks": 89,
-  "openIssues": 65,
-  "pushedAt": "2026-11-01T01:41:11Z",
+  "openIssues": 68,
+  "pushedAt": "2026-11-01T15:38:05Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -891,7 +891,7 @@
   "label": "Civilization-scale agent simulation (Minecraft)",
   "description": "",
   "url": "https://github.com/altera-al/project-sid",
-  "stars": 1388,
+  "stars": 1389,
   "forks": 55,
   "openIssues": 5,
   "pushedAt": "2024-11-04T16:24:29Z",
@@ -951,7 +951,7 @@
    },
    {
     "date": "2026-11-01",
-    "stars": 1388
+    "stars": 1389
    }
   ]
  },

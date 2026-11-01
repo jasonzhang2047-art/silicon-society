@@ -16403,6 +16403,106 @@
    "at": "2026-11-01T06:08:22.527Z",
    "by": "rules",
    "title": "LLM-based hybrid models are basically static (they are still \"static semiotic fields\"). \"Agent harnesses\" are a very cru"
+  },
+  "164248871a80": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Taiwanese professor wins award in Paris for wastewater-to-energy research"
+  },
+  "22358446bbb0": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "The Gen Z AI workers reveal what their jobs actually involve"
+  },
+  "168712d3b2c8": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune"
+  },
+  "335edc51312b": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Salesforce to Buy Defense Tech Startup Rune in $375 Million Cash-and-Stock Deal"
+  },
+  "157c493aca6e": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Daily Research News Online no. 40540 - Semantic Analytics Specialist Querio Launches with $5m"
+  },
+  "62719a127a33": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Salesforce (NYSE:CRM) Stock Forecast & Analyst Predictions"
+  },
+  "5e28a4dcbc06": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Problems in Mathematics with Hints and Solutions (1982)"
+  },
+  "d609d06fb06a": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Discover the best AI tools for travel agents and learn how artificial intelligence is transforming the travel industry. "
+  },
+  "61f627c04078": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "\"From Chatbots to AI Agents: Building Autonomous AI Applications on AWS\" by SHANMUGAPRIYAN D #aws-api #generative-ai #ai"
+  },
+  "1208af932d9c": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "\"Profile Sprawl: Solving a Problem You Didn't Know You Had\" by xbill9 #ai-agents #generative-ai #developer-tools #open-s"
+  },
+  "606282ade2e2": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "\"Generative AI: Transforming the Future of Technology\" by Rithika #artificial-intelligence #machine-learning #amazon-sag"
+  },
+  "f35a598ea781": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "\"The Agentic AI Revolution: When AI Stops Answering and Starts Acting\" by Rohith Kumar Jogi #artificial-intelligence #ge"
+  },
+  "a5c8152d3918": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "\"Building a Multilingual Healthcare AI on AWS: Bridging the Healthcare Information Gap\" by Prince Kumar #agents #ai-for-"
+  },
+  "5ecc650a75fe": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Who answers for the machine? Closing the accountability gap in agentic workflows www.unesco.org/ethics-ai/en..."
+  },
+  "c2b3c1564a4e": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "The 2026 midterms will be uniquely difficult for polls. Source: Paw Research www.pewresearch.org/short-reads/... (Will t"
+  },
+  "3bfc84237c62": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Synthetic speech is getting remarkably human. But is it ready for audio description? Accessibility requires clarity, nua"
+  },
+  "b9b76ec9d004": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "Anthropic used Claude to generate training data about beekeeping, pro wrestling and mitochondria. Nothing in it looks ha"
+  },
+  "b012da4e50f6": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "💫 Представлен опенсорсный API Pythia для агентов, обеспечивающий глобальный мониторинг и прогнозирование событий в любо"
+  },
+  "b0de6f7f6f81": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "llm",
+   "title": "USA: Ed Zitron avverte che l'industria dell'IA rischia un collasso simile a una bolla Ponzi. Grandi aziende finanziano s"
+  },
+  "ffc25e7c7f44": {
+   "at": "2026-11-01T17:56:18.785Z",
+   "by": "rules",
+   "title": "La soffiata di Washington ai russi. Sul social foto con equipaggiamento tattico e un oggetto simile a un'arma automatica"
   }
  },
  "repos": {
@@ -16412,9 +16512,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 83125,
-   "forks": 12567,
-   "openIssues": 216,
+   "stars": 83221,
+   "forks": 12584,
+   "openIssues": 219,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -16478,7 +16578,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 83125
+     "stars": 83221
     }
    ]
   },
@@ -16488,7 +16588,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42559,
+   "stars": 42562,
    "forks": 7615,
    "openIssues": 6,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -16554,7 +16654,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 42559
+     "stars": 42562
     }
    ]
   },
@@ -16564,7 +16664,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22319,
+   "stars": 22322,
    "forks": 3129,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -16624,7 +16724,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 22319
+     "stars": 22322
     }
    ]
   },
@@ -16634,7 +16734,7 @@
    "org": "stanford-hci",
    "description": "",
    "url": "https://github.com/StanfordHCI/genagents",
-   "stars": 626,
+   "stars": 627,
    "forks": 164,
    "openIssues": 12,
    "pushedAt": "2024-11-18T14:36:12Z",
@@ -16694,7 +16794,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 626
+     "stars": 627
     }
    ]
   },
@@ -16704,8 +16804,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5371,
-   "forks": 658,
+   "stars": 5372,
+   "forks": 660,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
    "language": "Python",
@@ -16770,7 +16870,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 5371
+     "stars": 5372
     }
    ]
   },
@@ -16782,8 +16882,8 @@
    "url": "https://github.com/google-deepmind/concordia",
    "stars": 1848,
    "forks": 397,
-   "openIssues": 71,
-   "pushedAt": "2026-10-30T13:51:47Z",
+   "openIssues": 72,
+   "pushedAt": "2026-11-01T09:07:14Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v2.4.0",
@@ -16856,8 +16956,8 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1377,
-   "forks": 220,
+   "stars": 1379,
+   "forks": 221,
    "openIssues": 32,
    "pushedAt": "2026-10-30T16:04:16Z",
    "language": "Python",
@@ -16922,7 +17022,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 1377
+     "stars": 1379
     }
    ]
   },
@@ -16932,8 +17032,8 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7629,
-   "forks": 691,
+   "stars": 7630,
+   "forks": 690,
    "openIssues": 36,
    "pushedAt": "2026-10-23T17:14:54Z",
    "language": "Jupyter Notebook",
@@ -16998,7 +17098,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 7629
+     "stars": 7630
     }
    ]
   },
@@ -17007,8 +17107,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10729,
-   "forks": 1237,
+   "stars": 10732,
+   "forks": 1238,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
    "language": "TypeScript",
@@ -17067,7 +17167,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 10729
+     "stars": 10732
     }
    ]
   },
@@ -17079,8 +17179,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 511,
    "forks": 89,
-   "openIssues": 65,
-   "pushedAt": "2026-11-01T01:41:11Z",
+   "openIssues": 68,
+   "pushedAt": "2026-11-01T15:38:05Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -17298,7 +17398,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1388,
+   "stars": 1389,
    "forks": 55,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -17358,7 +17458,7 @@
     },
     {
      "date": "2026-11-01",
-     "stars": 1388
+     "stars": 1389
     }
    ]
   },
