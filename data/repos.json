@@ -5,8 +5,8 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 83028,
-  "forks": 12554,
+  "stars": 83125,
+  "forks": 12567,
   "openIssues": 216,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
@@ -68,6 +68,10 @@
    {
     "date": "2026-10-31",
     "stars": 83028
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 83125
    }
   ]
  },
@@ -77,8 +81,8 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42558,
-  "forks": 7610,
+  "stars": 42559,
+  "forks": 7615,
   "openIssues": 6,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -140,6 +144,10 @@
    {
     "date": "2026-10-31",
     "stars": 42558
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 42559
    }
   ]
  },
@@ -149,8 +157,8 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22318,
-  "forks": 3128,
+  "stars": 22319,
+  "forks": 3129,
   "openIssues": 146,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
@@ -206,6 +214,10 @@
    {
     "date": "2026-10-31",
     "stars": 22318
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 22319
    }
   ]
  },
@@ -272,6 +284,10 @@
    {
     "date": "2026-10-31",
     "stars": 626
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 626
    }
   ]
  },
@@ -281,7 +297,7 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5368,
+  "stars": 5371,
   "forks": 658,
   "openIssues": 59,
   "pushedAt": "2026-10-27T10:08:27Z",
@@ -344,6 +360,10 @@
    {
     "date": "2026-10-31",
     "stars": 5368
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 5371
    }
   ]
  },
@@ -353,7 +373,7 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1847,
+  "stars": 1848,
   "forks": 397,
   "openIssues": 71,
   "pushedAt": "2026-10-30T13:51:47Z",
@@ -416,6 +436,10 @@
    {
     "date": "2026-10-31",
     "stars": 1847
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 1848
    }
   ]
  },
@@ -487,6 +511,10 @@
    },
    {
     "date": "2026-10-31",
+    "stars": 1377
+   },
+   {
+    "date": "2026-11-01",
     "stars": 1377
    }
   ]
@@ -560,6 +588,10 @@
    {
     "date": "2026-10-31",
     "stars": 7629
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 7629
    }
   ]
  },
@@ -568,7 +600,7 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10728,
+  "stars": 10729,
   "forks": 1237,
   "openIssues": 76,
   "pushedAt": "2026-08-26T00:34:11Z",
@@ -625,6 +657,10 @@
    {
     "date": "2026-10-31",
     "stars": 10728
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 10729
    }
   ]
  },
@@ -634,10 +670,10 @@
   "org": "expected-parrot",
   "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
   "url": "https://github.com/expectedparrot/edsl",
-  "stars": 510,
+  "stars": 511,
   "forks": 89,
-  "openIssues": 62,
-  "pushedAt": "2026-10-31T16:21:01Z",
+  "openIssues": 65,
+  "pushedAt": "2026-11-01T01:41:11Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -697,6 +733,10 @@
    {
     "date": "2026-10-31",
     "stars": 510
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 511
    }
   ]
  },
@@ -769,6 +809,10 @@
    {
     "date": "2026-10-31",
     "stars": 341
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 341
    }
   ]
  },
@@ -835,6 +879,10 @@
    {
     "date": "2026-10-31",
     "stars": 246
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 246
    }
   ]
  },
@@ -845,7 +893,7 @@
   "url": "https://github.com/altera-al/project-sid",
   "stars": 1388,
   "forks": 55,
-  "openIssues": 4,
+  "openIssues": 5,
   "pushedAt": "2024-11-04T16:24:29Z",
   "language": null,
   "history": [
@@ -900,6 +948,10 @@
    {
     "date": "2026-10-31",
     "stars": 1388
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 1388
    }
   ]
  },
@@ -908,7 +960,7 @@
   "label": "Social-media digital twin",
   "description": "An open-source, AI-driven Social Media Digital Twin powered by LLMs for Computational Social Science simulations, network analysis, and human-agent interaction.",
   "url": "https://github.com/YSocialTwin/YSocial",
-  "stars": 35,
+  "stars": 36,
   "forks": 8,
   "openIssues": 2,
   "pushedAt": "2026-10-31T08:43:56Z",
@@ -971,6 +1023,10 @@
    {
     "date": "2026-10-31",
     "stars": 35
+   },
+   {
+    "date": "2026-11-01",
+    "stars": 36
    }
   ]
  },
@@ -1041,6 +1097,10 @@
    },
    {
     "date": "2026-10-31",
+    "stars": 5167
+   },
+   {
+    "date": "2026-11-01",
     "stars": 5167
    }
   ]

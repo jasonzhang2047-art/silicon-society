@@ -152,7 +152,7 @@
    "reason": "Commentary and bibliography on silicon sampling"
   },
   "metrics": {
-   "likes": 22,
+   "likes": 23,
    "reposts": 4,
    "replies": 4
   },
@@ -2088,7 +2088,7 @@
    "reason": "LLM persona agents simulating diverse users"
   },
   "metrics": {
-   "upvotes": 16,
+   "upvotes": 17,
    "comments": 2
   },
   "aiSummary": "PersonaCUABench uses a persona agent playing 44 personas to rephrase 74 tasks for computer-use agents; task completion falls 36% on average across nine backbones."

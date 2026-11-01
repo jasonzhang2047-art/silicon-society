@@ -16328,6 +16328,81 @@
    "at": "2026-10-31T17:15:35.155Z",
    "by": "llm",
    "title": "USA: L'industria dell'IA rischia un collasso finanziario simile a una bolla Ponzi. Grandi aziende finanziano startup che"
+  },
+  "a9f39e0ec3f8": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "llm",
+   "title": "The Future of Smart Homes: AI, Automation, and Digital Twins"
+  },
+  "41e587e1098f": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "Huawei and NISCO put AI to work in the steelworks"
+  },
+  "5fcf46957576": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "From Expertise to Intelligence: NISCO Deploys World's First Swarm-Intelligence Steel Model at Scale"
+  },
+  "65e2d677fd80": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "Salesforce plans new Washington center for government ties"
+  },
+  "29e195ed570a": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "Show HN: Muse Zouroboros, gives Muse a software factory"
+  },
+  "c1d7bbe61d18": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "microsoft/TokenEconomizer — Experience-Driven Black-Box Cost Control for Coding Agents"
+  },
+  "bbbbb3f7b343": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "VecSzn/PolyStrata — Run large AI models on your own PC: Qwen3.8-Flash-Next on Strata's engine, and GLM 5.3 Flash, DeepSe"
+  },
+  "82f98a0b31c2": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "jackwener/DSH-Android — 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 S"
+  },
+  "578b6070f7e1": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "miuuyy/Octopus-SI-OS — A self-evolving agentic OS. A new architecture for agent execution, built on operating-system pri"
+  },
+  "30dc9bc0cd86": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "\"Day 34: Amazon Bedrock – Building Generative AI Applications with Foundation Models\" by Lijo Felix #aws-academy #genera"
+  },
+  "4cdfc901b9d7": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "Rule-based resource allocation is hitting its physical limits. In Ep. 29, Prof. Aryan Kaushik & Prof. Jun Zhang discuss "
+  },
+  "6e0326e34954": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "WebAnything: From the Wild Web to Scalable Agent Environments Tianci Xie et al. #arXiv #cs.AI"
+  },
+  "74ac2f9852d7": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "llm",
+   "title": "USA: L'industria dell'intelligenza artificiale rischia un collasso simile a una bolla Ponzi. Grandi aziende finanziano s"
+  },
+  "e1a60fef6dcc": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "llm",
+   "title": "USA: L'industria dell'IA rischia di scivolare in una bolla finanziaria simile a quella del 2008. Grandi aziende finanzia"
+  },
+  "18286b10b3a7": {
+   "at": "2026-11-01T06:08:22.527Z",
+   "by": "rules",
+   "title": "LLM-based hybrid models are basically static (they are still \"static semiotic fields\"). \"Agent harnesses\" are a very cru"
   }
  },
  "repos": {
@@ -16337,8 +16412,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 83028,
-   "forks": 12554,
+   "stars": 83125,
+   "forks": 12567,
    "openIssues": 216,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -16400,6 +16475,10 @@
     {
      "date": "2026-10-31",
      "stars": 83028
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 83125
     }
    ]
   },
@@ -16409,8 +16488,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42558,
-   "forks": 7610,
+   "stars": 42559,
+   "forks": 7615,
    "openIssues": 6,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -16472,6 +16551,10 @@
     {
      "date": "2026-10-31",
      "stars": 42558
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 42559
     }
    ]
   },
@@ -16481,8 +16564,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22318,
-   "forks": 3128,
+   "stars": 22319,
+   "forks": 3129,
    "openIssues": 146,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -16538,6 +16621,10 @@
     {
      "date": "2026-10-31",
      "stars": 22318
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 22319
     }
    ]
   },
@@ -16604,6 +16691,10 @@
     {
      "date": "2026-10-31",
      "stars": 626
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 626
     }
    ]
   },
@@ -16613,7 +16704,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5368,
+   "stars": 5371,
    "forks": 658,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
@@ -16676,6 +16767,10 @@
     {
      "date": "2026-10-31",
      "stars": 5368
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 5371
     }
    ]
   },
@@ -16685,7 +16780,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1847,
+   "stars": 1848,
    "forks": 397,
    "openIssues": 71,
    "pushedAt": "2026-10-30T13:51:47Z",
@@ -16748,6 +16843,10 @@
     {
      "date": "2026-10-31",
      "stars": 1847
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 1848
     }
    ]
   },
@@ -16819,6 +16918,10 @@
     },
     {
      "date": "2026-10-31",
+     "stars": 1377
+    },
+    {
+     "date": "2026-11-01",
      "stars": 1377
     }
    ]
@@ -16892,6 +16995,10 @@
     {
      "date": "2026-10-31",
      "stars": 7629
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 7629
     }
    ]
   },
@@ -16900,7 +17007,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10728,
+   "stars": 10729,
    "forks": 1237,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -16957,6 +17064,10 @@
     {
      "date": "2026-10-31",
      "stars": 10728
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 10729
     }
    ]
   },
@@ -16966,10 +17077,10 @@
    "org": "expected-parrot",
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "url": "https://github.com/expectedparrot/edsl",
-   "stars": 510,
+   "stars": 511,
    "forks": 89,
-   "openIssues": 62,
-   "pushedAt": "2026-10-31T16:21:01Z",
+   "openIssues": 65,
+   "pushedAt": "2026-11-01T01:41:11Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -17029,6 +17140,10 @@
     {
      "date": "2026-10-31",
      "stars": 510
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 511
     }
    ]
   },
@@ -17101,6 +17216,10 @@
     {
      "date": "2026-10-31",
      "stars": 341
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 341
     }
    ]
   },
@@ -17167,6 +17286,10 @@
     {
      "date": "2026-10-31",
      "stars": 246
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 246
     }
    ]
   },
@@ -17177,7 +17300,7 @@
    "url": "https://github.com/altera-al/project-sid",
    "stars": 1388,
    "forks": 55,
-   "openIssues": 4,
+   "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
    "language": null,
    "history": [
@@ -17232,6 +17355,10 @@
     {
      "date": "2026-10-31",
      "stars": 1388
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 1388
     }
    ]
   },
@@ -17240,7 +17367,7 @@
    "label": "Social-media digital twin",
    "description": "An open-source, AI-driven Social Media Digital Twin powered by LLMs for Computational Social Science simulations, network analysis, and human-agent interaction.",
    "url": "https://github.com/YSocialTwin/YSocial",
-   "stars": 35,
+   "stars": 36,
    "forks": 8,
    "openIssues": 2,
    "pushedAt": "2026-10-31T08:43:56Z",
@@ -17303,6 +17430,10 @@
     {
      "date": "2026-10-31",
      "stars": 35
+    },
+    {
+     "date": "2026-11-01",
+     "stars": 36
     }
    ]
   },
@@ -17373,6 +17504,10 @@
     },
     {
      "date": "2026-10-31",
+     "stars": 5167
+    },
+    {
+     "date": "2026-11-01",
      "stars": 5167
     }
    ]
