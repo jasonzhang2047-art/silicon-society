@@ -16503,6 +16503,161 @@
    "at": "2026-11-01T17:56:18.785Z",
    "by": "rules",
    "title": "La soffiata di Washington ai russi. Sul social foto con equipaggiamento tattico e un oggetto simile a un'arma automatica"
+  },
+  "ab877e63f783": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents"
+  },
+  "c6349e039097": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "llm",
+   "title": "Non-contact temperature sensing and optical scatter in cryogenically-cooled crystalline silicon"
+  },
+  "b3d8d53c6e57": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop"
+  },
+  "a447b24c8ad8": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?"
+  },
+  "ef97925afa6f": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems"
+  },
+  "cbd09e3a41c2": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Wizard: Manipulate Any World in Real Time via Agentic Control"
+  },
+  "b268bda89aa2": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model"
+  },
+  "594e6e31c412": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation"
+  },
+  "2fdd1f81bbaf": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents"
+  },
+  "e88cbf393894": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use"
+  },
+  "a523346ded64": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models"
+  },
+  "ae99c083dac0": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Probing Spatial State Representations in Visual Foundation Models"
+  },
+  "c17a67a2aea9": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory"
+  },
+  "98f3b62f2458": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search"
+  },
+  "f35e88fdd05b": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning"
+  },
+  "962e9a8f8914": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents"
+  },
+  "2d8fd67a86fa": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "CausalWAM: Learning the Causes of Actions in World Action Models"
+  },
+  "8d51c2d810ae": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Jeil Pharmaceutical overhauls drug development organization, brings in global experts"
+  },
+  "71277b85a12b": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Jeil Pharmaceutical Reorganizes Central Research Institute... Appoints Key Figure Behind 'Enblo' Development"
+  },
+  "33609ae59e23": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Salesforce acquires defense-tech firm Rune for $375 million"
+  },
+  "633fa968ff1c": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Show HN: AWKLog – a minimalist Datalog interpreter in Awk"
+  },
+  "0ae353c12ad2": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Show HN: A faster Python 3 interpreter implemented in C11, one week"
+  },
+  "b6fd0b882821": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "modelflare-ai/AnyModelBot — 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own A"
+  },
+  "fd6181e478c1": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "eliasbiondo/antirion — 🕷️ The fastest open-source AI Gateway and LLM Gateway — one binary with built-in console to rout"
+  },
+  "56e6e7bdd2c9": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "Faut-il connaître Python pour avoir le droit de choisir le bon piton? Depuis l’arrivée de l’IA générative, les experts p"
+  },
+  "2071d2ef8401": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "llm",
+   "title": "(...) traditional disclosure mandates do not by themselves protect consumers when an AI agent intermediates choice. (..."
+  },
+  "ea149f517990": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search tech_blogs_h"
+  },
+  "083583c3e8c3": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "[29/30] 191 Upvotes, 6 Comments, 2 Posts, arXiv:2610.14709 🆕Vela: User Behavior as Supervision Sparks LLM Intelligence "
+  },
+  "6a959443bb5b": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "llm",
+   "title": "USA: Il settore dell'IA rischia il collasso per una struttura finanziaria simile a una bolla. Grandi aziende finanziano "
+  },
+  "a8d9317c6937": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "llm",
+   "title": "Stati Uniti: L'industria dell'IA rischia un collasso finanziario simile a una bolla Ponzi. Grandi aziende finanziano sta"
+  },
+  "b0bcee9d03eb": {
+   "at": "2026-11-02T06:07:08.742Z",
+   "by": "rules",
+   "title": "I finanziamenti di privati ai partiti non dovrebbero esistere. In pratica sono corruzione mascherata da lobbying. Colleg"
   }
  },
  "repos": {
@@ -16512,9 +16667,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 83221,
-   "forks": 12584,
-   "openIssues": 219,
+   "stars": 83300,
+   "forks": 12599,
+   "openIssues": 220,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -16579,6 +16734,10 @@
     {
      "date": "2026-11-01",
      "stars": 83221
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 83300
     }
    ]
   },
@@ -16588,9 +16747,9 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42562,
-   "forks": 7615,
-   "openIssues": 6,
+   "stars": 42565,
+   "forks": 7618,
+   "openIssues": 7,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
    "latestRelease": {
@@ -16655,6 +16814,10 @@
     {
      "date": "2026-11-01",
      "stars": 42562
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 42565
     }
    ]
   },
@@ -16664,9 +16827,9 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22322,
+   "stars": 22324,
    "forks": 3129,
-   "openIssues": 146,
+   "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
    "history": [
@@ -16725,6 +16888,10 @@
     {
      "date": "2026-11-01",
      "stars": 22322
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 22324
     }
    ]
   },
@@ -16795,6 +16962,10 @@
     {
      "date": "2026-11-01",
      "stars": 627
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 627
     }
    ]
   },
@@ -16804,7 +16975,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5372,
+   "stars": 5373,
    "forks": 660,
    "openIssues": 59,
    "pushedAt": "2026-10-27T10:08:27Z",
@@ -16871,6 +17042,10 @@
     {
      "date": "2026-11-01",
      "stars": 5372
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 5373
     }
    ]
   },
@@ -16880,8 +17055,8 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1848,
-   "forks": 397,
+   "stars": 1849,
+   "forks": 398,
    "openIssues": 72,
    "pushedAt": "2026-11-01T09:07:14Z",
    "language": "Python",
@@ -16947,6 +17122,10 @@
     {
      "date": "2026-11-01",
      "stars": 1848
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 1849
     }
    ]
   },
@@ -17023,6 +17202,10 @@
     {
      "date": "2026-11-01",
      "stars": 1379
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 1379
     }
    ]
   },
@@ -17032,7 +17215,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7630,
+   "stars": 7631,
    "forks": 690,
    "openIssues": 36,
    "pushedAt": "2026-10-23T17:14:54Z",
@@ -17099,6 +17282,10 @@
     {
      "date": "2026-11-01",
      "stars": 7630
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 7631
     }
    ]
   },
@@ -17107,8 +17294,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10732,
-   "forks": 1238,
+   "stars": 10737,
+   "forks": 1239,
    "openIssues": 76,
    "pushedAt": "2026-08-26T00:34:11Z",
    "language": "TypeScript",
@@ -17168,6 +17355,10 @@
     {
      "date": "2026-11-01",
      "stars": 10732
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 10737
     }
    ]
   },
@@ -17243,6 +17434,10 @@
     },
     {
      "date": "2026-11-01",
+     "stars": 511
+    },
+    {
+     "date": "2026-11-02",
      "stars": 511
     }
    ]
@@ -17320,6 +17515,10 @@
     {
      "date": "2026-11-01",
      "stars": 341
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 341
     }
    ]
   },
@@ -17390,6 +17589,10 @@
     {
      "date": "2026-11-01",
      "stars": 246
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 246
     }
    ]
   },
@@ -17398,7 +17601,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1389,
+   "stars": 1390,
    "forks": 55,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -17459,6 +17662,10 @@
     {
      "date": "2026-11-01",
      "stars": 1389
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 1390
     }
    ]
   },
@@ -17534,6 +17741,10 @@
     {
      "date": "2026-11-01",
      "stars": 36
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 36
     }
    ]
   },
@@ -17542,7 +17753,7 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5167,
+   "stars": 5168,
    "forks": 521,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
@@ -17609,6 +17820,10 @@
     {
      "date": "2026-11-01",
      "stars": 5167
+    },
+    {
+     "date": "2026-11-02",
+     "stars": 5168
     }
    ]
   }
