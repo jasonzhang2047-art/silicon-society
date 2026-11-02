@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 83300,
-  "forks": 12599,
-  "openIssues": 220,
+  "stars": 83534,
+  "forks": 12639,
+  "openIssues": 223,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -75,7 +75,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 83300
+    "stars": 83534
    }
   ]
  },
@@ -85,8 +85,8 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42565,
-  "forks": 7618,
+  "stars": 42572,
+  "forks": 7617,
   "openIssues": 7,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -155,7 +155,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 42565
+    "stars": 42572
    }
   ]
  },
@@ -165,8 +165,8 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22324,
-  "forks": 3129,
+  "stars": 22329,
+  "forks": 3131,
   "openIssues": 147,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
@@ -229,7 +229,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 22324
+    "stars": 22329
    }
   ]
  },
@@ -315,14 +315,14 @@
   "url": "https://github.com/camel-ai/oasis",
   "stars": 5373,
   "forks": 660,
-  "openIssues": 59,
-  "pushedAt": "2026-10-27T10:08:27Z",
+  "openIssues": 58,
+  "pushedAt": "2026-11-02T19:18:48Z",
   "language": "Python",
   "latestRelease": {
-   "tag": "v0.2.5",
-   "name": "v0.2.5",
-   "url": "https://github.com/camel-ai/oasis/releases/tag/v0.2.5",
-   "publishedAt": "2025-12-04T12:07:18Z"
+   "tag": "v0.2.6",
+   "name": "v0.2.6",
+   "url": "https://github.com/camel-ai/oasis/releases/tag/v0.2.6",
+   "publishedAt": "2026-11-02T19:18:48Z"
   },
   "history": [
    {
@@ -393,10 +393,10 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1849,
+  "stars": 1853,
   "forks": 398,
-  "openIssues": 72,
-  "pushedAt": "2026-11-01T09:07:14Z",
+  "openIssues": 64,
+  "pushedAt": "2026-11-02T18:32:44Z",
   "language": "Python",
   "latestRelease": {
    "tag": "v2.4.0",
@@ -463,7 +463,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 1849
+    "stars": 1853
    }
   ]
  },
@@ -473,16 +473,16 @@
   "org": "tsinghua-fib",
   "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-  "stars": 1379,
+  "stars": 1382,
   "forks": 221,
-  "openIssues": 32,
-  "pushedAt": "2026-10-30T16:04:16Z",
+  "openIssues": 29,
+  "pushedAt": "2026-11-02T11:55:08Z",
   "language": "Python",
   "latestRelease": {
-   "tag": "agentsociety2-v2.9.3",
-   "name": "AgentSociety2 2.9.3",
-   "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.9.3",
-   "publishedAt": "2026-09-24T07:45:26Z"
+   "tag": "agentsociety2-v2.10.1",
+   "name": "AgentSociety2 2.10.1",
+   "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.10.1",
+   "publishedAt": "2026-11-02T11:55:49Z"
   },
   "history": [
    {
@@ -543,7 +543,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 1379
+    "stars": 1382
    }
   ]
  },
@@ -553,8 +553,8 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7631,
-  "forks": 690,
+  "stars": 7632,
+  "forks": 691,
   "openIssues": 36,
   "pushedAt": "2026-10-23T17:14:54Z",
   "language": "Jupyter Notebook",
@@ -623,7 +623,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 7631
+    "stars": 7632
    }
   ]
  },
@@ -632,7 +632,7 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10737,
+  "stars": 10739,
   "forks": 1239,
   "openIssues": 76,
   "pushedAt": "2026-08-26T00:34:11Z",
@@ -696,7 +696,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 10737
+    "stars": 10739
    }
   ]
  },
@@ -708,8 +708,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 511,
   "forks": 89,
-  "openIssues": 68,
-  "pushedAt": "2026-11-01T15:38:05Z",
+  "openIssues": 67,
+  "pushedAt": "2026-11-02T21:04:08Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -788,7 +788,7 @@
   "url": "https://github.com/sotopia-lab/sotopia",
   "stars": 341,
   "forks": 52,
-  "openIssues": 19,
+  "openIssues": 20,
   "pushedAt": "2026-06-05T17:23:42Z",
   "language": "Python",
   "latestRelease": {
@@ -939,7 +939,7 @@
   "label": "Civilization-scale agent simulation (Minecraft)",
   "description": "",
   "url": "https://github.com/altera-al/project-sid",
-  "stars": 1390,
+  "stars": 1391,
   "forks": 55,
   "openIssues": 5,
   "pushedAt": "2024-11-04T16:24:29Z",
@@ -1003,7 +1003,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 1390
+    "stars": 1391
    }
   ]
  },
@@ -1091,7 +1091,7 @@
   "label": "Multi-agent simulation framework",
   "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
   "url": "https://github.com/OpenBMB/AgentVerse",
-  "stars": 5168,
+  "stars": 5167,
   "forks": 521,
   "openIssues": 41,
   "pushedAt": "2024-09-09T05:47:44Z",
@@ -1161,7 +1161,7 @@
    },
    {
     "date": "2026-11-02",
-    "stars": 5168
+    "stars": 5167
    }
   ]
  }
