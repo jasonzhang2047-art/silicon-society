@@ -91,7 +91,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5373
+   "stars": 5374
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },
@@ -121,9 +121,32 @@
    "reason": "Release of AgentSociety LLM society simulator"
   },
   "metrics": {
-   "stars": 1382
+   "stars": 1383
   },
   "aiSummary": "AgentSociety2 version 2.10.1 released with a CI fix adapting webpack VSIX validation."
+ },
+ {
+  "id": "caf6343666c5",
+  "url": "https://adweek.com/contributor-content/simulating-the-future-of-experience-design-with-synthetic-customers",
+  "title": "Simulating the Future of Experience Design with Synthetic Customers",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "ADWEEK",
+   "url": "https://www.adweek.com"
+  },
+  "publishedAt": "2026-11-02T08:11:35.000Z",
+  "firstSeenAt": "2026-11-03T06:50:38.804Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic customers for design simulation"
+  },
+  "metrics": {},
+  "aiSummary": "ADWEEK article on using synthetic customers to simulate the future of experience design."
  },
  {
   "id": "8f11a08cae92",
@@ -157,6 +180,67 @@
    "replies": 0
   },
   "aiSummary": "Post notes debate in political science and psychology over whether LLM-coded qualitative data or synthetic survey respondents are valid methods or shortcuts."
+ },
+ {
+  "id": "e276b618ed53",
+  "url": "https://arxiv.org/abs/2611.00661",
+  "title": "Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior",
+  "snippet": "Large language models (LLMs) are increasingly used to simulate human behavior, but which descriptions of people improve prediction when experimental designs change remains unclear. We develop a framework that draws candidate behavioral features from the literature and constructs profiles from earlier human experiments. A profile-generation LLM assigns feature values from observed actions, messages, and surveys; a separate LLM simulates behavior using these profiles. By comparing simulated and observed outcomes in the learning data, we select profile contents through forward feature selection, adding features while they improve prediction. We then evaluate the selected contents without…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Robin Na",
+   "Kehang Zhu",
+   "Logan Cross",
+   "Michiel A. Bakker"
+  ],
+  "publishedAt": "2026-10-31T05:50:29.000Z",
+  "firstSeenAt": "2026-11-03T06:50:38.804Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM simulation of human behavior, validation"
+  },
+  "metrics": {},
+  "aiSummary": "Paper develops a framework that builds behavioral profiles from earlier human experiments and selects profile features to improve LLM simulation of human behavior under changed experimental designs."
+ },
+ {
+  "id": "11f2479c4bbf",
+  "url": "https://arxiv.org/abs/2611.00300",
+  "title": "Cross-Lingual Persona Effects in LLM Negotiation",
+  "snippet": "Tell an LLM negotiator to be \"headstrong\" and it should hold firm on price, but does that instruction retain the same behavior in every language? To test this, we use identical buyer and seller instances of Gemini 3.6 Flash to negotiate the same 12 CraigslistBargain scenarios in English and Korean. The pilot-scale 2 x 2 x 3 design crosses interaction language, seller urgency (none or strong), and buyer persona (cooperative, neutral, or headstrong), yielding 432 attempted negotiations. We call this property cross-lingual social-policy fidelity: whether a prompt-defined social policy produces the same behavioral effect regardless of interaction language. It often does not. Korean negotiations…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Saehee Eom",
+   "Tejas Khandwekar"
+  ],
+  "publishedAt": "2026-10-30T19:23:04.000Z",
+  "firstSeenAt": "2026-11-03T06:50:38.804Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM persona fidelity in simulated social interaction"
+  },
+  "aiSummary": "Study tests whether prompt-defined negotiation personas in Gemini 3.6 Flash produce the same behavioral effects in English and Korean, finding they often do not."
  },
  {
   "id": "50765b2cfbf6",
