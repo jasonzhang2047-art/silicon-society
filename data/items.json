@@ -1,5 +1,78 @@
 [
  {
+  "id": "66d0bf2e2b87",
+  "url": "https://bsky.app/profile/kazwan.bsky.social/post/3mzg7ykino32j",
+  "title": "TheySaid Launches 4.0: See How Users Will React, Right Where You Build The biggest release in company history puts Synthetic Audiences inside the tools teams already build in, from AI design and coding tools like Claude Design, v0, Replit, and Lovable to ticketing tools like J…",
+  "snippet": "TheySaid Launches 4.0: See How Users Will React, Right Where You Build. The biggest release in company history puts Synthetic Audiences inside the tools teams already build in, from AI design and coding tools like Claude Design, v0, Replit, and Lovable to ticketing tools like Jira and ClickUp, so…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "K. Azwan",
+   "handle": "@kazwan.bsky.social",
+   "url": "https://bsky.app/profile/kazwan.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:enby5moufejuzpozgx5jcju2/bafkreihahvbzv3mlp6ov2sipetzejrrtxqvdyv3s44lslw6n2e6clz5v6a"
+  },
+  "link": "https://ohsem.me/2026/11/theysaid-launches-4-0-see-how-users-will-react-right-where-you-build/",
+  "publishedAt": "2026-11-03T16:09:34.000Z",
+  "firstSeenAt": "2026-11-03T19:30:04.357Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic audience product for user reaction simulation"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "TheySaid launched version 4.0, embedding Synthetic Audiences into design, coding and ticketing tools like Claude Design, v0, Replit, Lovable, Jira and ClickUp."
+ },
+ {
+  "id": "7016ee55e71d",
+  "url": "https://bsky.app/profile/allangirvan.net/post/3mzfrwowivs2g",
+  "title": "This may explain the \"Focus Groups\" problem...",
+  "snippet": "UK Politicians Use AI Focus Groups to Test Policy Messages. UK MPs are deploying AI-generated focus groups from Electric Twin, Artificial Societies, and Synthetic Respondents to gauge voter sentiment at a fraction of",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Allan Girvan",
+   "handle": "@allangirvan.net",
+   "url": "https://bsky.app/profile/allangirvan.net",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ahqykuvcklcbeskigibl3mhd/bafkreicfse2yh3humwe5xswkp6kew5krszhjfqf3ejblmjq4oolr3exsgu"
+  },
+  "link": "https://emergent.sh/news/uk-politicians-use-ai-focus-groups-test",
+  "publishedAt": "2026-11-03T11:57:59.515Z",
+  "firstSeenAt": "2026-11-03T19:30:04.357Z",
+  "people": [],
+  "orgs": [
+   "electric-twin",
+   "artificial-societies"
+  ],
+  "tags": [],
+  "score": 13,
+  "verdict": {
+   "by": "llm",
+   "reason": "AI focus groups simulating voters"
+  },
+  "metrics": {
+   "likes": 12,
+   "reposts": 5,
+   "replies": 2
+  },
+  "aiSummary": "Post shares report that UK MPs are using AI-generated focus groups from Electric Twin, Artificial Societies, and Synthetic Respondents to gauge voter sentiment."
+ },
+ {
   "id": "350817818c59",
   "url": "https://bsky.app/profile/jacobrtucker.bsky.social/post/3mze6wcqcvl2i",
   "title": "But just because synthetic respondents use AI much of the industry has confusingly decided they will accept far less evidence before deciding the inference is valid.",
@@ -91,7 +164,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5374
+   "stars": 5375
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },
@@ -121,7 +194,7 @@
    "reason": "Release of AgentSociety LLM society simulator"
   },
   "metrics": {
-   "stars": 1383
+   "stars": 1384
   },
   "aiSummary": "AgentSociety2 version 2.10.1 released with a CI fix adapting webpack VSIX validation."
  },
@@ -240,7 +313,8 @@
    "by": "llm",
    "reason": "LLM persona fidelity in simulated social interaction"
   },
-  "aiSummary": "Study tests whether prompt-defined negotiation personas in Gemini 3.6 Flash produce the same behavioral effects in English and Korean, finding they often do not."
+  "aiSummary": "Study tests whether prompt-defined negotiation personas in Gemini 3.6 Flash produce the same behavioral effects in English and Korean, finding they often do not.",
+  "metrics": {}
  },
  {
   "id": "50765b2cfbf6",
