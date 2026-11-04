@@ -17678,6 +17678,206 @@
    "at": "2026-11-04T06:25:06.606Z",
    "by": "llm",
    "title": "USA: L'industria dell'intelligenza artificiale rischia una bolla finanziaria simile a quella del 2008. Grandi aziende fi"
+  },
+  "674ce9f3823d": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression"
+  },
+  "9f0404e8178f": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner"
+  },
+  "18c46634fa58": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Factorized MLLM Embeddings for Composed Image Retrieval"
+  },
+  "53c4a5e098c0": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks"
+  },
+  "4e8afe1d5945": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation"
+  },
+  "9a5614c13eef": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents"
+  },
+  "2be6aba39eaa": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "You don't need long context"
+  },
+  "4d5cfa12c314": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?"
+  },
+  "35d79f2a494e": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Dory1.0-4B: A Looped Normalized-GPT"
+  },
+  "fe8afec9ca51": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On"
+  },
+  "6e1cd688a6e3": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "BEND 2.0: Benchmarking the Capabilities Needed to Design DNA"
+  },
+  "f81d0ef4329a": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Muon Makes the First Mixture-of-Experts Layer Harder to Balance"
+  },
+  "2bad20a54f2a": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry"
+  },
+  "c6f29d153c62": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data"
+  },
+  "5de7ea31c2c8": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Auto-Research Agent on MSA Organization to Improve Protein-Protein Complex Structure Prediction"
+  },
+  "058a02016540": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Going Deeper With Memories"
+  },
+  "b40a579b0220": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board"
+  },
+  "7e624ea9242e": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "20 AI terms from a 60-term glossary, from hallucination to sycophancy"
+  },
+  "d14e048f55fb": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Unilever invests €35M to turn India R&D hubs into AI-led innovation ecosystem"
+  },
+  "59b387007ac0": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "NUHS, SINGTEL AND ERICSSON EXPAND PARTNERSHIP TO ADVANCE NEXT-GENERATION CONNECTED HEALTHCARE"
+  },
+  "77aa510bcbff": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "llm",
+   "title": "Beyond AI: Why businesses should start paying attention to digital twins"
+  },
+  "b5691156a54a": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "AI agents in Minecraft develop bureaucracy, fight for control"
+  },
+  "6f49cdd134a1": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "42AI launches with $62.5M for human behavior prediction model"
+  },
+  "48f6f27b5ee2": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Show HN: Rivermark, a superfast AI graphic design canvas"
+  },
+  "07095bf1c85c": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "pullboard-dev/pullboard — Autonomous development for real products. Governed agents build from specs you approve, follow"
+  },
+  "e77e8441318c": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "omfg \"As the capabilities and challenges of generative AI evolve at an unprecedented pace, this essay collection examine"
+  },
+  "0161e71a7106": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "I’ve watched enterprise AI conversations evolve quickly over the past few years. First, the focus was generative AI. The"
+  },
+  "33ca655efe08": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "6.【AI Becomes a New Strategic Advisor Supporting Sales and Logistics】By utilizing generative AI and AI agents, sales act"
+  },
+  "4ac7cfaee48a": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "\"AI Assisted Workflows on AWS: Kiro, MCP Servers and Bedrock AgentCore\" by Madhav Mathur #kiro #mcp-server #generative-a"
+  },
+  "08c418bd2aa3": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Me: Man, Mark Thompson is a great speaker. Wife: Yeah. Me: I'm so much quieter, and I say \"right?\" a lot. That's okay, t"
+  },
+  "82de588eb090": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "\"Building an AI-Powered Financial Content Generation Platform: From Stock Research to AI Avatar-Based Video Production u"
+  },
+  "3200bcc97d4f": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Le Markdown gagne du terrain chez Apple : dans macOS 27.3 (bêta), Coup d’œil interprète la syntaxe et affiche directemen"
+  },
+  "12bb723ece80": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "𝗔𝗻 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗜𝗻𝗷𝗲𝗰𝘁𝗲𝗱 𝗗𝗿𝘂𝗴𝘀 𝗜𝗻𝘁𝗼 𝗮 𝗟𝗶𝘃𝗲 𝗠𝗼𝘂𝘀𝗲’𝘀 𝗕𝗿𝗮𝗶𝗻 AI agents are now ... htt"
+  },
+  "a89717bb8397": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "E-GenRM presents a generative reward model for e-commerce agents, boosting user satisfaction and assistance rates. In a "
+  },
+  "b841b3e05681": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "a16z generative ai"
+  },
+  "31fbe21e7436": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "The GOP losing its grip on the reigns of power was one of my wishes. Next maybe an irl Butlerian Jihad and we destroy ge"
+  },
+  "f2ec289a189c": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "llm",
+   "title": "\"FarmGuard AI: Building a Climate Resilience Agent for Smallholder Farmers Using Strands Agents SDK\" by Anusha ch #gener"
+  },
+  "6d4b992a9dc2": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "lnkd.in/p/dpyKt4eE"
+  },
+  "78d7b24e36ed": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "\"Build GenAI Apps with Amazon Bedrock\" by Shaik Raheem #amazon-bedrock #amazon-bedrock-agents #aws-student-builders-grou"
+  },
+  "520c9967b5aa": {
+   "at": "2026-11-04T19:47:04.290Z",
+   "by": "rules",
+   "title": "Ricursive just dropped Ripple-65B Preview! 🎉 This 65B open-source model scored 80.52 on TerminalBench 2.1, beating mode"
   }
  },
  "repos": {
@@ -17687,8 +17887,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 83830,
-   "forks": 12679,
+   "stars": 84021,
+   "forks": 12706,
    "openIssues": 230,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -17765,7 +17965,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 83830
+     "stars": 84021
     }
    ]
   },
@@ -17775,9 +17975,9 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42579,
-   "forks": 7618,
-   "openIssues": 7,
+   "stars": 42583,
+   "forks": 7616,
+   "openIssues": 8,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
    "latestRelease": {
@@ -17853,7 +18053,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 42579
+     "stars": 42583
     }
    ]
   },
@@ -17863,7 +18063,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22336,
+   "stars": 22340,
    "forks": 3131,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -17935,7 +18135,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 22336
+     "stars": 22340
     }
    ]
   },
@@ -18027,8 +18227,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5379,
-   "forks": 661,
+   "stars": 5384,
+   "forks": 660,
    "openIssues": 58,
    "pushedAt": "2026-11-02T19:18:48Z",
    "language": "Python",
@@ -18105,7 +18305,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 5379
+     "stars": 5384
     }
    ]
   },
@@ -18115,9 +18315,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1857,
-   "forks": 400,
-   "openIssues": 47,
+   "stars": 1860,
+   "forks": 401,
+   "openIssues": 50,
    "pushedAt": "2026-11-03T23:16:18Z",
    "language": "Python",
    "latestRelease": {
@@ -18193,7 +18393,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 1857
+     "stars": 1860
     }
    ]
   },
@@ -18291,9 +18491,9 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7637,
+   "stars": 7639,
    "forks": 693,
-   "openIssues": 37,
+   "openIssues": 38,
    "pushedAt": "2026-10-23T17:14:54Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
@@ -18369,7 +18569,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 7637
+     "stars": 7639
     }
    ]
   },
@@ -18378,7 +18578,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10748,
+   "stars": 10756,
    "forks": 1241,
    "openIssues": 77,
    "pushedAt": "2026-08-26T00:34:11Z",
@@ -18450,7 +18650,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 10748
+     "stars": 10756
     }
    ]
   },
@@ -18463,7 +18663,7 @@
    "stars": 512,
    "forks": 89,
    "openIssues": 63,
-   "pushedAt": "2026-11-03T20:36:27Z",
+   "pushedAt": "2026-11-04T19:32:02Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -18717,7 +18917,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1391,
+   "stars": 1392,
    "forks": 55,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -18789,7 +18989,7 @@
     },
     {
      "date": "2026-11-04",
-     "stars": 1391
+     "stars": 1392
     }
    ]
   },

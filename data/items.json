@@ -1,5 +1,82 @@
 [
  {
+  "id": "82d87b791b1a",
+  "url": "https://odwyerpr.com/story/public/25557/2026-11-04/synthetic-audiences-should-end-guessing-not-thinking.html",
+  "title": "PR News | Synthetic Audiences Should End the Guessing, Not the Thinking - Wed., Nov. 4, 2026",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "O'Dwyer's PR News",
+   "url": "https://www.odwyerpr.com"
+  },
+  "publishedAt": "2026-11-04T14:26:15.000Z",
+  "firstSeenAt": "2026-11-04T19:47:04.290Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic audiences commentary in PR industry"
+  },
+  "aiSummary": "O'Dwyer's PR News piece arguing synthetic audiences should end guesswork but not replace thinking."
+ },
+ {
+  "id": "ebc5a5567a9d",
+  "url": "https://einpresswire.com/article/954272739/synthetic-data-standard-launches-independent-certification-for-synthetic-research-data",
+  "title": "Synthetic Data Standard Launches Independent Certification for Synthetic Research Data",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "EIN Presswire",
+   "url": "https://www.einpresswire.com"
+  },
+  "publishedAt": "2026-11-04T13:00:00.000Z",
+  "firstSeenAt": "2026-11-04T19:47:04.290Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Certification for synthetic research data validation"
+  },
+  "aiSummary": "Synthetic Data Standard launches an independent certification for synthetic research data."
+ },
+ {
+  "id": "79c045534833",
+  "url": "https://bsky.app/profile/tcparker.bsky.social/post/3mzi4sb3jzs22",
+  "title": "I love it when they do that \"You just don't UNDERSTAND synthetic respondents! They're exactly like real people, but real people we made up for cash!\"",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "T(errifying) C(ryptid) Parker (she/her)",
+   "handle": "@tcparker.bsky.social",
+   "url": "https://bsky.app/profile/tcparker.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4fqiezj5xezgyanoc6rhpwir/bafkreiejlyis6ggiai4jaahjwkrrbrk4b7aambtftxrevtctzvbcepyqjy"
+  },
+  "publishedAt": "2026-11-04T10:17:41.419Z",
+  "firstSeenAt": "2026-11-04T19:47:04.290Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Skeptical commentary on synthetic respondents"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Bluesky post mocking claims that synthetic respondents are exactly like real people."
+ },
+ {
   "id": "fe695198a75c",
   "url": "https://news.lavx.hu/article/simile-raises-2-billion-to-build-digital-twins-of-human-behavior",
   "title": "Simile raises $2 billion to build digital twins of human behavior",
@@ -30,7 +107,8 @@
    "lead": [],
    "participants": [],
    "auto": true
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "b969daaf8c20",
@@ -92,7 +170,8 @@
    "by": "llm",
    "reason": "Critiques persona-based synthetic population simulation"
   },
-  "aiSummary": "Paper argues that synthetic populations' persona-based simulations wrongly treat identity as a stable attribute, citing personality research showing behavior varies more across contexts than between people."
+  "aiSummary": "Paper argues that synthetic populations' persona-based simulations wrongly treat identity as a stable attribute, citing personality research showing behavior varies more across contexts than between people.",
+  "metrics": {}
  },
  {
   "id": "66d0bf2e2b87",
@@ -166,6 +245,39 @@
    "replies": 2
   },
   "aiSummary": "Post shares report that UK MPs are using AI-generated focus groups from Electric Twin, Artificial Societies, and Synthetic Respondents to gauge voter sentiment."
+ },
+ {
+  "id": "cd015ab4472f",
+  "url": "https://arxiv.org/abs/2611.04785",
+  "title": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
+  "snippet": "Large language models are candidates for collecting and analyzing records in criminal investigations and mass surveillance. Their capability and accuracy in this work cannot currently be measured. Real deployments lack the ground truth needed to score a model's conclusions, and no benchmark evaluates these capabilities in a simulated environment. We present Kierston, a city-scale simulation engine, and KierstonBench, a benchmark that tests these capabilities against known simulated events. Kierston models approximately 125,000 residents of Allentown, Pennsylvania, generating their daily activities and the telecommunications, financial, administrative and license-plate records that…",
+  "category": "research",
+  "source": {
+   "kind": "huggingface",
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/papers/2611.04785"
+  },
+  "authors": [
+   "Andrew Semenov",
+   "Svyatoslav Dorofeev"
+  ],
+  "publishedAt": "2026-11-03T00:00:00.000Z",
+  "firstSeenAt": "2026-11-04T19:47:04.290Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "hf-trending"
+  ],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "City-scale population simulation for LLM evaluation"
+  },
+  "metrics": {
+   "upvotes": 1,
+   "comments": 2
+  },
+  "aiSummary": "Kierston simulates about 125,000 Allentown, PA residents' activities and records; KierstonBench evaluates LLMs on crime investigation and surveillance tasks against known simulated events."
  },
  {
   "id": "f23f3f241ac4",
@@ -290,7 +402,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5379
+   "stars": 5384
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },
@@ -453,7 +565,7 @@
    "reason": "LLM simulation of individual human clients"
   },
   "metrics": {
-   "upvotes": 25,
+   "upvotes": 67,
    "comments": 1
   },
   "aiSummary": "Paper proposes Pandora, an LLM psychotherapy client simulation framework modeling evolving psychological and relational states to produce person-specific expression."
