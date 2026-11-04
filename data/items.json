@@ -1,5 +1,100 @@
 [
  {
+  "id": "fe695198a75c",
+  "url": "https://news.lavx.hu/article/simile-raises-2-billion-to-build-digital-twins-of-human-behavior",
+  "title": "Simile raises $2 billion to build digital twins of human behavior",
+  "category": "funding",
+  "source": {
+   "kind": "news",
+   "name": "news.lavx.hu",
+   "url": "https://news.lavx.hu"
+  },
+  "publishedAt": "2026-11-04T05:03:50.000Z",
+  "firstSeenAt": "2026-11-04T06:25:06.606Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Funding for human behavior digital twins"
+  },
+  "aiSummary": "Simile raised $2 billion to build digital twins of human behavior.",
+  "deal": {
+   "company": "Simile",
+   "round": null,
+   "amountText": "$2 billion",
+   "amountUsd": 2000000000,
+   "lead": [],
+   "participants": [],
+   "auto": true
+  }
+ },
+ {
+  "id": "b969daaf8c20",
+  "url": "https://bsky.app/profile/arxivecongnbot.bsky.social/post/3mzgrx5kbmw2t",
+  "title": "arXiv📈🤖 Validating LLM-Generated Synthetic Survey Samples: A Use-Dependent Multi-Dimensional Framework for Social-Science Applications By D'Ecclesiis, Castellacci, Ahmadi",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "ArXiv Paperboy (Econ.GN + Econ.TH)",
+   "handle": "@arxivecongnbot.bsky.social",
+   "url": "https://bsky.app/profile/arxivecongnbot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ykz2nhkt6qvto64omgj7ep2/bafkreihw6fad6rilzdyisgpwjhmqpwetzxoovanwavzjmdvd4b6wfhb5gi"
+  },
+  "publishedAt": "2026-11-03T21:30:54.512Z",
+  "firstSeenAt": "2026-11-04T06:25:06.606Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of synthetic survey respondents"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares arXiv paper by D'Ecclesiis, Castellacci and Ahmadi proposing a use-dependent multi-dimensional framework for validating LLM-generated synthetic survey samples."
+ },
+ {
+  "id": "8206592cb9bf",
+  "url": "https://arxiv.org/abs/2611.05292",
+  "title": "Personas Are Not People: Identity as State, Not Attribute",
+  "snippet": "Synthetic populations, large sets of simulated people, are increasingly used in place of real people to pretest surveys, simulate users and communities, and evaluate AI systems. Each simulated person is defined by a persona, a written profile of fixed traits, demographics, and attitudes that a language model is instructed to act out. Every such system assumes that a person's identity is a stable attribute that behaves the same way in every situation the simulation presents. We show that this assumption is not a harmless simplification. Three decades of personality research find the opposite. How a given person behaves varies more across contexts than people vary from one another. Drawing on…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Tamunotonye Harry",
+   "Yuanyuan Feng"
+  ],
+  "publishedAt": "2026-11-03T18:07:27.000Z",
+  "firstSeenAt": "2026-11-04T06:25:06.606Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 11,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critiques persona-based synthetic population simulation"
+  },
+  "aiSummary": "Paper argues that synthetic populations' persona-based simulations wrongly treat identity as a stable attribute, citing personality research showing behavior varies more across contexts than between people."
+ },
+ {
   "id": "66d0bf2e2b87",
   "url": "https://bsky.app/profile/kazwan.bsky.social/post/3mzg7ykino32j",
   "title": "TheySaid Launches 4.0: See How Users Will React, Right Where You Build The biggest release in company history puts Synthetic Audiences inside the tools teams already build in, from AI design and coding tools like Claude Design, v0, Replit, and Lovable to ticketing tools like J…",
@@ -30,7 +125,7 @@
   "metrics": {
    "likes": 0,
    "reposts": 0,
-   "replies": 0
+   "replies": 1
   },
   "aiSummary": "TheySaid launched version 4.0, embedding Synthetic Audiences into design, coding and ticketing tools like Claude Design, v0, Replit, Lovable, Jira and ClickUp."
  },
@@ -66,11 +161,42 @@
    "reason": "AI focus groups simulating voters"
   },
   "metrics": {
-   "likes": 12,
+   "likes": 13,
    "reposts": 5,
    "replies": 2
   },
   "aiSummary": "Post shares report that UK MPs are using AI-generated focus groups from Electric Twin, Artificial Societies, and Synthetic Respondents to gauge voter sentiment."
+ },
+ {
+  "id": "f23f3f241ac4",
+  "url": "https://arxiv.org/abs/2611.03980",
+  "title": "Measuring Model-Specific Alignment Drift in LLM-Based Opinion Dynamics",
+  "snippet": "Large language model (LLM) agents are increasingly used as synthetic participants in opinion-dynamics experiments, often assuming that an agent's behaviour is fully determined by its prompt. We test this assumption with a framework in which LLM agents discuss a contested policy issue over repeated rounds while their stance is quantified by a fixed psychometric instrument independent of any dynamics model. Across six LLMs, committed personas are intrinsically stable: in each of the five models tested without peer input, every agent keeps its assigned side for 20 rounds. The observed loss of alignment under discussion is therefore interaction-induced, we call it alignment drift, and…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Nataša Djurdjevac Conrad",
+   "Sebastian Pokutta",
+   "Christof Schütte"
+  ],
+  "publishedAt": "2026-11-02T21:20:30.000Z",
+  "firstSeenAt": "2026-11-04T06:25:06.606Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 10,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM agents as synthetic opinion-dynamics participants"
+  },
+  "metrics": {},
+  "aiSummary": "Study of LLM agents discussing a policy issue across six models finds personas stable alone but losing alignment through interaction, termed alignment drift."
  },
  {
   "id": "350817818c59",
@@ -164,7 +290,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5375
+   "stars": 5379
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },
@@ -194,7 +320,7 @@
    "reason": "Release of AgentSociety LLM society simulator"
   },
   "metrics": {
-   "stars": 1384
+   "stars": 1387
   },
   "aiSummary": "AgentSociety2 version 2.10.1 released with a CI fix adapting webpack VSIX validation."
  },
@@ -285,6 +411,52 @@
   },
   "metrics": {},
   "aiSummary": "Paper develops a framework that builds behavioral profiles from earlier human experiments and selects profile features to improve LLM simulation of human behavior under changed experimental designs."
+ },
+ {
+  "id": "53cdc41ec200",
+  "url": "https://arxiv.org/abs/2611.00617",
+  "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+  "snippet": "Psychotherapy clients may experience distress before they can coherently describe it, and their expression changes with emotion, perceived safety, and trust. Large language model-based client simulators often rely on clinically organized case descriptions, which can encourage responses explaining the client's difficulties more clearly than their current understanding warrants. We propose Pandora, a psychotherapy client simulation framework that models how psychological experience becomes situated, individual expression. Pandora updates psychological and relational states in response to therapist interventions, constructs subjective appraisals and attributions, and plans response content and…",
+  "category": "research",
+  "source": {
+   "kind": "huggingface",
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/papers/2611.00617"
+  },
+  "authors": [
+   "Mengxi Xiao",
+   "Jingjing Chen",
+   "Ziyan Kuang",
+   "Jiarong Song",
+   "Wenhao Zhao",
+   "Zuchen Han",
+   "Yihuai Xu",
+   "Xiyang Huang",
+   "Jie Gong",
+   "Yuechen Jiang",
+   "Xueqing Peng",
+   "Yankai Chen",
+   "Xiaoyan Qu",
+   "Min Peng",
+   "Qianqian Xie"
+  ],
+  "publishedAt": "2026-10-31T00:00:00.000Z",
+  "firstSeenAt": "2026-11-04T06:25:06.606Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "hf-trending"
+  ],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM simulation of individual human clients"
+  },
+  "metrics": {
+   "upvotes": 25,
+   "comments": 1
+  },
+  "aiSummary": "Paper proposes Pandora, an LLM psychotherapy client simulation framework modeling evolving psychological and relational states to produce person-specific expression."
  },
  {
   "id": "11f2479c4bbf",
