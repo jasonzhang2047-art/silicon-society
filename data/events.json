@@ -172,6 +172,25 @@
   "upcoming": true
  },
  {
+  "name": "Planetary Intelligence 27",
+  "kind": "event",
+  "start": "2027-03-10",
+  "end": "2027-03-12",
+  "location": "Online",
+  "url": "https://planetary-intelligence.netlify.app/#submit",
+  "description": "*Event Recommended by CoMSES Board Member Roger Cremades* https://planetary-intelligence.netlify.app/#home Abstract deadline, 23:59 UK time on Monday January 18th 2027 A FREE online conference in three short sessions that follow the sun, for people who make knowledge explicit, build AI agents and/or model complex systems to understand a changing planet, its regions and cities, and the cross-scale…",
+  "source": {
+   "name": "CoMSES Net",
+   "url": "https://comses.net/events/805"
+  },
+  "verified": false,
+  "tags": [
+   "abm-community",
+   "cfp-open"
+  ],
+  "upcoming": true
+ },
+ {
   "name": "AAMAS 2027",
   "kind": "conference",
   "start": "2027-05-03",

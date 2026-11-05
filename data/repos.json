@@ -5,8 +5,8 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 84021,
-  "forks": 12706,
+  "stars": 84138,
+  "forks": 12722,
   "openIssues": 230,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
@@ -84,6 +84,10 @@
    {
     "date": "2026-11-04",
     "stars": 84021
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 84138
    }
   ]
  },
@@ -93,8 +97,8 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42583,
-  "forks": 7616,
+  "stars": 42585,
+  "forks": 7613,
   "openIssues": 8,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -172,6 +176,10 @@
    {
     "date": "2026-11-04",
     "stars": 42583
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 42585
    }
   ]
  },
@@ -181,8 +189,8 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22340,
-  "forks": 3131,
+  "stars": 22342,
+  "forks": 3130,
   "openIssues": 147,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
@@ -254,6 +262,10 @@
    {
     "date": "2026-11-04",
     "stars": 22340
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 22342
    }
   ]
  },
@@ -336,6 +348,10 @@
    {
     "date": "2026-11-04",
     "stars": 627
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 627
    }
   ]
  },
@@ -345,8 +361,8 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5384,
-  "forks": 660,
+  "stars": 5389,
+  "forks": 661,
   "openIssues": 58,
   "pushedAt": "2026-11-02T19:18:48Z",
   "language": "Python",
@@ -424,6 +440,10 @@
    {
     "date": "2026-11-04",
     "stars": 5384
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 5389
    }
   ]
  },
@@ -433,9 +453,9 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1860,
-  "forks": 401,
-  "openIssues": 50,
+  "stars": 1861,
+  "forks": 400,
+  "openIssues": 68,
   "pushedAt": "2026-11-03T23:16:18Z",
   "language": "Python",
   "latestRelease": {
@@ -512,6 +532,10 @@
    {
     "date": "2026-11-04",
     "stars": 1860
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 1861
    }
   ]
  },
@@ -521,7 +545,7 @@
   "org": "tsinghua-fib",
   "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-  "stars": 1387,
+  "stars": 1388,
   "forks": 222,
   "openIssues": 36,
   "pushedAt": "2026-11-03T17:01:09Z",
@@ -600,6 +624,10 @@
    {
     "date": "2026-11-04",
     "stars": 1387
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 1388
    }
   ]
  },
@@ -609,9 +637,9 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7639,
+  "stars": 7640,
   "forks": 693,
-  "openIssues": 38,
+  "openIssues": 39,
   "pushedAt": "2026-10-23T17:14:54Z",
   "language": "Jupyter Notebook",
   "latestRelease": {
@@ -688,6 +716,10 @@
    {
     "date": "2026-11-04",
     "stars": 7639
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 7640
    }
   ]
  },
@@ -696,10 +728,10 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10756,
-  "forks": 1241,
-  "openIssues": 77,
-  "pushedAt": "2026-08-26T00:34:11Z",
+  "stars": 10758,
+  "forks": 1242,
+  "openIssues": 76,
+  "pushedAt": "2026-11-05T01:06:54Z",
   "language": "TypeScript",
   "history": [
    {
@@ -769,6 +801,10 @@
    {
     "date": "2026-11-04",
     "stars": 10756
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 10758
    }
   ]
  },
@@ -780,8 +816,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 512,
   "forks": 89,
-  "openIssues": 63,
-  "pushedAt": "2026-11-04T19:32:02Z",
+  "openIssues": 64,
+  "pushedAt": "2026-11-05T02:14:29Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -856,6 +892,10 @@
    },
    {
     "date": "2026-11-04",
+    "stars": 512
+   },
+   {
+    "date": "2026-11-05",
     "stars": 512
    }
   ]
@@ -945,6 +985,10 @@
    {
     "date": "2026-11-04",
     "stars": 342
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 342
    }
   ]
  },
@@ -1027,6 +1071,10 @@
    {
     "date": "2026-11-04",
     "stars": 246
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 246
    }
   ]
  },
@@ -1108,6 +1156,10 @@
    {
     "date": "2026-11-04",
     "stars": 1392
+   },
+   {
+    "date": "2026-11-05",
+    "stars": 1392
    }
   ]
  },
@@ -1118,7 +1170,7 @@
   "url": "https://github.com/YSocialTwin/YSocial",
   "stars": 35,
   "forks": 8,
-  "openIssues": 2,
+  "openIssues": 3,
   "pushedAt": "2026-11-03T10:00:08Z",
   "language": "JavaScript",
   "latestRelease": {
@@ -1194,6 +1246,10 @@
    },
    {
     "date": "2026-11-04",
+    "stars": 35
+   },
+   {
+    "date": "2026-11-05",
     "stars": 35
    }
   ]
@@ -1281,6 +1337,10 @@
    },
    {
     "date": "2026-11-04",
+    "stars": 5170
+   },
+   {
+    "date": "2026-11-05",
     "stars": 5170
    }
   ]

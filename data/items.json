@@ -1,5 +1,98 @@
 [
  {
+  "id": "33716b6d97ce",
+  "url": "https://comses.net/events/805",
+  "title": "Planetary Intelligence 27",
+  "snippet": "*Event Recommended by CoMSES Board Member Roger Cremades* https://planetary-intelligence.netlify.app/#home Abstract deadline, 23:59 UK time on Monday January 18th 2027 A FREE online conference in three short sessions that follow the sun, for people who make knowledge explicit, build AI agents and/or model complex systems to understand a changing planet, its regions and cities, and the cross-scale…",
+  "category": "events",
+  "source": {
+   "kind": "comses",
+   "name": "CoMSES Net",
+   "url": "https://www.comses.net/events/"
+  },
+  "link": "https://planetary-intelligence.netlify.app/#submit",
+  "publishedAt": "2026-11-04T22:44:11.866Z",
+  "firstSeenAt": "2026-11-05T06:49:32.921Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "abm-community",
+   "cfp-open"
+  ],
+  "score": 0,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Planetary systems modelling conference, not human simulation"
+  },
+  "event": {
+   "name": "Planetary Intelligence 27",
+   "start": "2027-03-10",
+   "end": "2027-03-12",
+   "location": "Online",
+   "url": "https://planetary-intelligence.netlify.app/#submit"
+  }
+ },
+ {
+  "id": "6a4cf305f5f0",
+  "url": "https://arxiv.org/abs/2611.06914",
+  "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+  "snippet": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating a validation problem for social simulation. One plausible hypothesis is that this brittleness reflects a lack of grounding and can be reduced by enriching the context provided to the agents. Whether richer context improves robustness remains unclear, in part because context richness and robustness are rarely defined in ways that support controlled comparisons. We address the first need with…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Mattia Greiche",
+   "Reihaneh Rabbany",
+   "Maximilian Puelma Touzel"
+  ],
+  "publishedAt": "2026-11-04T18:58:23.000Z",
+  "firstSeenAt": "2026-11-05T06:49:32.921Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of LLM social simulation agents"
+  },
+  "metrics": {},
+  "aiSummary": "Framework studying whether enriching context improves robustness of LLM social simulation agents to meaning-preserving prompt variations, addressing a validation problem."
+ },
+ {
+  "id": "168d5debdf47",
+  "url": "https://arxiv.org/abs/2611.06743",
+  "title": "Using AI Predictions to Augment Rather Than Replace Surveys",
+  "snippet": "LLMs can predict human survey responses with nontrivial accuracy. What this means for the future of social surveys remains hotly contested. Optimists anticipate a coming era of synthetic respondents; skeptics see a fragile and overhyped substitute. This article advocates a position: AI predictions cannot replace surveys, but they can augment them. Using prediction-powered inference (PPI), a statistical framework rooted in survey methodology and known in sociology as \"mixed subjects design\", the study tests whether AI predictions can improve the statistical efficiency of social surveys when combined with census-scale auxiliary information. Applying the framework to 83 social outcomes in the…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Lai Wei",
+   "Yifei Zhu"
+  ],
+  "publishedAt": "2026-11-04T16:24:24.000Z",
+  "firstSeenAt": "2026-11-05T06:49:32.921Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CY"
+  ],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents and survey augmentation"
+  },
+  "aiSummary": "Paper argues AI predictions cannot replace surveys but can augment them via prediction-powered inference, testing efficiency gains across 83 social outcomes with census-scale auxiliary data."
+ },
+ {
   "id": "82d87b791b1a",
   "url": "https://odwyerpr.com/story/public/25557/2026-11-04/synthetic-audiences-should-end-guessing-not-thinking.html",
   "title": "PR News | Synthetic Audiences Should End the Guessing, Not the Thinking - Wed., Nov. 4, 2026",
@@ -41,7 +134,8 @@
    "by": "llm",
    "reason": "Certification for synthetic research data validation"
   },
-  "aiSummary": "Synthetic Data Standard launches an independent certification for synthetic research data."
+  "aiSummary": "Synthetic Data Standard launches an independent certification for synthetic research data.",
+  "metrics": {}
  },
  {
   "id": "79c045534833",
@@ -109,6 +203,36 @@
    "auto": true
   },
   "metrics": {}
+ },
+ {
+  "id": "c17bea179085",
+  "url": "https://arxiv.org/abs/2611.05717",
+  "title": "Same Method, Different Task: What the Bitter Lesson Does Not License in Social Simulation",
+  "snippet": "The bitter lesson holds that general methods leveraging computation defeat hand-encoded domain knowledge. We argue it carries a condition its popular reading omits: in every case Sutton cites, the general method was scaled against the same task the domain engineering was solving. Social simulation substituted across tasks instead, replacing hand-built agents with an artifact optimized for predicting text. The move is bitter-lesson-shaped, but the lesson does not license it. Prediction is a solitary act: the predictor bears no consequences from the interaction it models. Cooperation, defection, and norm enforcement are phenomena of interested parties; they do not exist for a disinterested…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Justin Downes",
+   "Robby Milletich",
+   "Newel Hirst"
+  ],
+  "publishedAt": "2026-11-03T22:42:46.000Z",
+  "firstSeenAt": "2026-11-05T06:49:32.921Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critique of LLM-based social simulation"
+  },
+  "aiSummary": "Paper argues the bitter lesson does not license replacing hand-built agents in social simulation with text-prediction LLMs, since predictors bear no interaction consequences."
  },
  {
   "id": "b969daaf8c20",
@@ -275,7 +399,7 @@
   },
   "metrics": {
    "upvotes": 1,
-   "comments": 2
+   "comments": 3
   },
   "aiSummary": "Kierston simulates about 125,000 Allentown, PA residents' activities and records; KierstonBench evaluates LLMs on crime investigation and surveillance tasks against known simulated events."
  },
@@ -402,7 +526,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5384
+   "stars": 5389
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },
@@ -432,7 +556,7 @@
    "reason": "Release of AgentSociety LLM society simulator"
   },
   "metrics": {
-   "stars": 1387
+   "stars": 1388
   },
   "aiSummary": "AgentSociety2 version 2.10.1 released with a CI fix adapting webpack VSIX validation."
  },
@@ -565,8 +689,8 @@
    "reason": "LLM simulation of individual human clients"
   },
   "metrics": {
-   "upvotes": 67,
-   "comments": 1
+   "upvotes": 70,
+   "comments": 2
   },
   "aiSummary": "Paper proposes Pandora, an LLM psychotherapy client simulation framework modeling evolving psychological and relational states to produce person-specific expression."
  },
