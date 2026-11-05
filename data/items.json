@@ -1,5 +1,64 @@
 [
  {
+  "id": "8b1cfbff3998",
+  "url": "https://goldmansachs.com/insights/talks-at-gs/how-aaru-uses-advanced-ai-simulations-to-predict-human-behavior-",
+  "title": "How Aaru Uses Advanced AI Simulations to Predict Human Behavior",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Goldman Sachs",
+   "url": "https://www.goldmansachs.com"
+  },
+  "publishedAt": "2026-11-05T16:52:30.000Z",
+  "firstSeenAt": "2026-11-05T19:58:11.460Z",
+  "people": [],
+  "orgs": [
+   "aaru"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Aaru human behavior simulation company"
+  },
+  "aiSummary": "Goldman Sachs piece on how Aaru uses advanced AI simulations to predict human behavior."
+ },
+ {
+  "id": "b3f0589386df",
+  "url": "https://bsky.app/profile/jorgerebate.bsky.social/post/3mzlahiwcj72u",
+  "title": "Para probar flujos, genial: eso es un túnel de viento. Para predecir lo que siente una persona, nop. Más túneles de viento y menos muñecos que opinan. Artículo de Saeideh Bakhshi 👇 saeidehbakhshi.substack.com/p/synthetic...",
+  "snippet": "The Wrong Ambition for Synthetic Users. We’re so focused on making AI impersonate research participants that we may be overlooking a far more interesting opportunity: using simulation to understand how human-centered systems behave.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Jorge Rebate Serrano",
+   "handle": "@jorgerebate.bsky.social",
+   "url": "https://bsky.app/profile/jorgerebate.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xzlqtlwbuj33k4xu4rnlu3c/bafkreihbmhj5mndjnmd3lyhvsvbpqa7lzmb2nwcrsiahi4hol42b6ght2e"
+  },
+  "link": "https://saeidehbakhshi.substack.com/p/synthetic-users-are-closer-to-wind",
+  "publishedAt": "2026-11-05T16:01:14.706Z",
+  "firstSeenAt": "2026-11-05T19:58:11.460Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critique of synthetic users/respondents"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares Saeideh Bakhshi's article arguing synthetic users should simulate how human-centered systems behave rather than impersonate research participants or predict feelings."
+ },
+ {
   "id": "33716b6d97ce",
   "url": "https://comses.net/events/805",
   "title": "Planetary Intelligence 27",
@@ -30,7 +89,8 @@
    "end": "2027-03-12",
    "location": "Online",
    "url": "https://planetary-intelligence.netlify.app/#submit"
-  }
+  },
+  "metrics": {}
  },
  {
   "id": "6a4cf305f5f0",
@@ -90,7 +150,8 @@
    "by": "llm",
    "reason": "Synthetic respondents and survey augmentation"
   },
-  "aiSummary": "Paper argues AI predictions cannot replace surveys but can augment them via prediction-powered inference, testing efficiency gains across 83 social outcomes with census-scale auxiliary data."
+  "aiSummary": "Paper argues AI predictions cannot replace surveys but can augment them via prediction-powered inference, testing efficiency gains across 83 social outcomes with census-scale auxiliary data.",
+  "metrics": {}
  },
  {
   "id": "82d87b791b1a",
@@ -232,7 +293,8 @@
    "by": "llm",
    "reason": "Critique of LLM-based social simulation"
   },
-  "aiSummary": "Paper argues the bitter lesson does not license replacing hand-built agents in social simulation with text-prediction LLMs, since predictors bear no interaction consequences."
+  "aiSummary": "Paper argues the bitter lesson does not license replacing hand-built agents in social simulation with text-prediction LLMs, since predictors bear no interaction consequences.",
+  "metrics": {}
  },
  {
   "id": "b969daaf8c20",
@@ -526,7 +588,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5389
+   "stars": 5394
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },
@@ -556,7 +618,7 @@
    "reason": "Release of AgentSociety LLM society simulator"
   },
   "metrics": {
-   "stars": 1388
+   "stars": 1390
   },
   "aiSummary": "AgentSociety2 version 2.10.1 released with a CI fix adapting webpack VSIX validation."
  },
@@ -689,7 +751,7 @@
    "reason": "LLM simulation of individual human clients"
   },
   "metrics": {
-   "upvotes": 70,
+   "upvotes": 76,
    "comments": 2
   },
   "aiSummary": "Paper proposes Pandora, an LLM psychotherapy client simulation framework modeling evolving psychological and relational states to produce person-specific expression."
