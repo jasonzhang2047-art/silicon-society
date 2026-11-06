@@ -1,5 +1,30 @@
 [
  {
+  "id": "13f5a193a22c",
+  "url": "https://finance.biggo.com/news/cd15c9298c0e1d19",
+  "title": "Aaru's Cam Fink says the next big AI market isn't chatbots — it's predicting what you'll buy next",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "BigGo Finance",
+   "url": "https://finance.biggo.com"
+  },
+  "publishedAt": "2026-11-05T17:08:00.000Z",
+  "firstSeenAt": "2026-11-06T06:49:33.793Z",
+  "people": [],
+  "orgs": [
+   "aaru"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Aaru founder on behavior-prediction simulation market"
+  },
+  "metrics": {},
+  "aiSummary": "Aaru's Cam Fink says the next big AI market is predicting what people will buy next, not chatbots."
+ },
+ {
   "id": "8b1cfbff3998",
   "url": "https://goldmansachs.com/insights/talks-at-gs/how-aaru-uses-advanced-ai-simulations-to-predict-human-behavior-",
   "title": "How Aaru Uses Advanced AI Simulations to Predict Human Behavior",
@@ -21,7 +46,8 @@
    "by": "llm",
    "reason": "Aaru human behavior simulation company"
   },
-  "aiSummary": "Goldman Sachs piece on how Aaru uses advanced AI simulations to predict human behavior."
+  "aiSummary": "Goldman Sachs piece on how Aaru uses advanced AI simulations to predict human behavior.",
+  "metrics": {}
  },
  {
   "id": "b3f0589386df",
@@ -57,6 +83,62 @@
    "replies": 0
   },
   "aiSummary": "Post shares Saeideh Bakhshi's article arguing synthetic users should simulate how human-centered systems behave rather than impersonate research participants or predict feelings."
+ },
+ {
+  "id": "d8410e33c14d",
+  "url": "https://finance.biggo.com/podcast/cd15c9298c0e1d19",
+  "title": "How Aaru Uses Advanced AI Simulations to Predict Human Behavior｜Goldman Sachs: Talks at GS",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "finance.biggo.com",
+   "url": "https://finance.biggo.com"
+  },
+  "publishedAt": "2026-11-05T11:39:13.000Z",
+  "firstSeenAt": "2026-11-06T06:49:33.793Z",
+  "people": [],
+  "orgs": [
+   "aaru"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Aaru simulation company predicting human behavior"
+  },
+  "metrics": {},
+  "aiSummary": "Goldman Sachs Talks at GS session on how Aaru uses advanced AI simulations to predict human behavior."
+ },
+ {
+  "id": "a3a33b62acfd",
+  "url": "https://arxiv.org/abs/2611.07735",
+  "title": "Evaluating Token Probabilities as Confidence Estimators in Human Behavior Simulations: A Case Study in Luxembourgish Next Like Prediction",
+  "snippet": "As large language models (LLMs) are increasingly used to simulate human behavior, their operational validity is typically assessed through accuracy alone, implicitly treating human behavior as deterministic. We argue that on noisy digital trace data, a model's performance depends not only on predicting the correct outcome but on its calibration. We present a case study testing whether the token probabilities of open-weight LLMs can serve as confidence estimates in a Next Like Prediction task: predicting how a user of the Luxembourgish news platform RTL.lu rates a comment, conditioned on their prior interactions. Evaluating Ministral 3 (3B, 8B), we find that, with in-context learning only,…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Nils Schwager",
+   "Simon Münker",
+   "Alistair Plum",
+   "Achim Rettinger"
+  ],
+  "publishedAt": "2026-11-05T09:45:49.000Z",
+  "firstSeenAt": "2026-11-06T06:49:33.793Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation/calibration of LLM human behavior simulation"
+  },
+  "aiSummary": "Case study tests whether token probabilities of open-weight LLMs (Ministral 3 3B, 8B) serve as confidence estimates when simulating RTL.lu users' comment ratings in Next Like Prediction."
  },
  {
   "id": "33716b6d97ce",
@@ -588,7 +670,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5394
+   "stars": 5396
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },
@@ -618,7 +700,7 @@
    "reason": "Release of AgentSociety LLM society simulator"
   },
   "metrics": {
-   "stars": 1390
+   "stars": 1391
   },
   "aiSummary": "AgentSociety2 version 2.10.1 released with a CI fix adapting webpack VSIX validation."
  },
