@@ -138,7 +138,8 @@
    "by": "llm",
    "reason": "Validation/calibration of LLM human behavior simulation"
   },
-  "aiSummary": "Case study tests whether token probabilities of open-weight LLMs (Ministral 3 3B, 8B) serve as confidence estimates when simulating RTL.lu users' comment ratings in Next Like Prediction."
+  "aiSummary": "Case study tests whether token probabilities of open-weight LLMs (Ministral 3 3B, 8B) serve as confidence estimates when simulating RTL.lu users' comment ratings in Next Like Prediction.",
+  "metrics": {}
  },
  {
   "id": "33716b6d97ce",
@@ -670,7 +671,7 @@
    "reason": "Release of OASIS social simulation framework"
   },
   "metrics": {
-   "stars": 5396
+   "stars": 5399
   },
   "aiSummary": "OASIS v0.2.6 release updates camel-ai to version 0.2.90 and includes several QR code update pull requests."
  },

@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 84364,
-  "forks": 12762,
-  "openIssues": 236,
+  "stars": 84466,
+  "forks": 12778,
+  "openIssues": 238,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -91,7 +91,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 84364
+    "stars": 84466
    }
   ]
  },
@@ -101,7 +101,7 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42600,
+  "stars": 42603,
   "forks": 7617,
   "openIssues": 8,
   "pushedAt": "2026-10-16T03:33:52Z",
@@ -187,7 +187,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 42600
+    "stars": 42603
    }
   ]
  },
@@ -197,7 +197,7 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22344,
+  "stars": 22351,
   "forks": 3130,
   "openIssues": 147,
   "pushedAt": "2024-08-05T21:38:56Z",
@@ -277,7 +277,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 22344
+    "stars": 22351
    }
   ]
  },
@@ -377,7 +377,7 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5396,
+  "stars": 5399,
   "forks": 661,
   "openIssues": 58,
   "pushedAt": "2026-11-02T19:18:48Z",
@@ -463,7 +463,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 5396
+    "stars": 5399
    }
   ]
  },
@@ -473,9 +473,9 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1863,
+  "stars": 1866,
   "forks": 401,
-  "openIssues": 70,
+  "openIssues": 71,
   "pushedAt": "2026-11-03T23:16:18Z",
   "language": "Python",
   "latestRelease": {
@@ -559,7 +559,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 1863
+    "stars": 1866
    }
   ]
  },
@@ -665,7 +665,7 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7641,
+  "stars": 7643,
   "forks": 694,
   "openIssues": 40,
   "pushedAt": "2026-10-23T17:14:54Z",
@@ -751,7 +751,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 7641
+    "stars": 7643
    }
   ]
  },
@@ -760,8 +760,8 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10762,
-  "forks": 1243,
+  "stars": 10764,
+  "forks": 1244,
   "openIssues": 77,
   "pushedAt": "2026-11-05T01:06:54Z",
   "language": "TypeScript",
@@ -840,7 +840,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 10762
+    "stars": 10764
    }
   ]
  },
@@ -850,9 +850,9 @@
   "org": "expected-parrot",
   "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
   "url": "https://github.com/expectedparrot/edsl",
-  "stars": 514,
-  "forks": 89,
-  "openIssues": 62,
+  "stars": 515,
+  "forks": 90,
+  "openIssues": 63,
   "pushedAt": "2026-11-05T20:29:47Z",
   "language": "Python",
   "latestRelease": {
@@ -936,7 +936,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 514
+    "stars": 515
    }
   ]
  },
@@ -1131,8 +1131,8 @@
   "label": "Civilization-scale agent simulation (Minecraft)",
   "description": "",
   "url": "https://github.com/altera-al/project-sid",
-  "stars": 1392,
-  "forks": 55,
+  "stars": 1393,
+  "forks": 56,
   "openIssues": 5,
   "pushedAt": "2024-11-04T16:24:29Z",
   "language": null,
@@ -1211,7 +1211,7 @@
    },
    {
     "date": "2026-11-06",
-    "stars": 1392
+    "stars": 1393
    }
   ]
  },
@@ -1223,7 +1223,7 @@
   "stars": 36,
   "forks": 8,
   "openIssues": 3,
-  "pushedAt": "2026-11-05T11:04:24Z",
+  "pushedAt": "2026-11-06T15:25:05Z",
   "language": "JavaScript",
   "latestRelease": {
    "tag": "v4.0.0",
