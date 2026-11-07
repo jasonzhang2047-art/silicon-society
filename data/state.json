@@ -18663,6 +18663,106 @@
    "at": "2026-11-06T19:26:11.128Z",
    "by": "rules",
    "title": "I agree but I’ve definitely seen a low key mention of UR with synthetic ‘users’ trained on existing interviews etc."
+  },
+  "d1d7a0dffab9": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models"
+  },
+  "37cfb96f8c04": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents"
+  },
+  "f40d3da07c90": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation"
+  },
+  "e92d213cafe2": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "5 Agentic AI Design Patterns & Real-World Examples"
+  },
+  "bd2d2f645822": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Maria Jose Agudelo-Cataño's experiences in Delft"
+  },
+  "4cf92b95022b": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Rémy Schunck's experiences in Delft"
+  },
+  "c7e05db83e2a": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Every CX start-up funding deal you need to know: November 6 | CX Network"
+  },
+  "2116da16615a": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "SoundHound's LivePerson Deal Could Reshape Its Path to Profitability"
+  },
+  "8f75952edf21": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them"
+  },
+  "d34a3faf771d": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Show HN: AJX – Find out where AI agents get stuck using your product"
+  },
+  "d5bbf521d2fc": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "MemTensor/MemT-1.0 — Official repository for MemT-1.0"
+  },
+  "fec0c661f39b": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "\"AI Agents on AWS: From Chatbots to Action-Taking AI\" by Hirushi Sammani #amazon-bedrock #ai-agents #amazon-bedrock-agen"
+  },
+  "f9be38b9cbe4": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Chat SDK agents can now stream generative UI with json-render | Vercel News"
+  },
+  "b144f8c2ed5d": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "ARTLai Announces veriRCA Benchmark: Autonomous AI Agents Put to the Test in RTL Hardware Verification + Video Introducti"
+  },
+  "1927e601d5d2": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them https://github.com/anteloc/ldraw-mecha/tree/v0.5.0"
+  },
+  "8d5dc6357abd": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "\"3 Hidden Traps When Deploying Amazon Bedrock Agents to the IoT Edge (And How to Trace Them)\" by Arkaprova Ghosh #amazon"
+  },
+  "966bdaf94913": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them Discussion | hackernews | Author: antelocnova #AI"
+  },
+  "6634f2c05be9": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "US tech leaders are urgently calling for rules on AI - China already has them ->Eco-Business | More on \"Artificial intel"
+  },
+  "8dafb8be8a62": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "Also, fun fact, the LLM’s I’m studying rn also produce this increased cautioning and exaggerated impacts behavior when c"
+  },
+  "36f0552e7325": {
+   "at": "2026-11-07T05:59:46.867Z",
+   "by": "rules",
+   "title": "A TV show simile: Imagine a loud cake simmering for ages. Sometimes it feels like everyone is trying to douse it with to"
   }
  },
  "repos": {
@@ -18672,9 +18772,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 84466,
-   "forks": 12778,
-   "openIssues": 238,
+   "stars": 84525,
+   "forks": 12796,
+   "openIssues": 240,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -18759,6 +18859,10 @@
     {
      "date": "2026-11-06",
      "stars": 84466
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 84525
     }
    ]
   },
@@ -18768,8 +18872,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42603,
-   "forks": 7617,
+   "stars": 42605,
+   "forks": 7619,
    "openIssues": 8,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -18855,6 +18959,10 @@
     {
      "date": "2026-11-06",
      "stars": 42603
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 42605
     }
    ]
   },
@@ -18864,8 +18972,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22351,
-   "forks": 3130,
+   "stars": 22355,
+   "forks": 3131,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -18945,6 +19053,10 @@
     {
      "date": "2026-11-06",
      "stars": 22351
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 22355
     }
    ]
   },
@@ -19035,6 +19147,10 @@
     {
      "date": "2026-11-06",
      "stars": 627
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 627
     }
    ]
   },
@@ -19044,7 +19160,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5399,
+   "stars": 5402,
    "forks": 661,
    "openIssues": 58,
    "pushedAt": "2026-11-02T19:18:48Z",
@@ -19131,6 +19247,10 @@
     {
      "date": "2026-11-06",
      "stars": 5399
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 5402
     }
    ]
   },
@@ -19140,7 +19260,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1866,
+   "stars": 1868,
    "forks": 401,
    "openIssues": 71,
    "pushedAt": "2026-11-03T23:16:18Z",
@@ -19227,6 +19347,10 @@
     {
      "date": "2026-11-06",
      "stars": 1866
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 1868
     }
    ]
   },
@@ -19236,7 +19360,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1391,
+   "stars": 1392,
    "forks": 223,
    "openIssues": 36,
    "pushedAt": "2026-11-03T17:01:09Z",
@@ -19323,6 +19447,10 @@
     {
      "date": "2026-11-06",
      "stars": 1391
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 1392
     }
    ]
   },
@@ -19332,10 +19460,10 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7643,
+   "stars": 7644,
    "forks": 694,
    "openIssues": 40,
-   "pushedAt": "2026-10-23T17:14:54Z",
+   "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
     "tag": "v0.7.0",
@@ -19419,6 +19547,10 @@
     {
      "date": "2026-11-06",
      "stars": 7643
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 7644
     }
    ]
   },
@@ -19427,7 +19559,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10764,
+   "stars": 10766,
    "forks": 1244,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
@@ -19508,6 +19640,10 @@
     {
      "date": "2026-11-06",
      "stars": 10764
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 10766
     }
    ]
   },
@@ -19603,6 +19739,10 @@
     },
     {
      "date": "2026-11-06",
+     "stars": 515
+    },
+    {
+     "date": "2026-11-07",
      "stars": 515
     }
    ]
@@ -19700,6 +19840,10 @@
     {
      "date": "2026-11-06",
      "stars": 342
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 342
     }
    ]
   },
@@ -19790,6 +19934,10 @@
     {
      "date": "2026-11-06",
      "stars": 246
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 246
     }
    ]
   },
@@ -19878,6 +20026,10 @@
     },
     {
      "date": "2026-11-06",
+     "stars": 1393
+    },
+    {
+     "date": "2026-11-07",
      "stars": 1393
     }
    ]
@@ -19974,6 +20126,10 @@
     {
      "date": "2026-11-06",
      "stars": 36
+    },
+    {
+     "date": "2026-11-07",
+     "stars": 36
     }
    ]
   },
@@ -20068,6 +20224,10 @@
     },
     {
      "date": "2026-11-06",
+     "stars": 5168
+    },
+    {
+     "date": "2026-11-07",
      "stars": 5168
     }
    ]
