@@ -1,5 +1,108 @@
 [
  {
+  "id": "c316c3030b1e",
+  "url": "https://bsky.app/profile/nber.org/post/3mzsrx64lil2f",
+  "title": "Using LLMs as synthetic survey respondents finds that institutions report weaker green tastes yet greener portfolio tilts than retail investors, citing outside pressure, from Xindi He and Lubos Pastor www.nber.org/papers/w35982",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "NBER",
+   "handle": "@nber.org",
+   "url": "https://bsky.app/profile/nber.org",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v7wvtabl4o6u5f426wqncxcu/bafkreiaomdu4p7o23c43eoim5jaqpm2pte6pbx5se3xwgkcbie4zjg5a6i"
+  },
+  "publishedAt": "2026-11-08T16:02:51.846Z",
+  "firstSeenAt": "2026-11-08T17:56:26.652Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM synthetic survey respondents research"
+  },
+  "metrics": {
+   "likes": 2,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares an NBER paper by Xindi He and Lubos Pastor using LLMs as synthetic survey respondents, finding institutions report weaker green tastes but greener portfolio tilts than retail investors."
+ },
+ {
+  "id": "f08ca2273fa2",
+  "url": "https://bsky.app/profile/kgajos.hci.social.ap.brid.gy/post/3mzshfnvfhb72",
+  "title": "Comparison of responses from synthetic users to responses from a census-matched sample of 1000 real people (by @jofish). \"Synthetic respondents are genuinely useful for some things and quietly, dangerously wrong for others.\" 1. \"They're great at what the internet already knows…",
+  "snippet": "Original post on hci.social.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Krzysztof Gajos",
+   "handle": "@kgajos.hci.social.ap.brid.gy",
+   "url": "https://bsky.app/profile/kgajos.hci.social.ap.brid.gy",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ql3gey4em242vkojikx4lax/bafkreia2h7l2yjqg6rv6yhirckhadocghqolbluag5z3eiq7j72rhpdo7m"
+  },
+  "link": "https://hci.social/@kgajos/117580918777792143",
+  "publishedAt": "2026-11-08T12:53:57.000Z",
+  "firstSeenAt": "2026-11-08T17:56:26.652Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of synthetic respondents against humans"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1
+  },
+  "aiSummary": "Post shares @jofish's comparison of synthetic user responses with a census-matched sample of 1000 real people, finding synthetic respondents useful for some things but dangerously wrong for others."
+ },
+ {
+  "id": "f5a33c6ac3cc",
+  "url": "https://bsky.app/profile/undercode.bsky.social/post/3mzsgn5lok52w",
+  "title": "When Synthetic AI Users Fail: Why Simulated Market Research Inflates Segment Gaps and False Conclusions + Video Introduction: Recent benchmarks on LLM-simulated human survey responses reveal critical flaws in synthetic market research, showing that AI \"customers\" drastically i…",
+  "snippet": "When Synthetic AI Users Fail: Why Simulated Market Research Inflates Segment Gaps and False Conclusions + Video. Introduction: Recent benchmarks on LLM-simulated human survey responses reveal critical flaws in synthetic market research, showing that AI \"customers\" drastically inflate behavioral and…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Undercode Testing",
+   "handle": "@undercode.bsky.social",
+   "url": "https://bsky.app/profile/undercode.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:owo2l6v35uvk3axlrkz6d2wt/bafkreih65fn32lw345ytyefbh5i2uwytd2fbvxmba5ovjfjzop44i747dm"
+  },
+  "link": "http://undercodetesting.com/when-synthetic-ai-users-fail-why-simulated-market-research-inflates-segment-gaps-and-false-conclusions-video/?utm_source=bluesky&utm_medium=jetpack_social",
+  "publishedAt": "2026-11-08T12:40:24.000Z",
+  "firstSeenAt": "2026-11-08T17:56:26.652Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critique of synthetic market research validity"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post argues that benchmarks on LLM-simulated survey responses reveal flaws in synthetic market research, with AI customers inflating segment gaps and producing false conclusions."
+ },
+ {
   "id": "13f5a193a22c",
   "url": "https://finance.biggo.com/news/cd15c9298c0e1d19",
   "title": "Aaru's Cam Fink says the next big AI market isn't chatbots — it's predicting what you'll buy next",

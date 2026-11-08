@@ -18873,6 +18873,31 @@
    "at": "2026-11-08T06:03:54.686Z",
    "by": "rules",
    "title": "Michelle Yeoh discusses her role as a replicant in Blade Runner 2099, career reflections, and personal life 🤖 IA: It's "
+  },
+  "5c98854edfd8": {
+   "at": "2026-11-08T17:56:26.652Z",
+   "by": "rules",
+   "title": "How Investors May Respond To Ipsos (ENXTPA:IPS) Chairman Americas Appointment"
+  },
+  "8acb04fd3377": {
+   "at": "2026-11-08T17:56:26.652Z",
+   "by": "rules",
+   "title": "Persuasion Models Outperform Claude and ChatGPT | Dan Lee｜MTS"
+  },
+  "deee1976819f": {
+   "at": "2026-11-08T17:56:26.652Z",
+   "by": "rules",
+   "title": "Salesforce shares rise 1.85% as cooler inflation data lifts tech sector"
+  },
+  "ac3555d893a7": {
+   "at": "2026-11-08T17:56:26.652Z",
+   "by": "rules",
+   "title": "\"A Beginner's Guide to Using Amazon Bedrock Models: Build Generative AI Applications on AWS\" by Tarun Verma #amazon-bedr"
+  },
+  "6a389f091172": {
+   "at": "2026-11-08T17:56:26.652Z",
+   "by": "rules",
+   "title": "🚀 New Remote Job Alert! 💼 Position: Sr Technical Product Manager-UK 🏢 Company: Certinia 🌍 Location: UK 📁 Category: "
   }
  },
  "repos": {
@@ -18882,8 +18907,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 84739,
-   "forks": 12828,
+   "stars": 84854,
+   "forks": 12860,
    "openIssues": 242,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -18976,7 +19001,7 @@
     },
     {
      "date": "2026-11-08",
-     "stars": 84739
+     "stars": 84854
     }
    ]
   },
@@ -18986,8 +19011,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42608,
-   "forks": 7619,
+   "stars": 42610,
+   "forks": 7618,
    "openIssues": 8,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -19080,7 +19105,7 @@
     },
     {
      "date": "2026-11-08",
-     "stars": 42608
+     "stars": 42610
     }
    ]
   },
@@ -19090,7 +19115,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22357,
+   "stars": 22359,
    "forks": 3133,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -19178,7 +19203,7 @@
     },
     {
      "date": "2026-11-08",
-     "stars": 22357
+     "stars": 22359
     }
    ]
   },
@@ -19390,9 +19415,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1868,
-   "forks": 401,
-   "openIssues": 71,
+   "stars": 1870,
+   "forks": 402,
+   "openIssues": 65,
    "pushedAt": "2026-11-03T23:16:18Z",
    "language": "Python",
    "latestRelease": {
@@ -19484,7 +19509,7 @@
     },
     {
      "date": "2026-11-08",
-     "stars": 1868
+     "stars": 1870
     }
    ]
   },
@@ -19494,10 +19519,10 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1393,
-   "forks": 222,
-   "openIssues": 36,
-   "pushedAt": "2026-11-03T17:01:09Z",
+   "stars": 1394,
+   "forks": 224,
+   "openIssues": 32,
+   "pushedAt": "2026-11-08T15:36:30Z",
    "language": "Python",
    "latestRelease": {
     "tag": "agentsociety2-v2.10.1",
@@ -19588,7 +19613,7 @@
     },
     {
      "date": "2026-11-08",
-     "stars": 1393
+     "stars": 1394
     }
    ]
   },
@@ -19600,7 +19625,7 @@
    "url": "https://github.com/microsoft/TinyTroupe",
    "stars": 7645,
    "forks": 695,
-   "openIssues": 46,
+   "openIssues": 50,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
@@ -19701,7 +19726,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10768,
+   "stars": 10770,
    "forks": 1244,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
@@ -19789,7 +19814,7 @@
     },
     {
      "date": "2026-11-08",
-     "stars": 10768
+     "stars": 10770
     }
    ]
   },
@@ -20204,7 +20229,7 @@
    "stars": 36,
    "forks": 8,
    "openIssues": 3,
-   "pushedAt": "2026-11-07T19:56:11Z",
+   "pushedAt": "2026-11-08T13:54:45Z",
    "language": "JavaScript",
    "latestRelease": {
     "tag": "v4.0.0",
