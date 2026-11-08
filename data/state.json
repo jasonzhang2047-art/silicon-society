@@ -18828,6 +18828,51 @@
    "at": "2026-11-07T17:44:55.261Z",
    "by": "rules",
    "title": "Full breakdown 👇 https://pondero.ai/news/2026-11-07-nvidia-cosmos3-world-models/?utm_source=bluesky&utm_medium=social&u"
+  },
+  "d8d77c3aaa9c": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "AVAV Stock Rebounds After-Hours On Record Sales And $1.5B Backlog — CEO Says FY27 ‘Off To A Strong Start’"
+  },
+  "5fc6b0b0f792": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box"
+  },
+  "1d0c1615a4f3": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "Show HN: Jacq, a DSL that compiles model and kernel descriptions to CUDA"
+  },
+  "d5689684c624": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "shanselman/gputaskman — A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV"
+  },
+  "fc114be9517d": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "AIの回答を、文章だけでなく表やボタンとして表示できるのは面白い。 VercelのChat SDKがjson-renderに対応。AIが定義済みの部品を組み合わせてUIを生成し、SlackやTeamsのカード形式で表示できるように。 社内向"
+  },
+  "d873e1744223": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "There seems to be some kind of hive-mind thing among sloppers in the self-publishing space now, where they're like \"we u"
+  },
+  "fe71c1a4511b": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "Vercel: Chat SDK agents can now stream generative UI with json-render"
+  },
+  "59c7b39c4cb8": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "Where Should Your LLM Agent Live Under SR 26-2? #AIGovernance #AI"
+  },
+  "237831d22912": {
+   "at": "2026-11-08T06:03:54.686Z",
+   "by": "rules",
+   "title": "Michelle Yeoh discusses her role as a replicant in Blade Runner 2099, career reflections, and personal life 🤖 IA: It's "
   }
  },
  "repos": {
@@ -18837,9 +18882,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 84629,
-   "forks": 12810,
-   "openIssues": 241,
+   "stars": 84739,
+   "forks": 12828,
+   "openIssues": 242,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -18928,6 +18973,10 @@
     {
      "date": "2026-11-07",
      "stars": 84629
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 84739
     }
    ]
   },
@@ -18937,8 +18986,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42607,
-   "forks": 7621,
+   "stars": 42608,
+   "forks": 7619,
    "openIssues": 8,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -19028,6 +19077,10 @@
     {
      "date": "2026-11-07",
      "stars": 42607
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 42608
     }
    ]
   },
@@ -19037,7 +19090,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22356,
+   "stars": 22357,
    "forks": 3133,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -19122,6 +19175,10 @@
     {
      "date": "2026-11-07",
      "stars": 22356
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 22357
     }
    ]
   },
@@ -19216,6 +19273,10 @@
     {
      "date": "2026-11-07",
      "stars": 627
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 627
     }
    ]
   },
@@ -19225,7 +19286,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5403,
+   "stars": 5404,
    "forks": 661,
    "openIssues": 58,
    "pushedAt": "2026-11-02T19:18:48Z",
@@ -19316,6 +19377,10 @@
     {
      "date": "2026-11-07",
      "stars": 5403
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 5404
     }
    ]
   },
@@ -19415,6 +19480,10 @@
     },
     {
      "date": "2026-11-07",
+     "stars": 1868
+    },
+    {
+     "date": "2026-11-08",
      "stars": 1868
     }
    ]
@@ -19516,6 +19585,10 @@
     {
      "date": "2026-11-07",
      "stars": 1393
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 1393
     }
    ]
   },
@@ -19527,7 +19600,7 @@
    "url": "https://github.com/microsoft/TinyTroupe",
    "stars": 7645,
    "forks": 695,
-   "openIssues": 44,
+   "openIssues": 46,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
@@ -19616,6 +19689,10 @@
     {
      "date": "2026-11-07",
      "stars": 7645
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 7645
     }
    ]
   },
@@ -19624,7 +19701,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10767,
+   "stars": 10768,
    "forks": 1244,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
@@ -19709,6 +19786,10 @@
     {
      "date": "2026-11-07",
      "stars": 10767
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 10768
     }
    ]
   },
@@ -19721,7 +19802,7 @@
    "stars": 515,
    "forks": 90,
    "openIssues": 63,
-   "pushedAt": "2026-11-05T20:29:47Z",
+   "pushedAt": "2026-11-08T03:30:36Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -19808,6 +19889,10 @@
     },
     {
      "date": "2026-11-07",
+     "stars": 515
+    },
+    {
+     "date": "2026-11-08",
      "stars": 515
     }
    ]
@@ -19909,6 +19994,10 @@
     {
      "date": "2026-11-07",
      "stars": 342
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 342
     }
    ]
   },
@@ -20003,6 +20092,10 @@
     {
      "date": "2026-11-07",
      "stars": 246
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 246
     }
    ]
   },
@@ -20011,7 +20104,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1393,
+   "stars": 1394,
    "forks": 56,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -20096,6 +20189,10 @@
     {
      "date": "2026-11-07",
      "stars": 1393
+    },
+    {
+     "date": "2026-11-08",
+     "stars": 1394
     }
    ]
   },
@@ -20107,7 +20204,7 @@
    "stars": 36,
    "forks": 8,
    "openIssues": 3,
-   "pushedAt": "2026-11-07T12:10:01Z",
+   "pushedAt": "2026-11-07T19:56:11Z",
    "language": "JavaScript",
    "latestRelease": {
     "tag": "v4.0.0",
@@ -20194,6 +20291,10 @@
     },
     {
      "date": "2026-11-07",
+     "stars": 36
+    },
+    {
+     "date": "2026-11-08",
      "stars": 36
     }
    ]
@@ -20293,6 +20394,10 @@
     },
     {
      "date": "2026-11-07",
+     "stars": 5167
+    },
+    {
+     "date": "2026-11-08",
      "stars": 5167
     }
    ]

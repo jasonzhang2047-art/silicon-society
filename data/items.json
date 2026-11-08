@@ -834,7 +834,7 @@
    "reason": "LLM simulation of individual human clients"
   },
   "metrics": {
-   "upvotes": 76,
+   "upvotes": 77,
    "comments": 2
   },
   "aiSummary": "Paper proposes Pandora, an LLM psychotherapy client simulation framework modeling evolving psychological and relational states to produce person-specific expression."
