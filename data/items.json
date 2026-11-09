@@ -1,5 +1,120 @@
 [
  {
+  "id": "92494fddca3a",
+  "url": "https://unite.ai/synthetic-audiences-ai-marketing-creative-unpredictability",
+  "title": "Synthetic Audiences and the Importance of Being Unpredictable",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Unite.AI",
+   "url": "https://www.unite.ai"
+  },
+  "publishedAt": "2026-11-09T18:33:10.000Z",
+  "firstSeenAt": "2026-11-09T22:23:24.318Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic audiences are core scope"
+  },
+  "aiSummary": "Unite.AI article on synthetic audiences and the importance of unpredictability."
+ },
+ {
+  "id": "20f9ecd586fe",
+  "url": "https://bsky.app/profile/norc.org/post/3mzve47gfxk2n",
+  "title": "New this month: NORC’s Research Science newsletter looks at how surveys are adapting, from synthetic respondents and mixed-mode designs to sample design innovation and measuring survey bias. Read the full issue: go.norc.org/4iGAKfH",
+  "snippet": "NORC Research Science • November 2026. The survey research industry is buzzing about synthetic respondents. Our expert separates hype from reality and shares what works.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "NORC at the University of Chicago",
+   "handle": "@norc.org",
+   "url": "https://bsky.app/profile/norc.org",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m3el5lhanzovl7b5vtpt2kkc/bafkreidrd4wzpvjet54xksllbulqc44sgqck5i3ejwog25lsizc4okrq3e"
+  },
+  "link": "https://go.norc.org/4iGAKfH",
+  "publishedAt": "2026-11-09T16:33:08.014Z",
+  "firstSeenAt": "2026-11-09T22:23:24.318Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents in survey research"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 1,
+   "replies": 0
+  },
+  "aiSummary": "NORC's November 2026 Research Science newsletter examines synthetic respondents, separating hype from reality, alongside other survey design topics."
+ },
+ {
+  "id": "8a9439811c48",
+  "url": "https://aimagazine.com/news/listen-labs-ai-customer-research-a-us-2bn-salesforce-deal",
+  "title": "Listen Labs: AI Customer Research & a US$2bn Salesforce Deal",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "AI Magazine",
+   "url": "https://aimagazine.com"
+  },
+  "publishedAt": "2026-11-09T14:23:54.000Z",
+  "firstSeenAt": "2026-11-09T22:23:24.318Z",
+  "people": [],
+  "orgs": [
+   "listen-labs"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "AI customer research company; title-only coverage"
+  },
+  "metrics": {},
+  "aiSummary": "AI Magazine covers Listen Labs, an AI customer research company, and a US$2bn deal involving Salesforce."
+ },
+ {
+  "id": "ffd02f431a82",
+  "url": "https://bsky.app/profile/csma-bot.bsky.social/post/3mzud45qqf52m",
+  "title": "Justin Downes, Robby Milletich, Newel Hirst: ODD+LLM: Specifying LLM-Agent Behavior for Reproducible Social Simulation https://arxiv.org/abs/2611.08932 https://arxiv.org/pdf/2611.08932 https://arxiv.org/html/2611.08932",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arXiv cs.MA Multiagent Systems",
+   "handle": "@csma-bot.bsky.social",
+   "url": "https://bsky.app/profile/csma-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xcpapx2w434lmha3ztd6sidx/bafkreidc4wusgyc3rzopebn7csfa6kna3ioddz62zglogpclj4cjthdnqu"
+  },
+  "publishedAt": "2026-11-09T06:42:32.738Z",
+  "firstSeenAt": "2026-11-09T22:23:24.318Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-agent social simulation reproducibility paper"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares an arXiv paper, ODD+LLM, on specifying LLM-agent behavior for reproducible social simulation."
+ },
+ {
   "id": "c316c3030b1e",
   "url": "https://bsky.app/profile/nber.org/post/3mzsrx64lil2f",
   "title": "Using LLMs as synthetic survey respondents finds that institutions report weaker green tastes yet greener portfolio tilts than retail investors, citing outside pressure, from Xindi He and Lubos Pastor www.nber.org/papers/w35982",
@@ -130,7 +245,8 @@
    "by": "llm",
    "reason": "Reproducibility standards for LLM-agent social simulation"
   },
-  "aiSummary": "Proposes ODD+LLM, an extension of the ODD protocol for documenting LLM-agent behavior in social simulations, tested via multiverse analysis of a published LLM naming-game simulation."
+  "aiSummary": "Proposes ODD+LLM, an extension of the ODD protocol for documenting LLM-agent behavior in social simulations, tested via multiverse analysis of a published LLM naming-game simulation.",
+  "metrics": {}
  },
  {
   "id": "5e7032b062d5",
@@ -160,7 +276,8 @@
    "by": "llm",
    "reason": "LLM human digital twins predicting survey responses"
   },
-  "aiSummary": "Studies BDE, a representation organizing respondents' survey histories into Background, Decision procedure, and Evaluation for LLM digital twins, evaluated on Twin-2K-500 across 17 tasks."
+  "aiSummary": "Studies BDE, a representation organizing respondents' survey histories into Background, Decision procedure, and Evaluation for LLM digital twins, evaluated on Twin-2K-500 across 17 tasks.",
+  "metrics": {}
  },
  {
   "id": "13f5a193a22c",

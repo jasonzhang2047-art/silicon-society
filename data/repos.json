@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 84957,
-  "forks": 12873,
-  "openIssues": 242,
+  "stars": 85064,
+  "forks": 12893,
+  "openIssues": 240,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -103,7 +103,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 84957
+    "stars": 85064
    }
   ]
  },
@@ -113,8 +113,8 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42612,
-  "forks": 7618,
+  "stars": 42616,
+  "forks": 7617,
   "openIssues": 8,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -211,7 +211,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 42612
+    "stars": 42616
    }
   ]
  },
@@ -221,8 +221,8 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22359,
-  "forks": 3134,
+  "stars": 22360,
+  "forks": 3135,
   "openIssues": 147,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
@@ -313,7 +313,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 22359
+    "stars": 22360
    }
   ]
  },
@@ -425,10 +425,10 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5405,
-  "forks": 662,
+  "stars": 5408,
+  "forks": 663,
   "openIssues": 58,
-  "pushedAt": "2026-11-02T19:18:48Z",
+  "pushedAt": "2026-11-09T10:25:24Z",
   "language": "Python",
   "latestRelease": {
    "tag": "v0.2.6",
@@ -523,7 +523,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 5405
+    "stars": 5408
    }
   ]
  },
@@ -533,10 +533,10 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1872,
+  "stars": 1873,
   "forks": 402,
   "openIssues": 57,
-  "pushedAt": "2026-11-03T23:16:18Z",
+  "pushedAt": "2026-11-09T14:14:36Z",
   "language": "Python",
   "latestRelease": {
    "tag": "v2.4.0",
@@ -631,7 +631,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 1872
+    "stars": 1873
    }
   ]
  },
@@ -749,7 +749,7 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7645,
+  "stars": 7646,
   "forks": 695,
   "openIssues": 50,
   "pushedAt": "2026-11-06T21:51:04Z",
@@ -847,7 +847,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 7645
+    "stars": 7646
    }
   ]
  },
@@ -856,8 +856,8 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10770,
-  "forks": 1244,
+  "stars": 10774,
+  "forks": 1245,
   "openIssues": 77,
   "pushedAt": "2026-11-05T01:06:54Z",
   "language": "TypeScript",
@@ -948,7 +948,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 10770
+    "stars": 10774
    }
   ]
  },
@@ -959,8 +959,8 @@
   "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 515,
-  "forks": 90,
-  "openIssues": 63,
+  "forks": 91,
+  "openIssues": 62,
   "pushedAt": "2026-11-08T03:30:36Z",
   "language": "Python",
   "latestRelease": {
@@ -1376,9 +1376,9 @@
   "label": "Social-media digital twin",
   "description": "An open-source, AI-driven Social Media Digital Twin powered by LLMs for Computational Social Science simulations, network analysis, and human-agent interaction.",
   "url": "https://github.com/YSocialTwin/YSocial",
-  "stars": 36,
-  "forks": 8,
-  "openIssues": 3,
+  "stars": 37,
+  "forks": 7,
+  "openIssues": 2,
   "pushedAt": "2026-11-08T13:54:45Z",
   "language": "JavaScript",
   "latestRelease": {
@@ -1474,7 +1474,7 @@
    },
    {
     "date": "2026-11-09",
-    "stars": 36
+    "stars": 37
    }
   ]
  },
