@@ -61,8 +61,8 @@
    "reason": "Validation of synthetic respondents against humans"
   },
   "metrics": {
-   "likes": 0,
-   "reposts": 0,
+   "likes": 4,
+   "reposts": 5,
    "replies": 1
   },
   "aiSummary": "Post shares @jofish's comparison of synthetic user responses with a census-matched sample of 1000 real people, finding synthetic respondents useful for some things but dangerously wrong for others."
@@ -101,6 +101,66 @@
    "replies": 0
   },
   "aiSummary": "Post argues that benchmarks on LLM-simulated survey responses reveal flaws in synthetic market research, with AI customers inflating segment gaps and producing false conclusions."
+ },
+ {
+  "id": "5b498f7753f9",
+  "url": "https://arxiv.org/abs/2611.08932",
+  "title": "ODD+LLM: Specifying LLM-Agent Behavior for Reproducible Social Simulation",
+  "snippet": "The ODD protocol is the de facto standard for describing agent-based models, but it lacks vocabulary for the components that determine LLM-agent behavior: prompt assembly, memory serialization, parsing, and retry logic. We propose ODD+LLM, a backward-compatible extension adding five documentation blocks grounded in the CoALA cognitive-architecture framework. To show that the gap matters, we conduct a multiverse analysis [Steegen et al., 2016] of a published LLM naming-game simulation, varying six specification choices a reimplementer must make. Variants that are defensible readings of the paper stay within statistical noise of our baseline reconstruction. Missing one instruction that the…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Justin Downes",
+   "Robby Milletich",
+   "Newel Hirst"
+  ],
+  "publishedAt": "2026-11-06T03:21:50.000Z",
+  "firstSeenAt": "2026-11-09T06:33:26.183Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Reproducibility standards for LLM-agent social simulation"
+  },
+  "aiSummary": "Proposes ODD+LLM, an extension of the ODD protocol for documenting LLM-agent behavior in social simulations, tested via multiverse analysis of a published LLM naming-game simulation."
+ },
+ {
+  "id": "5e7032b062d5",
+  "url": "https://arxiv.org/abs/2611.08730",
+  "title": "Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles",
+  "snippet": "LLM-based digital twins aim to predict how individuals would respond in new settings from representations of their prior responses. Existing evidence that compression of survey histories need not reduce predictive accuracy suggests that representation structure, rather than information volume alone, may be an important design choice. We study BDE, a fixed representation that organizes each respondent's survey history into Background, Decision procedure, and Evaluation. We evaluate it on Twin-2K-500 (Toubia et al., 2025) by predicting each respondent's held-out answers on 17 tasks. In a paired evaluation with 100 respondents, a fully inferred BDE profile improves overall accuracy over the…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Iris Ye",
+   "Tianze Deng",
+   "Ozan Candogan"
+  ],
+  "publishedAt": "2026-11-05T21:25:46.000Z",
+  "firstSeenAt": "2026-11-09T06:33:26.183Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM human digital twins predicting survey responses"
+  },
+  "aiSummary": "Studies BDE, a representation organizing respondents' survey histories into Background, Decision procedure, and Evaluation for LLM digital twins, evaluated on Twin-2K-500 across 17 tasks."
  },
  {
   "id": "13f5a193a22c",

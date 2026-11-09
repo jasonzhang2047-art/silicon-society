@@ -5,8 +5,8 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 84854,
-  "forks": 12860,
+  "stars": 84957,
+  "forks": 12873,
   "openIssues": 242,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
@@ -100,6 +100,10 @@
    {
     "date": "2026-11-08",
     "stars": 84854
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 84957
    }
   ]
  },
@@ -109,7 +113,7 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42610,
+  "stars": 42612,
   "forks": 7618,
   "openIssues": 8,
   "pushedAt": "2026-10-16T03:33:52Z",
@@ -204,6 +208,10 @@
    {
     "date": "2026-11-08",
     "stars": 42610
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 42612
    }
   ]
  },
@@ -214,7 +222,7 @@
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
   "stars": 22359,
-  "forks": 3133,
+  "forks": 3134,
   "openIssues": 147,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
@@ -301,6 +309,10 @@
    },
    {
     "date": "2026-11-08",
+    "stars": 22359
+   },
+   {
+    "date": "2026-11-09",
     "stars": 22359
    }
   ]
@@ -400,6 +412,10 @@
    {
     "date": "2026-11-08",
     "stars": 627
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 627
    }
   ]
  },
@@ -409,8 +425,8 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5404,
-  "forks": 661,
+  "stars": 5405,
+  "forks": 662,
   "openIssues": 58,
   "pushedAt": "2026-11-02T19:18:48Z",
   "language": "Python",
@@ -504,6 +520,10 @@
    {
     "date": "2026-11-08",
     "stars": 5404
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 5405
    }
   ]
  },
@@ -513,9 +533,9 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1870,
+  "stars": 1872,
   "forks": 402,
-  "openIssues": 65,
+  "openIssues": 57,
   "pushedAt": "2026-11-03T23:16:18Z",
   "language": "Python",
   "latestRelease": {
@@ -608,6 +628,10 @@
    {
     "date": "2026-11-08",
     "stars": 1870
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 1872
    }
   ]
  },
@@ -617,7 +641,7 @@
   "org": "tsinghua-fib",
   "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-  "stars": 1394,
+  "stars": 1395,
   "forks": 224,
   "openIssues": 32,
   "pushedAt": "2026-11-08T15:36:30Z",
@@ -712,6 +736,10 @@
    {
     "date": "2026-11-08",
     "stars": 1394
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 1395
    }
   ]
  },
@@ -816,6 +844,10 @@
    {
     "date": "2026-11-08",
     "stars": 7645
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 7645
    }
   ]
  },
@@ -912,6 +944,10 @@
    },
    {
     "date": "2026-11-08",
+    "stars": 10770
+   },
+   {
+    "date": "2026-11-09",
     "stars": 10770
    }
   ]
@@ -1017,6 +1053,10 @@
    {
     "date": "2026-11-08",
     "stars": 515
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 515
    }
   ]
  },
@@ -1121,6 +1161,10 @@
    {
     "date": "2026-11-08",
     "stars": 342
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 342
    }
   ]
  },
@@ -1219,6 +1263,10 @@
    {
     "date": "2026-11-08",
     "stars": 246
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 246
    }
   ]
  },
@@ -1315,6 +1363,10 @@
    },
    {
     "date": "2026-11-08",
+    "stars": 1394
+   },
+   {
+    "date": "2026-11-09",
     "stars": 1394
    }
   ]
@@ -1419,6 +1471,10 @@
    {
     "date": "2026-11-08",
     "stars": 36
+   },
+   {
+    "date": "2026-11-09",
+    "stars": 36
    }
   ]
  },
@@ -1521,6 +1577,10 @@
    },
    {
     "date": "2026-11-08",
+    "stars": 5167
+   },
+   {
+    "date": "2026-11-09",
     "stars": 5167
    }
   ]
