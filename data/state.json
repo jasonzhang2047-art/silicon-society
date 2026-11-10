@@ -19358,6 +19358,271 @@
    "at": "2026-11-10T07:20:58.905Z",
    "by": "llm",
    "title": "Wow, @yahoonews.com republished my report that originally ran on @palabranahj.bsky.social covering how AI slop pages are"
+  },
+  "7011c57b5c7c": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
+  },
+  "320f21650d87": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning"
+  },
+  "4804702f33e4": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Longtail-SWE: High-Quality SWE Tasks for Underrepresented Languages"
+  },
+  "2cc489468355": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure"
+  },
+  "b61cb799b4f1": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?"
+  },
+  "b1fdb8937f23": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation"
+  },
+  "9e24975a86f4": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization"
+  },
+  "6f5758db9aaa": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI"
+  },
+  "7780e52eccdb": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "onóna: Twin Embeddings with Tied Unembeddings"
+  },
+  "dc788b8bf68b": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill"
+  },
+  "d4e8e86125e0": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment"
+  },
+  "d14a8d45a022": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "InstantHMR : Real-Time Human Mesh Recovery on Your Phone"
+  },
+  "54e2bc512948": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Spatial Harness: Grounding Spatial Reasoning in Executable World States with Physics Engines"
+  },
+  "72ec1e746c35": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition"
+  },
+  "6d8cd8c87cf4": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States"
+  },
+  "7f38e7742e6a": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox"
+  },
+  "58fe93130326": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks"
+  },
+  "dcb2f9c3a4d0": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation"
+  },
+  "8de37aeb82f0": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching"
+  },
+  "22fcf8d18816": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Energy-Tweedie: Score meets Score, Energy meets Energy"
+  },
+  "45f7f21fca5b": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "YouGov Publishes Scientific Validation of Its AI Twins and Challenges Industry To Set Research Standards"
+  },
+  "b9ca9165f0c4": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Top 10 Consumer Goods Companies: LVMH Moët Hennessy Louis Vuitton"
+  },
+  "59e70fb058aa": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Molex Forecasts Top 10 Connectivity and Electronics Predictions for 2027: Powered by AI, Simulation-First Engineering an"
+  },
+  "6c0e50194616": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "The YouGov challenge to all AI simulators"
+  },
+  "58733682f406": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Top 10 Consumer Goods Companies: PepsiCo"
+  },
+  "e13e817157e2": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "llm",
+   "title": "AI Agents Use Digital Twins to Design and Test Automated Lab Workflows"
+  },
+  "39f24c4083a5": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "llm",
+   "title": "Can we trust digital twins? | YeeMei Chan"
+  },
+  "f207d290fd13": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Top 10 Consumer Goods Companies: L’Oréal"
+  },
+  "a20f474eeadb": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "The Top 100 Consumer Goods Companies of 2026"
+  },
+  "b58ae5e0b9dc": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Salesforce (NYSE:CRM) previsión de las acciones y estimaciones de analistas"
+  },
+  "8724af650554": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Alterra Labs raises $12.5M seed to stress-test medical AI"
+  },
+  "a9d95c45e174": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Show HN: Lovable for Photoshop"
+  },
+  "0cfc6be62a1f": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser"
+  },
+  "543833d3404d": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Show HN:Auto-CLI – Generate verified CLIs so agents can drive Windows apps"
+  },
+  "918267f16580": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Question: How to control unit tests in Agentic Pipelines"
+  },
+  "39e994344746": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "RunanywhereAI/trnrt — The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatib"
+  },
+  "f885716b884e": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "llm",
+   "title": "1/9 How much does wise reasoning depend on the situation? And can we study it in a similar way across cultures? Our new "
+  },
+  "aa6fa89f11cd": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "SynapseScribe (gaming) was founded, funded and sold entirely by AI agents. Acquired for roughly what it raised; the back"
+  },
+  "ea1c0d788a40": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Adobe MAX 2026 has Premiere’s Color Mode leaving beta, new AI audio and generative tools in the timeline, and MCP integr"
+  },
+  "9bb2524abf63": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Weekly Recap: 2026 outlook raised and generative AI contract value rises – TradingView Read MoreGenerative AI made up 34"
+  },
+  "de8307b355d8": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Yes, I read the statement, they consulted with LLM based agents and used them for code generation. LLMs are generative A"
+  },
+  "78f6a982acd3": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "La commission «IA générative et vulnérabilités» remet ce mardi au président de la République 18 recommandations pour enc"
+  },
+  "ce8476164549": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "From Prompts to Agents: Adobe's MAX 2026 Vision"
+  },
+  "4fc94bd2e73a": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Whom Do AI Agents Serve? Role-Induced Sponsorship Bias in Decision Models and Generative LLMs https://arxiv.org/abs/2609"
+  },
+  "7e44dd72471e": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "F5 says artificial intelligence and machine learning can identify anomalous behaviour, triage incidents and block threat"
+  },
+  "4509be8a53b5": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "It seems extremely clear to me that most or all criticism of “AI” is referring to generative LLM tools and agents powere"
+  },
+  "106769d629ae": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Synapseia (gaming) was founded, funded and sold entirely by AI agents. Acquired at a modest premium after finding a stea"
+  },
+  "324222df362b": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Synthetic tests simulate a user in a vacuum, while p75 field data represents the actual experience of the 75th percentil"
+  },
+  "5fdb2bbb0339": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Your health checks are green while 30% of users can't log in. Ping tests miss partial outages. https://www.valtersit.com"
+  },
+  "25f2cc5b56df": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "llm",
+   "title": "Short cloth, long history #3 The loincloth has adorned men’s bodies for millennia. Whether in full wrapup style, or in t"
+  },
+  "fc6b6a56df7b": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "llm",
+   "title": "Gemini 4 Carbon is now available"
+  },
+  "f8c1a7370c13": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "llm",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+  },
+  "7da1b2b4758f": {
+   "at": "2026-11-10T19:45:07.711Z",
+   "by": "rules",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity"
   }
  },
  "repos": {
@@ -19367,8 +19632,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85115,
-   "forks": 12897,
+   "stars": 85195,
+   "forks": 12912,
    "openIssues": 241,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -19469,7 +19734,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 85115
+     "stars": 85195
     }
    ]
   },
@@ -19479,8 +19744,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42614,
-   "forks": 7618,
+   "stars": 42625,
+   "forks": 7620,
    "openIssues": 8,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -19581,7 +19846,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 42614
+     "stars": 42625
     }
    ]
   },
@@ -19591,7 +19856,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22363,
+   "stars": 22366,
    "forks": 3134,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -19687,7 +19952,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 22363
+     "stars": 22366
     }
    ]
   },
@@ -19803,7 +20068,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5410,
+   "stars": 5411,
    "forks": 663,
    "openIssues": 58,
    "pushedAt": "2026-11-09T10:25:24Z",
@@ -19905,7 +20170,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 5410
+     "stars": 5411
     }
    ]
   },
@@ -20027,10 +20292,10 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1395,
+   "stars": 1396,
    "forks": 224,
-   "openIssues": 32,
-   "pushedAt": "2026-11-08T15:36:30Z",
+   "openIssues": 36,
+   "pushedAt": "2026-11-10T16:57:25Z",
    "language": "Python",
    "latestRelease": {
     "tag": "agentsociety2-v2.10.1",
@@ -20129,7 +20394,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 1395
+     "stars": 1396
     }
    ]
   },
@@ -20139,8 +20404,8 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7646,
-   "forks": 695,
+   "stars": 7647,
+   "forks": 696,
    "openIssues": 52,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
@@ -20241,7 +20506,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 7646
+     "stars": 7647
     }
    ]
   },
@@ -20250,7 +20515,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10776,
+   "stars": 10780,
    "forks": 1246,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
@@ -20346,7 +20611,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 10776
+     "stars": 10780
     }
    ]
   },
@@ -20356,7 +20621,7 @@
    "org": "expected-parrot",
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "url": "https://github.com/expectedparrot/edsl",
-   "stars": 517,
+   "stars": 518,
    "forks": 91,
    "openIssues": 62,
    "pushedAt": "2026-11-08T03:30:36Z",
@@ -20458,7 +20723,7 @@
     },
     {
      "date": "2026-11-10",
-     "stars": 517
+     "stars": 518
     }
    ]
   },

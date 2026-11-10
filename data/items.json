@@ -1,5 +1,27 @@
 [
  {
+  "id": "787c6c84759b",
+  "url": "https://yougov.com/en-us/reports/55890-global-digital-twins-report-2026",
+  "title": "Why YouGov’s approach to digital twins is fundamentally different – and better",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "YouGov",
+   "url": "https://yougov.com"
+  },
+  "publishedAt": "2026-11-10T10:23:34.000Z",
+  "firstSeenAt": "2026-11-10T19:45:07.711Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Pollster's human digital twins approach"
+  },
+  "aiSummary": "YouGov argues its approach to digital twins is fundamentally different and better."
+ },
+ {
   "id": "92494fddca3a",
   "url": "https://unite.ai/synthetic-audiences-ai-marketing-creative-unpredictability",
   "title": "Synthetic Audiences and the Importance of Being Unpredictable",
@@ -142,7 +164,8 @@
    "by": "llm",
    "reason": "LLM population opinion dynamics simulation"
   },
-  "aiSummary": "Studies how campaign budget timing and baseline drift shape opinion outcomes in networks of persona-conditioned LLM agents exchanging opinions, compared against no-campaign runs."
+  "aiSummary": "Studies how campaign budget timing and baseline drift shape opinion outcomes in networks of persona-conditioned LLM agents exchanging opinions, compared against no-campaign runs.",
+  "metrics": {}
  },
  {
   "id": "c316c3030b1e",
@@ -248,6 +271,34 @@
   "aiSummary": "Post argues that benchmarks on LLM-simulated survey responses reveal flaws in synthetic market research, with AI customers inflating segment gaps and producing false conclusions."
  },
  {
+  "id": "214722c3b620",
+  "url": "https://reddit.com/r/ClaudeAI/comments/1xquu2r/we_ran_an_agent_swarm_34_to_56_agents_on_claude",
+  "title": "We ran an agent swarm (34 to 56 agents) on Claude Opus 5.5 against live Polymarket markets, locked the forecasts before resolution, then scored them. The swarm was one Opus call at 500x the price",
+  "snippet": "We tested the open-source MiroFish swarm engine as a forecaster: Opus 5.5 writes personas from news files, 34 to 56 agents argue on a simulated social feed for 25 rounds, then you poll them. Next to every swarm run we asked Opus, Sonnet and Haiku the same question directly, 5 times each, same files. Forecasts were committed to a public repo before any of the 4 markets resolved. Now they have.…",
+  "category": "discussion",
+  "source": {
+   "kind": "reddit",
+   "name": "r/ClaudeAI",
+   "url": "https://www.reddit.com/r/ClaudeAI"
+  },
+  "author": {
+   "name": "u/Turbulent-Peace-8772"
+  },
+  "publishedAt": "2026-11-08T09:50:50.000Z",
+  "firstSeenAt": "2026-11-10T19:45:07.711Z",
+  "people": [],
+  "orgs": [
+   "mirofish"
+  ],
+  "tags": [],
+  "score": 10,
+  "verdict": {
+   "by": "llm",
+   "reason": "Evaluates LLM agent swarm prediction engine"
+  },
+  "aiSummary": "Users tested the open-source MiroFish swarm engine with 34-56 Opus 5.5 persona agents forecasting four Polymarket markets, comparing against direct model queries with pre-committed forecasts."
+ },
+ {
   "id": "2a7c337d3195",
   "url": "https://arxiv.org/abs/2611.11212",
   "title": "Deterministic Narrative Gravity: Bridging Theory of Mind and Historical Simulation through ABM-LLM Architectures",
@@ -307,7 +358,8 @@
    "by": "llm",
    "reason": "Generative agents platform with personality simulation"
   },
-  "aiSummary": "GARP is a platform for real-time generative agents in Godot running locally on a 3B model, adding emotion, Big Five personality axes and needs systems."
+  "aiSummary": "GARP is a platform for real-time generative agents in Godot running locally on a 3B model, adding emotion, Big Five personality axes and needs systems.",
+  "metrics": {}
  },
  {
   "id": "5aca4c38bba3",
