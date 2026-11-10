@@ -19,7 +19,8 @@
    "by": "llm",
    "reason": "Synthetic audiences are core scope"
   },
-  "aiSummary": "Unite.AI article on synthetic audiences and the importance of unpredictability."
+  "aiSummary": "Unite.AI article on synthetic audiences and the importance of unpredictability.",
+  "metrics": {}
  },
  {
   "id": "20f9ecd586fe",
@@ -113,6 +114,35 @@
    "replies": 0
   },
   "aiSummary": "Post shares an arXiv paper, ODD+LLM, on specifying LLM-agent behavior for reproducible social simulation."
+ },
+ {
+  "id": "3184d2f44b50",
+  "url": "https://arxiv.org/abs/2611.11867",
+  "title": "Competing Influence in LLM Populations: Budget Timing and Baseline Drift",
+  "snippet": "When competing campaigns target a population of large language model (LLM) agents, observed opinion changes may reflect both campaign influence and changes that would occur without intervention. We study how the timing of campaign expenditure and the population's own evolution shape outcomes in a network of persona-conditioned LLM agents that exchange and revise opinions in natural language. A proponent and a challenger are tasked with generating opposing messages under equal delivery budgets, while a separate stance probe measures opinions without influencing the simulation. Across eight claims, we compare single-campaign and competitive conditions against matched no-campaign runs, and…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Mehwish Nasim",
+   "Nicolas Fay"
+  ],
+  "publishedAt": "2026-11-09T04:44:17.000Z",
+  "firstSeenAt": "2026-11-10T07:20:58.905Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "physics.soc-ph"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM population opinion dynamics simulation"
+  },
+  "aiSummary": "Studies how campaign budget timing and baseline drift shape opinion outcomes in networks of persona-conditioned LLM agents exchanging opinions, compared against no-campaign runs."
  },
  {
   "id": "c316c3030b1e",
@@ -216,6 +246,131 @@
    "replies": 0
   },
   "aiSummary": "Post argues that benchmarks on LLM-simulated survey responses reveal flaws in synthetic market research, with AI customers inflating segment gaps and producing false conclusions."
+ },
+ {
+  "id": "2a7c337d3195",
+  "url": "https://arxiv.org/abs/2611.11212",
+  "title": "Deterministic Narrative Gravity: Bridging Theory of Mind and Historical Simulation through ABM-LLM Architectures",
+  "snippet": "Historical social simulation faces a fundamental reproducibility challenge: the stochastic nature of large language models (LLMs) introduces a digital butterfly effect that prevents exact replication across multi-turn runs. Furthermore, the inability to control low-level server parameters in commercial LLM hosting environments severely limits reproducibility. To overcome this opacity, we present a deterministic multi-agent framework coupling LLMs to an Agent-Based Modelling (ABM) pipeline grounded in Theory of Mind (ToM) and Cognitive Archaeology, and validate exact artifact identity within local, pinned execution environments using SHA-256 hashing. Run locally at temperature zero with…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Alicia Colmenero-Fernández",
+   "Lidia Ortega Alvarado"
+  ],
+  "publishedAt": "2026-11-08T08:00:06.000Z",
+  "firstSeenAt": "2026-11-10T07:20:58.905Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-driven ABM social simulation"
+  },
+  "metrics": {},
+  "aiSummary": "Presents a deterministic multi-agent framework coupling LLMs to an agent-based modelling pipeline for reproducible historical social simulation, grounded in Theory of Mind."
+ },
+ {
+  "id": "7e1e75eafc2e",
+  "url": "https://arxiv.org/abs/2611.11064",
+  "title": "GARP: Real-Time Generative Agents on Local Hardware in a Game Engine",
+  "snippet": "Generative agents are game characters whose plans, conversations, and memories are written on the fly by a large language model (LLM). The original Generative Agents demonstration used cloud inference in a custom simulation. We present GARP, a platform for real-time generative agents inside Godot, and describe the Character Behavior System used in GARP 2. The complete loop runs on local hardware using a 3B-parameter open-weight model and no cloud service. Alongside the original planning, memory, and reflection, GARP gives each agent an emotion system driven by LLM appraisal, four graded personality axes drawn from the Big Five that set simulation parameters as well as prompt text, six needs…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Piero Molino",
+   "Patrick John Chia",
+   "Federico Bianchi",
+   "Jonathan P. Chen",
+   "Paul Szerlip"
+  ],
+  "publishedAt": "2026-11-08T01:43:58.000Z",
+  "firstSeenAt": "2026-11-10T07:20:58.905Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative agents platform with personality simulation"
+  },
+  "aiSummary": "GARP is a platform for real-time generative agents in Godot running locally on a 3B model, adding emotion, Big Five personality axes and needs systems."
+ },
+ {
+  "id": "5aca4c38bba3",
+  "url": "https://arxiv.org/abs/2611.10641",
+  "title": "Same Contacts, Different Rooms:Meeting Format Shapes LLM Group Influence Beyond Pairwise Contact Counts",
+  "snippet": "Simulations of LLM agent collectives usually summarise interaction as a pairwise contact network. We test that summary with a contact-matched intervention: the members, their initial stances and every pairwise contact count stay fixed while the meetings are reorganised, and each member gives a one-step support readout after reading the arguments of everyone present. Across six open-weight LLMs and 14 debate topics, merging triads into five-person meetings (resize) moves group support more than reshuffling who meets in triads (regroup), although both move the same 60 dyadic exposures. The root-mean-square change is 4.36 versus 2.59 percentage points (pp), larger for resize in all six models…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Zhexi Gu",
+   "Shusheng Cao",
+   "Runping Zhu"
+  ],
+  "publishedAt": "2026-11-07T10:30:05.000Z",
+  "firstSeenAt": "2026-11-10T07:20:58.905Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "physics.soc-ph"
+  ],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM agent collective influence simulation"
+  },
+  "metrics": {},
+  "aiSummary": "Shows that reorganising meeting formats among LLM agent collectives, with fixed pairwise contacts, changes group support, across six open-weight LLMs and 14 debate topics."
+ },
+ {
+  "id": "09d55fa93a3f",
+  "url": "https://arxiv.org/abs/2611.10508",
+  "title": "Imperfectly Imperfect: Evaluating Graded Cognitive Diversity in LLM Persona Simulations",
+  "snippet": "Large language model (LLM) agents are increasingly used as synthetic participants in social, behavioural, and decision-making research, yet it remains unclear whether they can express graded cognitive diversity as assigned when engaging in simulated behaviour. We introduce a cognition-suite evaluation that tests whether simulated populations reproduce human variation in reasoning, self-reported traits, their associations, and downstream behaviour. Agents conditioned on synthetic or human-derived profiles of cognitive reflection, Need for Cognition, and Big Five personality answer the same suite as a cohort of 473 adults: two newly assembled tests, a Cognitive Reflection Test (CRT) and a…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Sion Weatherhead",
+   "Ben Newell",
+   "Aaron Belbasis",
+   "Flora Salim"
+  ],
+  "publishedAt": "2026-11-07T06:19:05.000Z",
+  "firstSeenAt": "2026-11-10T07:20:58.905Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 14,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validates LLM synthetic participants against humans"
+  },
+  "metrics": {},
+  "aiSummary": "Introduces a cognition-suite evaluation testing whether LLM persona agents reproduce human variation in reasoning, traits and behaviour, compared against a cohort of 473 adults."
  },
  {
   "id": "5b498f7753f9",
