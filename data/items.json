@@ -1,5 +1,60 @@
 [
  {
+  "id": "af948e9a8eb5",
+  "url": "https://bsky.app/profile/rcgd-isr.bsky.social/post/3mzy7piskbd2o",
+  "title": "Simulation: Jurgens urged caution about \"silicon sampling,\" the practice of using LLM personas in place of human participants. Current models often get average responses right but misrepresent how responses are distributed, which can undermine research findings.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "The Research Center for Group Dynamics",
+   "handle": "@rcgd-isr.bsky.social",
+   "url": "https://bsky.app/profile/rcgd-isr.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewar4etk5j7h62n3btvczyxq/bafkreiel473elskny7tpqn7zzvistqfomsazyf64j3g7nnnqfhcpybjr2i"
+  },
+  "publishedAt": "2026-11-10T19:52:17.774Z",
+  "firstSeenAt": "2026-11-11T06:24:54.793Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critique of silicon sampling validity"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Jurgens urged caution about silicon sampling, noting LLM personas often get average responses right but misrepresent response distributions, which can undermine research findings."
+ },
+ {
+  "id": "4ba24623c5bf",
+  "url": "https://thedrum.com/news/s-p-global-s-ai-buyer-test-reveals-the-limits-of-synthetic-research",
+  "title": "S&P Global’s AI buyer test reveals the limits of synthetic research",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "The Drum",
+   "url": "https://www.thedrum.com"
+  },
+  "publishedAt": "2026-11-10T16:56:24.000Z",
+  "firstSeenAt": "2026-11-11T06:24:54.793Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic research limits evaluation"
+  },
+  "aiSummary": "S&P Global ran an AI buyer test that reveals the limits of synthetic research."
+ },
+ {
   "id": "787c6c84759b",
   "url": "https://yougov.com/en-us/reports/55890-global-digital-twins-report-2026",
   "title": "Why YouGov’s approach to digital twins is fundamentally different – and better",
@@ -19,7 +74,8 @@
    "by": "llm",
    "reason": "Pollster's human digital twins approach"
   },
-  "aiSummary": "YouGov argues its approach to digital twins is fundamentally different and better."
+  "aiSummary": "YouGov argues its approach to digital twins is fundamentally different and better.",
+  "metrics": {}
  },
  {
   "id": "92494fddca3a",

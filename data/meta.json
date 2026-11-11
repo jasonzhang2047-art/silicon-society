@@ -1,31 +1,31 @@
 {
- "lastRunAt": "2026-11-10T19:45:07.711Z",
- "nextRunAt": "2026-11-11T07:45:07.711Z",
- "durationMs": 92924,
+ "lastRunAt": "2026-11-11T06:24:54.793Z",
+ "nextRunAt": "2026-11-11T18:24:54.793Z",
+ "durationMs": 82329,
  "mode": "incremental",
- "since": "2026-11-06T07:20:58.905Z",
+ "since": "2026-11-06T19:45:07.711Z",
  "relevanceGate": "llm",
  "llm": {
   "requests": 1,
-  "inputTokens": 989,
-  "outputTokens": 635,
+  "inputTokens": 750,
+  "outputTokens": 424,
   "refusals": 0,
   "errors": 0,
   "model": "claude-opus-5-5"
  },
  "counts": {
-  "total": 339,
+  "total": 341,
   "added": 2,
-  "updated": 16,
-  "candidates": 261,
-  "rejectedThisRun": 53,
+  "updated": 17,
+  "candidates": 248,
+  "rejectedThisRun": 38,
   "addedByCategory": {
    "news": 1,
-   "discussion": 1
+   "voices": 1
   },
   "totalByCategory": {
-   "news": 72,
-   "voices": 65,
+   "voices": 66,
+   "news": 73,
    "research": 156,
    "discussion": 6,
    "events": 6,
@@ -37,63 +37,63 @@
   {
    "name": "arXiv",
    "ok": true,
-   "fetched": 11,
-   "ms": 21962
+   "fetched": 10,
+   "ms": 22132
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 99,
-   "ms": 1716
+   "fetched": 91,
+   "ms": 1697
   },
   {
    "name": "Google News",
    "ok": true,
-   "fetched": 33,
-   "ms": 42254
+   "fetched": 29,
+   "ms": 40229
   },
   {
    "name": "GDELT",
-   "ok": false,
+   "ok": true,
    "fetched": 0,
-   "ms": 24032,
-   "error": "fetch failed"
+   "ms": 72849
   },
   {
    "name": "Hacker News",
    "ok": true,
    "fetched": 19,
-   "ms": 13729
+   "ms": 3787
   },
   {
    "name": "Reddit",
-   "ok": true,
-   "fetched": 2,
-   "ms": 84585
+   "ok": false,
+   "fetched": 0,
+   "ms": 287,
+   "error": "HTTP 403 for https://www.reddit.com/r/MachineLearning+LocalLLaMA+artificial+singularity+compsci+datascience+agi+ArtificialInteligence+UXResearch+Marketresearch+socialscience+AskSocialScience+AgentBase"
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
    "fetched": 0,
-   "ms": 11112
+   "ms": 8084
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 5801
+   "ms": 4590
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
    "fetched": 2,
-   "ms": 4830
+   "ms": 4892
   },
   {
    "name": "Bluesky · search",
    "ok": true,
-   "fetched": 72,
-   "ms": 4531
+   "fetched": 74,
+   "ms": 4374
   },
   {
    "name": "X · tracked accounts & keywords",
@@ -106,19 +106,19 @@
    "name": "Official blogs",
    "ok": true,
    "fetched": 3,
-   "ms": 2002
+   "ms": 1963
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 3,
-   "ms": 1055
+   "ms": 1078
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 7,
-   "ms": 1378
+   "ms": 1658
   }
  ]
 }

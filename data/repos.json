@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 85195,
-  "forks": 12912,
-  "openIssues": 241,
+  "stars": 85230,
+  "forks": 12920,
+  "openIssues": 242,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -108,6 +108,10 @@
    {
     "date": "2026-11-10",
     "stars": 85195
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 85230
    }
   ]
  },
@@ -117,7 +121,7 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42625,
+  "stars": 42626,
   "forks": 7620,
   "openIssues": 8,
   "pushedAt": "2026-10-16T03:33:52Z",
@@ -220,6 +224,10 @@
    {
     "date": "2026-11-10",
     "stars": 42625
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 42626
    }
   ]
  },
@@ -325,6 +333,10 @@
    },
    {
     "date": "2026-11-10",
+    "stars": 22366
+   },
+   {
+    "date": "2026-11-11",
     "stars": 22366
    }
   ]
@@ -432,6 +444,10 @@
    {
     "date": "2026-11-10",
     "stars": 627
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 627
    }
   ]
  },
@@ -441,8 +457,8 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5411,
-  "forks": 663,
+  "stars": 5412,
+  "forks": 662,
   "openIssues": 58,
   "pushedAt": "2026-11-09T10:25:24Z",
   "language": "Python",
@@ -544,6 +560,10 @@
    {
     "date": "2026-11-10",
     "stars": 5411
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 5412
    }
   ]
  },
@@ -553,9 +573,9 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1875,
+  "stars": 1878,
   "forks": 402,
-  "openIssues": 57,
+  "openIssues": 58,
   "pushedAt": "2026-11-09T14:14:36Z",
   "language": "Python",
   "latestRelease": {
@@ -656,6 +676,10 @@
    {
     "date": "2026-11-10",
     "stars": 1875
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 1878
    }
   ]
  },
@@ -768,6 +792,10 @@
    {
     "date": "2026-11-10",
     "stars": 1396
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 1396
    }
   ]
  },
@@ -777,9 +805,9 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7647,
+  "stars": 7648,
   "forks": 696,
-  "openIssues": 52,
+  "openIssues": 56,
   "pushedAt": "2026-11-06T21:51:04Z",
   "language": "Jupyter Notebook",
   "latestRelease": {
@@ -880,6 +908,10 @@
    {
     "date": "2026-11-10",
     "stars": 7647
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 7648
    }
   ]
  },
@@ -888,7 +920,7 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10780,
+  "stars": 10782,
   "forks": 1246,
   "openIssues": 77,
   "pushedAt": "2026-11-05T01:06:54Z",
@@ -985,6 +1017,10 @@
    {
     "date": "2026-11-10",
     "stars": 10780
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 10782
    }
   ]
  },
@@ -996,8 +1032,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 518,
   "forks": 91,
-  "openIssues": 62,
-  "pushedAt": "2026-11-08T03:30:36Z",
+  "openIssues": 63,
+  "pushedAt": "2026-11-10T20:22:16Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -1096,6 +1132,10 @@
    },
    {
     "date": "2026-11-10",
+    "stars": 518
+   },
+   {
+    "date": "2026-11-11",
     "stars": 518
    }
   ]
@@ -1209,6 +1249,10 @@
    {
     "date": "2026-11-10",
     "stars": 342
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 342
    }
   ]
  },
@@ -1315,6 +1359,10 @@
    {
     "date": "2026-11-10",
     "stars": 246
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 246
    }
   ]
  },
@@ -1419,6 +1467,10 @@
    },
    {
     "date": "2026-11-10",
+    "stars": 1394
+   },
+   {
+    "date": "2026-11-11",
     "stars": 1394
    }
   ]
@@ -1531,6 +1583,10 @@
    {
     "date": "2026-11-10",
     "stars": 37
+   },
+   {
+    "date": "2026-11-11",
+    "stars": 37
    }
   ]
  },
@@ -1641,6 +1697,10 @@
    },
    {
     "date": "2026-11-10",
+    "stars": 5166
+   },
+   {
+    "date": "2026-11-11",
     "stars": 5166
    }
   ]
