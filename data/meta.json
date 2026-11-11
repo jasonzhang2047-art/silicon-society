@@ -1,99 +1,99 @@
 {
- "lastRunAt": "2026-11-11T06:24:54.793Z",
- "nextRunAt": "2026-11-11T18:24:54.793Z",
- "durationMs": 82329,
+ "lastRunAt": "2026-11-11T19:37:08.252Z",
+ "nextRunAt": "2026-11-12T07:37:08.252Z",
+ "durationMs": 46045,
  "mode": "incremental",
- "since": "2026-11-06T19:45:07.711Z",
+ "since": "2026-11-07T06:24:54.793Z",
  "relevanceGate": "llm",
  "llm": {
   "requests": 1,
-  "inputTokens": 750,
-  "outputTokens": 424,
+  "inputTokens": 1394,
+  "outputTokens": 536,
   "refusals": 0,
   "errors": 0,
   "model": "claude-opus-5-5"
  },
  "counts": {
-  "total": 341,
-  "added": 2,
-  "updated": 17,
-  "candidates": 248,
-  "rejectedThisRun": 38,
+  "total": 342,
+  "added": 1,
+  "updated": 18,
+  "candidates": 277,
+  "rejectedThisRun": 53,
   "addedByCategory": {
-   "news": 1,
-   "voices": 1
+   "code": 1
   },
   "totalByCategory": {
+   "code": 11,
    "voices": 66,
    "news": 73,
    "research": 156,
    "discussion": 6,
    "events": 6,
-   "funding": 24,
-   "code": 10
+   "funding": 24
   }
  },
  "sources": [
   {
    "name": "arXiv",
    "ok": true,
-   "fetched": 10,
-   "ms": 22132
+   "fetched": 6,
+   "ms": 22050
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 91,
-   "ms": 1697
+   "fetched": 110,
+   "ms": 1680
   },
   {
    "name": "Google News",
    "ok": true,
-   "fetched": 29,
-   "ms": 40229
+   "fetched": 36,
+   "ms": 40249
   },
   {
    "name": "GDELT",
-   "ok": true,
+   "ok": false,
    "fetched": 0,
-   "ms": 72849
+   "ms": 24968,
+   "error": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=(%22generative%20agents%22%20OR%20%22synthetic%20respondents%22%20OR%20%22synthetic%20users%22%20OR%20%22silicon%20sampling%22)%20sourcel"
   },
   {
    "name": "Hacker News",
    "ok": true,
-   "fetched": 19,
-   "ms": 3787
+   "fetched": 22,
+   "ms": 3893
   },
   {
    "name": "Reddit",
    "ok": false,
    "fetched": 0,
-   "ms": 287,
+   "ms": 267,
    "error": "HTTP 403 for https://www.reddit.com/r/MachineLearning+LocalLLaMA+artificial+singularity+compsci+datascience+agi+ArtificialInteligence+UXResearch+Marketresearch+socialscience+AskSocialScience+AgentBase"
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
-   "fetched": 0,
-   "ms": 8084
+   "fetched": 1,
+   "ms": 12038
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 4590
+   "ms": 5724
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
    "fetched": 2,
-   "ms": 4892
+   "ms": 4875
   },
   {
    "name": "Bluesky · search",
    "ok": true,
-   "fetched": 74,
-   "ms": 4374
+   "fetched": 72,
+   "ms": 4526
   },
   {
    "name": "X · tracked accounts & keywords",
@@ -105,20 +105,20 @@
   {
    "name": "Official blogs",
    "ok": true,
-   "fetched": 3,
-   "ms": 1963
+   "fetched": 4,
+   "ms": 2749
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 3,
-   "ms": 1078
+   "ms": 1041
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 7,
-   "ms": 1658
+   "ms": 1846
   }
  ]
 }

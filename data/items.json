@@ -1,5 +1,35 @@
 [
  {
+  "id": "bd08dbe23887",
+  "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.11.0",
+  "title": "tsinghua-fib-lab/AgentSociety agentsociety2-v2.11.0 — AgentSociety2 2.11.0",
+  "snippet": "[2.11.0] 2026 11 11 agentsociety2 2.11.0 · extension 1.9.0 · 标签 agentsociety2 v2.11.0 Added docs ：引入 sphinx design 导航卡片与 sphinx copybutton 复制按钮；增加公开记忆 API、离线配置与回放示例验证，以及定期外链和 API 文档覆盖报告。 extension ：支持 Codex 官方账户设备登录——通过设备认证接口获取验证码与登录地址，支持复制、取消与重试，令牌由官方 CLI 保存并复用出站代理；每个 CLI 以单选方式选择主供应商，前后端统一协议与订阅兼容性判断。 extension ：供应商卡片展示余额、已用额度、剩余比例与重置时间，区分账户余额、套餐额度、API Key 额度与本地调用统计；支持自动识别与自定义查询接口（同源 GET、JSON…",
+  "category": "code",
+  "source": {
+   "kind": "github",
+   "name": "GitHub",
+   "url": "https://github.com/tsinghua-fib-lab/AgentSociety"
+  },
+  "publishedAt": "2026-11-11T11:52:02Z",
+  "firstSeenAt": "2026-11-11T19:37:08.252Z",
+  "people": [],
+  "orgs": [
+   "tsinghua-fib"
+  ],
+  "tags": [
+   "release"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Release of LLM-driven society simulation framework"
+  },
+  "metrics": {
+   "stars": 1397
+  },
+  "aiSummary": "AgentSociety2 v2.11.0 release adds documentation improvements, a public memory API, offline config and replay examples, and extension features for Codex device login and provider quota display."
+ },
+ {
   "id": "af948e9a8eb5",
   "url": "https://bsky.app/profile/rcgd-isr.bsky.social/post/3mzy7piskbd2o",
   "title": "Simulation: Jurgens urged caution about \"silicon sampling,\" the practice of using LLM personas in place of human participants. Current models often get average responses right but misrepresent how responses are distributed, which can undermine research findings.",
@@ -52,7 +82,8 @@
    "by": "llm",
    "reason": "Synthetic research limits evaluation"
   },
-  "aiSummary": "S&P Global ran an AI buyer test that reveals the limits of synthetic research."
+  "aiSummary": "S&P Global ran an AI buyer test that reveals the limits of synthetic research.",
+  "metrics": {}
  },
  {
   "id": "787c6c84759b",
