@@ -1,5 +1,38 @@
 [
  {
+  "id": "62d50040c574",
+  "url": "https://bsky.app/profile/peterscottreid.eurosky.social/post/3n2453ufrxs2j",
+  "title": "'synthetic users' = nonsense upon stilts",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Peter Scott Reid",
+   "handle": "@peterscottreid.eurosky.social",
+   "url": "https://bsky.app/profile/peterscottreid.eurosky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:in2uqa6lrww45nitl44d6b35/bafkreigm3pm5wqu6ognxno65gotcapkuszleuhc6shikvti5hihrzernsu"
+  },
+  "publishedAt": "2026-11-12T09:16:18.436Z",
+  "firstSeenAt": "2026-11-12T19:55:51.080Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critique of synthetic users concept"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "A Bluesky post dismisses 'synthetic users' as nonsense upon stilts."
+ },
+ {
   "id": "bd08dbe23887",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.11.0",
   "title": "tsinghua-fib-lab/AgentSociety agentsociety2-v2.11.0 — AgentSociety2 2.11.0",
@@ -755,7 +788,7 @@
    "reason": "Persona-conditioned simulated human users for evaluation"
   },
   "metrics": {
-   "upvotes": 0,
+   "upvotes": 4,
    "comments": 1
   },
   "aiSummary": "Interactive Visual Gym is a framework for closed-loop evaluation of visual interaction models, jointly simulating task environments and human users, with a persona-conditioned user simulation harness."

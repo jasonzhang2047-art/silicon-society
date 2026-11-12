@@ -20233,6 +20233,246 @@
    "at": "2026-11-12T07:13:07.359Z",
    "by": "rules",
    "title": "Camilla Hasloch creates sustainable linen brand using natural fibres and circular design principles 🤖 IA: It's not clic"
+  },
+  "9d5773919c05": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering"
+  },
+  "2c85c6d2a86c": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale"
+  },
+  "64f1ae956f71": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis"
+  },
+  "53ed6f074376": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model"
+  },
+  "d6d136934535": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control"
+  },
+  "96e26867c623": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Mixed Signals: Weight-Space Programming for EEG and ECG"
+  },
+  "194d71fff18f": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines"
+  },
+  "63d1654f5657": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "llm",
+   "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local "
+  },
+  "abf3b949b158": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "PolyRoute: A Twelve-Language and Code-Mixed Benchmark for Typed-Decision Routing, with Baselines and a Leaderboard"
+  },
+  "7894e590aca2": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping"
+  },
+  "bf4ad56cbc4e": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Clinisys Unveils Governed AI Roadmap for Laboratories"
+  },
+  "8356188e89d1": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "US design agency, Unspoken, speaks out on the value of Delft Design"
+  },
+  "fc7b79ae76c8": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "AI-Enabled Total Compensation Platforms Help Enterprises Manage Increasing Complexity, ISG says"
+  },
+  "9651bf377ceb": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "AI tool speeds up bioreactor development: simulations are up to 10,000 times faster"
+  },
+  "b9bc33739dd9": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "With Agentic AI and Robust OT to the Smart Factory"
+  },
+  "013f36857722": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Viewpoints.ai Honored With 'Generative AI Assistant Solution of the Year” In 2026 LegalTech Breakthrough Awards Program"
+  },
+  "313354d3df99": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Salesforce is dropping billions in a secretive acquisition spree"
+  },
+  "551d6ad4d231": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Plurai Raises $13M Seed to Stress-Test AI Agents Before Launch"
+  },
+  "ca538be7c828": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Mondrio Raises $3.75 Million to Connect AI Pricing Strategy With Deal Execution"
+  },
+  "b55baf719ac5": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Chrome releases Modern Web Guidance 1.0 for AI coding agents"
+  },
+  "69d00d7fac55": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Show HN: Incremendle, a new number-go-up game every day"
+  },
+  "ef2402fedb09": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "UI SDK: A library for agents to build the next generation of UIs"
+  },
+  "a45b03c01be9": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Show HN: Turri – a coding agent with the power of regenerative software"
+  },
+  "0686e9c8fac5": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Show HN: MergeMax, a monthly ranking of public merged PRs on GitHub"
+  },
+  "217499e0c258": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Show HN: Kapso – Iterative learning from enterprise data"
+  },
+  "e9ab5dca6955": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Claude Code's API billing depends on how often the cache expires"
+  },
+  "3f99482d49e0": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Banan1cee/whale_girl — 鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen."
+  },
+  "7abdba0a622d": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "llm",
+   "title": "Google Launches A2UI 1.0: An Open Protocol for… https://pklavc.com/blog/en/tech/google-a2ui-1-0-generative-ui-agentic-ex"
+  },
+  "679ac1db1a92": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences @RichMShan #techinnovation https://bit.ly/richshan https"
+  },
+  "bd9f9124efbc": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "A2UI 1.0 Discussion | hackernews | Author: zeroasterisk #AI"
+  },
+  "8e0bef8785d1": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "It beggars belief that the American Association of Literary Agents conference was sponsored by an LLM company which rece"
+  },
+  "e9064b615842": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "\"I Put Amazon Bedrock Guardrails in Front of My Agent. Here's What Still Got Through.\" by Roman Ceresnak #amazon-bedrock"
+  },
+  "8514e9079764": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "📣 New Podcast! \"How Automation Is Coming for the Gig Economy\" on @Spreaker"
+  },
+  "a36455e67b9a": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "\"A2UI 1.0 on AWS: a Strands Currency Agent with Amazon Nova, AgentCore Runtime and ECS Express Mode\" by xbill9 #amazon-b"
+  },
+  "ff5b8787660c": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Toronto's Generative and Agentic AI Summit is today. The one design rule worth carrying into the room: agents propose, p"
+  },
+  "5bdab4e64dee": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "This is a great write up of potential projects available to researchers in #CompChem with agents. The trick is having a "
+  },
+  "6243b31e8b43": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "🌅 Horizon AI Briefing — 2026-11-12 Google Gemini Decision 1 Launches: A Specialized Decision-Only AI Model △ vendor-cla"
+  },
+  "3e4a0d978f8e": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "\"Let the Model Choose, Let Code Decide: Six Patterns for Strands Agents on Amazon Bedrock AgentCore\" by Mohammad AlYasfo"
+  },
+  "bd714250d3f8": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "I'm continuing my series of shorts on why I don't use generative \"AI\". This time it's the fact that these tools are so i"
+  },
+  "ac5e0e5df965": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Your LLM gives confident answers, but they're not grounded in your company's content. Coveo is an enterprise AI-relevanc"
+  },
+  "4d534cef9d00": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Ping checks were all green while 30% of users couldn't log in. Build Playwright synthetic monitors that test real user j"
+  },
+  "9de75d727837": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "SYNTHETIC DRUG “TUSI” ISN’T WHAT YOU THINK IT IS On 9 November, Insight Crime carried an article warning that users don’"
+  },
+  "18d5c2cefbe3": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Cleaning unused JavaScript usually yields the biggest lab gains, but we always track field data like INP too. Synthetic "
+  },
+  "297b35eb74d5": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "llm",
+   "title": "Also: “synthetic users…”"
+  },
+  "116176db8a4f": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "@ai-release.bsky.social The true recursive bottleneck of synthetic agency is watching enterprise users plead with an emp"
+  },
+  "f65e5b1fd43e": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "www.bbc.com/news/article..."
+  },
+  "1de29023c7d1": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "rules",
+   "title": "Euphorbia horrida: la succulenta sudafricana con spine sorprendenti e fiori verdi unici #EuphorbiaHorrida #PianteSuccule"
+  },
+  "a8d5fa7d24b3": {
+   "at": "2026-11-12T19:55:51.080Z",
+   "by": "llm",
+   "title": "Introducing Gemini 4 Hydrogen"
   }
  },
  "repos": {
@@ -20242,8 +20482,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85347,
-   "forks": 12937,
+   "stars": 85407,
+   "forks": 12947,
    "openIssues": 243,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -20352,7 +20592,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 85347
+     "stars": 85407
     }
    ]
   },
@@ -20362,8 +20602,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42653,
-   "forks": 7629,
+   "stars": 42671,
+   "forks": 7633,
    "openIssues": 9,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -20472,7 +20712,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 42653
+     "stars": 42671
     }
    ]
   },
@@ -20482,7 +20722,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22371,
+   "stars": 22376,
    "forks": 3135,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -20586,7 +20826,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 22371
+     "stars": 22376
     }
    ]
   },
@@ -20596,8 +20836,8 @@
    "org": "stanford-hci",
    "description": "",
    "url": "https://github.com/StanfordHCI/genagents",
-   "stars": 627,
-   "forks": 164,
+   "stars": 628,
+   "forks": 165,
    "openIssues": 12,
    "pushedAt": "2024-11-18T14:36:12Z",
    "language": "Python",
@@ -20700,7 +20940,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 627
+     "stars": 628
     }
    ]
   },
@@ -20710,7 +20950,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5416,
+   "stars": 5423,
    "forks": 660,
    "openIssues": 58,
    "pushedAt": "2026-11-09T10:25:24Z",
@@ -20820,7 +21060,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 5416
+     "stars": 5423
     }
    ]
   },
@@ -21189,8 +21429,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10789,
-   "forks": 1244,
+   "stars": 10791,
+   "forks": 1245,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
    "language": "TypeScript",
@@ -21293,7 +21533,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 10789
+     "stars": 10791
     }
    ]
   },
@@ -21303,10 +21543,10 @@
    "org": "expected-parrot",
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "url": "https://github.com/expectedparrot/edsl",
-   "stars": 518,
+   "stars": 519,
    "forks": 91,
    "openIssues": 66,
-   "pushedAt": "2026-11-11T22:18:33Z",
+   "pushedAt": "2026-11-12T19:49:26Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -21413,7 +21653,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 518
+     "stars": 519
     }
    ]
   },
@@ -21423,7 +21663,7 @@
    "org": "cmu-lti",
    "description": "Sotopia: an Open-ended Social Learning Environment (ICLR 2024 spotlight)",
    "url": "https://github.com/sotopia-lab/sotopia",
-   "stars": 342,
+   "stars": 343,
    "forks": 52,
    "openIssues": 20,
    "pushedAt": "2026-06-05T17:23:42Z",
@@ -21533,7 +21773,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 342
+     "stars": 343
     }
    ]
   },
@@ -21543,7 +21783,7 @@
    "org": "ruc-gsai",
    "description": "",
    "url": "https://github.com/RUC-GSAI/YuLan-OneSim",
-   "stars": 246,
+   "stars": 247,
    "forks": 31,
    "openIssues": 10,
    "pushedAt": "2026-02-02T11:48:06Z",
@@ -21647,7 +21887,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 246
+     "stars": 247
     }
    ]
   },
@@ -21772,7 +22012,7 @@
    "stars": 37,
    "forks": 7,
    "openIssues": 2,
-   "pushedAt": "2026-11-11T15:03:50Z",
+   "pushedAt": "2026-11-12T14:13:11Z",
    "language": "JavaScript",
    "latestRelease": {
     "tag": "v4.0.0",
@@ -21888,7 +22128,7 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5165,
+   "stars": 5164,
    "forks": 522,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
@@ -21998,7 +22238,7 @@
     },
     {
      "date": "2026-11-12",
-     "stars": 5165
+     "stars": 5164
     }
    ]
   }
