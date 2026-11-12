@@ -716,6 +716,51 @@
   "metrics": {}
  },
  {
+  "id": "88014f14d783",
+  "url": "https://arxiv.org/abs/2611.08286",
+  "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
+  "snippet": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing benchmarks largely rely on offline replay and therefore cannot capture these effects. We introduce Interactive Visual Gym, a framework for closed-loop evaluation and training of visual interaction models through joint simulation of executable task environments and human users. We contribute three simulators that recreate everyday tasks and human-aligned action spaces across cooking, household manipulation, and mobile-interface domains, together with a persona-conditioned user simulation harness…",
+  "category": "research",
+  "source": {
+   "kind": "huggingface",
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/papers/2611.08286"
+  },
+  "authors": [
+   "Chenhao Zheng",
+   "Zixian Ma",
+   "Kai Li",
+   "Kanchana Ranasinghe",
+   "Jieyu Zhang",
+   "Artemis Panagopoulou",
+   "Weikai Huang",
+   "Jianxu Shangguan",
+   "Yuanyuan Tan",
+   "Silvio Savarese",
+   "Juan Carlos Niebles",
+   "Ranjay Krishna",
+   "Ran Xu",
+   "Honglu Zhou"
+  ],
+  "publishedAt": "2026-11-05T00:00:00.000Z",
+  "firstSeenAt": "2026-11-12T07:13:07.359Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "hf-trending"
+  ],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Persona-conditioned simulated human users for evaluation"
+  },
+  "metrics": {
+   "upvotes": 0,
+   "comments": 1
+  },
+  "aiSummary": "Interactive Visual Gym is a framework for closed-loop evaluation of visual interaction models, jointly simulating task environments and human users, with a persona-conditioned user simulation harness."
+ },
+ {
   "id": "33716b6d97ce",
   "url": "https://comses.net/events/805",
   "title": "Planetary Intelligence 27",
