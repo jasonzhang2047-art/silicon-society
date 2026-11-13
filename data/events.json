@@ -219,5 +219,24 @@
   },
   "verified": true,
   "upcoming": true
+ },
+ {
+  "name": "Social Simulation Conference 2027: Save the Date and Call for Workshops and Special Tracks!",
+  "kind": "event",
+  "start": "2027-08-16",
+  "end": "2027-08-20",
+  "location": "Malmö, Sweden",
+  "url": "https://essa.eu.org/ssc/2027/",
+  "description": "Malmö University and the Sustainable Digitalisation Research Centre are delighted to be hosting the 22nd Social Simulation Conference (SSC2027) and, in collaboration with Stockholm University and UiT The Arctic University of Norway (University of Tromsø), will be organising the annual scientific exchange of the European Social Simulation Association. The theme this year will be: *Social…",
+  "source": {
+   "name": "CoMSES Net",
+   "url": "https://comses.net/events/806"
+  },
+  "verified": false,
+  "tags": [
+   "abm-community",
+   "cfp-open"
+  ],
+  "upcoming": true
  }
 ]

@@ -20658,6 +20658,216 @@
    "at": "2026-11-13T06:48:27.475Z",
    "by": "rules",
    "title": "\"There are two kinds of people in this world: Those who believe there are two kinds of people in this world and those wh"
+  },
+  "6318c1a9c635": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception"
+  },
+  "f741b330c4b3": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models"
+  },
+  "8c97a33ec8de": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement"
+  },
+  "472f6c53fd63": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents"
+  },
+  "3cd24f43d3c4": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "DeepStress: Stress-Testing Deep Search Agents"
+  },
+  "cb19e2862333": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents"
+  },
+  "c816fa53367f": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates"
+  },
+  "ef255ee76f67": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Unbundling Multimodal Vision Encoding"
+  },
+  "9bd5e22181eb": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Structured Confidence Perturbation via Fisher Geometry for Adversarial Training"
+  },
+  "d83a734d81f7": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models"
+  },
+  "1b74118948fc": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement"
+  },
+  "67e1d3f3c687": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "llm",
+   "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents"
+  },
+  "774e333563cb": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?"
+  },
+  "061a5fe077d0": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "A frontier machine intelligence for human neuroimaging"
+  },
+  "18094139fe9c": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "llm",
+   "title": "UX Roundup: No More Web | Social Knowledge Work | Auto-Logout | Agents in the Field | Agentic Training Video | Unused Re"
+  },
+  "709e3a631007": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "NPCs in the AI World"
+  },
+  "b1403e0a0a47": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Translating GenZ values into future visions for TU Hortus Botanicus, the Netherlands Ministry of Defence, and Lufthansa "
+  },
+  "5d7273290fef": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Yougov Publishes Scientific Validation of Its AI Twins and Challenges Industry To Set Research Stand"
+  },
+  "39ecf5ea504f": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "NVIDIA CEO Transition Raises Strategic Questions for the Industrial AI Ecosystem"
+  },
+  "f3f0e8cb0fea": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "“The conversation is moving beyond cooling capacity”"
+  },
+  "8d3aa7b4c794": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "LangChain Raises $300 Million Series C Led by CapitalG at $3 Billion Valuation"
+  },
+  "d14e75b8d2df": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "LangChain Secures $300M Series C at $3B Valuation for Agent Governance"
+  },
+  "c4e3f949594d": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call"
+  },
+  "f52d0682b801": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Simple Puzzle Reveals AI's Jagged Intelligence"
+  },
+  "fb245d95d472": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Show HN: Wonderchat – A Zendesk alternative that doesn't charge per seat"
+  },
+  "b086318dbacd": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "mdiri-ai/SoduWork — The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted."
+  },
+  "0667a519c650": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "hyperionaidev/smolmaxxing — maxxing the ability to run different LLMs on the smallest devices possible"
+  },
+  "04bdc9bb055c": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "llm",
+   "title": "New Computational Social Science job at University of Oslo (Associate Professor)! www.jobbnorge.no/en/available..."
+  },
+  "cd2e12c814ac": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "#Bluesky Sudarshan AI Labs delivers AI-enabled digital marketing, GEO/AEO search optimization, local SEO, and Hinglish W"
+  },
+  "561a34a4146c": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "llm",
+   "title": "📰 New article by Sridhar Mahadevan, Kevin Baughey, Vedanth Srinivasan, Vijai Thoppae Accelerate design space exploratio"
+  },
+  "542e0af38632": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Before pricing an AI integration, check what runs today, what is planned and who approves access. Roadmaps are not deliv"
+  },
+  "014cae526637": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Thanks again to the Google A2UI team for including our walkthrough and article in the release announcement! developers.g"
+  },
+  "83afd8f43f32": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "My series of shorts on why I don't use generative \"AI\" continues. In today's I touch on the fact that writing and coding"
+  },
+  "145d9808e535": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "[Tuto] Agents IA : installer le harnais Pi.dev ou sa version dopée aux hormones Oh My Pi"
+  },
+  "74dc068ffdd5": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Muse can wait on hold indefinitely, but businesses that detect its synthetic voice may hang up. https://oossa.com/en/met"
+  },
+  "a441f773b6ac": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "At Building Galaxies from Scratch ( #BuGS2026 ), over 100 researchers gathered at Heidelberg University to discuss how n"
+  },
+  "3e70aa8a4d7b": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "llm",
+   "title": "www.everydev.ai/tools/novas..."
+  },
+  "15b129c1dc5a": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "llm",
+   "title": "Shipping a voice agent that only works when callers behave? Real users interrupt, go silent, switch topics and try promp"
+  },
+  "7c7d607ef9b0": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "Il Sudafrica vi è entrato senza un simile cuscinetto. Venerdì il rand è sceso ai minimi da sette mesi, prima di un dato "
+  },
+  "c05d3ae4ae95": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "e non è la prima volta che mettono in atto un provvedimento simile, mi sembra già all'inizio del 2026 fecero una cosa si"
+  },
+  "3c863d753d2f": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "rules",
+   "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy Haoyang Zhang et al. #arXiv #cs.AI #cs.SE"
+  },
+  "cd88f6cf71e0": {
+   "at": "2026-11-13T19:44:05.188Z",
+   "by": "llm",
+   "title": "Opening the datasets behind our AI weather models"
   }
  },
  "repos": {
@@ -20667,8 +20877,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85438,
-   "forks": 12959,
+   "stars": 85493,
+   "forks": 12966,
    "openIssues": 243,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -20781,7 +20991,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 85438
+     "stars": 85493
     }
    ]
   },
@@ -20791,9 +21001,9 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42680,
-   "forks": 7635,
-   "openIssues": 9,
+   "stars": 42688,
+   "forks": 7638,
+   "openIssues": 10,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
    "latestRelease": {
@@ -20905,7 +21115,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 42680
+     "stars": 42688
     }
    ]
   },
@@ -20915,8 +21125,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22375,
-   "forks": 3135,
+   "stars": 22377,
+   "forks": 3137,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -21023,7 +21233,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 22375
+     "stars": 22377
     }
    ]
   },
@@ -21151,7 +21361,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5423,
+   "stars": 5425,
    "forks": 660,
    "openIssues": 58,
    "pushedAt": "2026-11-09T10:25:24Z",
@@ -21265,7 +21475,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 5423
+     "stars": 5425
     }
    ]
   },
@@ -21275,7 +21485,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1884,
+   "stars": 1885,
    "forks": 404,
    "openIssues": 59,
    "pushedAt": "2026-11-09T14:14:36Z",
@@ -21389,7 +21599,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 1884
+     "stars": 1885
     }
    ]
   },
@@ -21399,10 +21609,10 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1397,
+   "stars": 1399,
    "forks": 224,
    "openIssues": 36,
-   "pushedAt": "2026-11-11T11:43:26Z",
+   "pushedAt": "2026-11-13T15:53:17Z",
    "language": "Python",
    "latestRelease": {
     "tag": "agentsociety2-v2.11.0",
@@ -21513,7 +21723,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 1397
+     "stars": 1399
     }
    ]
   },
@@ -21523,7 +21733,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7652,
+   "stars": 7653,
    "forks": 695,
    "openIssues": 62,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -21637,7 +21847,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 7652
+     "stars": 7653
     }
    ]
   },
@@ -21646,7 +21856,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10794,
+   "stars": 10797,
    "forks": 1246,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
@@ -21754,7 +21964,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 10794
+     "stars": 10797
     }
    ]
   },
@@ -21766,8 +21976,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 519,
    "forks": 91,
-   "openIssues": 60,
-   "pushedAt": "2026-11-13T04:32:05Z",
+   "openIssues": 59,
+   "pushedAt": "2026-11-13T17:34:23Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -21888,7 +22098,7 @@
    "org": "cmu-lti",
    "description": "Sotopia: an Open-ended Social Learning Environment (ICLR 2024 spotlight)",
    "url": "https://github.com/sotopia-lab/sotopia",
-   "stars": 343,
+   "stars": 344,
    "forks": 52,
    "openIssues": 20,
    "pushedAt": "2026-06-05T17:23:42Z",
@@ -22002,7 +22212,7 @@
     },
     {
      "date": "2026-11-13",
-     "stars": 343
+     "stars": 344
     }
    ]
   },
@@ -22249,8 +22459,8 @@
    "stars": 37,
    "forks": 7,
    "openIssues": 2,
-   "pushedAt": "2026-11-12T14:13:11Z",
-   "language": "JavaScript",
+   "pushedAt": "2026-11-13T14:31:35Z",
+   "language": "Python",
    "latestRelease": {
     "tag": "v4.0.0",
     "name": "Scadrial",

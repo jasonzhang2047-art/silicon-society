@@ -1,5 +1,109 @@
 [
  {
+  "id": "38d905b89a84",
+  "url": "https://comses.net/events/806",
+  "title": "Social Simulation Conference 2027: Save the Date and Call for Workshops and Special Tracks!",
+  "snippet": "Malmö University and the Sustainable Digitalisation Research Centre are delighted to be hosting the 22nd Social Simulation Conference (SSC2027) and, in collaboration with Stockholm University and UiT The Arctic University of Norway (University of Tromsø), will be organising the annual scientific exchange of the European Social Simulation Association. The theme this year will be: *Social…",
+  "category": "events",
+  "source": {
+   "kind": "comses",
+   "name": "CoMSES Net",
+   "url": "https://www.comses.net/events/"
+  },
+  "link": "https://essa.eu.org/ssc/2027/",
+  "publishedAt": "2026-11-13T15:44:40.963Z",
+  "firstSeenAt": "2026-11-13T19:44:05.188Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "abm-community",
+   "cfp-open"
+  ],
+  "score": 3,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Major social simulation conference announcement"
+  },
+  "event": {
+   "name": "Social Simulation Conference 2027: Save the Date and Call for Workshops and Special Tracks!",
+   "start": "2027-08-16",
+   "end": "2027-08-20",
+   "location": "Malmö, Sweden",
+   "url": "https://essa.eu.org/ssc/2027/"
+  },
+  "aiSummary": "Malmö University will host the 22nd Social Simulation Conference (SSC2027) for the European Social Simulation Association, issuing a save the date and call for workshops and special tracks."
+ },
+ {
+  "id": "2091ee148a00",
+  "url": "https://bsky.app/profile/amritathavrani.bsky.social/post/3n26i3frooc2m",
+  "title": "9/20 Generative Agents (2023) Imagine a virtual town populated by AI #agents with memories, relationships and plans. A fascinating exploration of #memory, reflection and emergent behaviour. arxiv.org/abs/2304.034...",
+  "snippet": ".",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Amrita",
+   "handle": "@amritathavrani.bsky.social",
+   "url": "https://bsky.app/profile/amritathavrani.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvo5uye7mxyimzznbjp6i7lt/bafkreidgjlbfukd3ig5fv7lgf2tfecktllacsbdimxke52ldzxkh23jjuy"
+  },
+  "link": "https://arxiv.org/abs/2304.03442⁠￼",
+  "publishedAt": "2026-11-13T07:38:13.733Z",
+  "firstSeenAt": "2026-11-13T19:44:05.188Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Discusses foundational generative agents paper"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1
+  },
+  "aiSummary": "Post highlights the 2023 Generative Agents paper, describing a virtual town of AI agents with memories, relationships and plans exhibiting emergent behaviour."
+ },
+ {
+  "id": "b8bc13fa006f",
+  "url": "https://bsky.app/profile/clankerview.com/post/3n26hvh4yyk2l",
+  "title": "Synthetic users, useful or hype? No, useful AND hype clankerview.com/blog/synthetic-users-useful-or-hype",
+  "snippet": "Synthetic users: useful or hype?. Both, depending on what you ask them. What the research says about AI personas standing in for real people, and the one distinction that decides whether they’re worth your time.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "ClankerView",
+   "handle": "@clankerview.com",
+   "url": "https://bsky.app/profile/clankerview.com",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qwhfafafzvu4mxdmx7oors6v/bafkreiefhzgw2jpbr4vvjdmfgsbvvxzauwuzyefym57zgzxcyfumrnlokm"
+  },
+  "link": "https://clankerview.com/blog/synthetic-users-useful-or-hype",
+  "publishedAt": "2026-11-13T07:34:53.826Z",
+  "firstSeenAt": "2026-11-13T19:44:05.188Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic users/AI personas replacing real people"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Blog post argues synthetic users are both useful and hype, reviewing research on AI personas standing in for real people and a key distinction for their value."
+ },
+ {
   "id": "62d50040c574",
   "url": "https://bsky.app/profile/peterscottreid.eurosky.social/post/3n2453ufrxs2j",
   "title": "'synthetic users' = nonsense upon stilts",
@@ -58,7 +162,7 @@
    "reason": "Release of LLM-driven society simulation framework"
   },
   "metrics": {
-   "stars": 1397
+   "stars": 1399
   },
   "aiSummary": "AgentSociety2 v2.11.0 release adds documentation improvements, a public memory API, offline config and replay examples, and extension features for Codex device login and provider quota display."
  },
@@ -89,7 +193,7 @@
    "reason": "Critique of silicon sampling validity"
   },
   "metrics": {
-   "likes": 0,
+   "likes": 1,
    "reposts": 0,
    "replies": 0
   },
