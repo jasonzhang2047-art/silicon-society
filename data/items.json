@@ -788,8 +788,8 @@
    "reason": "Persona-conditioned simulated human users for evaluation"
   },
   "metrics": {
-   "upvotes": 4,
-   "comments": 1
+   "upvotes": 13,
+   "comments": 3
   },
   "aiSummary": "Interactive Visual Gym is a framework for closed-loop evaluation of visual interaction models, jointly simulating task environments and human users, with a persona-conditioned user simulation harness."
  },
