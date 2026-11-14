@@ -5,8 +5,8 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 85493,
-  "forks": 12966,
+  "stars": 85522,
+  "forks": 12975,
   "openIssues": 243,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
@@ -120,6 +120,10 @@
    {
     "date": "2026-11-13",
     "stars": 85493
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 85522
    }
   ]
  },
@@ -129,8 +133,8 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42688,
-  "forks": 7638,
+  "stars": 42694,
+  "forks": 7642,
   "openIssues": 10,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -244,6 +248,10 @@
    {
     "date": "2026-11-13",
     "stars": 42688
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 42694
    }
   ]
  },
@@ -361,6 +369,10 @@
    },
    {
     "date": "2026-11-13",
+    "stars": 22377
+   },
+   {
+    "date": "2026-11-14",
     "stars": 22377
    }
   ]
@@ -480,6 +492,10 @@
    {
     "date": "2026-11-13",
     "stars": 629
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 629
    }
   ]
  },
@@ -489,8 +505,8 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5425,
-  "forks": 660,
+  "stars": 5426,
+  "forks": 661,
   "openIssues": 58,
   "pushedAt": "2026-11-09T10:25:24Z",
   "language": "Python",
@@ -604,6 +620,10 @@
    {
     "date": "2026-11-13",
     "stars": 5425
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 5426
    }
   ]
  },
@@ -727,6 +747,10 @@
    },
    {
     "date": "2026-11-13",
+    "stars": 1885
+   },
+   {
+    "date": "2026-11-14",
     "stars": 1885
    }
   ]
@@ -852,6 +876,10 @@
    {
     "date": "2026-11-13",
     "stars": 1399
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 1399
    }
   ]
  },
@@ -976,6 +1004,10 @@
    {
     "date": "2026-11-13",
     "stars": 7653
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 7653
    }
   ]
  },
@@ -984,7 +1016,7 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10797,
+  "stars": 10798,
   "forks": 1246,
   "openIssues": 77,
   "pushedAt": "2026-11-05T01:06:54Z",
@@ -1093,6 +1125,10 @@
    {
     "date": "2026-11-13",
     "stars": 10797
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 10798
    }
   ]
  },
@@ -1104,8 +1140,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 519,
   "forks": 91,
-  "openIssues": 59,
-  "pushedAt": "2026-11-13T17:34:23Z",
+  "openIssues": 58,
+  "pushedAt": "2026-11-14T05:46:17Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -1216,6 +1252,10 @@
    },
    {
     "date": "2026-11-13",
+    "stars": 519
+   },
+   {
+    "date": "2026-11-14",
     "stars": 519
    }
   ]
@@ -1341,6 +1381,10 @@
    {
     "date": "2026-11-13",
     "stars": 344
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 344
    }
   ]
  },
@@ -1459,6 +1503,10 @@
    {
     "date": "2026-11-13",
     "stars": 247
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 247
    }
   ]
  },
@@ -1575,6 +1623,10 @@
    },
    {
     "date": "2026-11-13",
+    "stars": 1395
+   },
+   {
+    "date": "2026-11-14",
     "stars": 1395
    }
   ]
@@ -1699,6 +1751,10 @@
    {
     "date": "2026-11-13",
     "stars": 37
+   },
+   {
+    "date": "2026-11-14",
+    "stars": 37
    }
   ]
  },
@@ -1821,6 +1877,10 @@
    },
    {
     "date": "2026-11-13",
+    "stars": 5164
+   },
+   {
+    "date": "2026-11-14",
     "stars": 5164
    }
   ]

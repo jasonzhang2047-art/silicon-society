@@ -20868,6 +20868,96 @@
    "at": "2026-11-13T19:44:05.188Z",
    "by": "llm",
    "title": "Opening the datasets behind our AI weather models"
+  },
+  "0cf57875206a": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction"
+  },
+  "e9940fb11db5": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes"
+  },
+  "2eeb15f24271": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space"
+  },
+  "3966540c4126": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming"
+  },
+  "04d60b24f109": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "Jensen Huang’s departure raises questions about Nvidia’s industrial AI ambitions"
+  },
+  "5567d1d84116": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "Computational Social Science: Core Methods Guide"
+  },
+  "47762107041a": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "llm",
+   "title": "Listen Labs – AI Customer Research, Adaptive Interviews & Automated Analysis"
+  },
+  "72d07a9f4b2b": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "llm",
+   "title": "millionways Introduces Thorsten-4, the Foundation Model That Teaches AI to Read the Room and Understand Human Behavior"
+  },
+  "a9aa1f46cea3": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "When Nothing Happens"
+  },
+  "b8b297ed6201": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "Sick of Herding AI Cats?"
+  },
+  "5d7d63e5a410": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "Mirendil Raises $1B Series A at $5B From Kleiner Perkins and Clearlake to Automate … Read MoreAnthropic OpenAI Google Fu"
+  },
+  "c8b91045561c": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "The Editor Impersonation Scam: From Solicitation to Source writerbeware.blog/2026/11/13/t..."
+  },
+  "d25afdc4ab77": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "\"Blocking an AI agent's shortcuts with tools: what verifying code comments taught me about steering and MCP\" by Kento Ik"
+  },
+  "49313e1d0481": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "As AI agents are given access to complex systems; I can't believe there won't be catastrophes. Until AI has scalable gen"
+  },
+  "5398179f8d35": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 a2ui-project / a2ui ⭐ 17,270 (+121) 🗒 TypeScript Open-source generative UI framewor"
+  },
+  "1ed5a3fdf6d7": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "\"The [AI driven] Editor Scam, has become the single most-reported fraud to Writer Beware...Scammers seem to be burning t"
+  },
+  "9ee86d95e9b2": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "New #WriterBeware blog post: A detailed deconstruction of the Editor Impersonation Scam that is currently the single mos"
+  },
+  "13784a8aeb81": {
+   "at": "2026-11-14T06:25:49.655Z",
+   "by": "rules",
+   "title": "[Tuto] Agents IA : installer le harnais Pi.dev ou sa version dopée aux hormones Oh My Pi"
   }
  },
  "repos": {
@@ -20877,8 +20967,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85493,
-   "forks": 12966,
+   "stars": 85522,
+   "forks": 12975,
    "openIssues": 243,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -20992,6 +21082,10 @@
     {
      "date": "2026-11-13",
      "stars": 85493
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 85522
     }
    ]
   },
@@ -21001,8 +21095,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42688,
-   "forks": 7638,
+   "stars": 42694,
+   "forks": 7642,
    "openIssues": 10,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -21116,6 +21210,10 @@
     {
      "date": "2026-11-13",
      "stars": 42688
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 42694
     }
    ]
   },
@@ -21233,6 +21331,10 @@
     },
     {
      "date": "2026-11-13",
+     "stars": 22377
+    },
+    {
+     "date": "2026-11-14",
      "stars": 22377
     }
    ]
@@ -21352,6 +21454,10 @@
     {
      "date": "2026-11-13",
      "stars": 629
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 629
     }
    ]
   },
@@ -21361,8 +21467,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5425,
-   "forks": 660,
+   "stars": 5426,
+   "forks": 661,
    "openIssues": 58,
    "pushedAt": "2026-11-09T10:25:24Z",
    "language": "Python",
@@ -21476,6 +21582,10 @@
     {
      "date": "2026-11-13",
      "stars": 5425
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 5426
     }
    ]
   },
@@ -21599,6 +21709,10 @@
     },
     {
      "date": "2026-11-13",
+     "stars": 1885
+    },
+    {
+     "date": "2026-11-14",
      "stars": 1885
     }
    ]
@@ -21724,6 +21838,10 @@
     {
      "date": "2026-11-13",
      "stars": 1399
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 1399
     }
    ]
   },
@@ -21848,6 +21966,10 @@
     {
      "date": "2026-11-13",
      "stars": 7653
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 7653
     }
    ]
   },
@@ -21856,7 +21978,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10797,
+   "stars": 10798,
    "forks": 1246,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
@@ -21965,6 +22087,10 @@
     {
      "date": "2026-11-13",
      "stars": 10797
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 10798
     }
    ]
   },
@@ -21976,8 +22102,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 519,
    "forks": 91,
-   "openIssues": 59,
-   "pushedAt": "2026-11-13T17:34:23Z",
+   "openIssues": 58,
+   "pushedAt": "2026-11-14T05:46:17Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -22088,6 +22214,10 @@
     },
     {
      "date": "2026-11-13",
+     "stars": 519
+    },
+    {
+     "date": "2026-11-14",
      "stars": 519
     }
    ]
@@ -22213,6 +22343,10 @@
     {
      "date": "2026-11-13",
      "stars": 344
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 344
     }
    ]
   },
@@ -22331,6 +22465,10 @@
     {
      "date": "2026-11-13",
      "stars": 247
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 247
     }
    ]
   },
@@ -22447,6 +22585,10 @@
     },
     {
      "date": "2026-11-13",
+     "stars": 1395
+    },
+    {
+     "date": "2026-11-14",
      "stars": 1395
     }
    ]
@@ -22571,6 +22713,10 @@
     {
      "date": "2026-11-13",
      "stars": 37
+    },
+    {
+     "date": "2026-11-14",
+     "stars": 37
     }
    ]
   },
@@ -22693,6 +22839,10 @@
     },
     {
      "date": "2026-11-13",
+     "stars": 5164
+    },
+    {
+     "date": "2026-11-14",
      "stars": 5164
     }
    ]
