@@ -163,7 +163,7 @@
    "reason": "Release of LLM-driven society simulation framework"
   },
   "metrics": {
-   "stars": 1399
+   "stars": 1401
   },
   "aiSummary": "AgentSociety2 v2.11.0 release adds documentation improvements, a public memory API, offline config and replay examples, and extension features for Codex device login and provider quota display."
  },
