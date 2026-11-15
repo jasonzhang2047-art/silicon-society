@@ -21183,6 +21183,51 @@
    "at": "2026-11-15T06:35:24.432Z",
    "by": "rules",
    "title": "Maadid is basically the gateway to the Tafilalt, and that oasis has a huge backstory. About 20km south sat Sijilmasa, fo"
+  },
+  "b1bf20f20fe4": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "Ask HN: Tips for maintainability of large software projects using agents?"
+  },
+  "ba1d84ed199d": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "Show HN: profiler-md converts performance profiles to Markdown"
+  },
+  "1ee3307f0b28": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "Show HN: SecureVibe – Find and trace vulnerabilities before shipping"
+  },
+  "059d421abf26": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "Thoughts on memory layers like mem0"
+  },
+  "586d37dc5945": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "Dodaios/ste80-humanizer — STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE"
+  },
+  "b98c9881022a": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "\"How AI Agents Are Changing Cloud Development (And How You Can Build One Simply)\" by syed Abdul Sami #agentic-ai #ai-age"
+  },
+  "272e3118f291": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "Mastering Generative Engine Optimization (GEO): A Technical Breakdown of 10 Enterprise Tools for AI Search Visibility an"
+  },
+  "9f8150356efa": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "llm",
+   "title": "\"The City That Can Think, Connect, and Respond | Part 7\" by sooraj balakrishnan #aws-iot #generative-ai #artificial-inte"
+  },
+  "e407a4a63a8a": {
+   "at": "2026-11-15T18:52:31.591Z",
+   "by": "rules",
+   "title": "Steroid users face a threefold risk of long-term ED Men who use anabolic steroids to bulk up and enhance performance fac"
   }
  },
  "repos": {
@@ -21192,8 +21237,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85630,
-   "forks": 12989,
+   "stars": 85681,
+   "forks": 12994,
    "openIssues": 243,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -21314,7 +21359,7 @@
     },
     {
      "date": "2026-11-15",
-     "stars": 85630
+     "stars": 85681
     }
    ]
   },
@@ -21324,8 +21369,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42701,
-   "forks": 7646,
+   "stars": 42715,
+   "forks": 7650,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -21446,7 +21491,7 @@
     },
     {
      "date": "2026-11-15",
-     "stars": 42701
+     "stars": 42715
     }
    ]
   },
@@ -21456,8 +21501,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22382,
-   "forks": 3138,
+   "stars": 22386,
+   "forks": 3139,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -21572,7 +21617,7 @@
     },
     {
      "date": "2026-11-15",
-     "stars": 22382
+     "stars": 22386
     }
    ]
   },
@@ -21840,7 +21885,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1892,
+   "stars": 1893,
    "forks": 405,
    "openIssues": 60,
    "pushedAt": "2026-11-09T14:14:36Z",
@@ -21962,7 +22007,7 @@
     },
     {
      "date": "2026-11-15",
-     "stars": 1892
+     "stars": 1893
     }
    ]
   },
@@ -21972,7 +22017,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1402,
+   "stars": 1404,
    "forks": 224,
    "openIssues": 36,
    "pushedAt": "2026-11-13T15:53:17Z",
@@ -22094,7 +22139,7 @@
     },
     {
      "date": "2026-11-15",
-     "stars": 1402
+     "stars": 1404
     }
    ]
   },
@@ -22104,8 +22149,8 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7656,
-   "forks": 695,
+   "stars": 7657,
+   "forks": 696,
    "openIssues": 62,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
@@ -22226,7 +22271,7 @@
     },
     {
      "date": "2026-11-15",
-     "stars": 7656
+     "stars": 7657
     }
    ]
   },
@@ -22235,7 +22280,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10804,
+   "stars": 10805,
    "forks": 1247,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
@@ -22351,7 +22396,7 @@
     },
     {
      "date": "2026-11-15",
-     "stars": 10804
+     "stars": 10805
     }
    ]
   },
@@ -22364,7 +22409,7 @@
    "stars": 519,
    "forks": 91,
    "openIssues": 58,
-   "pushedAt": "2026-11-14T13:30:38Z",
+   "pushedAt": "2026-11-15T09:08:49Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
