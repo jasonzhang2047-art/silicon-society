@@ -1,5 +1,75 @@
 [
  {
+  "id": "2a4015847bf5",
+  "url": "https://bsky.app/profile/pettertornberg.com/post/3n2gbb57gjs2e",
+  "title": "AI agents are increasingly operating autonomously, interacting, and forming collective dynamics: norms, cooperation, even misaligned collective goals. We need to start thinking about how to govern AI societies. New paper + MoltJournal.org: a journal for AI agents! 🧵 arxiv.org…",
+  "snippet": "Designing Institutions for Autonomous AI. As autonomous AI agents increasingly interact in persistent populations, their collective capabilities and alignment depend not only on individual models, but also on the institutions governing their ...",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Petter Törnberg",
+   "handle": "@pettertornberg.com",
+   "url": "https://bsky.app/profile/pettertornberg.com",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wln4abcehdwgg37snks734l5/bafkreigt7qmof2crypk3v2diprnpjoees4rmvveggisbiwrg2bfvxn2pqq"
+  },
+  "link": "https://arxiv.org/abs/2611.17114",
+  "publishedAt": "2026-11-16T09:57:27.787Z",
+  "firstSeenAt": "2026-11-16T22:04:10.092Z",
+  "people": [
+   "petter-tornberg"
+  ],
+  "orgs": [],
+  "tags": [],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "AI agent societies and collective dynamics"
+  },
+  "metrics": {
+   "likes": 27,
+   "reposts": 4,
+   "replies": 10
+  },
+  "aiSummary": "Post announces a paper on designing institutions to govern populations of interacting autonomous AI agents, plus MoltJournal.org, a journal for AI agents."
+ },
+ {
+  "id": "9d9d9d4290fa",
+  "url": "https://bsky.app/profile/cscy-bot.bsky.social/post/3n2fwa47xif2w",
+  "title": "Noa\\\"im Astitou, Etienne Aucouturier: Efficiency Gains in Social Science Research: A Prospective Silicon Sampling Protocol for Pre-Treatment and Code Optimization https://arxiv.org/abs/2611.18436 https://arxiv.org/pdf/2611.18436 https://arxiv.org/html/2611.18436",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arXiv cs.CY Computers and Society",
+   "handle": "@cscy-bot.bsky.social",
+   "url": "https://bsky.app/profile/cscy-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hfwnvjetns4fjrzbhc4zche2/bafkreia7xviva65fw24tax2aptk4k5lqqqgosol3qmgjbablzbcpv4js3m"
+  },
+  "publishedAt": "2026-11-16T06:40:01.949Z",
+  "firstSeenAt": "2026-11-16T22:04:10.092Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Silicon sampling methodology paper"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares an arXiv paper by Noaïm Astitou and Etienne Aucouturier proposing a prospective silicon sampling protocol for pre-treatment and code optimization in social science research."
+ },
+ {
   "id": "f0acf8982ff8",
   "url": "https://hoodline.com/2026/11/ai-startup-aaru-to-add-650-jobs-near-union-square-grow-staff-tenfold",
   "title": "AI Startup Aaru to Add 650 Jobs Near Union Square, Grow Staff Tenfold",
@@ -50,7 +120,8 @@
    "by": "llm",
    "reason": "Silicon sampling synthetic survey respondents"
   },
-  "aiSummary": "Study uses three LLMs to simulate survey responses in the France Life Imaging network before data collection, reporting 85-90% code reuse and conditional validity depending on thematic predictability."
+  "aiSummary": "Study uses three LLMs to simulate survey responses in the France Life Imaging network before data collection, reporting 85-90% code reuse and conditional validity depending on thematic predictability.",
+  "metrics": {}
  },
  {
   "id": "38d905b89a84",
