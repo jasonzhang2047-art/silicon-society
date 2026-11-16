@@ -21228,6 +21228,151 @@
    "at": "2026-11-15T18:52:31.591Z",
    "by": "rules",
    "title": "Steroid users face a threefold risk of long-term ED Men who use anabolic steroids to bulk up and enhance performance fac"
+  },
+  "71d70d19206d": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning"
+  },
+  "e841119ab8fb": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems"
+  },
+  "67ddb54c8843": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "llm",
+   "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent"
+  },
+  "cebb296c29e7": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers"
+  },
+  "a473302cc4f3": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "MMFlash: Faster Speculative Decoding for Vision-Language Models"
+  },
+  "72e49d471490": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "MEM-SQL: Memory-Empowered Text-to-SQL"
+  },
+  "62ffcac21083": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions"
+  },
+  "c2773270da67": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation"
+  },
+  "a5a8c7fcb82c": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple"
+  },
+  "31b2bbe291de": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "AI Reviews Are Biased Towards the Appendix"
+  },
+  "b353a5fa6121": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding"
+  },
+  "04a8b65f74a6": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means"
+  },
+  "a5bab3e045af": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion"
+  },
+  "6a1d2d99b3ef": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Aligning AI Teams"
+  },
+  "36c32382e5bb": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs"
+  },
+  "87a0c172252e": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams"
+  },
+  "363a1c70cf8f": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving"
+  },
+  "38f74dcab9e7": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "TÜV SÜD says simulated robot safety checks could start production up to 30% sooner"
+  },
+  "b55da76a7345": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Siemens Wants to Continue NVIDIA Partnership Even If Jensen Huang is Ousted"
+  },
+  "825abe9f60f4": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Cadence hops on the US Genesis Mission Consortium to advance AI-driven scientific discovery"
+  },
+  "cfbb185f97b0": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "llm",
+   "title": "Distributed Architecture Boosts Campus Multi-Agent Simulation Performance by 113.1 Percent"
+  },
+  "2237b10b43de": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Runpod – AI Developer Cloud, GPU Training & Serverless Inference"
+  },
+  "37beb50bfbf4": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Physicl raises $10 million to improve physical AI training with synthetic data"
+  },
+  "498022c4a5fa": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "hitkeeen/blender-ai-mcp-addon — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows"
+  },
+  "522ecbac11d4": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "\"From Chatbots to AI Agents: How AWS Is Changing the Future of Cloud Applications\" by Dhananjaya Premakumara #generative"
+  },
+  "05a96e5ca8b1": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "2026-11-14 | 🔀 🔥 The Co-Metabolic Crucible of Generative Friction 🔀 #AI Q: 🔥 Is friction needed for trust? 💡 Collec"
+  },
+  "bbd573078793": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "\"Stop Paying for Idle Agent Loops: Building Zero-Waste Human-in-the-Loop AI Agents with AWS Lambda Durable Functions and"
+  },
+  "dfe44cd73179": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "The shift from UI-heavy SaaS to intent-based AI agents is significant. The challenge will be maintaining data integrity "
+  },
+  "3b7c341c5547": {
+   "at": "2026-11-16T06:32:09.999Z",
+   "by": "rules",
+   "title": "Enterprise AI can be tested in simulated workplaces without customer records. Microsoft Research’s Copilot environments "
   }
  },
  "repos": {
@@ -21237,8 +21382,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85681,
-   "forks": 12994,
+   "stars": 85712,
+   "forks": 13000,
    "openIssues": 243,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -21360,6 +21505,10 @@
     {
      "date": "2026-11-15",
      "stars": 85681
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 85712
     }
    ]
   },
@@ -21369,7 +21518,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42715,
+   "stars": 42721,
    "forks": 7650,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -21492,6 +21641,10 @@
     {
      "date": "2026-11-15",
      "stars": 42715
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 42721
     }
    ]
   },
@@ -21618,6 +21771,10 @@
     {
      "date": "2026-11-15",
      "stars": 22386
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 22386
     }
    ]
   },
@@ -21627,7 +21784,7 @@
    "org": "stanford-hci",
    "description": "",
    "url": "https://github.com/StanfordHCI/genagents",
-   "stars": 629,
+   "stars": 630,
    "forks": 165,
    "openIssues": 12,
    "pushedAt": "2024-11-18T14:36:12Z",
@@ -21744,6 +21901,10 @@
     {
      "date": "2026-11-15",
      "stars": 629
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 630
     }
    ]
   },
@@ -21753,7 +21914,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5429,
+   "stars": 5430,
    "forks": 661,
    "openIssues": 58,
    "pushedAt": "2026-11-09T10:25:24Z",
@@ -21876,6 +22037,10 @@
     {
      "date": "2026-11-15",
      "stars": 5429
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 5430
     }
    ]
   },
@@ -21886,8 +22051,8 @@
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
    "stars": 1893,
-   "forks": 405,
-   "openIssues": 60,
+   "forks": 406,
+   "openIssues": 61,
    "pushedAt": "2026-11-09T14:14:36Z",
    "language": "Python",
    "latestRelease": {
@@ -22007,6 +22172,10 @@
     },
     {
      "date": "2026-11-15",
+     "stars": 1893
+    },
+    {
+     "date": "2026-11-16",
      "stars": 1893
     }
    ]
@@ -22140,6 +22309,10 @@
     {
      "date": "2026-11-15",
      "stars": 1404
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 1404
     }
    ]
   },
@@ -22149,7 +22322,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7657,
+   "stars": 7659,
    "forks": 696,
    "openIssues": 62,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -22272,6 +22445,10 @@
     {
      "date": "2026-11-15",
      "stars": 7657
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 7659
     }
    ]
   },
@@ -22280,8 +22457,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10805,
-   "forks": 1247,
+   "stars": 10809,
+   "forks": 1248,
    "openIssues": 77,
    "pushedAt": "2026-11-05T01:06:54Z",
    "language": "TypeScript",
@@ -22397,6 +22574,10 @@
     {
      "date": "2026-11-15",
      "stars": 10805
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 10809
     }
    ]
   },
@@ -22409,7 +22590,7 @@
    "stars": 519,
    "forks": 91,
    "openIssues": 58,
-   "pushedAt": "2026-11-15T09:08:49Z",
+   "pushedAt": "2026-11-15T23:11:10Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -22528,6 +22709,10 @@
     },
     {
      "date": "2026-11-15",
+     "stars": 519
+    },
+    {
+     "date": "2026-11-16",
      "stars": 519
     }
    ]
@@ -22661,6 +22846,10 @@
     {
      "date": "2026-11-15",
      "stars": 345
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 345
     }
    ]
   },
@@ -22787,6 +22976,10 @@
     {
      "date": "2026-11-15",
      "stars": 247
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 247
     }
    ]
   },
@@ -22795,7 +22988,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1396,
+   "stars": 1397,
    "forks": 56,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -22912,6 +23105,10 @@
     {
      "date": "2026-11-15",
      "stars": 1396
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 1397
     }
    ]
   },
@@ -22920,7 +23117,7 @@
    "label": "Social-media digital twin",
    "description": "An open-source, AI-driven Social Media Digital Twin powered by LLMs for Computational Social Science simulations, network analysis, and human-agent interaction.",
    "url": "https://github.com/YSocialTwin/YSocial",
-   "stars": 37,
+   "stars": 38,
    "forks": 7,
    "openIssues": 2,
    "pushedAt": "2026-11-14T07:40:25Z",
@@ -23043,6 +23240,10 @@
     {
      "date": "2026-11-15",
      "stars": 37
+    },
+    {
+     "date": "2026-11-16",
+     "stars": 38
     }
    ]
   },
@@ -23173,6 +23374,10 @@
     },
     {
      "date": "2026-11-15",
+     "stars": 5165
+    },
+    {
+     "date": "2026-11-16",
      "stars": 5165
     }
    ]

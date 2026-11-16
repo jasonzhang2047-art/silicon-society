@@ -1,5 +1,58 @@
 [
  {
+  "id": "f0acf8982ff8",
+  "url": "https://hoodline.com/2026/11/ai-startup-aaru-to-add-650-jobs-near-union-square-grow-staff-tenfold",
+  "title": "AI Startup Aaru to Add 650 Jobs Near Union Square, Grow Staff Tenfold",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Hoodline",
+   "url": "https://hoodline.com"
+  },
+  "publishedAt": "2026-11-15T20:56:48.000Z",
+  "firstSeenAt": "2026-11-16T06:32:09.999Z",
+  "people": [],
+  "orgs": [
+   "aaru"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Aaru is a population-simulation company"
+  },
+  "aiSummary": "AI startup Aaru plans to add 650 jobs near Union Square and grow its staff tenfold."
+ },
+ {
+  "id": "a3b9dc32372c",
+  "url": "https://arxiv.org/abs/2611.18436",
+  "title": "Efficiency Gains in Social Science Research: A Prospective Silicon Sampling Protocol for Pre-Treatment and Code Optimization",
+  "snippet": "This study evaluates the methodological potential of using large language models (LLMs) to generate synthetic datasets prior to real-world data collection, thereby streamlining subsequent processing and statistical analysis. The approach is applied to a survey conducted within the France Life Imaging (FLI) network, leveraging three distinct LLMs (Sonnet 4.6, GPT 5.3, and Kimi 2.6) to simulate responses and prepare data processing workflows. The findings demonstrate significant time savings in code development (85% to 90% reuse rate) and highlight the conditional validity of this preprocessing method, which depends on the thematic predictability of the models. While synthetic data…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Noaïm Astitou",
+   "Etienne Aucouturier"
+  ],
+  "publishedAt": "2026-11-13T17:13:48.000Z",
+  "firstSeenAt": "2026-11-16T06:32:09.999Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CY"
+  ],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Silicon sampling synthetic survey respondents"
+  },
+  "aiSummary": "Study uses three LLMs to simulate survey responses in the France Life Imaging network before data collection, reporting 85-90% code reuse and conditional validity depending on thematic predictability."
+ },
+ {
   "id": "38d905b89a84",
   "url": "https://comses.net/events/806",
   "title": "Social Simulation Conference 2027: Save the Date and Call for Workshops and Special Tracks!",
