@@ -21563,6 +21563,141 @@
    "at": "2026-11-16T22:04:10.092Z",
    "by": "rules",
    "title": "The man basically pioneered the \"automated\" drum loop before we had the silicon to do it for us. He was sampling the fut"
+  },
+  "faa339fbf235": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "llm",
+   "title": "Well-Log Reconstruction with Pre-trained Geological Knowledge: A Knowledge-Conditioned Large-Language-Model Generative A"
+  },
+  "d9719a9cb09d": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "llm",
+   "title": "From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts"
+  },
+  "753f1faf81d0": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models"
+  },
+  "b023f8d7a176": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data"
+  },
+  "d93081553b9b": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection"
+  },
+  "11fbf687495f": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "PaperCritic: Training AI Reviewers to Assess the Soundness of Papers"
+  },
+  "e3341307fff0": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model"
+  },
+  "1e00563b1147": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization"
+  },
+  "693ec7af8048": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "VoxMel TTS Technical Report"
+  },
+  "193d743a0575": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters"
+  },
+  "073c818a4759": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos"
+  },
+  "6c1b48e077a6": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers"
+  },
+  "44a64670dccc": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Latent Feedback Is a Compute and Data Amplifier"
+  },
+  "f9dc12b18f4e": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos"
+  },
+  "8dc7a4b61873": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images"
+  },
+  "6c228466ce6e": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "UMM-JEPA: Generative Pretraining via Masked Next-Scale Representation Prediction for Unified Multimodal Models"
+  },
+  "4438d55cfc36": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis"
+  },
+  "e8d77a39972e": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning"
+  },
+  "b48a6c03398c": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination"
+  },
+  "6b43bb15a560": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models"
+  },
+  "68f12ddfde7e": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Ask HN: Who's really winning with AI-Coding?"
+  },
+  "79974b9af137": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "llm",
+   "title": "Which country is the wisest? A deep dive in my new substack, covering the East-West stereotypes and some of their origin"
+  },
+  "5f87ff84279c": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "FAIAS v135 Just Raised the Bar for Independent AI Assurance in Financial Institutions + Video A More Demanding Standard "
+  },
+  "dbd9431b7ac3": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "\"The $2.59 Trillion AI Bubble Isn’t Popping—It’s Entering the ROI Reckoning\" by Aniket Khuntia #generative-ai #amazon-be"
+  },
+  "0d73c447dcb6": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "CMU just put actual Carnegie Mellon CS courses on YouTube for free. generative AI, AI agents, ML in production... the \"i"
+  },
+  "7b1576b731a8": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "Nessa onda aí de edições fac-símile… quando é que vão sair as fac-símiles de ACME NOVELTY LIBRARY? (A foto não é minha, "
+  },
+  "89066a9be4a5": {
+   "at": "2026-11-17T07:56:34.146Z",
+   "by": "rules",
+   "title": "The camel asks the desert where the oasis is. The desert answers by teaching it to walk. Every threshold you cross in co"
   }
  },
  "repos": {
@@ -21572,8 +21707,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85763,
-   "forks": 13012,
+   "stars": 85797,
+   "forks": 13015,
    "openIssues": 246,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -21699,6 +21834,10 @@
     {
      "date": "2026-11-16",
      "stars": 85763
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 85797
     }
    ]
   },
@@ -21708,7 +21847,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42730,
+   "stars": 42729,
    "forks": 7650,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -21835,6 +21974,10 @@
     {
      "date": "2026-11-16",
      "stars": 42730
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 42729
     }
    ]
   },
@@ -21964,6 +22107,10 @@
     },
     {
      "date": "2026-11-16",
+     "stars": 22388
+    },
+    {
+     "date": "2026-11-17",
      "stars": 22388
     }
    ]
@@ -22095,6 +22242,10 @@
     {
      "date": "2026-11-16",
      "stars": 630
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 630
     }
    ]
   },
@@ -22104,7 +22255,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5431,
+   "stars": 5432,
    "forks": 661,
    "openIssues": 58,
    "pushedAt": "2026-11-16T11:44:57Z",
@@ -22231,6 +22382,10 @@
     {
      "date": "2026-11-16",
      "stars": 5431
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 5432
     }
    ]
   },
@@ -22240,8 +22395,8 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1898,
-   "forks": 407,
+   "stars": 1901,
+   "forks": 408,
    "openIssues": 61,
    "pushedAt": "2026-11-09T14:14:36Z",
    "language": "Python",
@@ -22367,6 +22522,10 @@
     {
      "date": "2026-11-16",
      "stars": 1898
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 1901
     }
    ]
   },
@@ -22376,9 +22535,9 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1406,
-   "forks": 224,
-   "openIssues": 36,
+   "stars": 1407,
+   "forks": 225,
+   "openIssues": 37,
    "pushedAt": "2026-11-13T15:53:17Z",
    "language": "Python",
    "latestRelease": {
@@ -22503,6 +22662,10 @@
     {
      "date": "2026-11-16",
      "stars": 1406
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 1407
     }
    ]
   },
@@ -22512,7 +22675,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7659,
+   "stars": 7657,
    "forks": 696,
    "openIssues": 62,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -22639,6 +22802,10 @@
     {
      "date": "2026-11-16",
      "stars": 7659
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 7657
     }
    ]
   },
@@ -22647,10 +22814,10 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10814,
+   "stars": 10820,
    "forks": 1252,
-   "openIssues": 77,
-   "pushedAt": "2026-11-05T01:06:54Z",
+   "openIssues": 78,
+   "pushedAt": "2026-11-16T23:31:56Z",
    "language": "TypeScript",
    "history": [
     {
@@ -22768,6 +22935,10 @@
     {
      "date": "2026-11-16",
      "stars": 10814
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 10820
     }
    ]
   },
@@ -22903,6 +23074,10 @@
     },
     {
      "date": "2026-11-16",
+     "stars": 519
+    },
+    {
+     "date": "2026-11-17",
      "stars": 519
     }
    ]
@@ -23040,6 +23215,10 @@
     {
      "date": "2026-11-16",
      "stars": 345
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 345
     }
    ]
   },
@@ -23170,6 +23349,10 @@
     {
      "date": "2026-11-16",
      "stars": 247
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 247
     }
    ]
   },
@@ -23178,7 +23361,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1397,
+   "stars": 1398,
    "forks": 56,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -23299,6 +23482,10 @@
     {
      "date": "2026-11-16",
      "stars": 1397
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 1398
     }
    ]
   },
@@ -23434,6 +23621,10 @@
     {
      "date": "2026-11-16",
      "stars": 37
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 37
     }
    ]
   },
@@ -23442,7 +23633,7 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5165,
+   "stars": 5166,
    "forks": 523,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
@@ -23569,6 +23760,10 @@
     {
      "date": "2026-11-16",
      "stars": 5165
+    },
+    {
+     "date": "2026-11-17",
+     "stars": 5166
     }
    ]
   }

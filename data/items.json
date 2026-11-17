@@ -1,5 +1,38 @@
 [
  {
+  "id": "bbc9b4d66e7e",
+  "url": "https://arxiv.org/abs/2611.21376",
+  "title": "A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents",
+  "snippet": "Prior work has shown that large language models (LLMs) express implicit biases in high-publicity, one-off decision scenarios such as hiring and intelligence assessment. However, as people increasingly employ autonomous, LLM-powered AI agents that make decisions on their behalf in doing day-to-day tasks, it is of critical importance that we understand how implicit biases, based on sociodemographic assumptions, emerge across a broad milieu of workaday decision scenarios. We used the 17 domains of daily activity in the American Time Use Survey (ATUS) to generate an atlas of 506 decision scenarios in which LLMs --- endowed with personas representing different races, gender identities, and…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Jason Alexander",
+   "Yuxuan Li",
+   "Michael Licamele",
+   "Wesley Hanwen Deng",
+   "Sauvik Das"
+  ],
+  "publishedAt": "2026-11-16T16:36:47.000Z",
+  "firstSeenAt": "2026-11-17T07:56:34.146Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CY"
+  ],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Persona-conditioned LLM agents, sociodemographic behavior audit"
+  },
+  "metrics": {},
+  "aiSummary": "Using 17 ATUS daily-activity domains, researchers built an atlas of 506 decision scenarios testing implicit bias in LLM agents given sociodemographic personas."
+ },
+ {
   "id": "2a4015847bf5",
   "url": "https://bsky.app/profile/pettertornberg.com/post/3n2gbb57gjs2e",
   "title": "AI agents are increasingly operating autonomously, interacting, and forming collective dynamics: norms, cooperation, even misaligned collective goals. We need to start thinking about how to govern AI societies. New paper + MoltJournal.org: a journal for AI agents! 🧵 arxiv.org…",
@@ -30,9 +63,9 @@
    "reason": "AI agent societies and collective dynamics"
   },
   "metrics": {
-   "likes": 27,
+   "likes": 29,
    "reposts": 4,
-   "replies": 10
+   "replies": 12
   },
   "aiSummary": "Post announces a paper on designing institutions to govern populations of interacting autonomous AI agents, plus MoltJournal.org, a journal for AI agents."
  },
@@ -70,6 +103,64 @@
   "aiSummary": "Post shares an arXiv paper by Noaïm Astitou and Etienne Aucouturier proposing a prospective silicon sampling protocol for pre-treatment and code optimization in social science research."
  },
  {
+  "id": "408457c46f4c",
+  "url": "https://arxiv.org/abs/2611.20606",
+  "title": "Necessary for What? Auditing Demographic Disclosure to LLM Synthetic Respondents",
+  "snippet": "Large language models (LLMs) increasingly answer surveys on behalf of real panelists, and each panelist's recorded demographic attributes (e.g., age, education, ethnicity) are often placed in the prompt on the premise that richer profiles make more faithful synthetic respondents. While data minimization limits personal data to what a purpose requires, a synthetic survey serves several purposes at once, from predicting individual answers to estimating how opinions are distributed and comparing groups. We ask which of these purposes require the respondent's record, and whether improved estimates support sound conclusions about groups. We vary whose profile a model receives, where it comes…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Aspen Wang",
+   "Yen Yu Shan",
+   "Lun-Wei Ku"
+  ],
+  "publishedAt": "2026-11-16T06:29:50.000Z",
+  "firstSeenAt": "2026-11-17T07:56:34.146Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CY"
+  ],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Directly studies LLM synthetic survey respondents"
+  },
+  "aiSummary": "The paper audits which survey purposes require giving panelists' demographic attributes to LLM synthetic respondents, varying whose profile the model receives."
+ },
+ {
+  "id": "5c78f0a70c85",
+  "url": "https://arxiv.org/abs/2611.20540",
+  "title": "Changing a View Is Not Amending a Record: Timing and Visibility in a Model of Public Correction",
+  "snippet": "An accusation may remain on the public record after its author has changed their mind. Observers can respond either to what a person says now or to an earlier statement that has never been explicitly amended. We examine the consequences of these two signals with a generative agent-based model that separates private evidence updates, current expression, and revisions linked to a specific declaration. In paired worlds, evidence, prehistory, and opportunities to revisit that declaration remain fixed. When expression and amendment are synchronized and fully observed, the feedback channels produce identical trajectories. With sparse review, record-based feedback leaves 19.44 percentage points…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Ziming Liu"
+  ],
+  "publishedAt": "2026-11-16T05:18:00.000Z",
+  "firstSeenAt": "2026-11-17T07:56:34.146Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.SI"
+  ],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative agent-based social simulation of public correction"
+  },
+  "aiSummary": "A generative agent-based model separates private evidence updates, current expression, and record amendments to study how public corrections affect observer feedback under different review conditions."
+ },
+ {
   "id": "f0acf8982ff8",
   "url": "https://hoodline.com/2026/11/ai-startup-aaru-to-add-650-jobs-near-union-square-grow-staff-tenfold",
   "title": "AI Startup Aaru to Add 650 Jobs Near Union Square, Grow Staff Tenfold",
@@ -92,6 +183,69 @@
    "reason": "Aaru is a population-simulation company"
   },
   "aiSummary": "AI startup Aaru plans to add 650 jobs near Union Square and grow its staff tenfold."
+ },
+ {
+  "id": "0599676be458",
+  "url": "https://arxiv.org/abs/2611.19299",
+  "title": "Staged Semantic Distillation: Preserving Free-Form Semantics in a Low-Compute Non-LLM Surrogate of a Staged LLM Agent",
+  "snippet": "Staged LLM agents make market and social simulators realistic, but one 102-day run of a 200-agent, ten-index market simulator issues 203,100 language-model calls and returns one realization. Conventional low-compute distillation drops their free-form intermediate state. We present staged semantic distillation, a low-compute method that preserves non-structured semantics in a non-LLM student trained from one recorded trace. A frozen encoder maps each teacher output to a 1024-d vector; the student sees typed stage-tagged vectors with stage-specific visibility, is jointly supervised, and trains with scheduled self-history. One TwinMarket trace yields a 13.2M-parameter deterministic student…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Zhiyang Niu",
+   "Huayuan Shen",
+   "Chuanjie Li",
+   "Mengmeng Zhao",
+   "Jiajia Zhang"
+  ],
+  "publishedAt": "2026-11-14T09:55:44.000Z",
+  "firstSeenAt": "2026-11-17T07:56:34.146Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "Efficient surrogates for LLM market/social simulators"
+  },
+  "metrics": {},
+  "aiSummary": "Staged semantic distillation trains a low-compute non-LLM student from one TwinMarket trace to replace costly staged LLM agents in market and social simulators."
+ },
+ {
+  "id": "c80b95ac14f3",
+  "url": "https://arxiv.org/abs/2611.19111",
+  "title": "Conditional Endorsement: Simulating How Adults with Different Skills Evaluate Canada's National AI Strategy",
+  "snippet": "Canada's 2026 national AI strategy, AI for All, commits to free AI training for everyone and to expanding business AI adoption, yet it is difficult to anticipate whether these policies will reach adults with uneven skills and circumstances. We ask how adults with diverse skills might rate these policies on support, effectiveness, and personal benefit, how their skills and circumstances shape these evaluations, and what implementation conditions they raise. We built 3,200 generative agents from a weighted sample of the Programme for the International Assessment of Adult Competencies (PIAAC) Cycle 2 respondents, collected their ratings and explanations for 20 policies, and analyzed dialogues…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Dipto Das",
+   "Felix Leduc",
+   "Shion Guha"
+  ],
+  "publishedAt": "2026-11-14T02:45:19.000Z",
+  "firstSeenAt": "2026-11-17T07:56:34.146Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative agents simulate population policy evaluations"
+  },
+  "aiSummary": "Researchers built 3,200 generative agents from PIAAC Cycle 2 respondents to rate 20 policies in Canada's 2026 national AI strategy and analyzed their explanations."
  },
  {
   "id": "a3b9dc32372c",
