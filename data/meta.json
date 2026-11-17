@@ -1,31 +1,32 @@
 {
- "lastRunAt": "2026-11-17T07:56:34.146Z",
- "nextRunAt": "2026-11-17T19:56:34.146Z",
- "durationMs": 39029,
+ "lastRunAt": "2026-11-17T20:57:17.880Z",
+ "nextRunAt": "2026-11-18T08:57:17.880Z",
+ "durationMs": 104007,
  "mode": "incremental",
- "since": "2026-11-12T22:04:10.092Z",
+ "since": "2026-11-13T07:56:34.146Z",
  "relevanceGate": "llm",
  "llm": {
   "requests": 1,
-  "inputTokens": 2663,
-  "outputTokens": 844,
+  "inputTokens": 1404,
+  "outputTokens": 751,
   "refusals": 0,
   "errors": 0,
   "model": "claude-opus-5-5"
  },
  "counts": {
-  "total": 356,
-  "added": 5,
-  "updated": 9,
-  "candidates": 226,
-  "rejectedThisRun": 27,
+  "total": 362,
+  "added": 6,
+  "updated": 14,
+  "candidates": 285,
+  "rejectedThisRun": 60,
   "addedByCategory": {
-   "research": 5
+   "news": 5,
+   "voices": 1
   },
   "totalByCategory": {
+   "news": 79,
+   "voices": 72,
    "research": 163,
-   "voices": 71,
-   "news": 74,
    "events": 7,
    "code": 11,
    "discussion": 6,
@@ -36,65 +37,63 @@
   {
    "name": "arXiv",
    "ok": true,
-   "fetched": 12,
-   "ms": 23357
+   "fetched": 11,
+   "ms": 21953
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 90,
-   "ms": 1708
+   "fetched": 112,
+   "ms": 1641
   },
   {
    "name": "Google News",
-   "ok": false,
-   "fetched": 0,
-   "ms": 31338,
-   "error": "HTTP 429 for https://news.google.com/rss/search?q=Simile%20AI%20%22Joon%20Sung%20Park%22%20OR%20%22Simile%22%20synthetic%20simulation%20startup%20when%3A5d&hl=en-US&gl=US&ceid=US:en: <html><head><meta"
+   "ok": true,
+   "fetched": 38,
+   "ms": 40281
   },
   {
    "name": "GDELT",
-   "ok": false,
+   "ok": true,
    "fetched": 0,
-   "ms": 25393,
-   "error": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=(%22generative%20agents%22%20OR%20%22synthetic%20respondents%22%20OR%20%22synthetic%20users%22%20OR%20%22silicon%20sampling%22)%20sourcel"
+   "ms": 78817
   },
   {
    "name": "Hacker News",
    "ok": true,
-   "fetched": 18,
-   "ms": 3806
+   "fetched": 23,
+   "ms": 3615
   },
   {
    "name": "Reddit",
    "ok": false,
    "fetched": 0,
-   "ms": 222,
-   "error": "HTTP 403 for https://www.reddit.com/r/MachineLearning+LocalLLaMA+artificial+singularity+compsci+datascience+agi+ArtificialInteligence+UXResearch+Marketresearch+socialscience+AskSocialScience+AgentBase"
+   "ms": 106,
+   "error": "HTTP 404 for https://www.reddit.com/r/MachineLearning+LocalLLaMA+artificial+singularity+compsci+datascience+agi+ArtificialInteligence+UXResearch+Marketresearch+socialscience+AskSocialScience+AgentBase"
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
    "fetched": 0,
-   "ms": 10006
+   "ms": 9453
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 4818
+   "ms": 5373
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
    "fetched": 3,
-   "ms": 4923
+   "ms": 5059
   },
   {
    "name": "Bluesky · search",
    "ok": true,
-   "fetched": 75,
-   "ms": 4277
+   "fetched": 70,
+   "ms": 3962
   },
   {
    "name": "X · tracked accounts & keywords",
@@ -106,20 +105,20 @@
   {
    "name": "Official blogs",
    "ok": true,
-   "fetched": 0,
-   "ms": 1720
+   "fetched": 1,
+   "ms": 1634
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 4,
-   "ms": 1171
+   "ms": 1244
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 7,
-   "ms": 1200
+   "ms": 1040
   }
  ]
 }

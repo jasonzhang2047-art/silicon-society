@@ -23,7 +23,8 @@
    "https://listenlabs.ai/blog/the-complete-guide-to-usability-testing-tools",
    "https://listenlabs.ai/blog/trust-evidence-and-time-what-ai-owes-researchers",
    "https://listenlabs.ai/blog/listen-labs-is-now-all-over-new-york-city",
-   "https://listenlabs.ai/blog/we-re-shortlisted-for-esomar-s-2026-regional-award-in-excellence-in-ai-and-automation-with-sweetgreen"
+   "https://listenlabs.ai/blog/we-re-shortlisted-for-esomar-s-2026-regional-award-in-excellence-in-ai-and-automation-with-sweetgreen",
+   "https://listenlabs.ai/blog/quirks-best-place-to-work-finalist-2026"
   ],
   "camel-ai": [
    "https://camel-ai.org/blogs/seta-scaling-environments-for-terminal-agents",
@@ -21698,6 +21699,306 @@
    "at": "2026-11-17T07:56:34.146Z",
    "by": "rules",
    "title": "The camel asks the desert where the oasis is. The desert answers by teaching it to walk. Every threshold you cross in co"
+  },
+  "0145fb90b837": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Sage S2.1 Flash Technical Report"
+  },
+  "fdf7cbb6cbcc": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare"
+  },
+  "5c3a37d25e00": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "llm",
+   "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations"
+  },
+  "76054b9b607d": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models"
+  },
+  "4e7ee37c9bfa": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Termination Lag: Coding Agents Solve Early but Stop Late"
+  },
+  "c76cc3171c9c": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Correcting Persistent Failures in Point-Cloud Grasping Policies using Human Demonstrations in Virtual Reality"
+  },
+  "3d97b6ea7b24": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax"
+  },
+  "e8bac21d9123": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Marimba: A System One Model for Speech"
+  },
+  "9c3a2d896fea": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design"
+  },
+  "ce96c9cb1d6d": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning"
+  },
+  "8fe06f111bce": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "llm",
+   "title": "Dataset Distillation via Drifting"
+  },
+  "cfd93a05342f": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination"
+  },
+  "1642db2418de": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "LynnReal-Hand: Unlocking World Interaction with Hand Control"
+  },
+  "9dc7925d32d8": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix"
+  },
+  "1d1fbcd080ee": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures"
+  },
+  "1c82401b0f5b": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision"
+  },
+  "a0c3fb0c7b2d": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization"
+  },
+  "6977c6b490bb": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader"
+  },
+  "e07c9a1525f2": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent L"
+  },
+  "2d2f5c773424": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "GPBam: A Retrieval-Aware German Public Law Exam Benchmark"
+  },
+  "72629dcc4fff": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Zuse: A Decision Model for European Languages"
+  },
+  "6bc7af68e794": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "A Reinforcement Learning Method to Navigate SMEFT Operator Space"
+  },
+  "e97b8eeb1636": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Why AI agents need a unified enterprise feature repository"
+  },
+  "ce8836473ea9": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Slices, systems, and smart data: Alumnus Jeroen’s entrepreneurial journey at Holie Pizza"
+  },
+  "647882564d3b": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "New Report from Informa TechTarget Identifies Key Shifts in B2B Technology Purchase Journeys Driven by AI, Buying Groups"
+  },
+  "5c03e5d82256": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Is YouGov (LSE:YOU) Leading the AI Research Race After Its AI Twins Pass a Real-World Test?"
+  },
+  "4195bd3d9a60": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Rockwell Automation Scales Up Its ‘Virtual Factory’ With NVIDIA Omniverse [Automation Fair 2026]"
+  },
+  "6d1d4120da09": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "ASUS Ramps Up NVIDIA Vera Rubin NVL72 Shipments in Q4 Amid Strong Demand, Showcasing AI Factory Reference Architecture a"
+  },
+  "87ac2b399b23": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Rockwell Automation (ROK) Expands Factory Modernization Push With New Partnership And AI Simulation"
+  },
+  "a8c26bfb7304": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Rockwell Emulate3D Adds NVIDIA Omniverse to Factory Digital Twin but Cites No Accuracy Data"
+  },
+  "3eadfb8b1437": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "NVIDIA expands AI city projects for services & traffic"
+  },
+  "1d81f2f26a99": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Nvidia outlines AI-defined model for chip fabrication"
+  },
+  "89e3826d9341": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "The Green Site Revolution: Digital-intelligent Site Converting Energy from Cost to Profit"
+  },
+  "b70db96e583c": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Isomorphic Labs raises $5bn in ‘one of UK tech’s biggest funding rounds’"
+  },
+  "8618ab4d4455": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "LangChain finances LangSmith with $300 million"
+  },
+  "d24e9db68da8": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Purpose Brand buys MassiveMinds to add AI-enabled research"
+  },
+  "7a9e85466058": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "US AI Unicorn Secures $2B New Financing with Valuation Doubling in One Year"
+  },
+  "83a50b6ef397": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Playabl.ai – AI Game Builder, Conversational Editing & Shareable Web Games"
+  },
+  "f241b72643c6": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "CaptureFlow – AI Content Platform, Content Repurposing & Social Media Scheduling"
+  },
+  "f2ce03a9e44c": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Insourcing Surge And AI Pressure Reshape How Large Companies Pay Outside Law Firms"
+  },
+  "5de3cdcc76eb": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Asynchronics Raises $3.1M To Boost its Digital-Twin Software"
+  },
+  "3513a7de16a3": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Genesis AI Raises $500M Series A to Accelerate Robot Deployment"
+  },
+  "ead16457415e": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Asynchronics raises $3.1M seed to simulate satellites before launch"
+  },
+  "7ce190098a99": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Show HN: AI Spar – Turn conflicting AI answers into a structured debate"
+  },
+  "9c242fd5929f": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Show HN: Whiz.pub – An AI-native blogging platform, free and donation-supported"
+  },
+  "6ebc7b4900b2": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Show HN: Faros Desktop, a local app to see your AI traces and extend your usage"
+  },
+  "d40b3d21dfbd": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Show HN: LooPo – A word completion game run in the browser"
+  },
+  "2e9a219c8529": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Show HN: Solipsist – Local Only Notes + Pi agents"
+  },
+  "8db76141ded1": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Show HN: Call Nara. An AI voice companion built with older people in mind"
+  },
+  "a70cae4c16f0": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "sybil-solutions/inference-optimisation-skill — Agent skill for hill-climbing local LLM serving speed (decode, speculativ"
+  },
+  "57dedb1986d2": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "📰 New article by Mariah Miller, Colin Terry How LoanPro built an agentic AI loan servicing assistant with Amazon Bedroc"
+  },
+  "a9872b44e449": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "\"Auditing a Technical Article with Claude Code Research Skills\" by xbill9 #generative-ai #ai-agents #developer #communit"
+  },
+  "1fa0e0b6ff6d": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "\"Amazon Bedrock: Building Generative AI Applications with AWS | Part 1\" by Bhatia Dhrumil Pragneshkumar #amazon-bedrock "
+  },
+  "06ce2fd733de": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "llm",
+   "title": "A survey of 1,967 executives in 21 countries finds 61% of companies use generative AI extensively or have fully integrat"
+  },
+  "3b992d820d6c": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "\"Building Production-Ready AI Agents with Amazon Bedrock: Beyond the Prompt\" by Ilma Rasheed #amazon-bedrock #generative"
+  },
+  "313433117e83": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "\"The Rise of Agentic AI and Intelligent Automation in 2026\" by Harish Sonwale #artificial-intelligence #generative-ai #m"
+  },
+  "9384935392d3": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "\"Preventing Self-Propagating Misalignment in AI Agents on AWS: A Builder's Guide\" by Olaleye Aanuoluwapo #ai #security #"
+  },
+  "646fe9183b5b": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "En 1985, Excel a fait entrer le shadow IT dans l'entreprise. En 2026, les agents IA rejouent le film, mais avec le droit"
+  },
+  "28522bafae72": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Anchor Browser + Amazon Bedrock AgentCore payments make AI agents handle HTTP 402 Payment Required via x402, signing and"
+  },
+  "cdcd14eb8a03": {
+   "at": "2026-11-17T20:57:17.880Z",
+   "by": "rules",
+   "title": "Aurelia (media) was founded, funded and sold entirely by AI agents. Acquired at a modest premium after finding a steady "
   }
  },
  "repos": {
@@ -21707,9 +22008,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85797,
-   "forks": 13015,
-   "openIssues": 246,
+   "stars": 85832,
+   "forks": 13021,
+   "openIssues": 245,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -21837,7 +22138,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 85797
+     "stars": 85832
     }
    ]
   },
@@ -21847,8 +22148,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42729,
-   "forks": 7650,
+   "stars": 42730,
+   "forks": 7647,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -21977,7 +22278,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 42729
+     "stars": 42730
     }
    ]
   },
@@ -21987,8 +22288,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22388,
-   "forks": 3138,
+   "stars": 22389,
+   "forks": 3137,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -22111,7 +22412,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 22388
+     "stars": 22389
     }
    ]
   },
@@ -22255,7 +22556,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5432,
+   "stars": 5436,
    "forks": 661,
    "openIssues": 58,
    "pushedAt": "2026-11-16T11:44:57Z",
@@ -22385,7 +22686,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 5432
+     "stars": 5436
     }
    ]
   },
@@ -22395,7 +22696,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1901,
+   "stars": 1905,
    "forks": 408,
    "openIssues": 61,
    "pushedAt": "2026-11-09T14:14:36Z",
@@ -22525,7 +22826,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 1901
+     "stars": 1905
     }
    ]
   },
@@ -22536,9 +22837,9 @@
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
    "stars": 1407,
-   "forks": 225,
+   "forks": 224,
    "openIssues": 37,
-   "pushedAt": "2026-11-13T15:53:17Z",
+   "pushedAt": "2026-11-17T16:55:06Z",
    "language": "Python",
    "latestRelease": {
     "tag": "agentsociety2-v2.11.0",
@@ -22675,7 +22976,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7657,
+   "stars": 7674,
    "forks": 696,
    "openIssues": 62,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -22805,7 +23106,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 7657
+     "stars": 7674
     }
    ]
   },
@@ -22814,8 +23115,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10820,
-   "forks": 1252,
+   "stars": 10822,
+   "forks": 1253,
    "openIssues": 78,
    "pushedAt": "2026-11-16T23:31:56Z",
    "language": "TypeScript",
@@ -22938,7 +23239,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 10820
+     "stars": 10822
     }
    ]
   },
@@ -22948,10 +23249,10 @@
    "org": "expected-parrot",
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "url": "https://github.com/expectedparrot/edsl",
-   "stars": 519,
+   "stars": 521,
    "forks": 92,
-   "openIssues": 60,
-   "pushedAt": "2026-11-16T19:16:28Z",
+   "openIssues": 59,
+   "pushedAt": "2026-11-17T20:32:04Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -23078,7 +23379,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 519
+     "stars": 521
     }
    ]
   },
@@ -23361,7 +23662,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1398,
+   "stars": 1399,
    "forks": 56,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -23485,7 +23786,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 1398
+     "stars": 1399
     }
    ]
   },
@@ -23633,7 +23934,7 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5166,
+   "stars": 5165,
    "forks": 523,
    "openIssues": 41,
    "pushedAt": "2024-09-09T05:47:44Z",
@@ -23763,7 +24064,7 @@
     },
     {
      "date": "2026-11-17",
-     "stars": 5166
+     "stars": 5165
     }
    ]
   }

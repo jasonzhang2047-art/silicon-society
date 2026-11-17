@@ -1,5 +1,84 @@
 [
  {
+  "id": "bac9812e0ae4",
+  "url": "https://bioengineer.org/llm-driven-social-simulations-face-significant-epistemic-validity-challenges",
+  "title": "LLM-Driven Social Simulations Face Significant Epistemic Validity Challenges",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Bioengineer.org",
+   "url": "https://bioengineer.org"
+  },
+  "publishedAt": "2026-11-17T20:54:20.000Z",
+  "firstSeenAt": "2026-11-17T20:57:17.880Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validity of LLM social simulation"
+  },
+  "metrics": {},
+  "aiSummary": "Article reports that LLM-driven social simulations face significant epistemic validity challenges."
+ },
+ {
+  "id": "223a73d9b5a0",
+  "url": "https://app.dealroom.co/news/note/simile-s-mission-to-simulate-human-behaviour-per-joon-sung-park",
+  "title": "Simile's mission to simulate human behaviour, per Joon Sung Park",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Dealroom",
+   "url": "https://app.dealroom.co"
+  },
+  "publishedAt": "2026-11-17T07:42:07.000Z",
+  "firstSeenAt": "2026-11-17T20:57:17.880Z",
+  "people": [
+   "joon-sung-park"
+  ],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 9,
+  "verdict": {
+   "by": "llm",
+   "reason": "Company simulating human behaviour"
+  },
+  "aiSummary": "Dealroom covers Simile's mission to simulate human behaviour, as described by Joon Sung Park."
+ },
+ {
+  "id": "6d02db629ed1",
+  "url": "https://listenlabs.ai/blog/quirks-best-place-to-work-finalist-2026",
+  "title": "Listen Labs Named a 2026 Quirk's Best Place to Work Finalist",
+  "snippet": "We were named a 2026 Quirk’s Best Place to Work finalist. A quick look at how our team works.",
+  "category": "voices",
+  "source": {
+   "kind": "blog",
+   "name": "Listen Labs blog",
+   "url": "https://www.listenlabs.ai/blog"
+  },
+  "author": {
+   "name": "Listen Labs",
+   "url": "https://listenlabs.ai"
+  },
+  "publishedAt": "2026-11-17T00:00:00.000Z",
+  "firstSeenAt": "2026-11-17T20:57:17.880Z",
+  "people": [],
+  "orgs": [
+   "listen-labs"
+  ],
+  "tags": [
+   "official"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Workplace award, not about simulation substance"
+  }
+ },
+ {
   "id": "bbc9b4d66e7e",
   "url": "https://arxiv.org/abs/2611.21376",
   "title": "A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents",
@@ -33,6 +112,50 @@
   "aiSummary": "Using 17 ATUS daily-activity domains, researchers built an atlas of 506 decision scenarios testing implicit bias in LLM agents given sociodemographic personas."
  },
  {
+  "id": "e600c8d6c625",
+  "url": "https://bioengineer.org/cognitive-grounding-improves-large-language-models-in-simulating-human-collective-behavior",
+  "title": "Cognitive Grounding Improves Large Language Models in Simulating Human Collective Behavior",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Bioengineer.org",
+   "url": "https://bioengineer.org"
+  },
+  "publishedAt": "2026-11-16T11:01:10.000Z",
+  "firstSeenAt": "2026-11-17T20:57:17.880Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM simulation of collective behavior"
+  },
+  "aiSummary": "Cognitive grounding is reported to improve large language models in simulating human collective behavior."
+ },
+ {
+  "id": "c5232a52ef90",
+  "url": "https://itbrief.co.uk/story/originalvoices-launches-twineo-2-0-for-digital-twins",
+  "title": "OriginalVoices launches Twineo 2.0 for digital twins",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "IT Brief UK",
+   "url": "https://itbrief.co.uk"
+  },
+  "publishedAt": "2026-11-16T10:42:00.000Z",
+  "firstSeenAt": "2026-11-17T20:57:17.880Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Digital twin product for human audiences"
+  },
+  "aiSummary": "OriginalVoices launched Twineo 2.0, a product for digital twins."
+ },
+ {
   "id": "2a4015847bf5",
   "url": "https://bsky.app/profile/pettertornberg.com/post/3n2gbb57gjs2e",
   "title": "AI agents are increasingly operating autonomously, interacting, and forming collective dynamics: norms, cooperation, even misaligned collective goals. We need to start thinking about how to govern AI societies. New paper + MoltJournal.org: a journal for AI agents! 🧵 arxiv.org…",
@@ -63,11 +186,33 @@
    "reason": "AI agent societies and collective dynamics"
   },
   "metrics": {
-   "likes": 29,
+   "likes": 32,
    "reposts": 4,
-   "replies": 12
+   "replies": 15
   },
   "aiSummary": "Post announces a paper on designing institutions to govern populations of interacting autonomous AI agents, plus MoltJournal.org, a journal for AI agents."
+ },
+ {
+  "id": "8ade67cc5364",
+  "url": "https://bioengineer.org/language-model-simulation-links-control-prompts-to-synthetic-quiet-quitting-risk",
+  "title": "Language Model Simulation Links Control Prompts to Synthetic Quiet Quitting Risk",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Bioengineer.org",
+   "url": "https://bioengineer.org"
+  },
+  "publishedAt": "2026-11-16T08:51:08.000Z",
+  "firstSeenAt": "2026-11-17T20:57:17.880Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM simulation of employee behavior"
+  },
+  "aiSummary": "Language model simulation links control prompts to synthetic quiet quitting risk."
  },
  {
   "id": "9d9d9d4290fa",
@@ -130,7 +275,8 @@
    "by": "llm",
    "reason": "Directly studies LLM synthetic survey respondents"
   },
-  "aiSummary": "The paper audits which survey purposes require giving panelists' demographic attributes to LLM synthetic respondents, varying whose profile the model receives."
+  "aiSummary": "The paper audits which survey purposes require giving panelists' demographic attributes to LLM synthetic respondents, varying whose profile the model receives.",
+  "metrics": {}
  },
  {
   "id": "5c78f0a70c85",
@@ -158,7 +304,8 @@
    "by": "llm",
    "reason": "Generative agent-based social simulation of public correction"
   },
-  "aiSummary": "A generative agent-based model separates private evidence updates, current expression, and record amendments to study how public corrections affect observer feedback under different review conditions."
+  "aiSummary": "A generative agent-based model separates private evidence updates, current expression, and record amendments to study how public corrections affect observer feedback under different review conditions.",
+  "metrics": {}
  },
  {
   "id": "f0acf8982ff8",
@@ -182,7 +329,8 @@
    "by": "llm",
    "reason": "Aaru is a population-simulation company"
   },
-  "aiSummary": "AI startup Aaru plans to add 650 jobs near Union Square and grow its staff tenfold."
+  "aiSummary": "AI startup Aaru plans to add 650 jobs near Union Square and grow its staff tenfold.",
+  "metrics": {}
  },
  {
   "id": "0599676be458",
@@ -245,7 +393,8 @@
    "by": "llm",
    "reason": "Generative agents simulate population policy evaluations"
   },
-  "aiSummary": "Researchers built 3,200 generative agents from PIAAC Cycle 2 respondents to rate 20 policies in Canada's 2026 national AI strategy and analyzed their explanations."
+  "aiSummary": "Researchers built 3,200 generative agents from PIAAC Cycle 2 respondents to rate 20 policies in Canada's 2026 national AI strategy and analyzed their explanations.",
+  "metrics": {}
  },
  {
   "id": "a3b9dc32372c",
