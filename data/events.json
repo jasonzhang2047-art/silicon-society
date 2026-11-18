@@ -191,6 +191,22 @@
   "upcoming": true
  },
  {
+  "name": "AiX 2027",
+  "kind": "event",
+  "start": "2027-04-21",
+  "end": "2027-04-21",
+  "location": "Newcastle",
+  "url": "aixconf.co.uk",
+  "description": "",
+  "source": {
+   "name": "Bluesky",
+   "url": "https://bsky.app/profile/aixconf.co.uk/post/3n2lydokrxu2m"
+  },
+  "verified": false,
+  "tags": [],
+  "upcoming": true
+ },
+ {
   "name": "AAMAS 2027",
   "kind": "conference",
   "start": "2027-05-03",

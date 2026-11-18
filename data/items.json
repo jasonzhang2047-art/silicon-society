@@ -1,5 +1,70 @@
 [
  {
+  "id": "a43323240251",
+  "url": "https://bsky.app/profile/aixconf.co.uk/post/3n2lydokrxu2m",
+  "title": "Our next AiX 2027 speaker: Borja Díaz-Roig, CEO & Co-Founder at Uxia 👋 Ex-Google product and growth, now building an AI-powered UX research platform that blends synthetic users with real human insight. 21 April 2027, Newcastle. aixconf.co.uk?utm_source=b...",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "AiX Conference",
+   "handle": "@aixconf.co.uk",
+   "url": "https://bsky.app/profile/aixconf.co.uk",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:25ojulquiblupyk2fveefhyi/bafkreihde5wyi72mbnuhckp56dtpxxpncw4yt4bbfln265mss2tr3cdbiy"
+  },
+  "publishedAt": "2026-11-18T16:33:47.837Z",
+  "firstSeenAt": "2026-11-18T20:33:26.198Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic users for UX research"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "event": {
+   "name": "AiX 2027",
+   "start": "2027-04-21",
+   "end": "2027-04-21",
+   "location": "Newcastle",
+   "url": "aixconf.co.uk"
+  },
+  "aiSummary": "AiX 2027 announces Borja Díaz-Roig, CEO of Uxia, building a UX research platform blending synthetic users with real human insight, speaking 21 April 2027 in Newcastle."
+ },
+ {
+  "id": "3f1aa20b5668",
+  "url": "https://brandspurng.com/2026/11/18/salesforce-listen-labs-acquisition",
+  "title": "Salesforce’s Listen Labs Deal Puts AI Research At Centre",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Brand Spur",
+   "url": "https://brandspurng.com"
+  },
+  "publishedAt": "2026-11-18T08:11:17.000Z",
+  "firstSeenAt": "2026-11-18T20:33:26.198Z",
+  "people": [],
+  "orgs": [
+   "listen-labs"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "AI customer research company deal; likely synthetic research"
+  },
+  "metrics": {},
+  "aiSummary": "Brand Spur reports on Salesforce's deal involving Listen Labs, framing it as putting AI research at the centre."
+ },
+ {
   "id": "72feecce8f0a",
   "url": "https://openpr.com/news/4692768/insightable-launches-digital-consumer-twins-ai-persona",
   "title": "Insightable Launches Digital Consumer Twins, AI Persona Chatbots and AI Focus Groups for Market Research",
@@ -19,7 +84,8 @@
    "by": "llm",
    "reason": "Consumer digital twins and AI focus groups"
   },
-  "aiSummary": "Insightable launches digital consumer twins, AI persona chatbots and AI focus groups for market research."
+  "aiSummary": "Insightable launches digital consumer twins, AI persona chatbots and AI focus groups for market research.",
+  "metrics": {}
  },
  {
   "id": "bac9812e0ae4",
@@ -70,7 +136,8 @@
    "by": "llm",
    "reason": "LLM digital twins simulating human responses"
   },
-  "aiSummary": "Study tests whether activation steering can replace prompt-based affective priming writing tasks in LLM digital twins, using Llama-3.1-8B-Instruct on 100 personas replicating a Twin-2K-500 Mega Study."
+  "aiSummary": "Study tests whether activation steering can replace prompt-based affective priming writing tasks in LLM digital twins, using Llama-3.1-8B-Instruct on 100 personas replicating a Twin-2K-500 Mega Study.",
+  "metrics": {}
  },
  {
   "id": "223a73d9b5a0",
@@ -241,7 +308,7 @@
   "metrics": {
    "likes": 32,
    "reposts": 4,
-   "replies": 15
+   "replies": 16
   },
   "aiSummary": "Post announces a paper on designing institutions to govern populations of interacting autonomous AI agents, plus MoltJournal.org, a journal for AI agents."
  },
