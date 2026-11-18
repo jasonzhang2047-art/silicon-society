@@ -1,5 +1,27 @@
 [
  {
+  "id": "72feecce8f0a",
+  "url": "https://openpr.com/news/4692768/insightable-launches-digital-consumer-twins-ai-persona",
+  "title": "Insightable Launches Digital Consumer Twins, AI Persona Chatbots and AI Focus Groups for Market Research",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "openPR.com",
+   "url": "https://www.openpr.com"
+  },
+  "publishedAt": "2026-11-18T00:14:03.000Z",
+  "firstSeenAt": "2026-11-18T07:30:42.179Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Consumer digital twins and AI focus groups"
+  },
+  "aiSummary": "Insightable launches digital consumer twins, AI persona chatbots and AI focus groups for market research."
+ },
+ {
   "id": "bac9812e0ae4",
   "url": "https://bioengineer.org/llm-driven-social-simulations-face-significant-epistemic-validity-challenges",
   "title": "LLM-Driven Social Simulations Face Significant Epistemic Validity Challenges",
@@ -21,6 +43,34 @@
   },
   "metrics": {},
   "aiSummary": "Article reports that LLM-driven social simulations face significant epistemic validity challenges."
+ },
+ {
+  "id": "5590d7a40e22",
+  "url": "https://arxiv.org/abs/2611.22738",
+  "title": "Can Activation Steering Substitute for Prompt-Based Affective Priming in LLM Digital Twins?",
+  "snippet": "Affective priming -- asking participants to write about a recalled event, such as a time they felt grateful or lacked control, and then measuring the induced state and its spillover onto related judgments -- is a standard way to manipulate emotion in the social sciences, and it also shifts the responses of LLM-based digital twins. The writing task, however, requires generating a full text. We test whether activation steering can replace it. Using Llama-3.1-8B-Instruct on 100 personas in two domains (gratitude, lack of control), we compare a real-prompt path replicating the original Twin-2K-500 Mega Study (J2) with an injection path that skips the writing and adds a mean-difference…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Junyi Fan"
+  ],
+  "publishedAt": "2026-11-17T13:08:06.000Z",
+  "firstSeenAt": "2026-11-18T07:30:42.179Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 7,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM digital twins simulating human responses"
+  },
+  "aiSummary": "Study tests whether activation steering can replace prompt-based affective priming writing tasks in LLM digital twins, using Llama-3.1-8B-Instruct on 100 personas replicating a Twin-2K-500 Mega Study."
  },
  {
   "id": "223a73d9b5a0",
@@ -46,7 +96,8 @@
    "by": "llm",
    "reason": "Company simulating human behaviour"
   },
-  "aiSummary": "Dealroom covers Simile's mission to simulate human behaviour, as described by Joon Sung Park."
+  "aiSummary": "Dealroom covers Simile's mission to simulate human behaviour, as described by Joon Sung Park.",
+  "metrics": {}
  },
  {
   "id": "6d02db629ed1",
@@ -131,7 +182,8 @@
    "by": "llm",
    "reason": "LLM simulation of collective behavior"
   },
-  "aiSummary": "Cognitive grounding is reported to improve large language models in simulating human collective behavior."
+  "aiSummary": "Cognitive grounding is reported to improve large language models in simulating human collective behavior.",
+  "metrics": {}
  },
  {
   "id": "c5232a52ef90",
@@ -153,7 +205,8 @@
    "by": "llm",
    "reason": "Digital twin product for human audiences"
   },
-  "aiSummary": "OriginalVoices launched Twineo 2.0, a product for digital twins."
+  "aiSummary": "OriginalVoices launched Twineo 2.0, a product for digital twins.",
+  "metrics": {}
  },
  {
   "id": "2a4015847bf5",
@@ -212,7 +265,8 @@
    "by": "llm",
    "reason": "LLM simulation of employee behavior"
   },
-  "aiSummary": "Language model simulation links control prompts to synthetic quiet quitting risk."
+  "aiSummary": "Language model simulation links control prompts to synthetic quiet quitting risk.",
+  "metrics": {}
  },
  {
   "id": "9d9d9d4290fa",
