@@ -22414,6 +22414,221 @@
    "at": "2026-11-18T20:33:26.198Z",
    "by": "llm",
    "title": "Genie 4 is now available"
+  },
+  "7f6e3475c5c7": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "DrawScore: Evaluating Generated CAD Models against Engineering Drawings"
+  },
+  "2ea14e17b7c3": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Jeveration: System One Models Now Generate"
+  },
+  "464c19bf8bce": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling"
+  },
+  "013b6c50f2dd": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development"
+  },
+  "10643d0df969": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements"
+  },
+  "aa4e3911d0b4": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "WorldRuler: Interactive World Modeling under Configurable Rules"
+  },
+  "84fa3a4888d8": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "ALIVE: Making Streaming Video Models Interactive"
+  },
+  "12247f2e9655": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Code World Model 2.0: Towards Infinite Controllable Video Generation"
+  },
+  "4938e0b6bde6": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers"
+  },
+  "61f9064370fa": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "RoughCut-Bench: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models"
+  },
+  "4f561829c41a": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration"
+  },
+  "3c4fcc55a7d2": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "llm",
+   "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices"
+  },
+  "2f135d14c6d8": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "PReMind: When Personal Memory Meets Visual Hazards"
+  },
+  "5541d6f2d814": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "QDA: Closed-Loop LLM Quantization Design with Agents"
+  },
+  "ab3f7ca9c883": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability"
+  },
+  "9aaf60f65be6": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Late Entry in Looped Language Models"
+  },
+  "01c0f8c071ea": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Learning Anisotropic Prediction Targets for Flow Models"
+  },
+  "bbdb3cd06735": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models"
+  },
+  "f108104ae1ec": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection"
+  },
+  "f19b0b2e75c9": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "LogT: Logically Think with Images for Visual Search"
+  },
+  "a64b520ed4e4": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Let Samples Sing in Chorus: Mitigating Spurious Correlations via Cross-view Consensus"
+  },
+  "c64cb56963da": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Recurrent Domain Incremental Adaptation of Time-Series Foundation Models"
+  },
+  "76208d59448a": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents"
+  },
+  "0ad026c76cad": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation"
+  },
+  "7b8371ec98cf": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents"
+  },
+  "6504ce7177e5": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding"
+  },
+  "3c3f9be8b7c2": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs"
+  },
+  "3818a96d0492": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "llm",
+   "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM"
+  },
+  "c06cb1b91a8e": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Attention at Absolute Zero"
+  },
+  "ad65cef62769": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering"
+  },
+  "0582429b02b0": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "CONGA: Compiling Gaussian Fiber Geometry for Structured Bayesian Inference"
+  },
+  "4c2ab6bb67b8": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Aegis: Simio builds simulations from FactoryLogix MES data"
+  },
+  "b1867fe33e89": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Will Wright Returns With MyMems, a Game That Turns Your Memories Into a Playable World"
+  },
+  "9b67ccf8db50": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "As private markets continue to grow – so do expectations, with AI raising the stakes, EY finds"
+  },
+  "955af9c94699": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Targeted News Service"
+  },
+  "c29f03feeb10": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Zeng Tao, Yunuo Chen, Xiang Feng, Yumeng He, Peihao Li, Nanxiang Jiang, Yaowei Guo, Fanlian Zeng, Yin Yang, Chenfanfu Ji"
+  },
+  "be9ddb85f85a": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "llm",
+   "title": "Skill erosion, individual memory and the reversibility of AI adoption – Generative AI can improve immediate performance "
+  },
+  "cc98d4e2e5be": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "\"Amazon Bedrock: Building Generative AI Applications with AWS | Part 3\" by Bhatia Dhrumil Pragneshkumar #amazon-bedrock-"
+  },
+  "817b30a5630c": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "AI Model Risk Management: Validate, Monitor and Govern AI"
+  },
+  "220855d2204f": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Pedestal AI Launches With $4.7 Million For Supply Chain Agents – Pulse 2.0 Read MoreCo-founder and CEO Raj Aggarwal most"
+  },
+  "b3566bfd7130": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "2026-11-17 | 🔀 💥 The Co-Metabolic Frontier of Generative Dissonance 🔀 #AI Q: ⚡ Is disagreement essential? 🧠 Cognitiv"
+  },
+  "e2d1875e00bc": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "rules",
+   "title": "Four final @amcrisan.bsky.social #ieeevis VISions lessons: Value Craftsmanship: Expanding our foundations Create Space f"
+  },
+  "b898a1b2127c": {
+   "at": "2026-11-19T07:27:32.167Z",
+   "by": "llm",
+   "title": "Introducing Gemini 4 Neon"
   }
  },
  "repos": {
@@ -22423,8 +22638,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85902,
-   "forks": 13029,
+   "stars": 85931,
+   "forks": 13034,
    "openIssues": 244,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -22558,6 +22773,10 @@
     {
      "date": "2026-11-18",
      "stars": 85902
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 85931
     }
    ]
   },
@@ -22567,7 +22786,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42738,
+   "stars": 42741,
    "forks": 7649,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -22702,6 +22921,10 @@
     {
      "date": "2026-11-18",
      "stars": 42738
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 42741
     }
    ]
   },
@@ -22711,7 +22934,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22392,
+   "stars": 22395,
    "forks": 3133,
    "openIssues": 148,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -22840,6 +23063,10 @@
     {
      "date": "2026-11-18",
      "stars": 22392
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 22395
     }
    ]
   },
@@ -22978,6 +23205,10 @@
     {
      "date": "2026-11-18",
      "stars": 630
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 630
     }
    ]
   },
@@ -22987,7 +23218,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5438,
+   "stars": 5439,
    "forks": 662,
    "openIssues": 58,
    "pushedAt": "2026-11-16T11:44:57Z",
@@ -23122,6 +23353,10 @@
     {
      "date": "2026-11-18",
      "stars": 5438
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 5439
     }
    ]
   },
@@ -23132,7 +23367,7 @@
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
    "stars": 1909,
-   "forks": 408,
+   "forks": 407,
    "openIssues": 57,
    "pushedAt": "2026-11-18T15:57:29Z",
    "language": "Python",
@@ -23265,6 +23500,10 @@
     },
     {
      "date": "2026-11-18",
+     "stars": 1909
+    },
+    {
+     "date": "2026-11-19",
      "stars": 1909
     }
    ]
@@ -23410,6 +23649,10 @@
     {
      "date": "2026-11-18",
      "stars": 1409
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 1409
     }
    ]
   },
@@ -23419,7 +23662,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7692,
+   "stars": 7697,
    "forks": 696,
    "openIssues": 62,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -23554,6 +23797,10 @@
     {
      "date": "2026-11-18",
      "stars": 7692
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 7697
     }
    ]
   },
@@ -23562,8 +23809,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10826,
-   "forks": 1255,
+   "stars": 10829,
+   "forks": 1257,
    "openIssues": 79,
    "pushedAt": "2026-11-16T23:31:56Z",
    "language": "TypeScript",
@@ -23691,6 +23938,10 @@
     {
      "date": "2026-11-18",
      "stars": 10826
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 10829
     }
    ]
   },
@@ -23834,6 +24085,10 @@
     },
     {
      "date": "2026-11-18",
+     "stars": 521
+    },
+    {
+     "date": "2026-11-19",
      "stars": 521
     }
    ]
@@ -23979,6 +24234,10 @@
     {
      "date": "2026-11-18",
      "stars": 346
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 346
     }
    ]
   },
@@ -23988,7 +24247,7 @@
    "org": "ruc-gsai",
    "description": "",
    "url": "https://github.com/RUC-GSAI/YuLan-OneSim",
-   "stars": 247,
+   "stars": 248,
    "forks": 31,
    "openIssues": 10,
    "pushedAt": "2026-02-02T11:48:06Z",
@@ -24117,6 +24376,10 @@
     {
      "date": "2026-11-18",
      "stars": 247
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 248
     }
    ]
   },
@@ -24253,6 +24516,10 @@
     },
     {
      "date": "2026-11-18",
+     "stars": 1400
+    },
+    {
+     "date": "2026-11-19",
      "stars": 1400
     }
    ]
@@ -24397,6 +24664,10 @@
     {
      "date": "2026-11-18",
      "stars": 37
+    },
+    {
+     "date": "2026-11-19",
+     "stars": 37
     }
    ]
   },
@@ -24539,6 +24810,10 @@
     },
     {
      "date": "2026-11-18",
+     "stars": 5164
+    },
+    {
+     "date": "2026-11-19",
      "stars": 5164
     }
    ]
