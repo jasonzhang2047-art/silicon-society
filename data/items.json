@@ -28,7 +28,7 @@
    "reason": "Critique of human-simulation company Simile"
   },
   "metrics": {
-   "likes": 4,
+   "likes": 7,
    "reposts": 2,
    "replies": 3
   },
@@ -190,7 +190,7 @@
    "reason": "Foundation model for simulating human behaviour"
   },
   "metrics": {
-   "upvotes": 1,
+   "upvotes": 2,
    "comments": 1
   },
   "aiSummary": "Introduces Chiron, an LLM fine-tuned to measure psychological constructs, predict individual behaviour and align population response distributions, trained on 36 behavioural domains and 78 experiments."
@@ -416,7 +416,7 @@
   "metrics": {
    "likes": 33,
    "reposts": 4,
-   "replies": 16
+   "replies": 17
   },
   "aiSummary": "Post announces a paper on designing institutions to govern populations of interacting autonomous AI agents, plus MoltJournal.org, a journal for AI agents."
  },

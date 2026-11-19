@@ -22629,6 +22629,221 @@
    "at": "2026-11-19T07:27:32.167Z",
    "by": "llm",
    "title": "Introducing Gemini 4 Neon"
+  },
+  "a284680c5080": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning"
+  },
+  "4df9db1b8832": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "HINT-WAM: Hindsight-Informed Training for World Action Models"
+  },
+  "556e5651db6e": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning"
+  },
+  "a91862b9e13a": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model"
+  },
+  "44c595921009": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement"
+  },
+  "4abe11b31de7": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents"
+  },
+  "8418a89b379c": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software"
+  },
+  "ef2cfdfa604d": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "WaveView: The Novel View Is in the Noise"
+  },
+  "d447126fcbb5": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow"
+  },
+  "1b16ab12fffa": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation"
+  },
+  "1f6e59d24f33": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning"
+  },
+  "9499b87e092a": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation"
+  },
+  "634bef00fa06": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "BiCAT: Bimanual Coordination Action Tokenization"
+  },
+  "4f24bd69d8c9": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation"
+  },
+  "8c93b2b23ff6": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Choosing Quantized Code LLMs by File Size and Energy per Solved Task"
+  },
+  "f85dc61d842e": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "AVTR: Adaptive Multimodal Reasoning with Visual Imagination"
+  },
+  "24673aeae097": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation"
+  },
+  "5fff94d32151": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data"
+  },
+  "c7be18248a78": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Salesforce Inc Stock (CRM) Moved Down by 3.48% on Nov 19: Key Drivers Unveiled"
+  },
+  "24a3d43f9cfd": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Industrial AI: How SAP, Siemens & Oracle Are Rewiring ERP"
+  },
+  "00c82cef03d0": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "ASUS Ramps Up NVIDIA Vera Rubin NVL72 Shipments at SC26"
+  },
+  "39c29eff7414": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Vertiv ATLAS Lab Tests AI Power and Cooling for NVIDIA"
+  },
+  "afdfd0da78ea": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Asynchronics Raises €2.82M for Spacecraft Simulation"
+  },
+  "f26ff64f0727": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "AI in Personalized Nutrition Market Size, Share, Growth 2034"
+  },
+  "289ecaa383bf": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Aerometrex Limited (ASX:AMX) Delivers Record Revenue and Targets AI Innovators as a New Customer Category"
+  },
+  "0f67e3750ab6": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Base44 – AI App Builder, Natural Language Development & Integrated Hosting"
+  },
+  "d35ea94f3716": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Rork – AI App Builder With Native Mobile Development & GitHub Code Export"
+  },
+  "5f5143e12e40": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers"
+  },
+  "eff112c26c26": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Show HN: Dayfile.app – Append-only log for your scripts and agents"
+  },
+  "e6f0e6628eea": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Show HN: Openspot – macOS launcher for disposable tools"
+  },
+  "24f13a36c3df": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Show HN: Purple Flow – AI-first n8n alternative, 10k+ workflows on 512MB"
+  },
+  "3e2eb1c64775": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Show HN: Lintsure – Free local code check with rules from OWASP, EU AI Act"
+  },
+  "9f1147afd6f9": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows"
+  },
+  "353d1cbf5681": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "JosssphZhou/poki — Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the scree"
+  },
+  "9d2b00f6e4ba": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "^ yeah, this. Sorry, I didn’t see the reply. I have no interest in using generative AI to make creative works, but I thi"
+  },
+  "3ba081e6c6bb": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "\"Provable AI Safety: Eliminating Hallucinations in Production Agents with Amazon Bedrock Automated Reasoning Checks\" by "
+  },
+  "3135925fee62": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "\"Building Production-Ready AI Agents on AWS: Observability, Guardrails, and Cost Control with Amazon Bedrock\" by Yugank "
+  },
+  "3679860c77f2": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "\"Building Serverless AI Workflows: Connecting Amazon Bedrock with AWS Lambda\" by Swaraj Bhosle #amazon-bedrock-agentcore"
+  },
+  "62a68f3e7627": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "\"Your AI Agent’s Token Bill Is Not the Same as Token Waste\" by Sambit Tripathy #generative-ai #ai-agents #cost-optimizat"
+  },
+  "ef69308c2644": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "AI-generated shoppers can give misleading pricing estimates, study finds"
+  },
+  "cf3bd7d53df1": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Amazon Polly launches voice cloning, enabling users to create custom synthetic voices from speaker recordings for use ac"
+  },
+  "9ae4f05245c3": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Bayesian, il rapporto britannico sul naufragio: «Lo yacht era vulnerabile ai forti venti, l’equipaggio non lo sapeva»"
+  },
+  "cbd0de64989e": {
+   "at": "2026-11-19T20:39:26.188Z",
+   "by": "rules",
+   "title": "Le raffiche raggiunsero i 130 chilometri orari, inclinando il veliero di 90 gradi in meno di 15 secondi. Le previsioni n"
   }
  },
  "repos": {
@@ -22638,8 +22853,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85931,
-   "forks": 13034,
+   "stars": 85959,
+   "forks": 13039,
    "openIssues": 244,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -22776,7 +22991,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 85931
+     "stars": 85959
     }
    ]
   },
@@ -22786,8 +23001,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42741,
-   "forks": 7649,
+   "stars": 42745,
+   "forks": 7650,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -22924,7 +23139,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 42741
+     "stars": 42745
     }
    ]
   },
@@ -22934,9 +23149,9 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22395,
-   "forks": 3133,
-   "openIssues": 148,
+   "stars": 22399,
+   "forks": 3134,
+   "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
    "history": [
@@ -23066,7 +23281,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 22395
+     "stars": 22399
     }
    ]
   },
@@ -23218,7 +23433,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5439,
+   "stars": 5442,
    "forks": 662,
    "openIssues": 58,
    "pushedAt": "2026-11-16T11:44:57Z",
@@ -23356,7 +23571,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 5439
+     "stars": 5442
     }
    ]
   },
@@ -23366,10 +23581,10 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1909,
+   "stars": 1911,
    "forks": 407,
-   "openIssues": 57,
-   "pushedAt": "2026-11-18T15:57:29Z",
+   "openIssues": 56,
+   "pushedAt": "2026-11-19T16:44:40Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v2.4.0",
@@ -23504,7 +23719,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 1909
+     "stars": 1911
     }
    ]
   },
@@ -23514,8 +23729,8 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1409,
-   "forks": 224,
+   "stars": 1410,
+   "forks": 225,
    "openIssues": 37,
    "pushedAt": "2026-11-17T16:55:06Z",
    "language": "Python",
@@ -23652,7 +23867,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 1409
+     "stars": 1410
     }
    ]
   },
@@ -23663,7 +23878,7 @@
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
    "stars": 7697,
-   "forks": 696,
+   "forks": 695,
    "openIssues": 62,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
@@ -23809,9 +24024,9 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10829,
-   "forks": 1257,
-   "openIssues": 79,
+   "stars": 10833,
+   "forks": 1258,
+   "openIssues": 77,
    "pushedAt": "2026-11-16T23:31:56Z",
    "language": "TypeScript",
    "history": [
@@ -23941,7 +24156,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 10829
+     "stars": 10833
     }
    ]
   },
@@ -23951,10 +24166,10 @@
    "org": "expected-parrot",
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "url": "https://github.com/expectedparrot/edsl",
-   "stars": 521,
+   "stars": 522,
    "forks": 92,
-   "openIssues": 58,
-   "pushedAt": "2026-11-18T14:38:55Z",
+   "openIssues": 59,
+   "pushedAt": "2026-11-19T17:23:24Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -24089,7 +24304,7 @@
     },
     {
      "date": "2026-11-19",
-     "stars": 521
+     "stars": 522
     }
    ]
   },
