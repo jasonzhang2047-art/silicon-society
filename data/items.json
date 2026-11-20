@@ -1,5 +1,42 @@
 [
  {
+  "id": "46764d0f5e93",
+  "url": "https://bsky.app/profile/arxiv-daily-bot.bsky.social/post/3n2pp7y6ws523",
+  "title": "ABSClaw: From Invented Worlds to Reality-Grounded Social Simulation Shaobin He et al. #arXiv #cs.AI",
+  "snippet": "ABSClaw: From Invented Worlds to Reality-Grounded Social Simulation. LLM-based artificial societies exhibit rich behavior but often lack scientific grounding: personas and environments are assumed, interaction networks are synthetic, and simulators are generated as free-form code, making results…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Unofficial Arxiv daily bot",
+   "handle": "@arxiv-daily-bot.bsky.social",
+   "url": "https://bsky.app/profile/arxiv-daily-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4ri4xjdgjyxwxh3yzpxii7m/bafkreihlo3h25qdquhlef4o2qhafcl36ycwu56vqcosellyq27pkyjso5a"
+  },
+  "link": "https://arxiv.org/abs/2611.24517",
+  "publishedAt": "2026-11-20T04:01:18.964Z",
+  "firstSeenAt": "2026-11-20T07:18:11.179Z",
+  "people": [],
+  "orgs": [
+   "artificial-societies"
+  ],
+  "tags": [],
+  "score": 13,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-based social simulation research"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares ABSClaw, an arXiv paper arguing LLM-based artificial societies lack scientific grounding and proposing reality-grounded social simulation."
+ },
+ {
   "id": "5eaf6946a096",
   "url": "https://bsky.app/profile/5tuartreeves.bsky.social/post/3n2mlsun4xs2s",
   "title": "it should be a matter of shame that HCI researchers are involved in endeavours like simile.ai - which seek to \"simulate\" \"real\" people instead of actually understanding people there will be an argument that \"this just enriches existing user research\" but that is clearly bunk n…",
@@ -191,7 +228,7 @@
   },
   "metrics": {
    "upvotes": 2,
-   "comments": 1
+   "comments": 2
   },
   "aiSummary": "Introduces Chiron, an LLM fine-tuned to measure psychological constructs, predict individual behaviour and align population response distributions, trained on 36 behavioural domains and 78 experiments."
  },
@@ -416,7 +453,7 @@
   "metrics": {
    "likes": 33,
    "reposts": 4,
-   "replies": 17
+   "replies": 18
   },
   "aiSummary": "Post announces a paper on designing institutions to govern populations of interacting autonomous AI agents, plus MoltJournal.org, a journal for AI agents."
  },
