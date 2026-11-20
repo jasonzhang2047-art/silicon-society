@@ -1,5 +1,106 @@
 [
  {
+  "id": "5a6682ef675b",
+  "url": "https://bsky.app/profile/bradytwest.bsky.social/post/3n2rbbxmv6c2q",
+  "title": "It is now an entire area of academic inquiry…simply search for “silicon sampling” on Google Scholar.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Brady West",
+   "handle": "@bradytwest.bsky.social",
+   "url": "https://bsky.app/profile/bradytwest.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bkzq7cikwxwwylhxgfryunl/bafkreic26bcwkdnjy73ndsq6ml7sj27mtjxcqp3bkm6eggezod4jkrjrqm"
+  },
+  "publishedAt": "2026-11-20T18:57:12.609Z",
+  "firstSeenAt": "2026-11-20T20:23:18.396Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Directly about silicon sampling field"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post says silicon sampling is now an entire area of academic inquiry, pointing readers to Google Scholar."
+ },
+ {
+  "id": "884b0748f695",
+  "url": "https://bsky.app/profile/bajablastoise.bsky.social/post/3n2r7j6if7s2n",
+  "title": "This is a captivating read. AI is a statistical medianizer www.thevoiceofuser.com/synthetic-us...",
+  "snippet": "Synthetic Users Are Influencing Your Design Decisions. New Research Says They're Right About as Often as a Coin Flip.. Back in March I wrote up the largest systematic review of synthetic participants ever conducted. It came out of UXtweak Research and the Slovak University of Technology in…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "👻Boo-ja🎃 Blastoise",
+   "handle": "@bajablastoise.bsky.social",
+   "url": "https://bsky.app/profile/bajablastoise.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rpkporveknwelaphgsfmjmxe/bafkreicsj4nwbopbf5kvgce4sqrlcnxts67vznnsj3arfxu2v2amjvsir4"
+  },
+  "link": "https://www.thevoiceofuser.com/synthetic-users-are-influencing-your-design-decisions-new-research-says-theyre-right-about-as-often-as-a-coin-flip/",
+  "publishedAt": "2026-11-20T18:25:27.203Z",
+  "firstSeenAt": "2026-11-20T20:23:18.396Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of synthetic users/participants"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post shares an article reporting that a systematic review by UXtweak Research and Slovak University of Technology finds synthetic users are right about as often as a coin flip."
+ },
+ {
+  "id": "a219207acead",
+  "url": "https://bsky.app/profile/aixconf.co.uk/post/3n2qlntwo6r2t",
+  "title": "Introducing Uxia, our Founder Partner for AiX 2027 🤝 They're helping bring the first AI & Design Conference in Newcastle to life. Borja Díaz-Roig will be joining us on stage to explore the future of UX validation, synthetic users and agentic workflows. Thank you for backing A…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "AiX Conference",
+   "handle": "@aixconf.co.uk",
+   "url": "https://bsky.app/profile/aixconf.co.uk",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:25ojulquiblupyk2fveefhyi/bafkreihde5wyi72mbnuhckp56dtpxxpncw4yt4bbfln265mss2tr3cdbiy"
+  },
+  "publishedAt": "2026-11-20T12:30:09.063Z",
+  "firstSeenAt": "2026-11-20T20:23:18.396Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic users company and conference talk"
+  },
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 1
+  },
+  "aiSummary": "AiX 2027 announces Uxia as Founder Partner; Borja Díaz-Roig will speak on UX validation, synthetic users and agentic workflows at the Newcastle AI & Design Conference."
+ },
+ {
   "id": "46764d0f5e93",
   "url": "https://bsky.app/profile/arxiv-daily-bot.bsky.social/post/3n2pp7y6ws523",
   "title": "ABSClaw: From Invented Worlds to Reality-Grounded Social Simulation Shaobin He et al. #arXiv #cs.AI",

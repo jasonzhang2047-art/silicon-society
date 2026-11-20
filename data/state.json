@@ -23114,6 +23114,206 @@
    "at": "2026-11-20T07:18:11.179Z",
    "by": "rules",
    "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design Sevda Ebrahimi et al. #arXiv #cs.AI #cs.CL #cs.NE"
+  },
+  "dbefb9b7e6c4": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models"
+  },
+  "a095af3ff25a": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "HiUni: Harmonizing Understanding and Generation in Shared Visual Space"
+  },
+  "ae8493cfe49e": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators"
+  },
+  "636d7b3b28e7": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Training Vision Models for LLM-Driven Weight-Space Programming"
+  },
+  "a0c418e6dda1": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining"
+  },
+  "18030cf50d98": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "RL Post-Training in Diffusion Transformers Is Activation Steering"
+  },
+  "23b4d8aebf88": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Twice-Told Critiques: Claim-Level Homogenization of Peer Review in the LLM Era"
+  },
+  "b7d196b2231c": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Online Mistake Detection in Instruction-Conditioned Procedural Video"
+  },
+  "d2467dc0199e": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain"
+  },
+  "8f083de4280d": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU"
+  },
+  "a541e3150ccd": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "llm",
+   "title": "Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks"
+  },
+  "ddeb13a691aa": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "llm",
+   "title": "TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs"
+  },
+  "9fe3e937f57a": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Language Models Can Rewrite Their Own Weights"
+  },
+  "54442bdfd7b9": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "System 1 agents: a method for local, reliable and fast agentic AI"
+  },
+  "5c7e324ff775": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights"
+  },
+  "9c6fdc0eee9c": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning"
+  },
+  "571f7d8a1a9c": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback"
+  },
+  "90ba6109cbd2": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests"
+  },
+  "0ad3a10b63bf": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "In Situ Training of Optical Neural Networks by Coding Agents"
+  },
+  "4168c8cd8bf4": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "SpecWM: Turning Verification into Refinement for Streaming World Models"
+  },
+  "4df488191e99": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Do Probing and Steering Favor the Same Directions Within and Across Language Models?"
+  },
+  "65babafad87b": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "TwinD: Generalizing Deepfake Detection from Blending to Entire Face Synthesis"
+  },
+  "7a496c044718": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "AURA: AUdio-dRiven streaming Avatar"
+  },
+  "4fc52ca79d45": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "A data simulator to test agents"
+  },
+  "6800ea27e364": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Schneider Electric named Market Shaper in Gartner's Physical AI Services report"
+  },
+  "d8fcd9a61bfd": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Private markets trends: what will drive future growth?"
+  },
+  "d4a8e7c4b86f": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Gen Z’s views more fragmented than older generations"
+  },
+  "1a9be8199f88": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "The Humanist Review of AI: Abundance & Scarcity"
+  },
+  "c5c0b69e1d7b": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Xlue Raises $35M Seed Led by Conviction to Build a Health World Model"
+  },
+  "7183c52b9f70": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Show HN: ArkViz – AI generated software architecture diagrams"
+  },
+  "43d935b7920e": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Show HN: LarpLess, open-source study tracker detecting distractions locally"
+  },
+  "6fee3b2be403": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "Show HN: Prediction market competition where only agents can trade"
+  },
+  "ba504aec0cf0": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "iamajmeena/neonclipping — Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (au"
+  },
+  "914f929b5f6d": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "That's about 10 papers per day. If my agents are reading the papers your agents are writing I'm not sure what impact mea"
+  },
+  "7ef17dbfbddc": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "\"Graceful scale-in for voice AI agents on Amazon ECS with task scale-in protection\" by Mahima_C #amazon-ecs #aws-fargate"
+  },
+  "147c12a43482": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "As B2A (business to agent) transactions become more and more common, the ability to evaluate “browser-use agents” (Googl"
+  },
+  "af1d18fbb4c6": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "CHUM, perfect simile for AI Slop. Churned up slop created from other living things. Spread all over to attract predators"
+  },
+  "7ebde59dd893": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "System of agentic AI for the discovery of metal-organic frameworks ->Nature | More on \"AI discovery of metal-organic fra"
+  },
+  "3ec4f9060eb7": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design Sevda Ebrahimi et al. #arXiv #cs.AI #cs.CL #cs.NE"
+  },
+  "d89c7a3a1689": {
+   "at": "2026-11-20T20:23:18.396Z",
+   "by": "rules",
+   "title": "🏜️ Saudi Arabia’s Empty Quarter was once a lush oasis! Around 125,000 years ago, a vast lake supported hippos, buffaloe"
   }
  },
  "repos": {
@@ -23123,8 +23323,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 85991,
-   "forks": 13042,
+   "stars": 86037,
+   "forks": 13049,
    "openIssues": 244,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -23265,7 +23465,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 85991
+     "stars": 86037
     }
    ]
   },
@@ -23275,8 +23475,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42744,
-   "forks": 7650,
+   "stars": 42749,
+   "forks": 7649,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -23417,7 +23617,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 42744
+     "stars": 42749
     }
    ]
   },
@@ -23427,7 +23627,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22400,
+   "stars": 22399,
    "forks": 3134,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -23563,7 +23763,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 22400
+     "stars": 22399
     }
    ]
   },
@@ -23719,7 +23919,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5443,
+   "stars": 5445,
    "forks": 662,
    "openIssues": 58,
    "pushedAt": "2026-11-16T11:44:57Z",
@@ -23861,7 +24061,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 5443
+     "stars": 5445
     }
    ]
   },
@@ -23871,8 +24071,8 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1910,
-   "forks": 407,
+   "stars": 1911,
+   "forks": 408,
    "openIssues": 56,
    "pushedAt": "2026-11-19T16:44:40Z",
    "language": "Python",
@@ -24013,7 +24213,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 1910
+     "stars": 1911
     }
    ]
   },
@@ -24175,9 +24375,9 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7697,
+   "stars": 7699,
    "forks": 695,
-   "openIssues": 62,
+   "openIssues": 63,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
@@ -24317,7 +24517,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 7697
+     "stars": 7699
     }
    ]
   },
@@ -24473,8 +24673,8 @@
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 521,
-   "forks": 92,
-   "openIssues": 59,
+   "forks": 93,
+   "openIssues": 60,
    "pushedAt": "2026-11-19T22:10:18Z",
    "language": "Python",
    "latestRelease": {
@@ -24776,7 +24976,7 @@
    "org": "ruc-gsai",
    "description": "",
    "url": "https://github.com/RUC-GSAI/YuLan-OneSim",
-   "stars": 248,
+   "stars": 249,
    "forks": 31,
    "openIssues": 10,
    "pushedAt": "2026-02-02T11:48:06Z",
@@ -24912,7 +25112,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 248
+     "stars": 249
     }
    ]
   },
@@ -24921,7 +25121,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1400,
+   "stars": 1401,
    "forks": 56,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -25057,7 +25257,7 @@
     },
     {
      "date": "2026-11-20",
-     "stars": 1400
+     "stars": 1401
     }
    ]
   },
@@ -25068,7 +25268,7 @@
    "url": "https://github.com/YSocialTwin/YSocial",
    "stars": 37,
    "forks": 7,
-   "openIssues": 2,
+   "openIssues": 0,
    "pushedAt": "2026-11-16T16:23:07Z",
    "language": "Python",
    "latestRelease": {

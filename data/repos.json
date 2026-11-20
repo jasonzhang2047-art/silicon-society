@@ -5,8 +5,8 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 85991,
-  "forks": 13042,
+  "stars": 86037,
+  "forks": 13049,
   "openIssues": 244,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
@@ -147,7 +147,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 85991
+    "stars": 86037
    }
   ]
  },
@@ -157,8 +157,8 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42744,
-  "forks": 7650,
+  "stars": 42749,
+  "forks": 7649,
   "openIssues": 12,
   "pushedAt": "2026-10-16T03:33:52Z",
   "language": "Python",
@@ -299,7 +299,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 42744
+    "stars": 42749
    }
   ]
  },
@@ -309,7 +309,7 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22400,
+  "stars": 22399,
   "forks": 3134,
   "openIssues": 147,
   "pushedAt": "2024-08-05T21:38:56Z",
@@ -445,7 +445,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 22400
+    "stars": 22399
    }
   ]
  },
@@ -601,7 +601,7 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5443,
+  "stars": 5445,
   "forks": 662,
   "openIssues": 58,
   "pushedAt": "2026-11-16T11:44:57Z",
@@ -743,7 +743,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 5443
+    "stars": 5445
    }
   ]
  },
@@ -753,8 +753,8 @@
   "org": "google-deepmind",
   "description": "A library for generative social simulation",
   "url": "https://github.com/google-deepmind/concordia",
-  "stars": 1910,
-  "forks": 407,
+  "stars": 1911,
+  "forks": 408,
   "openIssues": 56,
   "pushedAt": "2026-11-19T16:44:40Z",
   "language": "Python",
@@ -895,7 +895,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 1910
+    "stars": 1911
    }
   ]
  },
@@ -1057,9 +1057,9 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7697,
+  "stars": 7699,
   "forks": 695,
-  "openIssues": 62,
+  "openIssues": 63,
   "pushedAt": "2026-11-06T21:51:04Z",
   "language": "Jupyter Notebook",
   "latestRelease": {
@@ -1199,7 +1199,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 7697
+    "stars": 7699
    }
   ]
  },
@@ -1355,8 +1355,8 @@
   "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 521,
-  "forks": 92,
-  "openIssues": 59,
+  "forks": 93,
+  "openIssues": 60,
   "pushedAt": "2026-11-19T22:10:18Z",
   "language": "Python",
   "latestRelease": {
@@ -1658,7 +1658,7 @@
   "org": "ruc-gsai",
   "description": "",
   "url": "https://github.com/RUC-GSAI/YuLan-OneSim",
-  "stars": 248,
+  "stars": 249,
   "forks": 31,
   "openIssues": 10,
   "pushedAt": "2026-02-02T11:48:06Z",
@@ -1794,7 +1794,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 248
+    "stars": 249
    }
   ]
  },
@@ -1803,7 +1803,7 @@
   "label": "Civilization-scale agent simulation (Minecraft)",
   "description": "",
   "url": "https://github.com/altera-al/project-sid",
-  "stars": 1400,
+  "stars": 1401,
   "forks": 56,
   "openIssues": 5,
   "pushedAt": "2024-11-04T16:24:29Z",
@@ -1939,7 +1939,7 @@
    },
    {
     "date": "2026-11-20",
-    "stars": 1400
+    "stars": 1401
    }
   ]
  },
@@ -1950,7 +1950,7 @@
   "url": "https://github.com/YSocialTwin/YSocial",
   "stars": 37,
   "forks": 7,
-  "openIssues": 2,
+  "openIssues": 0,
   "pushedAt": "2026-11-16T16:23:07Z",
   "language": "Python",
   "latestRelease": {
