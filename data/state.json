@@ -23359,6 +23359,76 @@
    "at": "2026-11-21T07:10:13.444Z",
    "by": "rules",
    "title": "@fr3nkd.bsky.social is hiding the fact that godotcomponents.com is vibe-coded. He has previously said that code is only "
+  },
+  "f4540f42b5c7": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "llm",
+   "title": "Electric Twin: Gen Z is a collection of online microcultures, not one generation"
+  },
+  "7f7c19d9bf37": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "Bending Spoons to buy Mailchimp from Intuit in €3.32 billion deal"
+  },
+  "e4dd29876484": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "Bending Spoons to buy Mailchimp from Intuit in €3.35bn deal"
+  },
+  "adf371732a06": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "Industrial AI Moves Toward Scaled Deployment : AVEVA Connects Engineering and Operations with a Strong Data Foundation –"
+  },
+  "6c941ad841b6": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio"
+  },
+  "ab875167a153": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "Show HN: Stop applying to jobs using AI-generated resume"
+  },
+  "6d25e5516fb5": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "\"Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.\" by La Shara Cordero #kiro #amazon-bedrock #gen"
+  },
+  "863b746d092d": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "Agentic AI and Healthcare Integration: Securing Clinical Workflows Against Automated Denial Loops and Data Poisoning + V"
+  },
+  "48edd4cf0a11": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "\"Mastering Autonomous AI Agents on AWS: Architectur, Bedrock & Serverless Patterns\" by syed Abdul Sami #generative-ai #a"
+  },
+  "95aba577d9d9": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "The weak point moved to the human layer — exactly the layer generative AI just industrialized for attackers. Pixel-perfe"
+  },
+  "18d047d30507": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "\"Building AI Agents and RAG Applications on AWS with Langflow\" by Yevgeni Shapiro #ai #ai-agents #ai-engineering #rag #a"
+  },
+  "dffd2fa7961c": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "llm",
+   "title": "Generative agents now handle CRUD generation, configuration, and test writing, compressing a task that previously took 3"
+  },
+  "52bb31ea6585": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "rules",
+   "title": "🚀 What are the biggest #SAPAI trends to watch in 2027? 🤖 SAP Joule 🧠 Generative AI ⚡ AI Agents 📊 Predictive Analytic"
+  },
+  "a3dd87cd0402": {
+   "at": "2026-11-21T19:17:48.040Z",
+   "by": "llm",
+   "title": "\"Test Your Agent Before People Do: Planted Errors, Simulated Users and Runs You Can Re-score\" by Mohammad AlYasfo #stran"
   }
  },
  "repos": {
@@ -23368,8 +23438,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86072,
-   "forks": 13033,
+   "stars": 86130,
+   "forks": 13042,
    "openIssues": 244,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -23514,7 +23584,7 @@
     },
     {
      "date": "2026-11-21",
-     "stars": 86072
+     "stars": 86130
     }
    ]
   },
@@ -23524,8 +23594,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42750,
-   "forks": 7646,
+   "stars": 42754,
+   "forks": 7645,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -23670,7 +23740,7 @@
     },
     {
      "date": "2026-11-21",
-     "stars": 42750
+     "stars": 42754
     }
    ]
   },
@@ -23681,7 +23751,7 @@
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
    "stars": 22399,
-   "forks": 3132,
+   "forks": 3131,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -23980,7 +24050,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5445,
+   "stars": 5446,
    "forks": 662,
    "openIssues": 58,
    "pushedAt": "2026-11-16T11:44:57Z",
@@ -24126,7 +24196,7 @@
     },
     {
      "date": "2026-11-21",
-     "stars": 5445
+     "stars": 5446
     }
    ]
   },
@@ -24136,8 +24206,8 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1913,
-   "forks": 409,
+   "stars": 1915,
+   "forks": 410,
    "openIssues": 56,
    "pushedAt": "2026-11-19T16:44:40Z",
    "language": "Python",
@@ -24282,7 +24352,7 @@
     },
     {
      "date": "2026-11-21",
-     "stars": 1913
+     "stars": 1915
     }
    ]
   },
@@ -24448,8 +24518,8 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7700,
-   "forks": 695,
+   "stars": 7699,
+   "forks": 694,
    "openIssues": 65,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
@@ -24594,7 +24664,7 @@
     },
     {
      "date": "2026-11-21",
-     "stars": 7700
+     "stars": 7699
     }
    ]
   },
@@ -24603,7 +24673,7 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10837,
+   "stars": 10840,
    "forks": 1261,
    "openIssues": 76,
    "pushedAt": "2026-11-20T01:05:36Z",
@@ -24743,7 +24813,7 @@
     },
     {
      "date": "2026-11-21",
-     "stars": 10837
+     "stars": 10840
     }
    ]
   },
@@ -24756,7 +24826,7 @@
    "stars": 521,
    "forks": 93,
    "openIssues": 60,
-   "pushedAt": "2026-11-21T06:14:51Z",
+   "pushedAt": "2026-11-21T19:00:43Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -25366,7 +25436,7 @@
    "stars": 37,
    "forks": 7,
    "openIssues": 0,
-   "pushedAt": "2026-11-16T16:23:07Z",
+   "pushedAt": "2026-11-21T14:36:39Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v4.0.0",
