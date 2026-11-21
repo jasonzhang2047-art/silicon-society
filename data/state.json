@@ -23314,6 +23314,51 @@
    "at": "2026-11-20T20:23:18.396Z",
    "by": "rules",
    "title": "🏜️ Saudi Arabia’s Empty Quarter was once a lush oasis! Around 125,000 years ago, a vast lake supported hippos, buffaloe"
+  },
+  "87fdae178a63": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "Teaching Vision-Language-Action Models to Stop Safely"
+  },
+  "b2ed17431c5b": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving"
+  },
+  "d1acb81cd1be": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "Time Series Structure Learning with Local Causal Parent Discovery"
+  },
+  "496d1762aeb7": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "Lang-SVG: Hierarchical Image Vectorization with Language Priors"
+  },
+  "a807423708a9": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "TheySaid Launches 4.0: See How Users Will React, Right Where You Build"
+  },
+  "24e3d7001ea8": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "Gen Z Political Views Least Aligned Across Generations"
+  },
+  "d548ef335bf4": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "🤖 AI is changing how we create, work, and solve problems. Are you ready? Learn Generative AI, prompt engineering, LLMs,"
+  },
+  "7ccfd04edf1d": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "AI Agents Tackle Synthetic Video Forensics, Embodied Robotics, Multimodal Models, and 3D Physics Synthesis + Video Intro"
+  },
+  "423daf693488": {
+   "at": "2026-11-21T07:10:13.444Z",
+   "by": "rules",
+   "title": "@fr3nkd.bsky.social is hiding the fact that godotcomponents.com is vibe-coded. He has previously said that code is only "
   }
  },
  "repos": {
@@ -23323,8 +23368,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86037,
-   "forks": 13049,
+   "stars": 86072,
+   "forks": 13033,
    "openIssues": 244,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -23466,6 +23511,10 @@
     {
      "date": "2026-11-20",
      "stars": 86037
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 86072
     }
    ]
   },
@@ -23475,8 +23524,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42749,
-   "forks": 7649,
+   "stars": 42750,
+   "forks": 7646,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -23618,6 +23667,10 @@
     {
      "date": "2026-11-20",
      "stars": 42749
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 42750
     }
    ]
   },
@@ -23628,7 +23681,7 @@
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
    "stars": 22399,
-   "forks": 3134,
+   "forks": 3132,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -23763,6 +23816,10 @@
     },
     {
      "date": "2026-11-20",
+     "stars": 22399
+    },
+    {
+     "date": "2026-11-21",
      "stars": 22399
     }
    ]
@@ -23909,6 +23966,10 @@
     },
     {
      "date": "2026-11-20",
+     "stars": 630
+    },
+    {
+     "date": "2026-11-21",
      "stars": 630
     }
    ]
@@ -24062,6 +24123,10 @@
     {
      "date": "2026-11-20",
      "stars": 5445
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 5445
     }
    ]
   },
@@ -24071,8 +24136,8 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1911,
-   "forks": 408,
+   "stars": 1913,
+   "forks": 409,
    "openIssues": 56,
    "pushedAt": "2026-11-19T16:44:40Z",
    "language": "Python",
@@ -24214,6 +24279,10 @@
     {
      "date": "2026-11-20",
      "stars": 1911
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 1913
     }
    ]
   },
@@ -24366,6 +24435,10 @@
     {
      "date": "2026-11-20",
      "stars": 1410
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 1410
     }
    ]
   },
@@ -24375,9 +24448,9 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7699,
+   "stars": 7700,
    "forks": 695,
-   "openIssues": 63,
+   "openIssues": 65,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
@@ -24518,6 +24591,10 @@
     {
      "date": "2026-11-20",
      "stars": 7699
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 7700
     }
    ]
   },
@@ -24526,8 +24603,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10835,
-   "forks": 1260,
+   "stars": 10837,
+   "forks": 1261,
    "openIssues": 76,
    "pushedAt": "2026-11-20T01:05:36Z",
    "language": "TypeScript",
@@ -24663,6 +24740,10 @@
     {
      "date": "2026-11-20",
      "stars": 10835
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 10837
     }
    ]
   },
@@ -24675,7 +24756,7 @@
    "stars": 521,
    "forks": 93,
    "openIssues": 60,
-   "pushedAt": "2026-11-19T22:10:18Z",
+   "pushedAt": "2026-11-21T06:14:51Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -24814,6 +24895,10 @@
     },
     {
      "date": "2026-11-20",
+     "stars": 521
+    },
+    {
+     "date": "2026-11-21",
      "stars": 521
     }
    ]
@@ -24967,6 +25052,10 @@
     {
      "date": "2026-11-20",
      "stars": 346
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 346
     }
    ]
   },
@@ -25113,6 +25202,10 @@
     {
      "date": "2026-11-20",
      "stars": 249
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 249
     }
    ]
   },
@@ -25121,7 +25214,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1401,
+   "stars": 1402,
    "forks": 56,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -25258,6 +25351,10 @@
     {
      "date": "2026-11-20",
      "stars": 1401
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 1402
     }
    ]
   },
@@ -25409,6 +25506,10 @@
     {
      "date": "2026-11-20",
      "stars": 37
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 37
     }
    ]
   },
@@ -25417,8 +25518,8 @@
    "label": "Multi-agent simulation framework",
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
-   "stars": 5163,
-   "forks": 523,
+   "stars": 5164,
+   "forks": 522,
    "openIssues": 40,
    "pushedAt": "2024-09-09T05:47:44Z",
    "language": "JavaScript",
@@ -25560,6 +25661,10 @@
     {
      "date": "2026-11-20",
      "stars": 5163
+    },
+    {
+     "date": "2026-11-21",
+     "stars": 5164
     }
    ]
   }

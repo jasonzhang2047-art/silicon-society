@@ -328,7 +328,7 @@
    "reason": "Foundation model for simulating human behaviour"
   },
   "metrics": {
-   "upvotes": 2,
+   "upvotes": 3,
    "comments": 2
   },
   "aiSummary": "Introduces Chiron, an LLM fine-tuned to measure psychological constructs, predict individual behaviour and align population response distributions, trained on 36 behavioural domains and 78 experiments."
