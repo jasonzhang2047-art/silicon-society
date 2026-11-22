@@ -23429,6 +23429,66 @@
    "at": "2026-11-21T19:17:48.040Z",
    "by": "llm",
    "title": "\"Test Your Agent Before People Do: Planted Errors, Simulated Users and Runs You Can Re-score\" by Mohammad AlYasfo #stran"
+  },
+  "81c572853dfb": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "llm",
+   "title": "Digital Twin: Simulating scenarios, shaping the future"
+  },
+  "5200a30f1bba": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "Aegis Software Brings AI-Driven Digital Twin Simulation, and Advanced Planning and Scheduling to Manufacturers of Every "
+  },
+  "f0d39ac25eb7": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "Gallium Studios, Founded by The Sims Creator Will Wright, Partners with Artificial Agency to Power Characters in New Sim"
+  },
+  "b3c4ae640869": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "Castmagic – AI Content Platform, Audio Transcription & Content Repurposing"
+  },
+  "af8fe3bdfd4c": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "\"Beyond Chatbots: Understanding Agentic AI and How AI Agents Work\" by Sujal Atkar #artificial-intelligence #generative-a"
+  },
+  "14d51a4fd0b5": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "Generative engine optimization gains cancel out when all brands adopt it, so brands should shape the questions shoppers "
+  },
+  "131c69a6767c": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "Unfortunately, most men, especially of a certain political flavor, fail to realize that women are powerful agents, equal"
+  },
+  "aac877d8a793": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "\"What VisionQuest Taught Me About Building AI Agents (Without Meaning To)\" by Gustavo Mainchein #agentic-ai #aws-lambda "
+  },
+  "1e262459823c": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "While generative AI chatbots dominate headlines, enterprise operations teams are seeing their biggest ROI from a quieter"
+  },
+  "56ba85dda7bc": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "ACT African Cup tournament celebrates cultural diversity and soccer talent in Canberra 🤖 IA: It's not clickbait ✅ 👥 Us"
+  },
+  "4482101efd1d": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "apparently you don't understand biology or how words work"
+  },
+  "b4874eec9fdc": {
+   "at": "2026-11-22T06:50:24.685Z",
+   "by": "rules",
+   "title": "in case you haven't seen it, there are some fascinating results coming out about unit tests and ai coding. basically uni"
   }
  },
  "repos": {
@@ -23438,8 +23498,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86130,
-   "forks": 13042,
+   "stars": 86208,
+   "forks": 13053,
    "openIssues": 244,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -23585,6 +23645,10 @@
     {
      "date": "2026-11-21",
      "stars": 86130
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 86208
     }
    ]
   },
@@ -23594,7 +23658,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42754,
+   "stars": 42755,
    "forks": 7645,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -23741,6 +23805,10 @@
     {
      "date": "2026-11-21",
      "stars": 42754
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 42755
     }
    ]
   },
@@ -23750,7 +23818,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22399,
+   "stars": 22400,
    "forks": 3131,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -23891,6 +23959,10 @@
     {
      "date": "2026-11-21",
      "stars": 22399
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 22400
     }
    ]
   },
@@ -24040,6 +24112,10 @@
     },
     {
      "date": "2026-11-21",
+     "stars": 630
+    },
+    {
+     "date": "2026-11-22",
      "stars": 630
     }
    ]
@@ -24197,6 +24273,10 @@
     {
      "date": "2026-11-21",
      "stars": 5446
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 5446
     }
    ]
   },
@@ -24206,7 +24286,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1915,
+   "stars": 1917,
    "forks": 410,
    "openIssues": 56,
    "pushedAt": "2026-11-19T16:44:40Z",
@@ -24353,6 +24433,10 @@
     {
      "date": "2026-11-21",
      "stars": 1915
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 1917
     }
    ]
   },
@@ -24362,7 +24446,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1410,
+   "stars": 1409,
    "forks": 225,
    "openIssues": 37,
    "pushedAt": "2026-11-17T16:55:06Z",
@@ -24509,6 +24593,10 @@
     {
      "date": "2026-11-21",
      "stars": 1410
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 1409
     }
    ]
   },
@@ -24518,9 +24606,9 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7699,
+   "stars": 7700,
    "forks": 694,
-   "openIssues": 65,
+   "openIssues": 73,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
@@ -24665,6 +24753,10 @@
     {
      "date": "2026-11-21",
      "stars": 7699
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 7700
     }
    ]
   },
@@ -24673,8 +24765,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10840,
-   "forks": 1261,
+   "stars": 10845,
+   "forks": 1262,
    "openIssues": 76,
    "pushedAt": "2026-11-20T01:05:36Z",
    "language": "TypeScript",
@@ -24814,6 +24906,10 @@
     {
      "date": "2026-11-21",
      "stars": 10840
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 10845
     }
    ]
   },
@@ -24969,6 +25065,10 @@
     },
     {
      "date": "2026-11-21",
+     "stars": 521
+    },
+    {
+     "date": "2026-11-22",
      "stars": 521
     }
    ]
@@ -25126,6 +25226,10 @@
     {
      "date": "2026-11-21",
      "stars": 346
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 346
     }
    ]
   },
@@ -25276,6 +25380,10 @@
     {
      "date": "2026-11-21",
      "stars": 249
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 249
     }
    ]
   },
@@ -25284,7 +25392,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1402,
+   "stars": 1403,
    "forks": 56,
    "openIssues": 5,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -25425,6 +25533,10 @@
     {
      "date": "2026-11-21",
      "stars": 1402
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 1403
     }
    ]
   },
@@ -25580,6 +25692,10 @@
     {
      "date": "2026-11-21",
      "stars": 37
+    },
+    {
+     "date": "2026-11-22",
+     "stars": 37
     }
    ]
   },
@@ -25734,6 +25850,10 @@
     },
     {
      "date": "2026-11-21",
+     "stars": 5164
+    },
+    {
+     "date": "2026-11-22",
      "stars": 5164
     }
    ]
