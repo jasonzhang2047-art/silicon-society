@@ -138,6 +138,28 @@
   "aiSummary": "Post shares ABSClaw, an arXiv paper arguing LLM-based artificial societies lack scientific grounding and proposing reality-grounded social simulation."
  },
  {
+  "id": "baac51951324",
+  "url": "https://analyticsindiamag.com/ai-startups/can-simulated-users-replace-weeks-of-consumer-research-vectorial-ai-thinks-so",
+  "title": "Can Simulated Users Replace Weeks of Testing Products? Vectorial AI Thinks So",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Analytics India Magazine",
+   "url": "https://analyticsindiamag.com"
+  },
+  "publishedAt": "2026-11-19T09:51:22.000Z",
+  "firstSeenAt": "2026-11-22T19:42:21.849Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Simulated users for product testing"
+  },
+  "aiSummary": "Analytics India Magazine covers Vectorial AI and whether simulated users can replace weeks of product testing."
+ },
+ {
   "id": "5eaf6946a096",
   "url": "https://bsky.app/profile/5tuartreeves.bsky.social/post/3n2mlsun4xs2s",
   "title": "it should be a matter of shame that HCI researchers are involved in endeavours like simile.ai - which seek to \"simulate\" \"real\" people instead of actually understanding people there will be an argument that \"this just enriches existing user research\" but that is clearly bunk n…",
