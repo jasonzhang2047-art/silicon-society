@@ -1,5 +1,69 @@
 [
  {
+  "id": "42561a2f52c6",
+  "url": "https://news.ycombinator.com/item?id=50614665",
+  "title": "Largest Review of Synthetic Participants Ever Conducted Found What You'd Expect",
+  "category": "discussion",
+  "source": {
+   "kind": "hackernews",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com"
+  },
+  "author": {
+   "name": "mooreds",
+   "url": "https://news.ycombinator.com/user?id=mooreds"
+  },
+  "link": "https://www.thevoiceofuser.com/the-largest-review-of-synthetic-participants-ever-conducted-found-exactly-what-youd-expect-synthetic-users-dont-work/",
+  "publishedAt": "2026-11-23T16:32:53Z",
+  "firstSeenAt": "2026-11-23T23:54:51.654Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic participants validation review"
+  },
+  "metrics": {
+   "points": 1,
+   "comments": 0
+  },
+  "aiSummary": "A Hacker News thread discusses what is described as the largest review of synthetic participants ever conducted."
+ },
+ {
+  "id": "a2a3706849ce",
+  "url": "https://news.ycombinator.com/item?id=50610989",
+  "title": "Show HN: MiroFish 0.5.0 – Pure-Python Corporate Crisis Rehearsal Sandbox",
+  "category": "discussion",
+  "source": {
+   "kind": "hackernews",
+   "name": "Hacker News",
+   "url": "https://news.ycombinator.com"
+  },
+  "author": {
+   "name": "pingguye",
+   "url": "https://news.ycombinator.com/user?id=pingguye"
+  },
+  "link": "https://pingguye.cn/crisis-demo/",
+  "publishedAt": "2026-11-23T12:59:24Z",
+  "firstSeenAt": "2026-11-23T23:54:51.654Z",
+  "people": [],
+  "orgs": [
+   "mirofish"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "MiroFish swarm simulation tool release discussion"
+  },
+  "metrics": {
+   "points": 4,
+   "comments": 1
+  },
+  "aiSummary": "A Show HN post announces MiroFish 0.5.0, a pure-Python sandbox for rehearsing corporate crises."
+ },
+ {
   "id": "a7dc085c6f3f",
   "url": "https://bsky.app/profile/cscy-bot.bsky.social/post/3n2xjinfute2e",
   "title": "Suchecki Konrad, Flores Laurent: Answering the persona, not the person: Over-determination in the construction of synthetic respondents https://arxiv.org/abs/2611.27449 https://arxiv.org/pdf/2611.27449 https://arxiv.org/html/2611.27449",
@@ -414,7 +478,7 @@
    "reason": "Foundation model for simulating human behaviour"
   },
   "metrics": {
-   "upvotes": 4,
+   "upvotes": 5,
    "comments": 2
   },
   "aiSummary": "Introduces Chiron, an LLM fine-tuned to measure psychological constructs, predict individual behaviour and align population response distributions, trained on 36 behavioural domains and 78 experiments."
