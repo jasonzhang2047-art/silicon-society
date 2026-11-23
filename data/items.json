@@ -1,5 +1,38 @@
 [
  {
+  "id": "a7dc085c6f3f",
+  "url": "https://bsky.app/profile/cscy-bot.bsky.social/post/3n2xjinfute2e",
+  "title": "Suchecki Konrad, Flores Laurent: Answering the persona, not the person: Over-determination in the construction of synthetic respondents https://arxiv.org/abs/2611.27449 https://arxiv.org/pdf/2611.27449 https://arxiv.org/html/2611.27449",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arXiv cs.CY Computers and Society",
+   "handle": "@cscy-bot.bsky.social",
+   "url": "https://bsky.app/profile/cscy-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hfwnvjetns4fjrzbhc4zche2/bafkreia7xviva65fw24tax2aptk4k5lqqqgosol3qmgjbablzbcpv4js3m"
+  },
+  "publishedAt": "2026-11-23T06:40:05.137Z",
+  "firstSeenAt": "2026-11-23T07:41:01.573Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Shares paper on synthetic respondents"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Bluesky post sharing the arXiv paper by Suchecki and Flores on over-determination in constructing synthetic respondents."
+ },
+ {
   "id": "5a6682ef675b",
   "url": "https://bsky.app/profile/bradytwest.bsky.social/post/3n2rbbxmv6c2q",
   "title": "It is now an entire area of academic inquiry…simply search for “silicon sampling” on Google Scholar.",
@@ -101,6 +134,36 @@
   "aiSummary": "AiX 2027 announces Uxia as Founder Partner; Borja Díaz-Roig will speak on UX validation, synthetic users and agentic workflows at the Newcastle AI & Design Conference."
  },
  {
+  "id": "94fa74c7b9f0",
+  "url": "https://arxiv.org/abs/2611.27449",
+  "title": "Answering the persona, not the person: Over-determination in the construction of synthetic respondents",
+  "snippet": "Persona-prompted large language models (LLMs) are increasingly used as synthetic survey respondents and digital twins. We examine how LLMs generate individual survey responses and why synthetic responses can show algorithmic fidelity in aggregate while tracking individual respondents poorly. We constructed 14,000 synthetic respondents from attributes of participants in Round 11 of the European Social Survey across 28 countries. Gemini 2.5 Flash and GPT-5-mini answered 15 attitude questions. We compared their outputs with each participant's answers and with the estimated human conditional mean for that profile. Synthetic responses tracked the conditional mean more closely than matched human…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Suchecki Konrad",
+   "Flores Laurent"
+  ],
+  "publishedAt": "2026-11-20T10:44:58.000Z",
+  "firstSeenAt": "2026-11-23T07:41:01.573Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CY"
+  ],
+  "score": 10,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validation of LLM synthetic survey respondents"
+  },
+  "metrics": {},
+  "aiSummary": "Study builds 14,000 persona-prompted synthetic respondents from European Social Survey Round 11 data and finds Gemini 2.5 Flash and GPT-5-mini responses track conditional means more than individual respondents."
+ },
+ {
   "id": "46764d0f5e93",
   "url": "https://bsky.app/profile/arxiv-daily-bot.bsky.social/post/3n2pp7y6ws523",
   "title": "ABSClaw: From Invented Worlds to Reality-Grounded Social Simulation Shaobin He et al. #arXiv #cs.AI",
@@ -157,7 +220,8 @@
    "by": "llm",
    "reason": "Simulated users for product testing"
   },
-  "aiSummary": "Analytics India Magazine covers Vectorial AI and whether simulated users can replace weeks of product testing."
+  "aiSummary": "Analytics India Magazine covers Vectorial AI and whether simulated users can replace weeks of product testing.",
+  "metrics": {}
  },
  {
   "id": "5eaf6946a096",
