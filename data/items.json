@@ -1,5 +1,27 @@
 [
  {
+  "id": "933894fcd7c8",
+  "url": "https://tolunacorporate.com/toluna-synthetic-personas-dynamic-awareness-importance",
+  "title": "The importance of Dynamic Awareness in synthetic personas",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "tolunacorporate.com",
+   "url": "https://tolunacorporate.com"
+  },
+  "publishedAt": "2026-11-24T10:06:03.000Z",
+  "firstSeenAt": "2026-11-24T22:28:05.102Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic personas from market research firm"
+  },
+  "aiSummary": "Toluna discusses the importance of dynamic awareness in synthetic personas."
+ },
+ {
   "id": "56532dce8567",
   "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.12.0",
   "title": "tsinghua-fib-lab/AgentSociety agentsociety2-v2.12.0 — AgentSociety2 2.12.0",
@@ -25,7 +47,7 @@
    "reason": "Release of LLM society simulation platform"
   },
   "metrics": {
-   "stars": 1414
+   "stars": 1416
   },
   "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
  },
@@ -58,7 +80,7 @@
    "reason": "Synthetic respondents validity research"
   },
   "metrics": {
-   "likes": 0,
+   "likes": 1,
    "reposts": 0,
    "replies": 0
   },
@@ -121,7 +143,8 @@
    "by": "llm",
    "reason": "Critique of simulated users via generative AI"
   },
-  "aiSummary": "Paper critically reviews and traces the genealogy of LLM-generated simulated users in UX testing, from 1980s cognitive models to current generative agents."
+  "aiSummary": "Paper critically reviews and traces the genealogy of LLM-generated simulated users in UX testing, from 1980s cognitive models to current generative agents.",
+  "metrics": {}
  },
  {
   "id": "a2a3706849ce",
@@ -187,7 +210,8 @@
    "by": "llm",
    "reason": "Validating LLM persona simulators"
   },
-  "aiSummary": "Paper proposes a self-anchored internal-consistency diagnostic for evaluating persona consistency in LLM user simulators, correlating a Likert self-report with two behavioral profiles."
+  "aiSummary": "Paper proposes a self-anchored internal-consistency diagnostic for evaluating persona consistency in LLM user simulators, correlating a Likert self-report with two behavioral profiles.",
+  "metrics": {}
  },
  {
   "id": "a7dc085c6f3f",
@@ -250,7 +274,8 @@
    "by": "llm",
    "reason": "LLM survey simulation fidelity"
   },
-  "aiSummary": "Study finds persona-conditioned LLMs produce over-constrained survey publics with inflated opinion correlations and proposes latent-predisposition personas for heterogeneous, reliable survey simulation."
+  "aiSummary": "Study finds persona-conditioned LLMs produce over-constrained survey publics with inflated opinion correlations and proposes latent-predisposition personas for heterogeneous, reliable survey simulation.",
+  "metrics": {}
  },
  {
   "id": "971375198b04",
@@ -280,7 +305,8 @@
    "by": "llm",
    "reason": "Validity of multi-agent social simulations"
   },
-  "aiSummary": "SocCogEval controlled-clone assay shows interaction among cloned LLM agents causes personality response-profile drift, challenging the assumption that agents in social simulations are independent replicates."
+  "aiSummary": "SocCogEval controlled-clone assay shows interaction among cloned LLM agents causes personality response-profile drift, challenging the assumption that agents in social simulations are independent replicates.",
+  "metrics": {}
  },
  {
   "id": "d12a4824156e",
@@ -312,7 +338,8 @@
    "by": "llm",
    "reason": "LLM-driven agent-based social simulation"
   },
-  "aiSummary": "Paper presents HSABM-LLM, a hybrid agent-based model where LLM agents generate and adapt natural language arguments to simulate power asymmetries in water governance."
+  "aiSummary": "Paper presents HSABM-LLM, a hybrid agent-based model where LLM agents generate and adapt natural language arguments to simulate power asymmetries in water governance.",
+  "metrics": {}
  },
  {
   "id": "29a1de3b43f5",
@@ -398,7 +425,8 @@
    "by": "llm",
    "reason": "Calibrating agents for social simulation"
   },
-  "aiSummary": "Paper calibrates language model agents to multidimensional trait profiles using activation steering and Bayesian optimization, evaluated on Big Five scores of 500 OpenPsychometrics respondents."
+  "aiSummary": "Paper calibrates language model agents to multidimensional trait profiles using activation steering and Bayesian optimization, evaluated on Big Five scores of 500 OpenPsychometrics respondents.",
+  "metrics": {}
  },
  {
   "id": "530b77baacfd",
@@ -427,7 +455,8 @@
    "by": "llm",
    "reason": "Synthetic publics validation study"
   },
-  "aiSummary": "Using policy choices from Chilean, French and Brazilian adults, study finds LLM synthetic publics compress preference geometry and no condition reproduced individual, heterogeneity and political structure jointly."
+  "aiSummary": "Using policy choices from Chilean, French and Brazilian adults, study finds LLM synthetic publics compress preference geometry and no condition reproduced individual, heterogeneity and political structure jointly.",
+  "metrics": {}
  },
  {
   "id": "5a6682ef675b",

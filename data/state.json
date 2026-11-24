@@ -24264,6 +24264,186 @@
    "at": "2026-11-24T09:55:35.908Z",
    "by": "rules",
    "title": "Algorithmic reach is fragmenting fast as users ditch endless feeds for niche search, episodic series, and raw human voic"
+  },
+  "5a38f0936b0c": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood"
+  },
+  "03c4c81c2c8b": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Beam Model Technical Report"
+  },
+  "9286a87cd4da": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations"
+  },
+  "ebfa0b201831": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Single-Transformer Latent Diffusion"
+  },
+  "f917c7915f41": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Can Latent Reasoning Drive LLM Outputs Without a Trace?"
+  },
+  "10e9675f3c04": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents"
+  },
+  "05bcf593a02a": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals"
+  },
+  "a5825a5cb2b4": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "WorldLatent: A Unified 4D Latent Space for World Perception and Generation"
+  },
+  "162875d27d86": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "LLMs Memorize Their Own Hallucinations During Post-Training"
+  },
+  "b70b3fda4745": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind"
+  },
+  "a54e264e0ab7": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Measuring and Teaching Language Model Agents to Act on Delayed Consequences"
+  },
+  "cb651efaa123": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "KernelShift: Benchmarking Kernel Optimization Across Evolving Hardware"
+  },
+  "a5997dfdd6ab": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Innata-0: A Native Embodied World System with Model-Agent Co-Design"
+  },
+  "6aaa0db5ee80": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding"
+  },
+  "113f0271f8dc": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization"
+  },
+  "fafe375807e6": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "ApexID: Hierarchical Learning for Multi-Species Animal Re-Identification"
+  },
+  "9ba279a3db03": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Frontier models need only one text to unmask its human or AI author"
+  },
+  "3580e6a81e70": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "llm",
+   "title": "HEP-Ex-Bench: Evaluating Agentic Performance in High Energy Physics Experiment Data Analyses with Sealed Worlds"
+  },
+  "1a681b7c7e4c": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory"
+  },
+  "5d37b978ff03": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "CCFinance: Reconstructing Financial News Samples from Web Archives"
+  },
+  "ed9d6194e8ed": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Why Luxury Has Yet to Reach Full ‘Client Centricity’"
+  },
+  "8518a69261e6": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Top Virtual Reality Trends Transforming Digital Experiences"
+  },
+  "b5b9d5ed7780": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "llm",
+   "title": "Interview: Octave’s Uwe Jasnoch on using digital twins for climate adaptation"
+  },
+  "3d08bd69d728": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "V2X Expands Collaboration with Microsoft to Advance the Next Generation of AI-Powered Mission Operations"
+  },
+  "a4efd7935d53": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "AI Customer Service Startup Sierra Raising at $30B Valuation, 75 Times Revenue, Billing Per Outcome"
+  },
+  "dd32704e5961": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Olamee Appoints Quina Naylor as Vice President of Sales to Accelerate Growth"
+  },
+  "930aff322873": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Using Agentic AI to create the next generation of non-Java Kafka clients"
+  },
+  "c55edebc7143": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Show HN: Aisma – edit footage you shot from a text brief, via REST API or MCP"
+  },
+  "149f2825353e": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Show HN: Moonbooth – Simple URLs for independent agents to share and coordinate"
+  },
+  "bc1920e2fdd7": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Show HN: I built a laser puzzle game because I was tired of constant ads"
+  },
+  "6700eca40bef": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "yea i guess > i don't like and \"should ban\" seem different to me. like personally i think its cool to see wacky generati"
+  },
+  "efc80c083304": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "« Les employés de bureau en première ligne » : l’IA générative menace principalement les métiers occupés par des femmes"
+  },
+  "8f47cdfa4827": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "McKinsey estimates generative AI could add up to $4.4 trillion a year. NovaOS puts 14 agents on your own private cloud s"
+  },
+  "508b970d7a3f": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Notes on Generative AI for Mathematical Research describe how generative AI is now used to solve and to check research-l"
+  },
+  "9f3a883aaa8e": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "ぷるーふおぶこんせぷと PoC #13: エージェントのコモディティ化 PoC #13: The Commoditization of Agents ビューワで日英切替で読めます。 続きはサイトで！ #漫画 #AI漫画 #創作漫画 #生成A"
+  },
+  "f02f84f5f576": {
+   "at": "2026-11-24T22:28:05.102Z",
+   "by": "rules",
+   "title": "Optimizing the communication structure of large language model based multi-agent systems improves downstream performance"
   }
  },
  "repos": {
@@ -24273,9 +24453,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86515,
-   "forks": 13091,
-   "openIssues": 244,
+   "stars": 86592,
+   "forks": 13104,
+   "openIssues": 246,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -24431,7 +24611,7 @@
     },
     {
      "date": "2026-11-24",
-     "stars": 86515
+     "stars": 86592
     }
    ]
   },
@@ -24441,7 +24621,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42779,
+   "stars": 42784,
    "forks": 7647,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -24599,7 +24779,7 @@
     },
     {
      "date": "2026-11-24",
-     "stars": 42779
+     "stars": 42784
     }
    ]
   },
@@ -24609,8 +24789,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22409,
-   "forks": 3133,
+   "stars": 22415,
+   "forks": 3135,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -24761,7 +24941,7 @@
     },
     {
      "date": "2026-11-24",
-     "stars": 22409
+     "stars": 22415
     }
    ]
   },
@@ -24933,7 +25113,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5453,
+   "stars": 5454,
    "forks": 663,
    "openIssues": 58,
    "pushedAt": "2026-11-23T09:40:56Z",
@@ -25091,7 +25271,7 @@
     },
     {
      "date": "2026-11-24",
-     "stars": 5453
+     "stars": 5454
     }
    ]
   },
@@ -25101,7 +25281,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1923,
+   "stars": 1925,
    "forks": 413,
    "openIssues": 59,
    "pushedAt": "2026-11-19T16:44:40Z",
@@ -25259,7 +25439,7 @@
     },
     {
      "date": "2026-11-24",
-     "stars": 1923
+     "stars": 1925
     }
    ]
   },
@@ -25269,8 +25449,8 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1414,
-   "forks": 226,
+   "stars": 1416,
+   "forks": 227,
    "openIssues": 37,
    "pushedAt": "2026-11-24T04:56:07Z",
    "language": "Python",
@@ -25427,7 +25607,7 @@
     },
     {
      "date": "2026-11-24",
-     "stars": 1414
+     "stars": 1416
     }
    ]
   },
@@ -25604,8 +25784,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10849,
-   "forks": 1260,
+   "stars": 10854,
+   "forks": 1262,
    "openIssues": 75,
    "pushedAt": "2026-11-20T01:05:36Z",
    "language": "TypeScript",
@@ -25756,7 +25936,7 @@
     },
     {
      "date": "2026-11-24",
-     "stars": 10849
+     "stars": 10854
     }
    ]
   },
@@ -25768,8 +25948,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 522,
    "forks": 93,
-   "openIssues": 56,
-   "pushedAt": "2026-11-24T04:14:37Z",
+   "openIssues": 54,
+   "pushedAt": "2026-11-24T22:16:47Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -26427,7 +26607,7 @@
    "stars": 37,
    "forks": 7,
    "openIssues": 0,
-   "pushedAt": "2026-11-21T14:36:39Z",
+   "pushedAt": "2026-11-24T13:47:58Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v4.0.0",
