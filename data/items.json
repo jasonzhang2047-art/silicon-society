@@ -1,5 +1,70 @@
 [
  {
+  "id": "56532dce8567",
+  "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.12.0",
+  "title": "tsinghua-fib-lab/AgentSociety agentsociety2-v2.12.0 — AgentSociety2 2.12.0",
+  "snippet": "[2.12.0] 2026 11 24 agentsociety2 2.12.0 · extension 1.10.0 · 标签 agentsociety2 v2.12.0 Added 研究工作台 在“AI 对话”的右键菜单中可以设置默认助手。在命令面板搜索“Swagger”可打开当前工作区的 API 文档。 维护工具 新增 $agentsociety maintain ，用于审查依赖更新和安全告警，以及合并前的检查。 Changed Breaking: 检查点格式升至 v2。旧版创建的实验如需从中断处继续，请使用原版本恢复。新版仍可查看旧实验的回放。 Breaking: SDK 支持 Python 3.11.5 至 3.13。使用 3.11.0–3.11.4 的工作区需升级 Python 并重建环境。构建文档需要 Soup Sieve 4.0.0 或更高版本。 Daily…",
+  "category": "code",
+  "source": {
+   "kind": "github",
+   "name": "GitHub",
+   "url": "https://github.com/tsinghua-fib-lab/AgentSociety"
+  },
+  "publishedAt": "2026-11-24T05:04:52Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [
+   "tsinghua-fib"
+  ],
+  "tags": [
+   "release"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "trusted",
+   "reason": "Release of LLM society simulation platform"
+  },
+  "metrics": {
+   "stars": 1414
+  },
+  "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
+ },
+ {
+  "id": "428bdad15496",
+  "url": "https://bsky.app/profile/sosdrs.bsky.social/post/3n2zst2dq6k2n",
+  "title": "arxiv.org/abs/2611.27449",
+  "snippet": "Answering the persona, not the person: Over-determination in the construction of synthetic respondents. Persona-prompted large language models (LLMs) are increasingly used as synthetic survey respondents and digital twins. We examine how LLMs generate individual survey responses and why synthetic…",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Alice Lastname",
+   "handle": "@sosdrs.bsky.social",
+   "url": "https://bsky.app/profile/sosdrs.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w55dnrstfdz7slzupqd7hiqp/bafkreib64unwma5rg6mlgxl4gpfhnkhlzuxewgri4r4rssfwroapbuipjq"
+  },
+  "link": "https://arxiv.org/abs/2611.27449",
+  "publishedAt": "2026-11-24T04:32:17.401Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 9,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents validity research"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Shared arXiv paper examines how persona-prompted LLMs used as synthetic survey respondents and digital twins generate individual responses, arguing they answer the persona rather than the person."
+ },
+ {
   "id": "42561a2f52c6",
   "url": "https://news.ycombinator.com/item?id=50614665",
   "title": "Largest Review of Synthetic Participants Ever Conducted Found What You'd Expect",
@@ -29,6 +94,34 @@
    "comments": 0
   },
   "aiSummary": "A Hacker News thread discusses what is described as the largest review of synthetic participants ever conducted."
+ },
+ {
+  "id": "84b21af46586",
+  "url": "https://arxiv.org/abs/2611.30674",
+  "title": "The user who is not there: genealogy and critique of simulated users built with generative AI in UX testing",
+  "snippet": "Usability testing depends on people, and people's time does not speed up at the pace that software production demands. Large language models (LLMs) now promise to remove people from testing by generating simulated users that browse websites, answer questionnaires and give interviews. This paper examines how academic research understands that promise. It combines a critical literature review with a genealogical reading that follows the simulated user from the cognitive models of the 1980s to current generative agents. The paper makes four claims. First, testing without the user is an old aim of human-computer interaction (HCI), and cost has always justified it. Second, the validity criterion…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "José Carlos Arcoverde"
+  ],
+  "publishedAt": "2026-11-23T13:28:45.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.HC"
+  ],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Critique of simulated users via generative AI"
+  },
+  "aiSummary": "Paper critically reviews and traces the genealogy of LLM-generated simulated users in UX testing, from 1980s cognitive models to current generative agents."
  },
  {
   "id": "a2a3706849ce",
@@ -64,6 +157,39 @@
   "aiSummary": "A Show HN post announces MiroFish 0.5.0, a pure-Python sandbox for rehearsing corporate crises."
  },
  {
+  "id": "21a65402f633",
+  "url": "https://arxiv.org/abs/2611.30280",
+  "title": "Evaluating Persona Consistency in LLM User Simulators Without External Reference Annotations",
+  "snippet": "Standard evaluations assess LLM-simulated personas against an external ground truth, such as community trait annotations, but that reference is unavailable when the persona is inferred only from a short, task-oriented chat. We ask how persona consistency can be evaluated without such a reference, and propose a self-anchored internal-consistency diagnostic: the persona describes itself once and acts twice. A Likert self-report supplies a soft internal anchor; two behavioral profiles come from constrained scenario choices scored without a judge and from open-ended responses judged by an LLM. Consistency is the correlation between the self-report and each behavioral profile, in a shared…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Anping Zhang",
+   "Yang Tan",
+   "Yipeng Liu",
+   "Clive Bai",
+   "Blaze Chen",
+   "Yang Li"
+  ],
+  "publishedAt": "2026-11-23T08:38:35.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validating LLM persona simulators"
+  },
+  "aiSummary": "Paper proposes a self-anchored internal-consistency diagnostic for evaluating persona consistency in LLM user simulators, correlating a Likert self-report with two behavioral profiles."
+ },
+ {
   "id": "a7dc085c6f3f",
   "url": "https://bsky.app/profile/cscy-bot.bsky.social/post/3n2xjinfute2e",
   "title": "Suchecki Konrad, Flores Laurent: Answering the persona, not the person: Over-determination in the construction of synthetic respondents https://arxiv.org/abs/2611.27449 https://arxiv.org/pdf/2611.27449 https://arxiv.org/html/2611.27449",
@@ -95,6 +221,213 @@
    "replies": 0
   },
   "aiSummary": "Bluesky post sharing the arXiv paper by Suchecki and Flores on over-determination in constructing synthetic respondents."
+ },
+ {
+  "id": "980785df1692",
+  "url": "https://arxiv.org/abs/2611.29805",
+  "title": "Latent-Predisposition Personas for Heterogeneous and Reliable LLM Survey Simulation",
+  "snippet": "LLM personas are used to simulate survey publics, which should reproduce not only answer distributions but also within-person coherence and stability. Drawing on mass belief systems research, we show that persona-conditioned LLMs produce over-constrained publics. Across three model families and three U.S. surveys, opinions on unrelated issues are 1.6-4.6 times as correlated as among humans, and party identification explains 2.5-7.6 times as much answer variance. Common remedies (temperature, diversity instructions, backstories) weaken these correlations by making answers more random. On Qwen, their ten-day test-retest reliability falls to 33-59% of the human level, and when made consistent…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Geonwoo Bang",
+   "Dongho Kim",
+   "Moohong Min"
+  ],
+  "publishedAt": "2026-11-22T22:11:52.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM survey simulation fidelity"
+  },
+  "aiSummary": "Study finds persona-conditioned LLMs produce over-constrained survey publics with inflated opinion correlations and proposes latent-predisposition personas for heterogeneous, reliable survey simulation."
+ },
+ {
+  "id": "971375198b04",
+  "url": "https://arxiv.org/abs/2611.29581",
+  "title": "Social Interaction Breaks Replicate Independence in Controlled-Clone LLM Agents",
+  "snippet": "Multi-agent LLM evaluations and social simulations create many agents from one model and treat them as independent replicates, even after the agents interact. This assumption remains untested with matched controls. We introduce SocCogEval, a controlled-clone assay for Social Cognitive Transfer (SCT). Clones share the base model, system prompt, and decoding parameters and differ only in a private brief, and a factorial protocol separates the brief, 30 rounds of interaction, and initialization noise. On Qwen3-122B-FP8, interaction with the briefs held fixed raises off-topic BFI-10 response-profile drift by $\\barΔ=+0.917$ and $+0.912$ in two topically disjoint scenarios (exact $p=0.0008$ and…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Yandan Zheng",
+   "Haoran Luo",
+   "Anh Tuan Luu"
+  ],
+  "publishedAt": "2026-11-22T16:08:12.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Validity of multi-agent social simulations"
+  },
+  "aiSummary": "SocCogEval controlled-clone assay shows interaction among cloned LLM agents causes personality response-profile drift, challenging the assumption that agents in social simulations are independent replicates."
+ },
+ {
+  "id": "d12a4824156e",
+  "url": "https://arxiv.org/abs/2611.28755",
+  "title": "Who Speaks for the Water? Simulating Discursive Closure and Power Asymmetries in Hydrosocial Governance",
+  "snippet": "Water governance conflicts stem not only from material scarcity, but from power asymmetries, institutional distrust, and the discursive frameworks through which actors assign meaning to water, infrastructure, and legitimate authority. Conventional simulation tools represent these dynamics via numerical opinion variables, missing the argumentative and narrative dimensions structuring real deliberation in hydrosocial territories. We present the Hydrosocial Agent-Based Model with Large Language Models (HSABM-LLM), a hybrid framework enabling heterogeneous agents to generate, evaluate, and adapt natural language arguments conditioned on institutional roles, interaction histories, and…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Mario Lillo-Saavedra",
+   "Marcela Salgado-Vargas",
+   "Ángel García-Pedrero",
+   "Diego Rivera",
+   "Marcelo Somos-Valenzuela"
+  ],
+  "publishedAt": "2026-11-21T11:59:06.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM-driven agent-based social simulation"
+  },
+  "aiSummary": "Paper presents HSABM-LLM, a hybrid agent-based model where LLM agents generate and adapt natural language arguments to simulate power asymmetries in water governance."
+ },
+ {
+  "id": "29a1de3b43f5",
+  "url": "https://arxiv.org/abs/2611.28692",
+  "title": "Can Your AI Twin Meet People for You? It Can Hold a Conversation. But What Does It Need to Judge Like You?",
+  "snippet": "Should your AI twin go meet people on your behalf? We built LLM twins of 710 real people from their other conversations in the CANDOR corpus, sent them to meet each other in 5,680 simulated first conversations, and checked every rehearsal against what the real people said after meeting for real (355 held-out, participant-disjoint pairs, against baselines that include each person's rating history). The rehearsals work: a twin's conversation predicts real liking ($ρ$=0.277), carries information that questionnaires and rating history do not have (partial $ρ$=0.16 [0.05, 0.26]), and recovers most of what the same reader gets from the real conversation (0.321). Swap controls show that this…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Wanghao Ye",
+   "Sihan Chen",
+   "Bowei Tian",
+   "Yiting Wang",
+   "Shwai He",
+   "Guoheng Sun",
+   "Ziyi Wang",
+   "Ziyao Wang",
+   "Yexiao He",
+   "Zheyu Shen",
+   "Meng Liu",
+   "Yuning Zhang",
+   "Meng Feng",
+   "Yifei Dong",
+   "Yanhong Qian",
+   "Yang Wang",
+   "Siyuan Peng",
+   "Yilong Dai",
+   "Zhenle Duan",
+   "Joshua Liu",
+   "Lang Xiong",
+   "Aarosh Das",
+   "Zhaoyi Liu",
+   "Daeun Jung",
+   "Aditya Sarkar",
+   "Parastoo Pilevar",
+   "Xiaochuan Gong",
+   "Yancheng Zhu",
+   "Yingying Fan",
+   "Qiong Wang"
+  ],
+  "publishedAt": "2026-11-21T09:27:25.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "Human digital twins validated against real data"
+  },
+  "metrics": {},
+  "aiSummary": "Researchers built LLM twins of 710 people from the CANDOR corpus, simulated 5,680 first conversations, and found twin conversations predict real liking."
+ },
+ {
+  "id": "df214511f9cc",
+  "url": "https://arxiv.org/abs/2611.28482",
+  "title": "Digital Knockoffs",
+  "snippet": "Social simulations often use language model agents to represent people who differ on several measurable traits. However, describing a trait profile in a prompt does not guarantee the agent will express each trait at its intended level. We propose a method that calibrates agents to multidimensional profiles using activation steering: (i) extract steering directions for each trait, (ii) learn a shared mapping from steering strengths to measured trait scores, and (iii) search for a steering intervention for each target. We use Bayesian optimization for this search and evaluate the method on the Big Five personality scores of 500 OpenPsychometrics respondents. In each of five rounds, the…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Niuniu Zhang"
+  ],
+  "publishedAt": "2026-11-21T01:59:39.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "Calibrating agents for social simulation"
+  },
+  "aiSummary": "Paper calibrates language model agents to multidimensional trait profiles using activation steering and Bayesian optimization, evaluated on Big Five scores of 500 OpenPsychometrics respondents."
+ },
+ {
+  "id": "530b77baacfd",
+  "url": "https://arxiv.org/abs/2611.28383",
+  "title": "Language models compress human preference geometry while political structure remains prompt-sensitive",
+  "snippet": "Large language models are increasingly used to construct synthetic publics. Prior work has documented errors in individual responses, population heterogeneity, and prompt robustness, but whether these failures reflect a common loss of fidelity or distinct properties of synthetic populations remains unclear. We tested this using matched pairwise policy choices from 1,991 Chilean, 843 French, and 434 Brazilian adults replayed through three open-weight model families. Across a 27-condition Chilean grid and cross-country factorial replications, no condition jointly reproduced individual choices, population heterogeneity, and political organization. The most consistent result was compression of…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Adolfo Ignacio Fuentes-Jofre",
+   "Cristian Candia"
+  ],
+  "publishedAt": "2026-11-20T22:42:01.000Z",
+  "firstSeenAt": "2026-11-24T09:55:35.908Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic publics validation study"
+  },
+  "aiSummary": "Using policy choices from Chilean, French and Brazilian adults, study finds LLM synthetic publics compress preference geometry and no condition reproduced individual, heterogeneity and political structure jointly."
  },
  {
   "id": "5a6682ef675b",

@@ -23929,6 +23929,341 @@
    "at": "2026-11-23T23:54:51.654Z",
    "by": "llm",
    "title": "Finding faster quantum algorithms with agents and formal verification"
+  },
+  "e9c13f0d622c": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Generalizing Agentic Robotics via Multi-Teacher On-Policy Distillation"
+  },
+  "8fc05b0f26a0": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Wactorz: Self-Writing LLM Agents That Discover, Repair, and Migrate at the Edge"
+  },
+  "9ca8a98aa26e": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control"
+  },
+  "267a773a2074": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness"
+  },
+  "dbca43068f5c": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets"
+  },
+  "12e44899fe47": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce"
+  },
+  "81fb96812639": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "WorldLeague: Benchmarking Physical Agency"
+  },
+  "c2c8b1496c55": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step"
+  },
+  "50bbe0428a67": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay"
+  },
+  "becdfde17ebf": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Plan4D: Generative Plannable 4D Worlds"
+  },
+  "6ec0e6bf1c37": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation"
+  },
+  "9c0eb748448d": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "RUIBench: What Makes a Good Robot-Use Interface?"
+  },
+  "e7976616db7b": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Distilling Visual Agents from Limited Interaction Experience"
+  },
+  "9fcd779a166d": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "UUBench: Understanding the Unspoken toward Full-Duplex Multimodal Interaction"
+  },
+  "ed464a1b3943": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training"
+  },
+  "2892c57139de": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "GameAnything: From Any Inspirations to Playable Game Worlds"
+  },
+  "e903eeac1d26": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "DiLE: Discrimination-Aware Latent-Space Learning for Universal Multimodal Embeddings"
+  },
+  "66274b258202": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Polytropos: What Do Vision-Language Model Descriptions Make of a Cultural Object?"
+  },
+  "e6e20627f8ce": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "World Models as Native Latent Action Models"
+  },
+  "29ad0c457272": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation"
+  },
+  "22fa138dc240": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Self-WSP: Can Language Models Improve Themselves Through Weight-Space Programming?"
+  },
+  "e380e4009534": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "WeightCode: Installing New Capabilities into Neural Networks via Weight-Space Programming"
+  },
+  "3d5513677333": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation"
+  },
+  "f6964b43eb3a": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space"
+  },
+  "c11f3075b5a7": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym"
+  },
+  "3a2e1349a372": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking"
+  },
+  "939dd4e24efe": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "MomentMem: Memorizing Key Moments for Robot Manipulation"
+  },
+  "625953acb707": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "GameDojo: Benchmarking Real-Time Interactive Agents in Video Games"
+  },
+  "5b970e073507": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "A Pipeline-Parallel System for Depth-Recurrent Models"
+  },
+  "c9e3e6679043": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild"
+  },
+  "b96da20f013b": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models"
+  },
+  "86c22339f970": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Write, Evolve, Read: Streaming Cameras into a Persistent World State for 4D Occupancy Forecasting"
+  },
+  "cf49f9e59a18": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation"
+  },
+  "0eb1441e345a": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models"
+  },
+  "a2c0e9a48b02": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation"
+  },
+  "f946e95794e7": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "MORSE: Optimizing Streaming Memory Design via Open-World Auto-Research"
+  },
+  "a0ea29b2ffd3": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "NoHairCache: Calibrate-Once KV Cache Eviction with One Power-Law Exponent"
+  },
+  "4f45407a30db": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Feedback Shortcut: Speculative Decoding for Latent Feedback Transformers"
+  },
+  "d87363f81d18": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Prism: Hierarchical Text Detection with Minimalist Design"
+  },
+  "30c6728dcfdc": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Typhoon OCR 2: From Thai Document Transcription to Multilingual, Multi-Task OCR"
+  },
+  "69bf33f37778": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "How Complete Must an Environment Be to Train a Capable GUI Agent?"
+  },
+  "2c36f0f7f571": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models"
+  },
+  "06af96eb5bec": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values"
+  },
+  "787fd967457f": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "From Rewarding What Models Say to How They Think: Attention Process Reward Model for LLM Reinforcement Learning"
+  },
+  "981d7d9d52dd": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "MMMem: Self-Improving Agents with Task-Aware Multimodal Experience Consolidation"
+  },
+  "028a6e9e5820": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "The norm axiom and factor hyperfields"
+  },
+  "537796687706": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequen"
+  },
+  "3e877307dd99": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation"
+  },
+  "b5bce08082bf": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Seeing Right, Writing Wrong: Where Short Chain-of-Thought Breaks Spatial VQA"
+  },
+  "52b1ccf7a6f8": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "SWEEP-Bench: Do Embodied Policies Act on the Speed They See?"
+  },
+  "66b7712529c5": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "llm",
+   "title": "Seeing the Invisible: How Vision-Language Models Read, Predict and Trace Radio Fields"
+  },
+  "c7022bc03aca": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events"
+  },
+  "a4720c688224": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study"
+  },
+  "ad56383a1b6a": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "The industrial AI opportunity begins where the hype ends"
+  },
+  "7eed0c9c3f1d": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Physical AI at AWS re:Invent 2026"
+  },
+  "0eab7e35c9d3": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "llm",
+   "title": "Digital twin | Definition, History, Types, & Facts"
+  },
+  "1eb2543c52d1": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Systematic Review Finds Hybrid Intelligence Optimizes Design Thinking Across Six Process Models"
+  },
+  "0ea7d41bd1b2": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "llm",
+   "title": "Inside Dubai 2040: Smart services, digital twins and a city designed around people"
+  },
+  "534fc1e5f5df": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "PwC India launches AI lab in Gurugram with over 90 solutions across sectors"
+  },
+  "980862419401": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Agon raises $70M at a $450M valuation to build gamified, synthetic training for defence AI"
+  },
+  "7b7f346794fa": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break"
+  },
+  "8b4b8bbecfaf": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "INK-Q/agy-fast — Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), to"
+  },
+  "116dad2ea71e": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "mankidev/antialgorithm — Agent skill that steers the model away from its first, most average pick in creative work: name"
+  },
+  "2552ce0c698e": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "\"My Learning Journey into Cloud Computing and AI with AWS\" by Manpreet Kumar Roy #agents #agentic-ai #ai"
+  },
+  "18df944b3857": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Metropolitan Police find illicit drugs in vapes seized from students 🤖 IA: It's not clickbait ✅ 👥 Users: It's not clic"
+  },
+  "1f4f530b42b2": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "⚪ NEW INTELLIGENCE Google's AI Deepfake Play: Turning You Into the Star of Synthetic Media Google's new AI tool aims to "
+  },
+  "fca9f31bbf77": {
+   "at": "2026-11-24T09:55:35.908Z",
+   "by": "rules",
+   "title": "Algorithmic reach is fragmenting fast as users ditch endless feeds for niche search, episodic series, and raw human voic"
   }
  },
  "repos": {
@@ -23938,9 +24273,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86475,
-   "forks": 13085,
-   "openIssues": 243,
+   "stars": 86515,
+   "forks": 13091,
+   "openIssues": 244,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -24093,6 +24428,10 @@
     {
      "date": "2026-11-23",
      "stars": 86475
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 86515
     }
    ]
   },
@@ -24102,8 +24441,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42776,
-   "forks": 7648,
+   "stars": 42779,
+   "forks": 7647,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -24257,6 +24596,10 @@
     {
      "date": "2026-11-23",
      "stars": 42776
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 42779
     }
    ]
   },
@@ -24266,7 +24609,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22405,
+   "stars": 22409,
    "forks": 3133,
    "openIssues": 147,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -24415,6 +24758,10 @@
     {
      "date": "2026-11-23",
      "stars": 22405
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 22409
     }
    ]
   },
@@ -24573,6 +24920,10 @@
     {
      "date": "2026-11-23",
      "stars": 634
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 634
     }
    ]
   },
@@ -24582,8 +24933,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5451,
-   "forks": 662,
+   "stars": 5453,
+   "forks": 663,
    "openIssues": 58,
    "pushedAt": "2026-11-23T09:40:56Z",
    "language": "Python",
@@ -24737,6 +25088,10 @@
     {
      "date": "2026-11-23",
      "stars": 5451
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 5453
     }
    ]
   },
@@ -24746,9 +25101,9 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1922,
-   "forks": 412,
-   "openIssues": 58,
+   "stars": 1923,
+   "forks": 413,
+   "openIssues": 59,
    "pushedAt": "2026-11-19T16:44:40Z",
    "language": "Python",
    "latestRelease": {
@@ -24901,6 +25256,10 @@
     {
      "date": "2026-11-23",
      "stars": 1922
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 1923
     }
    ]
   },
@@ -24910,16 +25269,16 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1413,
+   "stars": 1414,
    "forks": 226,
    "openIssues": 37,
-   "pushedAt": "2026-11-17T16:55:06Z",
+   "pushedAt": "2026-11-24T04:56:07Z",
    "language": "Python",
    "latestRelease": {
-    "tag": "agentsociety2-v2.11.0",
-    "name": "AgentSociety2 2.11.0",
-    "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.11.0",
-    "publishedAt": "2026-11-11T11:52:02Z"
+    "tag": "agentsociety2-v2.12.0",
+    "name": "AgentSociety2 2.12.0",
+    "url": "https://github.com/tsinghua-fib-lab/AgentSociety/releases/tag/agentsociety2-v2.12.0",
+    "publishedAt": "2026-11-24T05:04:52Z"
    },
    "history": [
     {
@@ -25065,6 +25424,10 @@
     {
      "date": "2026-11-23",
      "stars": 1413
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 1414
     }
    ]
   },
@@ -25074,7 +25437,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7710,
+   "stars": 7711,
    "forks": 694,
    "openIssues": 79,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -25229,6 +25592,10 @@
     {
      "date": "2026-11-23",
      "stars": 7710
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 7711
     }
    ]
   },
@@ -25237,8 +25604,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10848,
-   "forks": 1262,
+   "stars": 10849,
+   "forks": 1260,
    "openIssues": 75,
    "pushedAt": "2026-11-20T01:05:36Z",
    "language": "TypeScript",
@@ -25386,6 +25753,10 @@
     {
      "date": "2026-11-23",
      "stars": 10848
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 10849
     }
    ]
   },
@@ -25397,8 +25768,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 522,
    "forks": 93,
-   "openIssues": 60,
-   "pushedAt": "2026-11-23T23:25:08Z",
+   "openIssues": 56,
+   "pushedAt": "2026-11-24T04:14:37Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -25549,6 +25920,10 @@
     },
     {
      "date": "2026-11-23",
+     "stars": 522
+    },
+    {
+     "date": "2026-11-24",
      "stars": 522
     }
    ]
@@ -25714,6 +26089,10 @@
     {
      "date": "2026-11-23",
      "stars": 346
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 346
     }
    ]
   },
@@ -25872,6 +26251,10 @@
     {
      "date": "2026-11-23",
      "stars": 249
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 249
     }
    ]
   },
@@ -26028,6 +26411,10 @@
     },
     {
      "date": "2026-11-23",
+     "stars": 1404
+    },
+    {
+     "date": "2026-11-24",
      "stars": 1404
     }
    ]
@@ -26192,6 +26579,10 @@
     {
      "date": "2026-11-23",
      "stars": 37
+    },
+    {
+     "date": "2026-11-24",
+     "stars": 37
     }
    ]
   },
@@ -26354,6 +26745,10 @@
     },
     {
      "date": "2026-11-23",
+     "stars": 5163
+    },
+    {
+     "date": "2026-11-24",
      "stars": 5163
     }
    ]
