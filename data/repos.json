@@ -5,9 +5,9 @@
   "org": "mirofish",
   "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
   "url": "https://github.com/666ghj/MiroFish",
-  "stars": 86592,
-  "forks": 13104,
-  "openIssues": 246,
+  "stars": 86644,
+  "forks": 13112,
+  "openIssues": 247,
   "pushedAt": "2026-10-16T03:32:19Z",
   "language": "Python",
   "latestRelease": {
@@ -164,6 +164,10 @@
    {
     "date": "2026-11-24",
     "stars": 86592
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 86644
    }
   ]
  },
@@ -173,7 +177,7 @@
   "org": "mirofish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
   "url": "https://github.com/666ghj/BettaFish",
-  "stars": 42784,
+  "stars": 42783,
   "forks": 7647,
   "openIssues": 12,
   "pushedAt": "2026-10-16T03:33:52Z",
@@ -332,6 +336,10 @@
    {
     "date": "2026-11-24",
     "stars": 42784
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 42783
    }
   ]
  },
@@ -341,9 +349,9 @@
   "org": "stanford-hci",
   "description": "Generative Agents: Interactive Simulacra of Human Behavior",
   "url": "https://github.com/joonspk-research/generative_agents",
-  "stars": 22415,
-  "forks": 3135,
-  "openIssues": 147,
+  "stars": 22419,
+  "forks": 3137,
+  "openIssues": 148,
   "pushedAt": "2024-08-05T21:38:56Z",
   "language": null,
   "history": [
@@ -494,6 +502,10 @@
    {
     "date": "2026-11-24",
     "stars": 22415
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 22419
    }
   ]
  },
@@ -656,6 +668,10 @@
    {
     "date": "2026-11-24",
     "stars": 634
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 634
    }
   ]
  },
@@ -665,7 +681,7 @@
   "org": "camel-ai",
   "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
   "url": "https://github.com/camel-ai/oasis",
-  "stars": 5454,
+  "stars": 5457,
   "forks": 663,
   "openIssues": 58,
   "pushedAt": "2026-11-23T09:40:56Z",
@@ -824,6 +840,10 @@
    {
     "date": "2026-11-24",
     "stars": 5454
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 5457
    }
   ]
  },
@@ -991,6 +1011,10 @@
    },
    {
     "date": "2026-11-24",
+    "stars": 1925
+   },
+   {
+    "date": "2026-11-25",
     "stars": 1925
    }
   ]
@@ -1160,6 +1184,10 @@
    {
     "date": "2026-11-24",
     "stars": 1416
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 1416
    }
   ]
  },
@@ -1169,7 +1197,7 @@
   "org": "microsoft-research",
   "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
   "url": "https://github.com/microsoft/TinyTroupe",
-  "stars": 7711,
+  "stars": 7712,
   "forks": 694,
   "openIssues": 79,
   "pushedAt": "2026-11-06T21:51:04Z",
@@ -1328,6 +1356,10 @@
    {
     "date": "2026-11-24",
     "stars": 7711
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 7712
    }
   ]
  },
@@ -1336,10 +1368,10 @@
   "label": "Deployable generative-agent town",
   "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
   "url": "https://github.com/a16z-infra/ai-town",
-  "stars": 10854,
+  "stars": 10856,
   "forks": 1262,
-  "openIssues": 75,
-  "pushedAt": "2026-11-20T01:05:36Z",
+  "openIssues": 76,
+  "pushedAt": "2026-11-25T07:42:51Z",
   "language": "TypeScript",
   "history": [
    {
@@ -1489,6 +1521,10 @@
    {
     "date": "2026-11-24",
     "stars": 10854
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 10856
    }
   ]
  },
@@ -1500,8 +1536,8 @@
   "url": "https://github.com/expectedparrot/edsl",
   "stars": 522,
   "forks": 93,
-  "openIssues": 54,
-  "pushedAt": "2026-11-24T22:16:47Z",
+  "openIssues": 39,
+  "pushedAt": "2026-11-25T04:48:41Z",
   "language": "Python",
   "latestRelease": {
    "tag": "wasm-wheel",
@@ -1656,6 +1692,10 @@
    },
    {
     "date": "2026-11-24",
+    "stars": 522
+   },
+   {
+    "date": "2026-11-25",
     "stars": 522
    }
   ]
@@ -1825,6 +1865,10 @@
    {
     "date": "2026-11-24",
     "stars": 346
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 346
    }
   ]
  },
@@ -1987,6 +2031,10 @@
    {
     "date": "2026-11-24",
     "stars": 249
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 249
    }
   ]
  },
@@ -1996,8 +2044,8 @@
   "description": "",
   "url": "https://github.com/altera-al/project-sid",
   "stars": 1404,
-  "forks": 56,
-  "openIssues": 5,
+  "forks": 57,
+  "openIssues": 6,
   "pushedAt": "2024-11-04T16:24:29Z",
   "language": null,
   "history": [
@@ -2147,6 +2195,10 @@
    },
    {
     "date": "2026-11-24",
+    "stars": 1404
+   },
+   {
+    "date": "2026-11-25",
     "stars": 1404
    }
   ]
@@ -2315,6 +2367,10 @@
    {
     "date": "2026-11-24",
     "stars": 37
+   },
+   {
+    "date": "2026-11-25",
+    "stars": 37
    }
   ]
  },
@@ -2481,6 +2537,10 @@
    },
    {
     "date": "2026-11-24",
+    "stars": 5163
+   },
+   {
+    "date": "2026-11-25",
     "stars": 5163
    }
   ]

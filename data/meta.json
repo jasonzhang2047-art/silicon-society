@@ -1,33 +1,35 @@
 {
- "lastRunAt": "2026-11-24T22:28:05.102Z",
- "nextRunAt": "2026-11-25T10:28:05.102Z",
- "durationMs": 45428,
+ "lastRunAt": "2026-11-25T08:37:15.962Z",
+ "nextRunAt": "2026-11-25T20:37:15.962Z",
+ "durationMs": 58529,
  "mode": "incremental",
- "since": "2026-11-20T09:55:35.908Z",
+ "since": "2026-11-20T22:28:05.102Z",
  "relevanceGate": "llm",
  "llm": {
   "requests": 1,
-  "inputTokens": 560,
-  "outputTokens": 241,
+  "inputTokens": 3028,
+  "outputTokens": 1363,
   "refusals": 0,
   "errors": 0,
   "model": "claude-opus-5-5"
  },
  "counts": {
-  "total": 389,
-  "added": 1,
-  "updated": 21,
-  "candidates": 308,
-  "rejectedThisRun": 36,
+  "total": 396,
+  "added": 7,
+  "updated": 18,
+  "candidates": 301,
+  "rejectedThisRun": 58,
   "addedByCategory": {
-   "news": 1
+   "research": 4,
+   "news": 1,
+   "voices": 2
   },
   "totalByCategory": {
-   "news": 83,
+   "voices": 82,
+   "news": 84,
+   "research": 179,
    "code": 12,
-   "voices": 80,
    "discussion": 8,
-   "research": 175,
    "events": 7,
    "funding": 24
   }
@@ -36,64 +38,64 @@
   {
    "name": "arXiv",
    "ok": true,
-   "fetched": 14,
-   "ms": 22058
+   "fetched": 17,
+   "ms": 22098
   },
   {
    "name": "Hugging Face Daily Papers",
    "ok": true,
-   "fetched": 145,
-   "ms": 1673
+   "fetched": 137,
+   "ms": 1710
   },
   {
    "name": "Google News",
    "ok": true,
-   "fetched": 43,
-   "ms": 40298
+   "fetched": 41,
+   "ms": 40232
   },
   {
    "name": "GDELT",
    "ok": false,
    "fetched": 0,
-   "ms": 19983,
+   "ms": 25066,
    "error": "HTTP 429 for https://api.gdeltproject.org/api/v2/doc/doc?query=(%22generative%20agents%22%20OR%20%22synthetic%20respondents%22%20OR%20%22synthetic%20users%22%20OR%20%22silicon%20sampling%22)%20sourcel"
   },
   {
    "name": "Hacker News",
    "ok": true,
-   "fetched": 19,
-   "ms": 3577
+   "fetched": 18,
+   "ms": 3512
   },
   {
    "name": "Reddit",
    "ok": false,
    "fetched": 0,
-   "ms": 69,
+   "ms": 134,
    "error": "HTTP 404 for https://www.reddit.com/r/MachineLearning+LocalLLaMA+artificial+singularity+compsci+datascience+agi+ArtificialInteligence+UXResearch+Marketresearch+socialscience+AskSocialScience+AgentBase"
   },
   {
    "name": "GitHub · tracked repos",
    "ok": true,
    "fetched": 1,
-   "ms": 9640
+   "ms": 11182
   },
   {
    "name": "GitHub · discovery",
    "ok": true,
    "fetched": 20,
-   "ms": 4822
+   "ms": 6247
   },
   {
    "name": "Bluesky · tracked accounts",
    "ok": true,
    "fetched": 0,
-   "ms": 4856
+   "ms": 4955
   },
   {
    "name": "Bluesky · search",
    "ok": true,
-   "fetched": 60,
-   "ms": 3751
+   "fetched": 63,
+   "ms": 3897
   },
   {
    "name": "X · tracked accounts & keywords",
@@ -106,19 +108,19 @@
    "name": "Official blogs",
    "ok": true,
    "fetched": 1,
-   "ms": 851
+   "ms": 1598
   },
   {
    "name": "CoMSES Net events",
    "ok": true,
    "fetched": 3,
-   "ms": 1036
+   "ms": 730
   },
   {
    "name": "WikiCFP",
    "ok": true,
    "fetched": 7,
-   "ms": 936
+   "ms": 977
   }
  ]
 }

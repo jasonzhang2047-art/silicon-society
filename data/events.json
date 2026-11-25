@@ -172,6 +172,22 @@
   "upcoming": true
  },
  {
+  "name": "The Silicon Sample Benchmark Results",
+  "kind": "event",
+  "start": "2026-12-17",
+  "end": "2026-12-17",
+  "location": "Online",
+  "url": "https://bsky.app/profile/dirkwulff.bsky.social/post/3n34qlhq46s2q",
+  "description": "The Silicon Sample Benchmark Results. Can AI predict how 18,000 human participants will respond? Research teams have forecast a climate-trust megastudy – results are finally in.",
+  "source": {
+   "name": "Bluesky",
+   "url": "https://bsky.app/profile/dirkwulff.bsky.social/post/3n34qlhq46s2q"
+  },
+  "verified": false,
+  "tags": [],
+  "upcoming": true
+ },
+ {
   "name": "Planetary Intelligence 27",
   "kind": "event",
   "start": "2027-03-10",

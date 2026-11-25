@@ -1,5 +1,136 @@
 [
  {
+  "id": "6a5b74228318",
+  "url": "https://bsky.app/profile/dirkwulff.bsky.social/post/3n34qlhq46s2q",
+  "title": "📣 How well does silicon sampling work for truly unseen data? 26 expert teams predicted the outcomes of a new megastudy on trust in climate scientists (N ≈ 18,000). On Dec 17, we reveal which approaches worked and which did not. 🗓 6 to 8 pm CET / 12 to 2 pm ET 💻 Online, free…",
+  "snippet": "The Silicon Sample Benchmark Results. Can AI predict how 18,000 human participants will respond? Research teams have forecast a climate-trust megastudy – results are finally in.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Dirk Wulff",
+   "handle": "@dirkwulff.bsky.social",
+   "url": "https://bsky.app/profile/dirkwulff.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bl2g3pcg45javhqqqi2nyryt/bafkreialn2udvollhzpc2gjidgdo6tt74kcurhk77xuqntjsyyn4a2gvoa"
+  },
+  "link": "https://www.eventbrite.com/e/the-silicon-sample-benchmark-results-tickets-2004909334791",
+  "publishedAt": "2026-11-25T08:30:14.736Z",
+  "firstSeenAt": "2026-11-25T08:37:15.962Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Silicon sampling benchmark results event"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 1
+  },
+  "event": {
+   "name": "The Silicon Sample Benchmark Results",
+   "start": "2026-12-17",
+   "end": "2026-12-17",
+   "location": "Online",
+   "url": null
+  },
+  "aiSummary": "Online free event on Dec 17 reveals results of the Silicon Sample Benchmark, where 26 teams predicted outcomes of a climate-trust megastudy with about 18,000 participants."
+ },
+ {
+  "id": "91ced6df0651",
+  "url": "https://app.dealroom.co/news/note/simile-s-lainie-yallen-on-selling-human-behaviour-simulation-to-the-fortune-500",
+  "title": "Simile's Lainie Yallen on selling human-behaviour simulation to the Fortune 500",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Dealroom",
+   "url": "https://app.dealroom.co"
+  },
+  "publishedAt": "2026-11-25T07:24:20.000Z",
+  "firstSeenAt": "2026-11-25T08:37:15.962Z",
+  "people": [],
+  "orgs": [
+   "simile"
+  ],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Human-behaviour simulation company coverage"
+  },
+  "metrics": {},
+  "aiSummary": "Dealroom piece featuring Simile's Lainie Yallen on selling human-behaviour simulation to Fortune 500 companies."
+ },
+ {
+  "id": "4bea49fdc9fc",
+  "url": "https://bsky.app/profile/csai-bot.bsky.social/post/3n34kfe7cqr2h",
+  "title": "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley: Modeling Event-Conditioned Emotional Expression Response with LLM Agents in a Synthetic Social Simulation https://arxiv.org/abs/2611.31851 https://arxiv.org/pdf/2611.31851 https://arxiv.org/html/2611.31851",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "arXiv cs.AI Artificial Intelligence",
+   "handle": "@csai-bot.bsky.social",
+   "url": "https://bsky.app/profile/csai-bot.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:df4dbsajjtvbbjn5poliesvs/bafkreicxeu54tsu32yfgdoadqa5b7exxixdl35lbwlojedwjixvznbgfp4"
+  },
+  "publishedAt": "2026-11-25T06:39:27.224Z",
+  "firstSeenAt": "2026-11-25T08:37:15.962Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "Shares in-scope social simulation paper"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Bluesky post sharing the arXiv paper on modeling event-conditioned emotional expression with LLM agents in a synthetic social simulation."
+ },
+ {
+  "id": "bcbc6e9ed72f",
+  "url": "https://arxiv.org/abs/2611.32663",
+  "title": "Economic World Model",
+  "snippet": "Can artificial intelligence reproduce the economic dynamics that emerge as households, firms and governments interact and adapt through markets and institutions? To answer this question, we define an economic world model (EWM) as an agent's internal representation of how an economic system works, enabling counterfactual simulation and decision-making under resource constraints. We then propose a general framework for studying EWMs that links three tasks: simulating agent behaviour, learning economic transitions and systematically evaluating the dynamics. As an initial implementation, we learn household policies from microeconomic data and calibrate a structural economic transition model…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Qirui Mi",
+   "Yujia Ming",
+   "Bo Li",
+   "Haifeng Zhang"
+  ],
+  "publishedAt": "2026-11-24T14:14:40.000Z",
+  "firstSeenAt": "2026-11-25T08:37:15.962Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 1,
+  "verdict": {
+   "by": "llm",
+   "reason": "AI simulation of economic agents' behaviour"
+  },
+  "aiSummary": "Paper defines an economic world model framework linking simulation of agent behaviour, learned economic transitions and evaluation, learning household policies from microeconomic data."
+ },
+ {
   "id": "933894fcd7c8",
   "url": "https://tolunacorporate.com/toluna-synthetic-personas-dynamic-awareness-importance",
   "title": "The importance of Dynamic Awareness in synthetic personas",
@@ -19,7 +150,8 @@
    "by": "llm",
    "reason": "Synthetic personas from market research firm"
   },
-  "aiSummary": "Toluna discusses the importance of dynamic awareness in synthetic personas."
+  "aiSummary": "Toluna discusses the importance of dynamic awareness in synthetic personas.",
+  "metrics": {}
  },
  {
   "id": "56532dce8567",
@@ -85,6 +217,98 @@
    "replies": 0
   },
   "aiSummary": "Shared arXiv paper examines how persona-prompted LLMs used as synthetic survey respondents and digital twins generate individual responses, arguing they answer the persona rather than the person."
+ },
+ {
+  "id": "87097a060214",
+  "url": "https://arxiv.org/abs/2611.31851",
+  "title": "Modeling Event-Conditioned Emotional Expression Response with LLM Agents in a Synthetic Social Simulation",
+  "snippet": "Emotions are central drivers of human behavior, yet most behavioral models fail to capture their role in shaping perception, decision-making, and collective action. Application areas such as emergency response and public health are especially constrained by the lack of emotion-aware modeling. While large language models (LLMs) are increasingly integrated into agent-based models (ABMs), little work has examined how to endow LLM agents with emotional reasoning or validated their ability to reproduce empirically observed emotional patterns. This study addresses this gap by introducing a hierarchical prompting framework that conditions LLM agents with demographic, psychological, and contextual…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Rebecca Marigliano",
+   "Peter Carragher",
+   "Kathleen M. Carley"
+  ],
+  "publishedAt": "2026-11-24T02:49:21.000Z",
+  "firstSeenAt": "2026-11-25T08:37:15.962Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.AI"
+  ],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM agent-based social simulation"
+  },
+  "metrics": {},
+  "aiSummary": "Study introduces a hierarchical prompting framework conditioning LLM agents on demographic, psychological and contextual factors to model emotional expression in a synthetic social simulation."
+ },
+ {
+  "id": "0c62bc20e519",
+  "url": "https://arxiv.org/abs/2611.31613",
+  "title": "Training decision models for simulating human respondents",
+  "snippet": "Researchers increasingly use large language models (LLMs) as synthetic respondents in market research, conjoint analysis, and randomized experiments. However, synthetic choice data from off-the-shelf generative LLMs bias downstream econometric inference. Neither proprietary models nor higher reasoning effort reliably reduces this bias. We investigate decision models (System One architectures) for silicon sampling. Using choice training, we update KEV model weights on historical respondent-level choice microdata by conditional maximum likelihood, before inference and without target-study data. Across three model scales, training on two discrete choice experiments lowers treatment-effect…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Davood Wadi",
+   "Yu Ma"
+  ],
+  "publishedAt": "2026-11-23T21:57:48.000Z",
+  "firstSeenAt": "2026-11-25T08:37:15.962Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 9,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic respondents and silicon sampling"
+  },
+  "aiSummary": "Paper shows off-the-shelf LLM synthetic respondents bias econometric inference and proposes choice-trained decision models for silicon sampling that lower treatment-effect bias."
+ },
+ {
+  "id": "5dd9d2fdb67d",
+  "url": "https://arxiv.org/abs/2611.31543",
+  "title": "Reproducible Social Structure Emerges From Free-Form Interaction Among LLM Agents",
+  "snippet": "Multi-agent LLM simulations are increasingly used as models of social systems, but most published findings are anecdotal, i.e., drawn from a single run. It is therefore unclear which observed phenomena are robust findings of the simulated system itself, and which were random events in one particular run. Here, we introduce a repeatable, goal-free, proactive multi-agent framework in which fifty persona-conditioned agents with persistent memory choose whether, with whom, and how to communicate across three social platforms. The framework supports non-perturbative measurements across temporal snapshots and repetitions. Running the same world ten times from identical initial conditions for a…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Tom Alisch",
+   "Sonia Murthy",
+   "Robert Hawkins",
+   "Felix Sosa",
+   "Core Francisco Park"
+  ],
+  "publishedAt": "2026-11-23T20:51:57.000Z",
+  "firstSeenAt": "2026-11-25T08:37:15.962Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.MA"
+  ],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "Multi-agent LLM social simulation validation"
+  },
+  "aiSummary": "Paper presents a repeatable multi-agent framework of fifty persona-conditioned LLM agents across three social platforms, running ten repetitions to test reproducibility of emergent social structure."
  },
  {
   "id": "42561a2f52c6",
