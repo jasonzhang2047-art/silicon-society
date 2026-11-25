@@ -24734,6 +24734,221 @@
    "at": "2026-11-25T08:37:15.962Z",
    "by": "llm",
    "title": "No mealy-mouthed whataboutisms. This is obviously about generative agents that produce \"full\" tracks on prompt not about"
+  },
+  "8fd5f0be76b9": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds"
+  },
+  "2b05320a1a9c": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies"
+  },
+  "2e24b076ea5b": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers"
+  },
+  "de4fea751949": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Mega-MMDF and DeepfakeBench-MM: Benchmarking Multimodal Deepfake Detection Across Diverse Forgery Pipelines"
+  },
+  "ce50909a9f2a": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth"
+  },
+  "0077e0820357": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Separating Measurement Failures from Defence Failures in Split Language-Model Privacy"
+  },
+  "07f38a89ebb1": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "GRAPE-Bench: When Vision Degrades, Does Video Reasoning Hold?"
+  },
+  "9d82d1ca4c6f": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "SpatialArena: Where Do Geometric Foundation Models Stand?"
+  },
+  "9e7fb9ac291a": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA"
+  },
+  "31f1d742e908": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning"
+  },
+  "4e66c4d6cab3": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering"
+  },
+  "ba049826a989": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "FATCAT: Fault Injection Attacks Targeting Chip-level Alignment"
+  },
+  "e89644cc894f": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "RECAP: Training Long-horizon LLM Agents with Context Compaction"
+  },
+  "cbe294a25056": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation"
+  },
+  "a7b914ac2d2a": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Small Learned Projections for Semantic-Reversal-Aware Retrieval with Spectral Acceleration: A Four-Domain Empirical Stud"
+  },
+  "cf92346a7f78": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics"
+  },
+  "2336cbb76de9": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Point Dynamics as Proxy for Robotic World Models"
+  },
+  "9fcec168353c": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background"
+  },
+  "9b418b9a8ee4": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "XCentium Launches MEMIC’s New Digital Experience on Contentstack"
+  },
+  "09db3d440f37": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "GM says AI can help it develop vehicles much faster. Now it wants its factories to keep pace, with more AI-powered autom"
+  },
+  "93079546d9ab": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "llm",
+   "title": "Digital Twins in Healthcare Market to worth USD 101.19 Billion by 2031, at a CAGR of 68.4% – MarketsandMarkets™"
+  },
+  "2394a9ca01ea": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Digital Twin Technology in Manufacturing Market to Reach USD"
+  },
+  "cd8870f4ec6f": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "llm",
+   "title": "Society of Authors to form AI focus group to work on new charter"
+  },
+  "28cdde7009d2": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Ruth Ware, Dorothy Koomson and TM Logan among Quick Reads authors for 2027"
+  },
+  "da2d5e2b8b24": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "IPG partners with London Book Fair on AI training event"
+  },
+  "960bebc60ad6": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Gisèle Pelicot to take legal action against French publisher after 'intimate photos circulated'"
+  },
+  "cb4fb685c512": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Klaus Flugge’s legacy celebrated at Andersen Press’ 50th birthday party"
+  },
+  "2314abd20b42": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Private markets trends: what will drive future growth?"
+  },
+  "cd62503ac6fd": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Can ZETA's Million-Dollar Customer Base Fuel Long-Term Growth?"
+  },
+  "b19470545c30": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Agon Raises $70M to Build European Defence AI Infrastructure"
+  },
+  "c7c9673a2316": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Using Agentic AI to create the next generation of non-Java Kafka clients"
+  },
+  "cd3c99249669": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "MixVerse by Tapphithak Saeyan $1.00 AI disclosure: “Generative AI was used only to create certain promotional materials,"
+  },
+  "da0bce9c79f6": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "The trade-off between generative model coherence and inference latency is brutal. How do we architect agents for complex"
+  },
+  "0add08ab733d": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Generative AI is an advanced technology that creates new content, including text, images, videos, and code, by learning "
+  },
+  "6400cb8713ae": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Advanced AI for Data Analytics: GenAI, Agents & Automation"
+  },
+  "88e7cb329e8f": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "👌 When agents run for minutes or hours, a tailored visual UI helps you understand progress and catch mistakes right awa"
+  },
+  "f53ebfde329f": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "[some-subscribed-rss] New Post: Seeing What Your Coding Agents Are Doing: Antigravity Swarms and Generative UI, by https"
+  },
+  "e382fe765210": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Building Basic AI Agents and Custom GPTs"
+  },
+  "a7994eda72c6": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Sea-Watch, spiata la portavoce Giorgia Linardi ai tempi del governo Draghi: sette intrusioni con un software simile a Pa"
+  },
+  "002d37712028": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Emergenza meningite a #Gaza: 400 casi in un mese, il 71% sono bambini | il manifesto ilmanifesto.it/emergenza-me… @salut"
+  },
+  "e2274c83bda3": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "An AI agent predicted 77% success on 100 coding tasks. It passed 22%. That's Gemini-3-Pro grading its own work on SWE-be"
+  },
+  "41018f878a71": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "Gemini-3-Pro predicted it would pass 77% of 100 SWE-bench Pro coding tasks. It passed 22%. If your agent evals let the m"
+  },
+  "f14a6f6dfd19": {
+   "at": "2026-11-25T21:43:05.403Z",
+   "by": "rules",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity"
   }
  },
  "repos": {
@@ -24743,9 +24958,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86644,
-   "forks": 13112,
-   "openIssues": 247,
+   "stars": 86701,
+   "forks": 13131,
+   "openIssues": 248,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -24905,7 +25120,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 86644
+     "stars": 86701
     }
    ]
   },
@@ -24915,8 +25130,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42783,
-   "forks": 7647,
+   "stars": 42781,
+   "forks": 7646,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -25077,7 +25292,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 42783
+     "stars": 42781
     }
    ]
   },
@@ -25087,8 +25302,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22419,
-   "forks": 3137,
+   "stars": 22421,
+   "forks": 3136,
    "openIssues": 148,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -25243,7 +25458,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 22419
+     "stars": 22421
     }
    ]
   },
@@ -25419,7 +25634,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5457,
+   "stars": 5461,
    "forks": 663,
    "openIssues": 58,
    "pushedAt": "2026-11-23T09:40:56Z",
@@ -25581,7 +25796,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 5457
+     "stars": 5461
     }
    ]
   },
@@ -25591,7 +25806,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1925,
+   "stars": 1927,
    "forks": 413,
    "openIssues": 59,
    "pushedAt": "2026-11-19T16:44:40Z",
@@ -25753,7 +25968,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 1925
+     "stars": 1927
     }
    ]
   },
@@ -25763,7 +25978,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1416,
+   "stars": 1415,
    "forks": 227,
    "openIssues": 37,
    "pushedAt": "2026-11-24T04:56:07Z",
@@ -25925,7 +26140,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 1416
+     "stars": 1415
     }
    ]
   },
@@ -25935,9 +26150,9 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7712,
+   "stars": 7713,
    "forks": 694,
-   "openIssues": 79,
+   "openIssues": 83,
    "pushedAt": "2026-11-06T21:51:04Z",
    "language": "Jupyter Notebook",
    "latestRelease": {
@@ -26097,7 +26312,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 7712
+     "stars": 7713
     }
    ]
   },
@@ -26106,10 +26321,10 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10856,
+   "stars": 10858,
    "forks": 1262,
-   "openIssues": 76,
-   "pushedAt": "2026-11-25T07:42:51Z",
+   "openIssues": 80,
+   "pushedAt": "2026-11-25T21:29:06Z",
    "language": "TypeScript",
    "history": [
     {
@@ -26262,7 +26477,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 10856
+     "stars": 10858
     }
    ]
   },
@@ -26274,8 +26489,8 @@
    "url": "https://github.com/expectedparrot/edsl",
    "stars": 522,
    "forks": 93,
-   "openIssues": 39,
-   "pushedAt": "2026-11-25T04:48:41Z",
+   "openIssues": 15,
+   "pushedAt": "2026-11-25T20:54:20Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -26444,7 +26659,7 @@
    "org": "cmu-lti",
    "description": "Sotopia: an Open-ended Social Learning Environment (ICLR 2024 spotlight)",
    "url": "https://github.com/sotopia-lab/sotopia",
-   "stars": 346,
+   "stars": 347,
    "forks": 52,
    "openIssues": 20,
    "pushedAt": "2026-06-05T17:23:42Z",
@@ -26606,7 +26821,7 @@
     },
     {
      "date": "2026-11-25",
-     "stars": 346
+     "stars": 347
     }
    ]
   },
@@ -26949,7 +27164,7 @@
    "stars": 37,
    "forks": 7,
    "openIssues": 0,
-   "pushedAt": "2026-11-24T13:47:58Z",
+   "pushedAt": "2026-11-25T14:45:17Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v4.0.0",
@@ -27118,7 +27333,7 @@
    "description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
    "url": "https://github.com/OpenBMB/AgentVerse",
    "stars": 5163,
-   "forks": 522,
+   "forks": 520,
    "openIssues": 38,
    "pushedAt": "2024-09-09T05:47:44Z",
    "language": "JavaScript",

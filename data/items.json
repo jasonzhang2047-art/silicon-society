@@ -1,5 +1,63 @@
 [
  {
+  "id": "a5ad13a4003d",
+  "url": "https://bsky.app/profile/strike007.bsky.social/post/3n35o2cgz2b2m",
+  "title": "LLM assistants operate via a user-mediated reality, inheriting personal biases and missing context from subjective narratives. Google's new multi-agent simulation framework creates verifiable ground truth for social reasoning, exposing how models struggle with framing and clar…",
+  "snippet": "Verifiable Social Reasoning for LLM Assistants. No description available.",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "strike007.bsky.social",
+   "handle": "@strike007.bsky.social",
+   "url": "https://bsky.app/profile/strike007.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qlmuoeav53dbayxgab6qf2dg/bafkreigo7n7w3c3invbzgmb7eumal3xq74shyfejfdzr7xtuvx4arnzti4"
+  },
+  "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+  "publishedAt": "2026-11-25T17:17:30.993Z",
+  "firstSeenAt": "2026-11-25T21:43:05.403Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "Multi-agent social simulation for evaluating LLMs"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Post describes a Google multi-agent simulation framework that creates verifiable ground truth for social reasoning, showing LLM assistants struggle with framing and subjective user narratives."
+ },
+ {
+  "id": "c7c8a5dd10b4",
+  "url": "https://research-live.com/article/news/industry-group-launches-independent-certification-for-synthetic-research-data/id/5155196",
+  "title": "Industry group launches independent certification for synthetic research data",
+  "category": "news",
+  "source": {
+   "kind": "news",
+   "name": "Research Live",
+   "url": "https://www.research-live.com"
+  },
+  "publishedAt": "2026-11-25T12:44:53.000Z",
+  "firstSeenAt": "2026-11-25T21:43:05.403Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 3,
+  "verdict": {
+   "by": "llm",
+   "reason": "Synthetic research data validation/certification"
+  },
+  "metrics": {},
+  "aiSummary": "An industry group has launched an independent certification for synthetic research data."
+ },
+ {
   "id": "6a5b74228318",
   "url": "https://bsky.app/profile/dirkwulff.bsky.social/post/3n34qlhq46s2q",
   "title": "📣 How well does silicon sampling work for truly unseen data? 26 expert teams predicted the outcomes of a new megastudy on trust in climate scientists (N ≈ 18,000). On Dec 17, we reveal which approaches worked and which did not. 🗓 6 to 8 pm CET / 12 to 2 pm ET 💻 Online, free…",
@@ -28,8 +86,8 @@
    "reason": "Silicon sampling benchmark results event"
   },
   "metrics": {
-   "likes": 0,
-   "reposts": 0,
+   "likes": 2,
+   "reposts": 2,
    "replies": 1
   },
   "event": {
@@ -128,7 +186,8 @@
    "by": "llm",
    "reason": "AI simulation of economic agents' behaviour"
   },
-  "aiSummary": "Paper defines an economic world model framework linking simulation of agent behaviour, learned economic transitions and evaluation, learning household policies from microeconomic data."
+  "aiSummary": "Paper defines an economic world model framework linking simulation of agent behaviour, learned economic transitions and evaluation, learning household policies from microeconomic data.",
+  "metrics": {}
  },
  {
   "id": "933894fcd7c8",
@@ -179,7 +238,7 @@
    "reason": "Release of LLM society simulation platform"
   },
   "metrics": {
-   "stars": 1416
+   "stars": 1415
   },
   "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
  },
@@ -276,7 +335,8 @@
    "by": "llm",
    "reason": "Synthetic respondents and silicon sampling"
   },
-  "aiSummary": "Paper shows off-the-shelf LLM synthetic respondents bias econometric inference and proposes choice-trained decision models for silicon sampling that lower treatment-effect bias."
+  "aiSummary": "Paper shows off-the-shelf LLM synthetic respondents bias econometric inference and proposes choice-trained decision models for silicon sampling that lower treatment-effect bias.",
+  "metrics": {}
  },
  {
   "id": "5dd9d2fdb67d",
@@ -308,7 +368,8 @@
    "by": "llm",
    "reason": "Multi-agent LLM social simulation validation"
   },
-  "aiSummary": "Paper presents a repeatable multi-agent framework of fifty persona-conditioned LLM agents across three social platforms, running ten repetitions to test reproducibility of emergent social structure."
+  "aiSummary": "Paper presents a repeatable multi-agent framework of fifty persona-conditioned LLM agents across three social platforms, running ten repetitions to test reproducibility of emergent social structure.",
+  "metrics": {}
  },
  {
   "id": "42561a2f52c6",
