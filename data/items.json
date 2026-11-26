@@ -35,6 +35,35 @@
   "aiSummary": "Post describes a Google multi-agent simulation framework that creates verifiable ground truth for social reasoning, showing LLM assistants struggle with framing and subjective user narratives."
  },
  {
+  "id": "26f0a6d22856",
+  "url": "https://arxiv.org/abs/2611.34709",
+  "title": "Decision and Support Mechanisms under Platform Information Overload: A Generative-Agent Experiment on College Application",
+  "snippet": "People now make major personal decisions surrounded by far more online information than they can read, yet research says little about why information overload affects some people more than others. We study this question in Chinese college applications, a high-stakes decision made amid heavy online content where each list can be scored objectively once admission cutoffs are released. We simulated 90 applicants using language-model agents with family backgrounds from a national household survey. Each applicant wrote a list of eight programs alone and revised it four times: after parent and teacher advice, after reading a feed of twenty real online items, after a mentor gave advice based on…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Tingyu Dai",
+   "Xuanyou Liu"
+  ],
+  "publishedAt": "2026-11-25T17:04:02.000Z",
+  "firstSeenAt": "2026-11-26T08:20:47.292Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.CY"
+  ],
+  "score": 2,
+  "verdict": {
+   "by": "llm",
+   "reason": "Generative-agent experiment simulating survey-grounded people"
+  },
+  "aiSummary": "Simulates 90 Chinese college applicants as language-model agents with household-survey backgrounds to study how information overload and advice affect application decisions."
+ },
+ {
   "id": "c7c8a5dd10b4",
   "url": "https://research-live.com/article/news/industry-group-launches-independent-certification-for-synthetic-research-data/id/5155196",
   "title": "Industry group launches independent certification for synthetic research data",
@@ -86,8 +115,8 @@
    "reason": "Silicon sampling benchmark results event"
   },
   "metrics": {
-   "likes": 2,
-   "reposts": 2,
+   "likes": 5,
+   "reposts": 5,
    "replies": 1
   },
   "event": {
@@ -156,6 +185,74 @@
    "replies": 0
   },
   "aiSummary": "Bluesky post sharing the arXiv paper on modeling event-conditioned emotional expression with LLM agents in a synthetic social simulation."
+ },
+ {
+  "id": "93548b478442",
+  "url": "https://arxiv.org/abs/2611.33736",
+  "title": "AI Persona Dialogue Pipeline; From Survey Report to Conversational Personas, Evaluated by LLMs and Experts",
+  "snippet": "Simulating dialogue of a population with LLM-enacted personas is increasingly common, yet each pipeline is generally built for one task, so a new task usually means reworking how the persona is authored, enacted and evaluated. We present an end-to-end persona dialogue pipeline meant to carry over to other populations as a whole; a background is written by an LLM from a national survey report, an off-the-shelf LLM enacts it without fine-tuning, and both are rated for perceived plausibility. We apply it to thirty personas of Korean older adults living alone; three LLM judges compare eight simulator LLMs, and thirty experts who work with this population evaluate the selected one, GPT-5.5.…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Jinyoung Jeong",
+   "Inhee Cho",
+   "Byungju Kim",
+   "Jiwon Baek",
+   "Youngjae Yoo"
+  ],
+  "publishedAt": "2026-11-25T03:55:20.000Z",
+  "firstSeenAt": "2026-11-26T08:20:47.292Z",
+  "people": [],
+  "orgs": [],
+  "tags": [
+   "cs.HC"
+  ],
+  "score": 5,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM personas simulating a survey population"
+  },
+  "aiSummary": "Presents an end-to-end pipeline that builds LLM-enacted personas from a national survey report, applied to thirty Korean older adults living alone and evaluated by LLM judges and experts."
+ },
+ {
+  "id": "3c8e24170a0e",
+  "url": "https://arxiv.org/abs/2611.33327",
+  "title": "Who Attributes a Mind to Whom? Mutual Theory of Mind in Simulated User-Assistant Conversation",
+  "snippet": "When users assume that an AI chatbot has mental states, they are more likely to develop over-reliance, emotional dependence, and in extreme cases, psychological harm or self-harm. However, how these mind attributions arise in conversations and how human or AI factors influence this is still unknown. We study how users attribute minds using a minimal framework: a simulated user with different characteristics chats with assistants that differ in social style and memory. We also introduce a message-level measure of who attributes a mind to whom in four directions, checked with trained coders and applied by a fine-tuned encoder that reproduces an LLM judge. Our results show that, on average,…",
+  "category": "research",
+  "source": {
+   "kind": "arxiv",
+   "name": "arXiv",
+   "url": "https://arxiv.org"
+  },
+  "authors": [
+   "Mingxi Yan",
+   "Vasudha Varadarajan",
+   "Qiaosi Wang",
+   "Qing Xiao",
+   "Hong Shen",
+   "Jodi Forlizzi",
+   "Maarten Sap"
+  ],
+  "publishedAt": "2026-11-24T19:16:34.000Z",
+  "firstSeenAt": "2026-11-26T08:20:47.292Z",
+  "people": [
+   "maarten-sap"
+  ],
+  "orgs": [],
+  "tags": [
+   "cs.CL"
+  ],
+  "score": 4,
+  "verdict": {
+   "by": "llm",
+   "reason": "Simulated users model human conversational behavior"
+  },
+  "aiSummary": "Studies mind attribution in conversations between simulated users with different characteristics and assistants varying in social style and memory, introducing a message-level measure."
  },
  {
   "id": "bcbc6e9ed72f",
@@ -238,7 +335,7 @@
    "reason": "Release of LLM society simulation platform"
   },
   "metrics": {
-   "stars": 1415
+   "stars": 1416
   },
   "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
  },
