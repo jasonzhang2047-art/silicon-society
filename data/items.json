@@ -1,5 +1,38 @@
 [
  {
+  "id": "e49cc24f518a",
+  "url": "https://bsky.app/profile/wojak7537.bsky.social/post/3n3ae3exggv2g",
+  "title": "Google Research introduced a multi-agent social simulation framework for evaluating LLM social reasoning, open-sourcing it with a dataset of over 20K generated examples and applying it to 12 LLMs. https://agxsearch.ai/t/nwfx2s?utm_source=bluesky&utm_medium=social",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Wojak",
+   "handle": "@wojak7537.bsky.social",
+   "url": "https://bsky.app/profile/wojak7537.bsky.social",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dz6nfx3fzclxh2bbuxfzr5gv/bafkreicy2kb2w6toiqlwnbn26oj7clbntmngqpoxrsngim5m5xw3z6hojy"
+  },
+  "publishedAt": "2026-11-26T18:57:02.835Z",
+  "firstSeenAt": "2026-11-26T21:33:47.702Z",
+  "people": [],
+  "orgs": [],
+  "tags": [],
+  "score": 8,
+  "verdict": {
+   "by": "llm",
+   "reason": "Multi-agent LLM social simulation framework"
+  },
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0
+  },
+  "aiSummary": "Google Research introduced and open-sourced a multi-agent social simulation framework for evaluating LLM social reasoning, with over 20K generated examples, applied to 12 LLMs."
+ },
+ {
   "id": "a5ad13a4003d",
   "url": "https://bsky.app/profile/strike007.bsky.social/post/3n35o2cgz2b2m",
   "title": "LLM assistants operate via a user-mediated reality, inheriting personal biases and missing context from subjective narratives. Google's new multi-agent simulation framework creates verifiable ground truth for social reasoning, exposing how models struggle with framing and clar…",
@@ -61,7 +94,8 @@
    "by": "llm",
    "reason": "Generative-agent experiment simulating survey-grounded people"
   },
-  "aiSummary": "Simulates 90 Chinese college applicants as language-model agents with household-survey backgrounds to study how information overload and advice affect application decisions."
+  "aiSummary": "Simulates 90 Chinese college applicants as language-model agents with household-survey backgrounds to study how information overload and advice affect application decisions.",
+  "metrics": {}
  },
  {
   "id": "c7c8a5dd10b4",
@@ -115,8 +149,8 @@
    "reason": "Silicon sampling benchmark results event"
   },
   "metrics": {
-   "likes": 5,
-   "reposts": 5,
+   "likes": 8,
+   "reposts": 6,
    "replies": 1
   },
   "event": {
@@ -216,7 +250,8 @@
    "by": "llm",
    "reason": "LLM personas simulating a survey population"
   },
-  "aiSummary": "Presents an end-to-end pipeline that builds LLM-enacted personas from a national survey report, applied to thirty Korean older adults living alone and evaluated by LLM judges and experts."
+  "aiSummary": "Presents an end-to-end pipeline that builds LLM-enacted personas from a national survey report, applied to thirty Korean older adults living alone and evaluated by LLM judges and experts.",
+  "metrics": {}
  },
  {
   "id": "3c8e24170a0e",
@@ -252,7 +287,8 @@
    "by": "llm",
    "reason": "Simulated users model human conversational behavior"
   },
-  "aiSummary": "Studies mind attribution in conversations between simulated users with different characteristics and assistants varying in social style and memory, introducing a message-level measure."
+  "aiSummary": "Studies mind attribution in conversations between simulated users with different characteristics and assistants varying in social style and memory, introducing a message-level measure.",
+  "metrics": {}
  },
  {
   "id": "bcbc6e9ed72f",
@@ -335,7 +371,7 @@
    "reason": "Release of LLM society simulation platform"
   },
   "metrics": {
-   "stars": 1416
+   "stars": 1417
   },
   "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
  },

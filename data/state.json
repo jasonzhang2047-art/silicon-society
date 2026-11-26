@@ -25234,6 +25234,151 @@
    "at": "2026-11-26T08:20:47.292Z",
    "by": "rules",
    "title": "Per pura coincidenza ieri ho trovato una cosa molto carina e per certi versi simile mynoise.net/index.php"
+  },
+  "5ddc80c89f83": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Letting Models Manage Their Own Context: Where We Stand"
+  },
+  "5c13a8ad0ebf": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents"
+  },
+  "c1c847998ca5": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts"
+  },
+  "24b3c47edf65": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents"
+  },
+  "4147f0e985f0": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models"
+  },
+  "0d16ad717e3a": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "DexEngine: Scaling Human Demonstrations into Physically Executable Whole-Robot Data"
+  },
+  "c0939b57c855": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL"
+  },
+  "2fb481c9fca1": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design"
+  },
+  "afdc3f17fa53": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "WorldBridge: Bridging Scattered Views for Coherent 3D World Generation"
+  },
+  "7b2d31041830": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?"
+  },
+  "1363dc994e54": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift"
+  },
+  "73a6964afff4": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL"
+  },
+  "77ac846f9758": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents"
+  },
+  "aa05e66da877": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering"
+  },
+  "599971afc9ad": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Efficient Video Retrieval Augmented Generation via Token Allocation"
+  },
+  "a8d9bfef1c44": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "A Mesh for Every Moment"
+  },
+  "e78be4c5fcbf": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Look Back: Reinforcement Learning with Counterfactual World Models"
+  },
+  "c46701f36cda": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM"
+  },
+  "c5a180369a8a": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Simulator-as-Proxy World Model for Robot Manipulation"
+  },
+  "f54c1a9ebd05": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM"
+  },
+  "578f0143853b": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Show HN: Neui – Go web apps with a built-in AI agent"
+  },
+  "c78a82520977": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Show HN: Evalkit for Improving Your Agents"
+  },
+  "a519f60a2170": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "alesha-pro/llm.asm — Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer wit"
+  },
+  "33e7fb03e43a": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "\"Securing AI agents: 4 keys a reader asked me about\" by Janaina Figueiredo da Silva #ai-security #amazon-bedrock #amazon"
+  },
+  "d505697c582b": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "\"The AI Agent Has Permissions. But Who Is Watching Its Actions?\" by CHARMI REDDY P #amazon-bedrock #generative-ai #cloud"
+  },
+  "91c1f4113e47": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "llm",
+   "title": "We have a new four-day seminar with Kristian Rother on changes in programming practices with coding agents: cusy.io/en/o"
+  },
+  "12cab7d9f7e2": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Traditional SEO gets you ranked. AI discovery needs 3 layers: • AEO: clear answers AI can extract • GEO: depth + citatio"
+  },
+  "3ea7e3f2f1ba": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "AI agents with broad permissions can turn hostile instructions into external actions. Limit access and require confirmat"
+  },
+  "39ab2d51945d": {
+   "at": "2026-11-26T21:33:47.702Z",
+   "by": "rules",
+   "title": "Overnight Desert Camping in Abu Dhabi | Liwa Camping Book Online Discover untouched dunes, campfire dinners, and sunrise"
   }
  },
  "repos": {
@@ -25243,9 +25388,9 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86761,
-   "forks": 13144,
-   "openIssues": 248,
+   "stars": 86820,
+   "forks": 13149,
+   "openIssues": 249,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
    "latestRelease": {
@@ -25409,7 +25554,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 86761
+     "stars": 86820
     }
    ]
   },
@@ -25419,8 +25564,8 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42789,
-   "forks": 7647,
+   "stars": 42790,
+   "forks": 7645,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
    "language": "Python",
@@ -25585,7 +25730,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 42789
+     "stars": 42790
     }
    ]
   },
@@ -25595,8 +25740,8 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22420,
-   "forks": 3136,
+   "stars": 22425,
+   "forks": 3138,
    "openIssues": 148,
    "pushedAt": "2024-08-05T21:38:56Z",
    "language": null,
@@ -25755,7 +25900,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 22420
+     "stars": 22425
     }
    ]
   },
@@ -25935,7 +26080,7 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5462,
+   "stars": 5465,
    "forks": 663,
    "openIssues": 58,
    "pushedAt": "2026-11-23T09:40:56Z",
@@ -26101,7 +26246,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 5462
+     "stars": 5465
     }
    ]
   },
@@ -26111,8 +26256,8 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1927,
-   "forks": 413,
+   "stars": 1930,
+   "forks": 414,
    "openIssues": 59,
    "pushedAt": "2026-11-19T16:44:40Z",
    "language": "Python",
@@ -26277,7 +26422,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 1927
+     "stars": 1930
     }
    ]
   },
@@ -26287,9 +26432,9 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1416,
+   "stars": 1417,
    "forks": 227,
-   "openIssues": 37,
+   "openIssues": 38,
    "pushedAt": "2026-11-24T04:56:07Z",
    "language": "Python",
    "latestRelease": {
@@ -26453,7 +26598,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 1416
+     "stars": 1417
     }
    ]
   },
@@ -26463,7 +26608,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7714,
+   "stars": 7715,
    "forks": 694,
    "openIssues": 83,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -26629,7 +26774,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 7714
+     "stars": 7715
     }
    ]
   },
@@ -26638,8 +26783,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10861,
-   "forks": 1264,
+   "stars": 10865,
+   "forks": 1265,
    "openIssues": 80,
    "pushedAt": "2026-11-25T21:29:06Z",
    "language": "TypeScript",
@@ -26798,7 +26943,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 10861
+     "stars": 10865
     }
    ]
   },
@@ -26808,10 +26953,10 @@
    "org": "expected-parrot",
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "url": "https://github.com/expectedparrot/edsl",
-   "stars": 522,
+   "stars": 523,
    "forks": 93,
-   "openIssues": 15,
-   "pushedAt": "2026-11-26T03:07:27Z",
+   "openIssues": 17,
+   "pushedAt": "2026-11-26T19:12:28Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -26974,7 +27119,7 @@
     },
     {
      "date": "2026-11-26",
-     "stars": 522
+     "stars": 523
     }
    ]
   },
@@ -27501,7 +27646,7 @@
    "stars": 37,
    "forks": 7,
    "openIssues": 0,
-   "pushedAt": "2026-11-25T14:45:17Z",
+   "pushedAt": "2026-11-26T11:12:08Z",
    "language": "Python",
    "latestRelease": {
     "tag": "v4.0.0",
