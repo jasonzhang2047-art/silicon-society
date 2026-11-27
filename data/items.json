@@ -1,5 +1,40 @@
 [
  {
+  "id": "1bacdcfb3a35",
+  "url": "https://bsky.app/profile/sapiensinteticos.com/post/3n3cbbvqcp524",
+  "title": "MiroFish rehearses the future: upload a news story or a report, it builds a graph of who is who, spawns thousands of agents with memory and runs them on a simulated Twitter and Reddit. Inject a variable midway, interview any agent. Open source. aitag.app/tool/mirofish",
+  "category": "voices",
+  "source": {
+   "kind": "bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app"
+  },
+  "author": {
+   "name": "Sapiens Sintéticos",
+   "handle": "@sapiensinteticos.com",
+   "url": "https://bsky.app/profile/sapiensinteticos.com",
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bnfkfevuzvnfviu6zfvjz7vf/bafkreiabsby22xut4x7ksvbjpociqvblfsiuqs3bylvtrnmefunaycb3nq"
+  },
+  "publishedAt": "2026-11-27T13:12:03.085Z",
+  "firstSeenAt": "2026-11-27T21:18:51.210Z",
+  "people": [],
+  "orgs": [
+   "mirofish"
+  ],
+  "tags": [],
+  "score": 6,
+  "verdict": {
+   "by": "llm",
+   "reason": "LLM agent social simulation prediction tool"
+  },
+  "metrics": {
+   "likes": 3,
+   "reposts": 0,
+   "replies": 1
+  },
+  "aiSummary": "Post describes MiroFish, an open-source tool that builds an entity graph from uploaded news or reports and runs thousands of memory-equipped agents on simulated Twitter and Reddit."
+ },
+ {
   "id": "e49cc24f518a",
   "url": "https://bsky.app/profile/wojak7537.bsky.social/post/3n3ae3exggv2g",
   "title": "Google Research introduced a multi-agent social simulation framework for evaluating LLM social reasoning, open-sourcing it with a dataset of over 20K generated examples and applying it to 12 LLMs. https://agxsearch.ai/t/nwfx2s?utm_source=bluesky&utm_medium=social",
@@ -61,7 +96,7 @@
    "reason": "Multi-agent social simulation for evaluating LLMs"
   },
   "metrics": {
-   "likes": 0,
+   "likes": 1,
    "reposts": 0,
    "replies": 0
   },
@@ -150,7 +185,7 @@
   },
   "metrics": {
    "likes": 8,
-   "reposts": 6,
+   "reposts": 7,
    "replies": 1
   },
   "event": {
@@ -371,7 +406,7 @@
    "reason": "Release of LLM society simulation platform"
   },
   "metrics": {
-   "stars": 1420
+   "stars": 1421
   },
   "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
  },
