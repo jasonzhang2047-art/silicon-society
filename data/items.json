@@ -28,7 +28,7 @@
   "metrics": {
    "likes": 0,
    "reposts": 0,
-   "replies": 0
+   "replies": 1
   },
   "aiSummary": "Google Research introduced and open-sourced a multi-agent social simulation framework for evaluating LLM social reasoning, with over 20K generated examples, applied to 12 LLMs."
  },
@@ -371,7 +371,7 @@
    "reason": "Release of LLM society simulation platform"
   },
   "metrics": {
-   "stars": 1417
+   "stars": 1420
   },
   "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
  },
