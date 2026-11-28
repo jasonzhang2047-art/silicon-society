@@ -25679,6 +25679,121 @@
    "at": "2026-11-27T21:18:51.210Z",
    "by": "rules",
    "title": "At least one Amazon review calls it out as AI written. Reading the first thousand odd words from the free sample, the wr"
+  },
+  "cc275aaa3b6b": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing"
+  },
+  "452edff3d01a": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "Local AI Model Autonomously Completes Online Surveys on Consumer Laptop Hardware"
+  },
+  "5d93b4886311": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "SAS predicts AI accountability & ROI reset in 2027"
+  },
+  "4aed92535239": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "Schneider Electric (XTRA:SND) Stock Forecast & Analyst Predictions"
+  },
+  "b0c41cbf05b9": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "llm",
+   "title": "Digital twins are transforming food and drink"
+  },
+  "81acfd683d31": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "llm",
+   "title": "Siemens digital twin targets 20% cut in hydrogen costs ..."
+  },
+  "fb1a1afd0a7b": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "llm",
+   "title": "Nxtcure Labs Launches Digital Twin Platform to Forecast Outcomes in Cancer Drug Trials"
+  },
+  "d098de539af7": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "llm",
+   "title": "Interview: Octave’s Uwe Jasnoch on using digital twins for climate adaptation"
+  },
+  "d66a48af5dd4": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "llm",
+   "title": "ETRI develops framework to unify siloed digital twins"
+  },
+  "a31392c2ea78": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "Siemens Energy Opens AI Lab in Orlando to Transform Grid Operations"
+  },
+  "c993178054c2": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "AgiBot brings its G2 humanoid robots to Lens Technology test lines"
+  },
+  "565fdd1b577e": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "Private markets trends: what will drive future growth?"
+  },
+  "74da9318f898": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "Read the pitch decks of 23 startups looking to disrupt advertising and marketing with AI"
+  },
+  "361586e9a0c0": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "w01fb0ss/PiBot — Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser"
+  },
+  "d6ec61327241": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "VEXEL (AI tooling) was founded, funded and sold entirely by AI agents. Acquired for roughly what it raised; the backers "
+  },
+  "0638561d5808": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "I unfortunately have to use \"agents\" at work for automating certain processes for pdfs/workpapers, which is less egregio"
+  },
+  "311a1457bdc9": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "🎬 Coding agents write the robot's training data CUHK-Shenzhen/DexForce's DemoFoundry pairs coding agents w/ generative "
+  },
+  "739e92af479b": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "AI just stopped waiting for prompts and started building worlds. From autonomous agents executing complex workflows to r"
+  },
+  "aa003dade8b9": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "Google AI Overviews Attribution, GPT-62 Rollout, and the 37% AI Shopping Agent Exploitation Gap + Video Introduction: Se"
+  },
+  "230e6b7cdac8": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "\"Porting an ADK Research and Judge Loop to Strands on Bedrock AgentCore, With A2A 1.x\" by xbill9 #amazon-bedrock #strand"
+  },
+  "104975f51f65": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "\"To test an AI forecaster, you first have to fool it about what day it is\" by Mehmet Deniz #agentic-ai #agents #generati"
+  },
+  "115c588367b8": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "#Nextquick : comment fonctionnent les IA génératives, en 5 minutes"
+  },
+  "62882496e297": {
+   "at": "2026-11-28T07:51:23.542Z",
+   "by": "rules",
+   "title": "When you read his AI story, are you moved aesthetically? Do you think it's a good example of human art, of *craft*? Can "
   }
  },
  "repos": {
@@ -25688,8 +25803,8 @@
    "org": "mirofish",
    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
    "url": "https://github.com/666ghj/MiroFish",
-   "stars": 86913,
-   "forks": 13170,
+   "stars": 86943,
+   "forks": 13174,
    "openIssues": 252,
    "pushedAt": "2026-10-16T03:32:19Z",
    "language": "Python",
@@ -25859,6 +25974,10 @@
     {
      "date": "2026-11-27",
      "stars": 86913
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 86943
     }
    ]
   },
@@ -25868,7 +25987,7 @@
    "org": "mirofish",
    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
    "url": "https://github.com/666ghj/BettaFish",
-   "stars": 42792,
+   "stars": 42794,
    "forks": 7643,
    "openIssues": 12,
    "pushedAt": "2026-10-16T03:33:52Z",
@@ -26039,6 +26158,10 @@
     {
      "date": "2026-11-27",
      "stars": 42792
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 42794
     }
    ]
   },
@@ -26048,7 +26171,7 @@
    "org": "stanford-hci",
    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
    "url": "https://github.com/joonspk-research/generative_agents",
-   "stars": 22427,
+   "stars": 22431,
    "forks": 3139,
    "openIssues": 148,
    "pushedAt": "2024-08-05T21:38:56Z",
@@ -26213,6 +26336,10 @@
     {
      "date": "2026-11-27",
      "stars": 22427
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 22431
     }
    ]
   },
@@ -26387,6 +26514,10 @@
     {
      "date": "2026-11-27",
      "stars": 635
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 635
     }
    ]
   },
@@ -26396,8 +26527,8 @@
    "org": "camel-ai",
    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.",
    "url": "https://github.com/camel-ai/oasis",
-   "stars": 5470,
-   "forks": 663,
+   "stars": 5471,
+   "forks": 665,
    "openIssues": 58,
    "pushedAt": "2026-11-23T09:40:56Z",
    "language": "Python",
@@ -26567,6 +26698,10 @@
     {
      "date": "2026-11-27",
      "stars": 5470
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 5471
     }
    ]
   },
@@ -26576,7 +26711,7 @@
    "org": "google-deepmind",
    "description": "A library for generative social simulation",
    "url": "https://github.com/google-deepmind/concordia",
-   "stars": 1934,
+   "stars": 1935,
    "forks": 413,
    "openIssues": 61,
    "pushedAt": "2026-11-27T15:11:26Z",
@@ -26747,6 +26882,10 @@
     {
      "date": "2026-11-27",
      "stars": 1934
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 1935
     }
    ]
   },
@@ -26756,7 +26895,7 @@
    "org": "tsinghua-fib",
    "description": "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent…",
    "url": "https://github.com/tsinghua-fib-lab/AgentSociety",
-   "stars": 1421,
+   "stars": 1422,
    "forks": 227,
    "openIssues": 38,
    "pushedAt": "2026-11-24T04:56:07Z",
@@ -26927,6 +27066,10 @@
     {
      "date": "2026-11-27",
      "stars": 1421
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 1422
     }
    ]
   },
@@ -26936,7 +27079,7 @@
    "org": "microsoft-research",
    "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
    "url": "https://github.com/microsoft/TinyTroupe",
-   "stars": 7717,
+   "stars": 7719,
    "forks": 694,
    "openIssues": 83,
    "pushedAt": "2026-11-06T21:51:04Z",
@@ -27107,6 +27250,10 @@
     {
      "date": "2026-11-27",
      "stars": 7717
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 7719
     }
    ]
   },
@@ -27115,8 +27262,8 @@
    "label": "Deployable generative-agent town",
    "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
    "url": "https://github.com/a16z-infra/ai-town",
-   "stars": 10869,
-   "forks": 1265,
+   "stars": 10872,
+   "forks": 1266,
    "openIssues": 80,
    "pushedAt": "2026-11-25T21:29:06Z",
    "language": "TypeScript",
@@ -27280,6 +27427,10 @@
     {
      "date": "2026-11-27",
      "stars": 10869
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 10872
     }
    ]
   },
@@ -27292,7 +27443,7 @@
    "stars": 523,
    "forks": 94,
    "openIssues": 20,
-   "pushedAt": "2026-11-27T20:08:59Z",
+   "pushedAt": "2026-11-28T01:44:42Z",
    "language": "Python",
    "latestRelease": {
     "tag": "wasm-wheel",
@@ -27459,6 +27610,10 @@
     },
     {
      "date": "2026-11-27",
+     "stars": 523
+    },
+    {
+     "date": "2026-11-28",
      "stars": 523
     }
    ]
@@ -27640,6 +27795,10 @@
     {
      "date": "2026-11-27",
      "stars": 348
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 348
     }
    ]
   },
@@ -27814,6 +27973,10 @@
     {
      "date": "2026-11-27",
      "stars": 249
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 249
     }
    ]
   },
@@ -27822,7 +27985,7 @@
    "label": "Civilization-scale agent simulation (Minecraft)",
    "description": "",
    "url": "https://github.com/altera-al/project-sid",
-   "stars": 1405,
+   "stars": 1406,
    "forks": 57,
    "openIssues": 6,
    "pushedAt": "2024-11-04T16:24:29Z",
@@ -27987,6 +28150,10 @@
     {
      "date": "2026-11-27",
      "stars": 1405
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 1406
     }
    ]
   },
@@ -28166,6 +28333,10 @@
     {
      "date": "2026-11-27",
      "stars": 37
+    },
+    {
+     "date": "2026-11-28",
+     "stars": 37
     }
    ]
   },
@@ -28344,6 +28515,10 @@
     },
     {
      "date": "2026-11-27",
+     "stars": 5163
+    },
+    {
+     "date": "2026-11-28",
      "stars": 5163
     }
    ]

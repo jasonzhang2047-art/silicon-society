@@ -28,7 +28,7 @@
    "reason": "LLM agent social simulation prediction tool"
   },
   "metrics": {
-   "likes": 3,
+   "likes": 4,
    "reposts": 0,
    "replies": 1
   },
@@ -406,7 +406,7 @@
    "reason": "Release of LLM society simulation platform"
   },
   "metrics": {
-   "stars": 1421
+   "stars": 1422
   },
   "aiSummary": "AgentSociety2 v2.12.0 release adds research workbench features and a maintenance tool, upgrades checkpoint format to v2, and supports Python 3.11.5 to 3.13."
  },
